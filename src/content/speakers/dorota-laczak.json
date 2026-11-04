@@ -1,0 +1,35 @@
+{
+  "wpId": 1381,
+  "title": "Dorota Lączak",
+  "slug": "dorota-laczak",
+  "path": "/contributor/dorota-laczak/",
+  "date": "2021-06-28 16:05:19",
+  "modified": "2021-12-20 11:16:02",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Python Software Engineer at IBM",
+    "speaker_avatar": {
+      "id": 1382,
+      "url": "/uploads/2021/06/IBM_foto-Dorota-Lączak.png",
+      "alt": "Dorota Lączak",
+      "width": 296,
+      "height": 368
+    },
+    "speaker_surname": "Lączak",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/dorota-laczak/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Dorota Lączak is a Software Engineer with 2 years of experience testing and developing on IBM Watson Machine Learning AutoAI components. She is enthusiastic about Python and Data Science topics.</p>"
+    }
+  ],
+  "formReplaced": false
+}

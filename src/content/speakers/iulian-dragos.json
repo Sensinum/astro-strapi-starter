@@ -1,0 +1,43 @@
+{
+  "wpId": 362,
+  "title": "Iulian Dragoș",
+  "slug": "iulian-dragos",
+  "path": "/contributor/iulian-dragos/",
+  "date": "2020-01-01 00:01:23",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "CEO & Co-founder at Triplequote LLC",
+    "speaker_avatar": {
+      "id": 363,
+      "url": "/uploads/2021/03/Iulian_Dragoș.jpeg",
+      "alt": "Iulian Dragoș",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Dragoș",
+    "speaker_twitter": "https://twitter.com/jaguarul",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/iuliandragos/?originalSubdomain=ch",
+    "speaker_gh": "https://github.com/iuliand-db"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>He dreams about a world where the Scala programming language is the default choice in the enterprise. He learned Scala by writing the compiler backend for it during his PhD at EPFL, back in 2004, and he was the first employee of Lightbend (formerly Typesafe). In nov. 2016 he co-founded Triplequote, with the mission to empower Scala teams through great development tools, starting with a parallel compiler. Iulian is a frequent speaker at conferences and actively contributing to several open-source projects.</p>"
+    }
+  ],
+  "formReplaced": false
+}

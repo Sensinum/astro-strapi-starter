@@ -1,0 +1,43 @@
+{
+  "wpId": 538,
+  "title": "Lessons to Scala Native from Kotlin/Native",
+  "slug": "lessons-to-scala-native-from-kotlin-native",
+  "path": "/watch/lessons-to-scala-native-from-kotlin-native/",
+  "date": "2020-01-01 00:01:35",
+  "modified": "2023-03-20 12:06:09",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 111,
+        "slug": "kotlin",
+        "name": "Kotlin"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=kGOkNv9PjqY",
+    "video_thumbnail": false,
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      288
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I’m Alexander Podkhalyuzin, ex-lead of Scala plugin for IntelliJ IDEA and this year for my personal growth I left Scala world for Kotlin. I really love Scala and miss it very much, that’s why I want to share new knowledge, which I learnt from Kotlin/Native. This talk will cover native and cross-platform dev modes. We are going to discuss current pain points in (Kotlin+Scala)/Native worlds and possible solutions. </p>\n\n\n\n<p>We recently did pre-alpha preview of Kotlin/Native support in CLion, so IDE discussion around Scala is going to be the hottest part with probable promises from JetBrains. Required Knowledge Some experience in native (C/C++?) development would be great. Learning Objectives This is talk about two preview technologies and possible future adoption of both of them. How big can it be and what tooling is required to have full adoption for that. I want to give more inspiration to Scala Native team to invest more resources into that as this technology is actually huge.</p>"
+    }
+  ],
+  "formReplaced": false
+}

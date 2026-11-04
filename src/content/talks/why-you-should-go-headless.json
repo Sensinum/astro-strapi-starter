@@ -1,0 +1,45 @@
+{
+  "wpId": 1433,
+  "title": "Why you should go Headless",
+  "slug": "why-you-should-go-headless",
+  "path": "/watch/why-you-should-go-headless/",
+  "date": "2021-07-01 10:03:13",
+  "modified": "2023-03-21 10:59:31",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/07/daniel_headless.png"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 125,
+        "slug": "headlesscms",
+        "name": "HeadlessCMS"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=u53ptnLtyG4",
+    "video_thumbnail": false,
+    "talk_date": "June 24, 2021",
+    "talks_speakers": [
+      1254
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>\"What is the Headless?\", \"How do we use it?\", \"Is it ready for the enterprise?\" In this talk, I'll answer all these questions and more as I take you into Headless CMSs and how they are changing the way we build software systems with a focus on Strapi, the Open-source JavaScript Headless CMS.</p>"
+    }
+  ],
+  "formReplaced": false
+}

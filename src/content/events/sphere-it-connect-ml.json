@@ -1,0 +1,465 @@
+{
+  "wpId": 5235,
+  "title": "Sphere.it Connect: ML Engineering + Halloween Party",
+  "slug": "sphere-it-connect-ml",
+  "path": "/event/sphere-it-connect-ml/",
+  "date": "2024-09-11 22:42:46",
+  "modified": "2024-12-05 18:52:54",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/09/Sphere.it-Connect_halloween_1200x630.jpg",
+  "seo": {
+    "description": "Join Sphere.it Connect: ML Engineering, an evening event to explore ML trends, network with IT experts, and enjoy a Halloween afterparty.",
+    "ogTitle": "Sphere.it Connect: ML Engineering + Halloween Afterparty | 24.10.2024",
+    "ogDescription": "Join us for an evening of ML insights and networking with top experts, followed by a Halloween-themed afterparty. Reserve your spot now!",
+    "ogImage": "/uploads/2024/09/Sphere.it-Connect_halloween_1200x630-1024x538.jpg"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 190,
+        "slug": "sphere-it-connect",
+        "name": "Sphere.it Connect"
+      }
+    ]
+  },
+  "acf": {
+    "event_agenda": false,
+    "event_series_label": "",
+    "event_date": "24.10.2024",
+    "type_of_event": "Forty Kleparz",
+    "event_entry": "Krakow",
+    "event_artwork": {
+      "id": 5250,
+      "url": "/uploads/2024/09/Group-83-1.png",
+      "alt": "Group 83",
+      "width": 1080,
+      "height": 1080
+    },
+    "header_background_image": {
+      "id": 5339,
+      "url": "/uploads/2024/09/Sphere.it_Connect_background_LP_2-min.jpg",
+      "alt": "Sphere.it_Connect_background_LP_2-min",
+      "width": 2560,
+      "height": 1440
+    },
+    "event_background_color": "#000000",
+    "event_font_color": true,
+    "event_font_color_value": "#ffffff",
+    "reduce_font_size": "3",
+    "event_register": "",
+    "event_scroll_button": "",
+    "buttons_background_color": "#3b2e23",
+    "buttons_font_color": "#f6e6d7",
+    "alt_dynamic_menu": true,
+    "event_alt_title": "Theme: Machine Learning Engineering + Halloween Party",
+    "event_date_hidden": false,
+    "event_artwork_listing": {
+      "id": 5336,
+      "url": "/uploads/2024/09/Sphere.it-Connect_halloween_1080x1080.jpg",
+      "alt": "Sphere.it Connect_halloween_1080x1080",
+      "width": 1080,
+      "height": 1080
+    },
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-63ce920e00205",
+      "data": {
+        "block_title": null,
+        "block_description": "<div class=\"font-montserrat content\">\r\n\r\nJoin us for a day of insights and networking, as we gather top minds in <strong>machine learning</strong> <strong>engineering</strong>. Explore the latest trends, learn about cutting-edge technologies, and connect with like-minded professionals passionate about <strong>AI</strong> and <strong>ML</strong>. Whether you're an expert or just starting out, this event will inspire and engage you.\r\n\r\nEnd the night with a fun <strong>Halloween afterparty</strong> - a perfect way to unwind and celebrate with the community!\r\n\r\n</div>",
+        "block_button": {
+          "title": "Save your seat",
+          "url": "https://app.evenea.pl/event/sphere-connect-ml-engineering/",
+          "target": "_blank"
+        },
+        "cta_background_color": null,
+        "cta_font_color": "#000000",
+        "cta_border_radius": 32,
+        "block_background_image": null,
+        "block_background_color": "#000000",
+        "block_font_color": "#ffffff",
+        "menu_label": "About"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-63ef85357f882",
+      "data": {
+        "block_description": "<div class=\"font-montserrat content\">\r\n\r\n<strong>Sphere.it Connect</strong>: ML Engineering is the first in a new series designed to bring together the Sphere.it community. Each event will focus on a different tech theme, starting with ML Engineering. Join fellow IT professionals to explore the latest trends, share knowledge, and network with like-minded people.\r\n\r\nThe goal: <strong>connecting the community and fostering innovation.</strong>\r\n\r\n</div>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 5238,
+          "url": "/uploads/2024/09/2024-03-15_spHERit-2048_PDlugosz_113-e1726043675524.jpg",
+          "alt": "2024-03-15_spHERit-2048_PDlugosz_113",
+          "width": 1365,
+          "height": 1495
+        },
+        "switch_text_side": true,
+        "block_background_color": "#e07c43",
+        "block_font_color": "#f6e6d7",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-63ef85357f9e5",
+      "data": {
+        "block_title": "Meet Our Experts",
+        "automatic_selection": false,
+        "speaker_groups": [
+          {
+            "group_label": "Speakers",
+            "speakers": [
+              5263,
+              5261,
+              5256,
+              5318,
+              5346
+            ]
+          },
+          {
+            "group_label": "Trainers",
+            "speakers": [
+              5311,
+              5313,
+              5315
+            ]
+          },
+          {
+            "group_label": "Panelists",
+            "speakers": [
+              5311,
+              5318,
+              5346
+            ]
+          },
+          {
+            "group_label": "Hosts",
+            "speakers": [
+              552,
+              5329
+            ]
+          }
+        ],
+        "block_background_color": "#f6e6d7",
+        "block_font_color": "#3b2f23",
+        "menu_label": "Speakers"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-conf-2022-agenda",
+      "anchor": "acf-block-66e15f92c0bff",
+      "data": {
+        "block_title": null,
+        "block_agenda": [
+          {
+            "label": "Part I -  Hands-on Workshop [📍VirtusLab's Szlak Office]",
+            "day_schedule": [
+              {
+                "item_type": "talk",
+                "start_time": "14:00:00",
+                "end_time": "17:30:00",
+                "selected_talk": 5259,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              }
+            ],
+            "add_load_more_button": false,
+            "show_more_index": null
+          },
+          {
+            "label": "Part II - Evening event [📍Forty Kleparz]",
+            "day_schedule": [
+              {
+                "item_type": "talk",
+                "start_time": "18:05:00",
+                "end_time": "18:35:00",
+                "selected_talk": 5266,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "18:35:00",
+                "end_time": "19:05:00",
+                "selected_talk": 5258,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "19:05:00",
+                "end_time": "19:20:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "15-minute break",
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "19:20:00",
+                "end_time": "19:50:00",
+                "selected_talk": 5265,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "19:50:00",
+                "end_time": "20:20:00",
+                "selected_talk": 5350,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "20:20:00",
+                "end_time": "20:30:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "10-minute break",
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "08:30:00",
+                "end_time": "21:00:00",
+                "selected_talk": 5267,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "21:00:00",
+                "end_time": "23:00:00",
+                "selected_talk": 5353,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              }
+            ],
+            "add_load_more_button": false,
+            "show_more_index": null
+          }
+        ],
+        "block_background_image": {
+          "id": 5342,
+          "url": "/uploads/2024/09/agenda-bckground.png",
+          "alt": "agenda bckground",
+          "width": 5498,
+          "height": 4095
+        },
+        "block_background_color": "#000000",
+        "block_font_color": "#f6e6d7",
+        "menu_label": "Agenda"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-66e1f7b703837",
+      "data": {
+        "block_title": null,
+        "automatic_selection": true,
+        "speaker_groups": [],
+        "block_background_color": "#f6e6d7",
+        "block_font_color": "#3b2f23",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-event-agenda",
+      "anchor": "acf-block-63ce920e002cb",
+      "data": {
+        "block_title": null,
+        "block_background_color": "#f6e6d7",
+        "block_font_color": "#3b2f23",
+        "block_accent_font_color": "#bf5741",
+        "smaller_paddings": true,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-66e2938657762",
+      "data": {
+        "block_description": "<div class=\"font-montserrat content\">\r\n\r\nSeats for the <strong>\"My PoC project is a success, what now?\"</strong> workshop are limited, so be sure to register quickly to secure your spot. This hands-on session with leading ML experts will take place at <strong>VirtusLab's Office, ul. Szlak 49</strong>.\r\n\r\nDon't miss this chance to take your machine learning knowledge to the next level!\r\n\r\n</div>",
+        "block_button": {
+          "title": "Sign up for the workshop",
+          "url": "https://app.evenea.pl/event/sphere-connect-ml-engineering/",
+          "target": "_blank"
+        },
+        "cta_background_color": "#f5e8dc",
+        "cta_font_color": "#030303",
+        "cta_border_radius": 32,
+        "block_background_image": {
+          "id": 4971,
+          "url": "/uploads/2024/02/sphere-it-day1-1033-scaled.jpg",
+          "alt": "sphere-it-day1-1033",
+          "width": 2560,
+          "height": 1707
+        },
+        "switch_text_side": true,
+        "block_background_color": "#280c0c",
+        "block_font_color": "#f5e8dc",
+        "menu_label": "Workshop"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-66e29386577e8",
+      "data": {
+        "block_description": "<div class=\"font-montserrat content\">\r\n\r\nThe event will take place at <strong>Forty Kleparz Restobar </strong>(Kamienna 2, Krakow), a unique venue combining historical charm with a modern atmosphere, perfect for networking and relaxation.\r\n\r\n<strong>Your ticket for the evening event includes complimentary snacks and drinks.</strong>\r\n\r\n</div>",
+        "block_button": {
+          "title": "Get your ticket",
+          "url": "https://app.evenea.pl/event/sphere-connect-ml-engineering/",
+          "target": "_blank"
+        },
+        "cta_background_color": "#280c0c",
+        "cta_font_color": "#f5e8dc",
+        "cta_border_radius": 32,
+        "block_background_image": {
+          "id": 5299,
+          "url": "/uploads/2024/09/5262095_792123341size1920x1282crop0.0000x0.0000x1920.0000x1282.0000h0bd71d.webp",
+          "alt": "5262095_792123341,size,1920&#215;1282,crop,0.0000&#215;0.0000&#215;1920.0000&#215;1282.0000,h,0bd71d",
+          "width": 1920,
+          "height": 1282
+        },
+        "switch_text_side": false,
+        "block_background_color": "#f5e8dc",
+        "block_font_color": "#280c0c",
+        "menu_label": "Venue"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-sponsors",
+      "anchor": "acf-block-63ce920e00337",
+      "data": {
+        "logotypes_alignment": true,
+        "sponsor_groups": [
+          {
+            "label": "Community Partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 5344,
+                  "url": "/uploads/2024/09/FUTURE_PURPLE.png",
+                  "alt": "FUTURE_PURPLE",
+                  "width": 1112,
+                  "height": 433
+                },
+                "url": "https://www.futureconf.tech/"
+              },
+              {
+                "logotype": {
+                  "id": 5292,
+                  "url": "/uploads/2024/09/datakrk-1.png",
+                  "alt": "datakrk (1)",
+                  "width": 2050,
+                  "height": 780
+                },
+                "url": "https://www.meetup.com/pl-PL/datakrk/?eventOrigin=event_home_page"
+              },
+              {
+                "logotype": {
+                  "id": 2984,
+                  "url": "/uploads/2022/04/jdd.png",
+                  "alt": "JDD logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://jdd.org.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 5343,
+                  "url": "/uploads/2024/09/opanujai-black.png",
+                  "alt": "opanujai-black",
+                  "width": 601,
+                  "height": 160
+                },
+                "url": "https://przeprogramowani.pl/kalendarz"
+              },
+              {
+                "logotype": {
+                  "id": 5359,
+                  "url": "/uploads/2024/09/genAIcracow.png",
+                  "alt": "genAIcracow",
+                  "width": 1720,
+                  "height": 816
+                },
+                "url": "https://lu.ma/genai-cracow"
+              },
+              {
+                "logotype": {
+                  "id": 2765,
+                  "url": "/uploads/2022/02/logo-ksi-basic.png",
+                  "alt": "Koło Studentów Informatyki UJ logotype",
+                  "width": 1181,
+                  "height": 1181
+                },
+                "url": "https://www.facebook.com/ksi.uj"
+              }
+            ]
+          },
+          {
+            "label": "Powered by",
+            "members": [
+              {
+                "logotype": {
+                  "id": 5025,
+                  "url": "/uploads/2024/03/VirtusLab_logo_horizontal_color@2x.png",
+                  "alt": "VirtusLab_logo_horizontal_color@2x",
+                  "width": 1249,
+                  "height": 601
+                },
+                "url": "https://careers.virtuslab.com/"
+              }
+            ]
+          }
+        ],
+        "block_background_color": null,
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

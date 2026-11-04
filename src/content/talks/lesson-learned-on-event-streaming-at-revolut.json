@@ -1,0 +1,36 @@
+{
+  "wpId": 488,
+  "title": "Lesson learned on event streaming at Revolut",
+  "slug": "lesson-learned-on-event-streaming-at-revolut",
+  "path": "/watch/lesson-learned-on-event-streaming-at-revolut/",
+  "date": "2020-01-01 00:02:19",
+  "modified": "2023-03-21 09:41:42",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=SKtp9XLQCj8",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      368
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Nowadays we all deal with distributed systems and coupling in some sense. In Revolut it is no different. In this talk Jacek Spolnik, Lead Platform Engineer will describe how we tackle those challenges and how do we make our platform more reactive - we have created our own solution to handle event streaming. </p>\n\n\n\n<p>This enables asynchronous loosely coupled architecture, and it allows us to build streaming queries based on domain language and have flexibility over providing new features - although all comes at a cost. Let me tell you the story of how we bring it up and what kind of challenges we face - and how do we solve them. Monitoring, data consistency, high availability, storage replication, guaranteed delivery - all of those topics merge into an interesting technical problem which always comes with the question - are benefits of delivering it higher than complexity it provides? Let's talk about that - how does it look at Revolut. </p>"
+    }
+  ],
+  "formReplaced": false
+}

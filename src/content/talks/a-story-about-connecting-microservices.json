@@ -1,0 +1,43 @@
+{
+  "wpId": 595,
+  "title": "A story about connecting microservices",
+  "slug": "a-story-about-connecting-microservices",
+  "path": "/watch/a-story-about-connecting-microservices/",
+  "date": "2020-01-01 00:01:22",
+  "modified": "2023-03-20 14:29:23",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 83,
+        "slug": "microservices",
+        "name": "Microservices"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=9zRFzo9Zq5g",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      292
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Working on a real-time bidding platform is a demanding job. Response latency is critical and high traffic volume affects how we utilize available resources. All this leads to a greater challenge – distributing work over microservices. I will present real-life problems that forced us to redesign our microservice communication so that applications stay performant and resilient. I’ll also show how we learned from previous mistakes to create a small and reusable library on top of netty.io and aeron.io that aids to readily implement business features.</p>"
+    }
+  ],
+  "formReplaced": false
+}

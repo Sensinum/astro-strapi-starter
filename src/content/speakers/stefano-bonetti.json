@@ -1,0 +1,37 @@
+{
+  "wpId": 550,
+  "title": "Stefano Bonetti",
+  "slug": "stefano-bonetti",
+  "path": "/contributor/stefano-bonetti/",
+  "date": "2020-01-01 00:00:50",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at HomeAway",
+    "speaker_avatar": false,
+    "speaker_surname": "Bonetti",
+    "speaker_twitter": "https://twitter.com/svez_faz",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/svezfaz/",
+    "speaker_gh": "https://github.com/svezfaz"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Stefano is a Staff Software Engineer working for HomeAway in London, UK. He has been developing large scale backend systems within the cozy boundaries of the JVM for a few years, and he has recently become passionate about the Scala ecosystem – especially all things Akka. He has contributed to Akka, Akka HTTP and Alpakka codebases.</p>"
+    }
+  ],
+  "formReplaced": false
+}

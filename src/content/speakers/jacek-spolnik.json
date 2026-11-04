@@ -1,0 +1,43 @@
+{
+  "wpId": 368,
+  "title": "Jacek Spólnik",
+  "slug": "jacek-spolnik",
+  "path": "/contributor/jacek-spolnik/",
+  "date": "2020-01-01 00:01:21",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Lead Software Engineer in Revolut Poland",
+    "speaker_avatar": {
+      "id": 369,
+      "url": "/uploads/2021/03/Jacek_Spólnik.jpeg",
+      "alt": "Jacek Spólnik",
+      "width": 501,
+      "height": 500
+    },
+    "speaker_surname": "Spólnik",
+    "speaker_twitter": "https://twitter.com/jacek_spolnik",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/spolnik/?originalSubdomain=pl",
+    "speaker_gh": "https://github.com/spolnik"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Jacek Spólnik joined Revolut in November 2018 and took the position of a lead software engineer in Poland. In Revolut he is responsible for developing a scalable Revolut platform and taking care of hiring software engineers in Krakow. Jacek Spólnik is a seasoned software engineer with unique skills - joining soft skills with technical expertise allows him to successfully build and develop many software engineering teams. </p>\n\n\n\n<p>In 2017-2018, as the lead software engineer in UBS Neo Platform Engineering team, he helped to grow and improve the platform which enables tens of UBS teams across the globe to utilise it for creating new value for UBS customers.</p>"
+    }
+  ],
+  "formReplaced": false
+}

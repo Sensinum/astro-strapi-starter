@@ -1,0 +1,50 @@
+{
+  "wpId": 588,
+  "title": "A reactive architecture based on Vert.x and Kubernetes",
+  "slug": "a-reactive-architecture-based-on-vert-x-and-kubernetes",
+  "path": "/watch/a-reactive-architecture-based-on-vert-x-and-kubernetes/",
+  "date": "2020-01-01 00:01:25",
+  "modified": "2023-03-20 14:30:13",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2020/01/jochen_szer.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 37,
+        "slug": "kubernetes",
+        "name": "Kubernetes"
+      },
+      {
+        "id": 102,
+        "slug": "vert-x",
+        "name": "Vert.x"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=FHIm2WJFE5g",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      547
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The combination of microservices and the availability of easy to operate cloud infrastructures has changed the way we build software. Where classic 3-tier applications dominated only a few years ago we today see highly distributed microservice infrastructures. At the same time the expectations of our customers advanced at almost the same pace. Downtimes are a far more serious issue as they will drive them away to the competition. </p>\n\n\n\n<p>Classic application design and the way we used to build software hit there limits a while ago and new paradigms were required. This talk will show how the combination of a reactive application framework like Vert.x, a Kubernetes based infrastructure, Scala and a lot of fun give us a fully reactive architecture … and happy customers. In this talk I will introduce the core concepts of Vert.x, its event bus, the new Scala-integration and how this all plays together with Kubernetes. Expect to see a lot of code and to learn how a developer can effectively develop locally using Vert.x and Kubernetes together.</p>"
+    }
+  ],
+  "formReplaced": false
+}

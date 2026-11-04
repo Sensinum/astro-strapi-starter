@@ -1,0 +1,160 @@
+.block-half-bg-image.bg-img-top .responsive-bg-image__wrapper,
+.block-half-bg-image.bg-img-top .responsive-bg-image__wrapper:before {
+  background-position: top center;
+}
+.block-half-bg-image .content-wrap {
+  position: relative;
+  background-color: #000;
+  color: #fff;
+}
+.block-half-bg-image .text-half-wrapper .text-half {
+  padding: 120px 0;
+}
+@media (max-width: 1199.98px) {
+  .block-half-bg-image .text-half-wrapper .text-half {
+    padding: 90px 0;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-half-bg-image .text-half-wrapper .text-half {
+    padding: 80px 0;
+  }
+}
+@media (max-width: 767.98px) {
+  .block-half-bg-image .text-half-wrapper .text-half {
+    padding: 70px 0;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-half-bg-image .text-half-wrapper .text-half {
+    padding: 60px 0;
+  }
+}
+.block-half-bg-image .text-half-wrapper .text-half .block-description {
+  font-size: 1.0625rem;
+  line-height: 28px;
+  font-weight: 400;
+}
+@media (max-width: 1199.98px) {
+  .block-half-bg-image .text-half-wrapper .text-half .block-description {
+    font-size: 1rem;
+    line-height: 25px;
+  }
+}
+.block-half-bg-image .text-half-wrapper .text-half .block-description a {
+  color: inherit;
+  text-decoration: underline;
+}
+.block-half-bg-image .text-half-wrapper .text-half .block-description h1, .block-half-bg-image .text-half-wrapper .text-half .block-description h2, .block-half-bg-image .text-half-wrapper .text-half .block-description h3, .block-half-bg-image .text-half-wrapper .text-half .block-description h4, .block-half-bg-image .text-half-wrapper .text-half .block-description h5, .block-half-bg-image .text-half-wrapper .text-half .block-description h6, .block-half-bg-image .text-half-wrapper .text-half .block-description p {
+  margin-bottom: 20px;
+}
+@media (max-width: 575.98px) {
+  .block-half-bg-image .text-half-wrapper .text-half .block-description h1, .block-half-bg-image .text-half-wrapper .text-half .block-description h2, .block-half-bg-image .text-half-wrapper .text-half .block-description h3, .block-half-bg-image .text-half-wrapper .text-half .block-description h4, .block-half-bg-image .text-half-wrapper .text-half .block-description h5, .block-half-bg-image .text-half-wrapper .text-half .block-description h6, .block-half-bg-image .text-half-wrapper .text-half .block-description p {
+    margin-bottom: 15px;
+  }
+}
+.block-half-bg-image .text-half-wrapper .text-half .block-description p:last-child {
+  margin-bottom: 0;
+}
+.block-half-bg-image .text-half-wrapper .text-half .block-description .heading-2 {
+  font-size: 2.375rem;
+  line-height: 48px;
+}
+@media (max-width: 1199.98px) {
+  .block-half-bg-image .text-half-wrapper .text-half .block-description .heading-2 {
+    font-size: 1.875rem;
+    line-height: 40px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-half-bg-image .text-half-wrapper .text-half .block-description .heading-2 {
+    font-size: 1.5rem;
+    line-height: 30px;
+  }
+}
+.block-half-bg-image .text-half-wrapper .text-half .block-description h4 {
+  line-height: 25px;
+}
+.block-half-bg-image .text-half-wrapper .text-half .block-button {
+  display: inline-block;
+  margin-top: 40px;
+  padding: 15px 30px;
+  border-radius: 6px;
+  background-color: #fff;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
+  line-height: 14px;
+  font-weight: 700;
+  color: #000;
+  box-shadow: 0px 4px 4px rgba(33, 33, 44, 0.1), 0px 10px 15px -7px rgba(33, 33, 44, 0.25);
+  transition: 0.3s box-shadow ease-out, 0.3s opacity ease-out;
+}
+.block-half-bg-image .text-half-wrapper .text-half .block-button:hover {
+  box-shadow: none;
+  opacity: 0.9;
+}
+@media (max-width: 1199.98px) {
+  .block-half-bg-image .text-half-wrapper .text-half .block-button {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-half-bg-image .text-half-wrapper .text-half .block-button {
+    font-size: 0.75rem;
+    line-height: 12px;
+  }
+}
+.block-half-bg-image .image-half-wrapper {
+  padding: 0;
+}
+.block-half-bg-image .image-half-wrapper .image-half {
+  padding-bottom: 50%;
+}
+@media (max-width: 767.98px) {
+  .block-half-bg-image .image-half-wrapper .image-half {
+    padding-bottom: 39%;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-half-bg-image .image-half-wrapper .image-half {
+    padding-bottom: 63%;
+  }
+}
+.block-half-bg-image .responsive-bg-image {
+  position: absolute;
+  width: 50%;
+  z-index: 1;
+}
+@media (max-width: 767.98px) {
+  .block-half-bg-image .responsive-bg-image {
+    width: 100%;
+    height: initial;
+  }
+}
+@media (max-width: 767.98px) {
+  .block-half-bg-image .responsive-bg-image__wrapper {
+    padding-bottom: 39%;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-half-bg-image .responsive-bg-image__wrapper {
+    padding-bottom: 63%;
+  }
+}
+@media (min-width: 768px) {
+  .block-half-bg-image.switch-sides .image-half-wrapper {
+    order: 2;
+  }
+  .block-half-bg-image.switch-sides .responsive-bg-image {
+    left: initial;
+    right: 0;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .block-half-bg-image:not(.switch-sides) .text-half {
+    margin-left: 30px;
+  }
+}
+
+/*# sourceMappingURL=block-half-bg-image.css.map */

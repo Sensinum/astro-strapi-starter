@@ -1,0 +1,36 @@
+{
+  "wpId": 5007,
+  "title": "Anna Nojek",
+  "slug": "anna-nojek",
+  "path": "/contributor/anna-nojek/",
+  "date": "2024-02-28 14:30:07",
+  "modified": "2024-02-29 22:40:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5013,
+      "url": "/uploads/2024/02/AN-1.jpg",
+      "alt": "AN",
+      "width": 1513,
+      "height": 1513
+    },
+    "speaker_position": "UX/UI designer at CD PROJEKT RED | UX/UI trainer & mentor",
+    "speaker_add_info": "CD PROJEKT RED",
+    "speaker_surname": "Nojek",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/anna-nojek/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Anna Nojek is a UX/UI Designer at CD PROJEKT RED, where she tackles challenges that influence the studio’s artists and game developers. During her career as a UX/UI specialist, Anna has worked with users from 120 countries, collaborating with designers and developers across Europe, Asia, and North America. She has optimized the UX of products for numerous organizations, while also enhancing their internal processes, strategies, and UX maturity. Anna shares her experience as a lecturer and mentor, and thanks to her support, a few talented juniors have already found their first jobs. Anna loves what she does, as she firmly believes in understanding and embracing the human element behind every final product as a path to shared success.<br>Personally, Anna loves the thrill of takeoff when a plane leaves the ground, and she’s passionate about scuba diving — “It's like flying and swimming at the same time, seeing the world from a different perspective!”</p>"
+    }
+  ],
+  "formReplaced": false
+}

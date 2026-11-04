@@ -1,0 +1,28 @@
+{
+  "wpId": 4919,
+  "title": "Lessons from the happiest place on earth",
+  "slug": "lessons-from-the-happiest-place-on-earth",
+  "path": "/watch/lessons-from-the-happiest-place-on-earth/",
+  "date": "2024-02-13 09:41:54",
+  "modified": "2024-02-26 17:29:52",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2024",
+    "talks_speakers": [
+      4726
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>What do a roller coaster queue and building great products have in common? It turns out more than you think. A winning product is tough to nail down, but it almost feels magical when it’s done right. Join us for a behind-the-scenes look at what it takes to build products customers love that also work for the business through special lessons from the happiest place on earth.</p>"
+    }
+  ],
+  "formReplaced": false
+}

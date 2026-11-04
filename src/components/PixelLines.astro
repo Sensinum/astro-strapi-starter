@@ -1,0 +1,24 @@
+---
+import { pixelHeader } from '../lib/format';
+interface Line {
+  line?: string;
+  image?: { url?: string } | null;
+}
+interface Props {
+  lines?: Line[] | null;
+  newline?: boolean;
+}
+const { lines = [], newline = false } = Astro.props;
+const items = (lines || []).filter((line) => line?.line);
+---
+{items.map((line) => (
+  <Fragment>
+    {newline ? (
+      <div class="newline">
+        <span class:list={['hover-me', line.image?.url && 'with-img']} data-img-src={line.image?.url || undefined} set:html={pixelHeader(line.line || '')} />
+      </div>
+    ) : (
+      <span class:list={['hover-me', line.image?.url && 'with-img']} data-img-src={line.image?.url || undefined} set:html={pixelHeader(line.line || '')} />
+    )}
+  </Fragment>
+))}

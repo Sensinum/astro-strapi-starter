@@ -1,0 +1,75 @@
+{
+  "wpId": 3200,
+  "title": "Threads at Scale",
+  "slug": "threads-at-scale",
+  "path": "/watch/threads-at-scale/",
+  "date": "2022-08-04 16:17:20",
+  "modified": "2023-03-21 11:33:37",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/08/daniel_spiewak_thumbnails_sphereconf-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 150,
+        "slug": "concurrency",
+        "name": "Concurrency"
+      },
+      {
+        "id": 149,
+        "slug": "jvm",
+        "name": "JVM"
+      },
+      {
+        "id": 146,
+        "slug": "performance",
+        "name": "Performance"
+      },
+      {
+        "id": 152,
+        "slug": "scaling",
+        "name": "Scaling"
+      },
+      {
+        "id": 151,
+        "slug": "threads",
+        "name": "Threads"
+      },
+      {
+        "id": 153,
+        "slug": "tuning",
+        "name": "Tuning"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 148,
+        "slug": "jvm",
+        "name": "JVM"
+      },
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=PLApcas04V0",
+    "video_thumbnail": false,
+    "talk_date": "September 21, 2022",
+    "talks_speakers": [
+      983
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Multi-threaded concurrency has been a strength of the JVM since Java 1.2, and its implementation in that runtime has been a major driver behind the JVM's pervasive adoption in modern, highly distributed, high-RPS backend services. Just about everyone who works on the JVM writes software that fundamentally relies on threads, but very few understand how to conceptualize the performance and tuning implications of this deceptively simple construct. </p>\n\n\n\n<p>In this talk, we will embark on a journey that takes us from the raw hardware all the way up to effect systems and other high-level userspace abstractions, and along the way, we will discover how threads interact, how asynchronous I/O works (and doesn't work!), and learn One Weird Trick for dramatically improving tail latencies in almost any I/O bound, high-scale backend service.</p>"
+    }
+  ],
+  "formReplaced": false
+}

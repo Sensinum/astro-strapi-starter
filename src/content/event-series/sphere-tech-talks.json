@@ -1,0 +1,73 @@
+{
+  "wpId": 2443,
+  "title": "Sphere.it Tech Talks",
+  "slug": "sphere-tech-talks",
+  "path": "/event-series/sphere-tech-talks/",
+  "date": "2022-01-13 10:50:22",
+  "modified": "2023-10-27 14:22:30",
+  "template": null,
+  "excerpt": "Sphere.it Tech Talks is a series of online events where together with our guests we bring up and discuss topics from various tech areas like Data Engineering, AI, Frontend, Cloud, Observability, Scala, and more.",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "series_logotype": {
+      "id": 2183,
+      "url": "/uploads/2021/11/sphere-tech-talks.png",
+      "alt": "[event series logo] Sphere.it Tech Talks",
+      "width": 960,
+      "height": 960
+    },
+    "event_series_tax": 138,
+    "alt_dynamic_menu": false
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-header-event-series",
+      "anchor": "acf-block-653bab8583750",
+      "data": {
+        "block_title": null,
+        "header_description": "Sphere.it Tech Talks is a series of online events where together with our guests we bring up and discuss topics from various tech areas like Data Engineering, AI, Frontend, Cloud, Observability, Scala, and more.\r\n\r\nThe series is open for any tech topic you’d like to discuss or present. Our call for papers is constantly open here.\r\n\r\nDuring the event, after two or three brief presentations there comes a time for the Q&amp;A, a unique opportunity to ask questions and have a chat with our experts from around the world.",
+        "cta_button_1": {
+          "title": "View previous events",
+          "url": "#tech-talks-past-events",
+          "target": ""
+        },
+        "cta_button_2": null,
+        "header_image": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-series-talks-library",
+      "anchor": "acf-block-6349578145359",
+      "data": {
+        "block_title": "Watch Tech Talks content",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-upcoming-events",
+      "anchor": "acf-block-63495781453af",
+      "data": {
+        "block_title": "Upcoming events",
+        "selected_tax_upcoming": null,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-past-events",
+      "anchor": "tech-talks-past-events",
+      "data": {
+        "block_title": null,
+        "selected_tax_past": null,
+        "sidebar_title": null,
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

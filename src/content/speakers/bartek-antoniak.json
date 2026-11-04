@@ -1,0 +1,45 @@
+{
+  "wpId": 141,
+  "title": "Bartek Antoniak",
+  "slug": "bartek-antoniak",
+  "path": "/contributor/bartek-antoniak/",
+  "date": "2020-01-01 00:02:28",
+  "modified": "2024-03-19 11:35:24",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Head of Cloud Engineering at VirtusLab ",
+    "speaker_avatar": {
+      "id": 4046,
+      "url": "/uploads/2020/01/bartekantoniak.jpg",
+      "alt": "Bartek Antoniak",
+      "width": 808,
+      "height": 800
+    },
+    "speaker_surname": "Antoniak",
+    "speaker_twitter": "https://twitter.com/antoniaklja",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/bartek-antoniak-62466357/?originalSubdomain=pl",
+    "speaker_gh": "https://github.com/antoniaklja",
+    "speaker_add_info": "",
+    "desc_episodes": "As the Head of Cloud at a rapidly growing software house in Central Europe, Bartek has the opportunity to grow alongside the company’s size, culture, and processes. With extensive experience in software development and architectural design, particularly in cloud technologies, he has a proven track record of leading engineering and operations teams working remotely. While also navigating complex enterprise environments."
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>As the Head of Cloud at a rapidly growing software house in Central Europe, Bartek has the opportunity to grow alongside the company’s size, culture, and processes.</p>\n\n\n\n<p>With extensive experience in software development and architectural design, particularly in cloud technologies, he has a proven track record of leading engineering and operations teams working remotely. While also navigating complex enterprise environments.</p>\n\n\n\n<p>Bartek's role is to help everyone grow and ensure doing the right things in the right way.</p>"
+    }
+  ],
+  "formReplaced": false
+}

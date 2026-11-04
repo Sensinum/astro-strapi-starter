@@ -1,0 +1,53 @@
+{
+  "wpId": 1864,
+  "title": "Jan Pluta",
+  "slug": "jan-pluta",
+  "path": "/contributor/jan-pluta/",
+  "date": "2021-09-15 16:41:11",
+  "modified": "2021-09-15 16:48:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      },
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      },
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "CTO @ Therapify",
+    "speaker_avatar": {
+      "id": 1870,
+      "url": "/uploads/2021/09/jp-Jan-Pluta-1.jpg",
+      "alt": "Jan Pluta",
+      "width": 809,
+      "height": 813
+    },
+    "speaker_surname": "Pluta",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/janplutajr/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Programmer, entrepreneur, co-founder and CTO of Therapify, a mental health care platform. Experienced in developing mobile-first platforms, he specializes in the tools of the Google Cloud ecosystem and the Kotlin language. He took his first steps in the IT industry in a software house, developing mobile applications for the financial sector, retail and e-commerce, to finally find himself in the startup industry. </p>\n\n\n\n<p>In the meantime, he was developing new projects after hours, he was a mentor to a group of young programmers. One of his projects turned into full-time work on his own business. In his work, he prefers a pragmatic, iterative approach to software development, always keeping in mind the business goals of the project. Privately, a fan of mountain expeditions and strategy games.</p>"
+    }
+  ],
+  "formReplaced": false
+}

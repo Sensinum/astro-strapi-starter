@@ -1,0 +1,43 @@
+{
+  "wpId": 1568,
+  "title": "Collaborate, Document, Version Deploy with Dss",
+  "slug": "collaborate-document-version-deploy-with-dss",
+  "path": "/watch/collaborate-document-version-deploy-with-dss/",
+  "date": "2021-07-27 14:05:28",
+  "modified": "2023-03-21 11:01:05",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/07/sofiane_collaborate.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=d4EacpohorQ",
+    "video_thumbnail": false,
+    "talk_date": "July 15, 2021",
+    "talks_speakers": [
+      1385
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In this talk, we will be building, documenting, versioning, and deploying a Churn prediction project in a collaborative way using Dataiku DSS.</p>"
+    }
+  ],
+  "formReplaced": false
+}

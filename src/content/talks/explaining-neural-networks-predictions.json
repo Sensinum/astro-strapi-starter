@@ -1,0 +1,36 @@
+{
+  "wpId": 641,
+  "title": "Explaining neural networks predictions",
+  "slug": "explaining-neural-networks-predictions",
+  "path": "/watch/explaining-neural-networks-predictions/",
+  "date": "2020-01-01 00:00:55",
+  "modified": "2023-03-20 14:14:06",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=TRRNCMBxAUs",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      346
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Recently Deep Neural Networks have become superior in many machine learning tasks. However, they are more difficult to interpret than simpler models like Support Vector Machines or Decision Trees. One may say that neural nets are black boxes that produce predictions but we can’t explain why a given prediction is made. Such a condition is not acceptable in industries like healthcare or law. In this talk, I will show known ways of understanding neural networks predictions.</p>"
+    }
+  ],
+  "formReplaced": false
+}

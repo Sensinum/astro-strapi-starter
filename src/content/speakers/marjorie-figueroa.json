@@ -1,0 +1,43 @@
+{
+  "wpId": 230,
+  "title": "Marjorie Figueroa",
+  "slug": "marjorie-figueroa",
+  "path": "/contributor/marjorie-figueroa/",
+  "date": "2020-01-01 00:02:09",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Freelance Frontend Developer",
+    "speaker_avatar": {
+      "id": 231,
+      "url": "/uploads/2021/03/marjorie_figueroa-min.jpg",
+      "alt": "Marjorie Figueroa",
+      "width": 480,
+      "height": 480
+    },
+    "speaker_surname": "Figueroa",
+    "speaker_twitter": "https://twitter.com/Stephs1515",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/marjorief/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Marjorie is a Frontend Developer from Venezuela, currently living in Germany. In the last years, she has become more interested in the topic of accessibility and she tries to put her share in making the web a more accessible place.<br>She has a passion for UI/UX and delivering the best possible products. She enjoys discovering new things and trying new technologies</p>"
+    }
+  ],
+  "formReplaced": false
+}

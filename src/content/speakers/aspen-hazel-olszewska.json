@@ -1,0 +1,37 @@
+{
+  "wpId": 5256,
+  "title": "Aspen Hazel Olszewska",
+  "slug": "aspen-hazel-olszewska",
+  "path": "/contributor/aspen-hazel-olszewska/",
+  "date": "2024-09-11 10:47:12",
+  "modified": "2024-10-16 14:13:25",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5257,
+      "url": "/uploads/2024/09/PXL_20240516_073757201-square-5-Photoroom.jpg",
+      "alt": "PXL_20240516_073757201-square-5-Photoroom",
+      "width": 2000,
+      "height": 2000
+    },
+    "speaker_position": " Staff ML Engineer at VirtusLab",
+    "speaker_add_info": "VirtusLab",
+    "speaker_surname": "Olszewska",
+    "speaker_twitter": "https://x.com/turn1a",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/aspenita/",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Aspen has over 11 years of professional experience in a broad spectrum of IT projects in technological areas (software engineering, business analytics, data science, machine learning engineering, artificial intelligence, and cybersecurity), industries (tech, entertainment, pharma) and roles (programmer/developer, team leader, and project leader).</p>\n\n\n\n<p>She focuses primarily on Natural Language Processing-related projects, both classical and modern transformers-based solutions.<br>She is currently consumed by the LLM-verse, both theoretically and practically, focusing on training, fine-tuning, deployment and inference.</p>\n\n\n\n<p>In her work and outside of it, Aspen emphasizes the social dimension of technology, paying particular attention to ethical aspects and security. She advocates for open-source software, civil rights on the Internet, and the right to privacy. She is involved in non-profit organizations developing security tests for advanced AI models and supports the community by reviewing scientific articles in her field.</p>"
+    }
+  ],
+  "formReplaced": false
+}

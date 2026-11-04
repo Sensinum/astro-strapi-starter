@@ -1,0 +1,36 @@
+{
+  "wpId": 4420,
+  "title": "Anna Żakowska",
+  "slug": "anna-zakowska",
+  "path": "/contributor/anna-zakowska/",
+  "date": "2023-07-07 13:03:34",
+  "modified": "2024-02-29 22:52:04",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Design Thinking Facilitator, UX Researcher at VirtusLab",
+    "speaker_avatar": {
+      "id": 4839,
+      "url": "/uploads/2023/07/sphere-it-day1-1006-scaled.jpg",
+      "alt": "sphere-it-day1-1006",
+      "width": 2560,
+      "height": 2560
+    },
+    "speaker_surname": "Żakowska",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/anna-%C5%BCakowska-4b5aa678/",
+    "speaker_gh": "",
+    "speaker_add_info": "VirtusLab"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Over 15 years of experience in leading teams and companies, working as a sales and media director in an international online marketing company, and as a CEO of a media house company for 6 years. Currently working as a UX Researcher and Design Thinking facilitator in IT sector. Since 2013 leading workshops, trainings and projects in Design Thinking &amp; Service Design approach for such companies as Accenture, Link4, Orange, City of Warsaw and many more.</p>"
+    }
+  ],
+  "formReplaced": false
+}

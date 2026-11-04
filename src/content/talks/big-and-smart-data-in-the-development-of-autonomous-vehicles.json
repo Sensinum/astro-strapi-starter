@@ -1,0 +1,43 @@
+{
+  "wpId": 639,
+  "title": "Big and smart data in the development of autonomous vehicles",
+  "slug": "big-and-smart-data-in-the-development-of-autonomous-vehicles",
+  "path": "/watch/big-and-smart-data-in-the-development-of-autonomous-vehicles/",
+  "date": "2020-01-01 00:00:57",
+  "modified": "2023-03-20 14:14:46",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 66,
+        "slug": "big-data",
+        "name": "Big Data"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=BIA2835JEJA",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      589
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>When can we expect autonomous cars on the roads? All the technical solutions are there, ready for vehicle manufacturers to equip their models. What stops us? Part of the answer is connected with ensuring safety, and the need of testing. Simusafe project, funded by EU and coordinated by Aptiv, aims at finding behavioral models to describe the multi-actors traffic, making the simulations reflecting the real life.</p>"
+    }
+  ],
+  "formReplaced": false
+}

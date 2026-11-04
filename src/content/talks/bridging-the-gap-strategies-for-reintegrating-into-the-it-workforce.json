@@ -1,0 +1,28 @@
+{
+  "wpId": 4928,
+  "title": "Bridging the Gap: Strategies for Reintegrating into the IT Workforce",
+  "slug": "bridging-the-gap-strategies-for-reintegrating-into-the-it-workforce",
+  "path": "/watch/bridging-the-gap-strategies-for-reintegrating-into-the-it-workforce/",
+  "date": "2024-02-13 09:48:51",
+  "modified": "2024-02-13 09:48:51",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2024",
+    "talks_speakers": [
+      4802
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>A presentation about the challenges faced by those returning to work after a career gap. Discussion around guidance on reintegration strategies and how to leverage existing skills while acquiring new ones. The role of supportive work environments and how to create them.</p>"
+    }
+  ],
+  "formReplaced": false
+}

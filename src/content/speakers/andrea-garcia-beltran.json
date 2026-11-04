@@ -1,0 +1,37 @@
+{
+  "wpId": 5191,
+  "title": "Andrea Garcia Beltran",
+  "slug": "andrea-garcia-beltran",
+  "path": "/contributor/andrea-garcia-beltran/",
+  "date": "2024-04-19 14:02:23",
+  "modified": "2024-04-19 14:02:24",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5192,
+      "url": "/uploads/2024/04/1699308781727.jpeg",
+      "alt": "1699308781727",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_position": "Board Advisor | Multi-Award Winner |SERM, InsureTech & Cybersecurity Consultant | Leadership & Strategy | Speaker | Underwriting | Human Rights & DI&E | Women Of Influence | CyberSpecs TM | Professor",
+    "speaker_add_info": "",
+    "speaker_surname": "Beltran",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/andrea-garcia-beltran-89742931/",
+    "speaker_gh": "",
+    "desc_episodes": "CIPP/E; Cybersecurity Leader, InsureTech, Advisory Board with 19th years of experience in LatAm, EMEA and UK. \r\nInternational Speaker\r\nMulti-Award Winner\r\nColombian Lawyer, Master's degree in Insurance and Risk Management & in Personal Insurance.\r\nCybersecurity certificate."
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Board Advisor | Multi-Award Winner |SERM, InsureTech &amp; Cybersecurity Consultant | Leadership &amp; Strategy | Speaker | Underwriting | Human Rights &amp; DI&amp;E | Women Of Influence | CyberSpecs TM | Professor</p>"
+    }
+  ],
+  "formReplaced": false
+}

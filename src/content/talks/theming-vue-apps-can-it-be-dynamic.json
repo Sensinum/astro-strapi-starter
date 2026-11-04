@@ -1,0 +1,38 @@
+{
+  "wpId": 2129,
+  "title": "Theming Vue apps - can it be dynamic?",
+  "slug": "theming-vue-apps-can-it-be-dynamic",
+  "path": "/watch/theming-vue-apps-can-it-be-dynamic/",
+  "date": "2021-11-10 10:57:56",
+  "modified": "2023-03-21 11:07:15",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2021/11/maya_theming.png",
+  "seo": {
+    "ogImage": "/uploads/2021/11/maya_theming.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=6BpZiTCyFGE",
+    "video_thumbnail": false,
+    "talk_date": "October 28, 2021",
+    "talks_speakers": [
+      1914
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>To provide dynamic run-time theming for a Vue app is not a straightforward task. To have theming based on props and combining with other utility CSS libraries like TailwindCSS, that's even more challenging. In this talk, let's explore how we can achieve it using styled components and TailwindCSS and beautiful your Vue apps dynamically.</p>"
+    }
+  ],
+  "formReplaced": false
+}

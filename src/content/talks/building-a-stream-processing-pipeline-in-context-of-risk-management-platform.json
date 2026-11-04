@@ -1,0 +1,36 @@
+{
+  "wpId": 522,
+  "title": "Building a stream processing pipeline in context of risk management platform",
+  "slug": "building-a-stream-processing-pipeline-in-context-of-risk-management-platform",
+  "path": "/watch/building-a-stream-processing-pipeline-in-context-of-risk-management-platform/",
+  "date": "2020-01-01 00:01:50",
+  "modified": "2023-03-21 09:41:09",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=i6KAeGuK-3s",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      295
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Unbounded data streams are all around us and smart use of them may unlock a variety of new opportunities for businesses to grow.<br>The need for systems to react in real-time to thousands of events per second is crucial these days, and stream processing is addressing this requirement thoroughly.<br>During this talk, we will discover why and how to apply stream processing, in order to build a pipeline to accomplish different goals and meet non-functional requirements.<br>As an example, we are going to use a risk management platform to discuss the challenges and issues that can be encountered during the design and implementation phases.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,143 @@
+.block-speaker-groups-listing .content-wrap {
+  padding: 120px 0;
+  background-color: #fff;
+  color: #000;
+  text-align: center;
+}
+@media (min-width: 768px) and (max-width: 1199.98px) {
+  .block-speaker-groups-listing .content-wrap {
+    padding: 110px 0;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-speaker-groups-listing .content-wrap {
+    padding: 90px 0;
+  }
+}
+.block-speaker-groups-listing .content-wrap .block-title {
+  margin-bottom: 40px;
+}
+@media (max-width: 1199.98px) {
+  .block-speaker-groups-listing .content-wrap .block-title {
+    margin-bottom: 30px;
+  }
+}
+.block-speaker-groups-listing .content-wrap .group-label {
+  margin-bottom: 20px;
+  line-height: 25px;
+}
+@media (max-width: 575.98px) {
+  .block-speaker-groups-listing .content-wrap .group-label {
+    margin-bottom: 10px;
+  }
+}
+.block-speaker-groups-listing .content-wrap .speaker-group {
+  justify-content: center;
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .block-speaker-groups-listing .content-wrap .speaker-group {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-speaker-groups-listing .content-wrap .speaker-group {
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}
+.block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile-wrapper {
+  margin-bottom: 40px;
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile-wrapper {
+    margin-bottom: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile-wrapper {
+    margin-bottom: 20px;
+  }
+}
+.block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile {
+  display: block;
+  margin: 0 auto;
+  color: inherit;
+}
+@media (max-width: 575.98px) {
+  .block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile {
+    max-width: 75%;
+  }
+}
+@media (max-width: 375px) {
+  .block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile {
+    max-width: 100%;
+  }
+}
+.block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile .speaker-avatar-wrap {
+  margin-bottom: 15px;
+}
+@media (max-width: 991.98px) {
+  .block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile .speaker-avatar-wrap {
+    margin-bottom: 12px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile .speaker-avatar-wrap {
+    margin-bottom: 10px;
+  }
+}
+.block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile .profile-info .speaker-name {
+  margin-bottom: 7px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 1.125rem;
+  line-height: 20px;
+  font-weight: 600;
+}
+@media (max-width: 1199.98px) {
+  .block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile .profile-info .speaker-name {
+    margin-bottom: 5px;
+    font-size: 1rem;
+    line-height: 18px;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile .profile-info .speaker-name {
+    margin-bottom: 7px;
+    font-size: 0.875rem;
+    line-height: 16px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile .profile-info .speaker-name {
+    line-height: 15px;
+  }
+}
+.block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile .profile-info .speaker-position {
+  font-size: 0.875rem;
+  line-height: 20px;
+  font-weight: 400;
+}
+@media (max-width: 1199.98px) {
+  .block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile .profile-info .speaker-position {
+    font-size: 0.75rem;
+    line-height: 18px;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile .profile-info .speaker-position {
+    line-height: 16px;
+  }
+}
+.block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile:hover .speaker-avatar-wrap:after {
+  opacity: 1;
+}
+.block-speaker-groups-listing .content-wrap .speaker-group .speaker-profile:active .speaker-avatar-wrap:after {
+  opacity: 1;
+  background-color: rgba(21, 37, 54, 0.25);
+}
+
+/*# sourceMappingURL=block-speaker-groups-listing.css.map */

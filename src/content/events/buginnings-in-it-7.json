@@ -1,0 +1,344 @@
+{
+  "wpId": 3991,
+  "title": "BUGinnings in IT #7",
+  "slug": "buginnings-in-it-7",
+  "path": "/event/buginnings-in-it-7/",
+  "date": "2023-01-18 16:36:11",
+  "modified": "2023-03-08 15:22:52",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2023/01/FB_EVENT_COVER-1-1024x536.png"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 137,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "event_agenda": [
+      {
+        "item_type": "custom",
+        "item_time": "6:00 PM ",
+        "talk_id": 2665,
+        "custom_title": "Doors open",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "6:10 PM",
+        "talk_id": 4006,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "6:50 PM",
+        "talk_id": 4008,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "7:30 PM ",
+        "talk_id": 4007,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "custom",
+        "item_time": "8:00 PM ",
+        "talk_id": false,
+        "custom_title": "Networking over a beer",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      }
+    ],
+    "event_series_label": "",
+    "event_date": "21.02.2023",
+    "event_date_hidden": false,
+    "type_of_event": "6:00 PM ",
+    "event_entry": "Hevre, Krakow",
+    "event_artwork": {
+      "id": 3992,
+      "url": "/uploads/2023/01/IKONA_DO_LANDING_PAGE-2.png",
+      "alt": "BUGinnings in IT #7",
+      "width": 2160,
+      "height": 2160
+    },
+    "event_artwork_listing": false,
+    "event_background_color": "#08bd6c",
+    "header_background_image": false,
+    "event_font_color": true,
+    "event_font_color_value": "#0b151e",
+    "reduce_font_size": "1",
+    "event_register": {
+      "title": "Sign up",
+      "url": "https://app.evenea.pl/event/buginnings7/",
+      "target": "_blank"
+    },
+    "event_scroll_button": "",
+    "buttons_background_color": "",
+    "buttons_font_color": "",
+    "alt_dynamic_menu": false,
+    "event_alt_title": "",
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-63692b47b5f78",
+      "data": {
+        "block_description": "<img style=\"width: 60px;\" src=\"/uploads/2021/12/celeb-min.png\" alt=\"save-the-date\" />\r\n<p class=\"heading-3\" style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">The first BUGinnings in IT event of 2023 is here!</span></p>\r\n<p class=\"heading-3\" style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">For this one, we invited experts from <strong>Qualtrics</strong>, <strong>AWS</strong> and <strong>VirtusLab</strong>. </span></p>\r\n<p class=\"heading-3\" style=\"font-weight: 400;\">Together, we’ll dive deep into internet accessibility, explore the secret of a successful personal brand, and learn the ultimate skills that allow us to keep up with the ever-changing tech landscape.</p>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2951,
+          "url": "/uploads/2022/05/01-min_1.jpg",
+          "alt": "BUGinnings in IT #5 &#8211; image from prev event",
+          "width": 1440,
+          "height": 960
+        },
+        "switch_text_side": true,
+        "block_background_color": "#e8f4ee",
+        "block_font_color": "#0b151e",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-63692b47b5fa6",
+      "data": {
+        "block_title": "Speakers",
+        "automatic_selection": true,
+        "speaker_groups": [],
+        "block_background_color": "#0b151e",
+        "block_font_color": "#e8f4ee",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-63692b47b5fcb",
+      "data": {
+        "block_description": "<img style=\"width: 80px;\" src=\"/uploads/2021/12/bugs-min.png\" alt=\"bugs-logo\" />\r\n<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; font-weight: 500; text-align: left;\">BUGinnnings in IT is a series of events presenting stories about the first career steps in the tech industry.</p>\r\n<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; font-weight: 500; text-align: left;\">Specialists with many years of experience come on stage to share their advice, setbacks and lessons learned gained throughout their professional journey. They also explain how to enter their field of specialisation.</p>\r\n<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; font-weight: 500; text-align: left;\">Come and get inspired!</p>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2954,
+          "url": "/uploads/2022/05/03333-min.jpg",
+          "alt": "BUGinnings in IT #5 &#8211; image from prev event",
+          "width": 1440,
+          "height": 960
+        },
+        "switch_text_side": false,
+        "block_background_color": "#08bd6c",
+        "block_font_color": "#0b151e",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-event-agenda",
+      "anchor": "acf-block-63692b47b5feb",
+      "data": {
+        "block_title": "Agenda",
+        "block_background_color": "#0b151e",
+        "block_font_color": "#e8f4ee",
+        "block_accent_font_color": "#0acc75",
+        "smaller_paddings": true,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-63692b47b600b",
+      "data": {
+        "block_title": null,
+        "block_description": "<h2 style=\"margin-bottom: 20px;\">See you soon!</h2>\r\n<h3 class=\"heading-4\" style=\"margin-bottom: 30px;\">21.02.2023 | 6:00 PM | Hevre, Krakow</h3>\r\n<span style=\"opacity: 0.85; font-size: 110%;\">The equivalent of the ticket can be collected at the bar during the event.</span>",
+        "block_button": {
+          "title": "Sign up",
+          "url": "https://app.evenea.pl/event/buginnings7/",
+          "target": "_blank"
+        },
+        "cta_background_color": "#0b151e",
+        "cta_font_color": "#e8f4ee",
+        "cta_border_radius": 32,
+        "block_background_image": null,
+        "block_background_color": "#08bd6c",
+        "block_font_color": "#0b151e",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-sponsors",
+      "anchor": "acf-block-63e5101a0d16e",
+      "data": {
+        "logotypes_alignment": true,
+        "sponsor_groups": [
+          {
+            "label": "Community Partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2706,
+                  "url": "/uploads/2022/02/tryit.png",
+                  "alt": "Fundacja Try IT logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.facebook.com/Fundacja.Try.IT"
+              },
+              {
+                "logotype": {
+                  "id": 3152,
+                  "url": "/uploads/2022/04/logo_mono.png",
+                  "alt": "Vived logotype",
+                  "width": 2560,
+                  "height": 1051
+                },
+                "url": "https://vived.io/"
+              },
+              {
+                "logotype": {
+                  "id": 4110,
+                  "url": "/uploads/2023/01/nofluffjobs_logo-1-1.png",
+                  "alt": "No Fluff Jobs logotype",
+                  "width": 2000,
+                  "height": 2000
+                },
+                "url": "https://nofluffjobs.com/?utm_source=partner_website&utm_medium=logo&utm_campaign=patronage&utm_term=&utm_content=sphereit"
+              },
+              {
+                "logotype": {
+                  "id": 2984,
+                  "url": "/uploads/2022/04/jdd.png",
+                  "alt": "JDD logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://jdd.org.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2790,
+                  "url": "/uploads/2022/02/bit-logo-signed-transparent-black.png",
+                  "alt": "Koło naukowe BIT logotype",
+                  "width": 366,
+                  "height": 234
+                },
+                "url": "https://knbit.edu.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2985,
+                  "url": "/uploads/2022/04/hackyeah.png",
+                  "alt": "HackYeah logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://hackyeah.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2987,
+                  "url": "/uploads/2022/04/4dev.png",
+                  "alt": "4Developers logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://4developers.org.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2988,
+                  "url": "/uploads/2022/04/cngk.png",
+                  "alt": "Krakow Cloud Native Group logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.meetup.com/pl-PL/krakow-cloud-native/"
+              },
+              {
+                "logotype": {
+                  "id": 3253,
+                  "url": "/uploads/2022/04/JustJoin_logotype4x-e1676017519933.png",
+                  "alt": "Just Join IT logotype",
+                  "width": 800,
+                  "height": 162
+                },
+                "url": "https://justjoin.it/"
+              },
+              {
+                "logotype": {
+                  "id": 2765,
+                  "url": "/uploads/2022/02/logo-ksi-basic.png",
+                  "alt": "Koło Studentów Informatyki UJ logotype",
+                  "width": 1181,
+                  "height": 1181
+                },
+                "url": "https://www.facebook.com/ksi.uj/"
+              },
+              {
+                "logotype": {
+                  "id": 4107,
+                  "url": "/uploads/2023/01/Screenshot-2023-02-13-at-14.30.54.png",
+                  "alt": "Wydziałowa Rada Samorządu Studentów Wydziału Informatyki, Elektroniki i Telekomunikacji logotype",
+                  "width": 938,
+                  "height": 678
+                },
+                "url": "https://www.wrss.iet.agh.edu.pl/"
+              }
+            ]
+          },
+          {
+            "label": "Powered by ",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2672,
+                  "url": "/uploads/2022/02/vl.png",
+                  "alt": "VirtusLab logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://careers.virtuslab.com/"
+              }
+            ]
+          }
+        ],
+        "block_background_color": null,
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

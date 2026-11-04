@@ -1,0 +1,36 @@
+{
+  "wpId": 166,
+  "title": "Building Kotlin DSL",
+  "slug": "building-kotlin-dsl",
+  "path": "/watch/building-kotlin-dsl/",
+  "date": "2020-01-01 00:03:19",
+  "modified": "2021-03-31 14:41:01",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=kcqbWUwrNLc&t=70s",
+    "video_thumbnail": false,
+    "talk_date": "June 16, 2020",
+    "talks_speakers": [
+      107
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In past years we can see an explosion of DSL usage, from different kinds of configurations to view definitions. Especially lately mobile world is shaken by&nbsp;Jetpack Compose and Swift UI, but DSLs are becoming more popular on the backend too. In this presentation we will learn how Kotlin DSLs work and how can we define our own statically typed DSLs in Kotlin. Step by step, through live coding.</p>"
+    }
+  ],
+  "formReplaced": false
+}

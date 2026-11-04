@@ -1,0 +1,43 @@
+{
+  "wpId": 561,
+  "title": "SemanticDB for Scala developer tools",
+  "slug": "semanticdb-for-scala-developer-tools",
+  "path": "/watch/semanticdb-for-scala-developer-tools/",
+  "date": "2020-01-01 00:01:33",
+  "modified": "2023-03-20 12:05:50",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 101,
+        "slug": "semanticdb",
+        "name": "SemanticDB"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=1p_sYlgs7Lg",
+    "video_thumbnail": false,
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      422
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>SemanticDB is a data schema for semantic information about code. It can model many Scala language features that are relevant for developer tools, such as resolved names and type signatures. SemanticDB can be persisted and consumed in the form of protobuf messages, SQL or JSON depending on your application’s needs. </p>\n\n\n\n<p>The benefits of this data-driven approach include improved testability, interoperability, composability and performance. In this talk, you will learn about the applications and limitations of SemanticDB. I will share my experiences using SemanticDB to build a wide range of experimental tools including linters, refactoring tools, language servers, online code browsers and documentation generators. Expect many demos. This talk is suitable for a wide audience. Scala newcomers will take a sneak peek into new exciting tooling. Tool tinkerers will learn new ways to develop tools for Scala.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 193,
+  "title": "Krzysztof Daniel",
+  "slug": "krzysztof-daniel",
+  "path": "/contributor/krzysztof-daniel/",
+  "date": "2020-01-01 00:02:23",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Leading Edge Forum",
+    "speaker_avatar": {
+      "id": 194,
+      "url": "/uploads/2021/03/dNakFCVR_400x400.png",
+      "alt": "Krzysztof Daniel",
+      "width": 348,
+      "height": 348
+    },
+    "speaker_surname": "Daniel",
+    "speaker_twitter": "https://twitter.com/wardleymaps",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/christopherdaniel",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Krzysztof is an unreformed explorer who works for the Leading Edge Forum as a researcher. Krzysztof’s passion for pursuing novel and emerging things made him abandon software development and go through a variety of jobs (from QA consulting, through the legal domain, to strategy advisory), and only LEF provided him with a safe harbour at LEF. At LEF, Chris can satisfy his curiosity while helping customers to prepare for the upcoming future.<br>Krzysztof learned how to use Wardley Maps long before joining LEF. For him, it was the essence of strategy, a tool that shaped his future actions and ordered all the exciting things to do into a coherent whole.<br>Krzysztof is an occasional speaker. Most of the time, he does research and talks to customers, but when there is an opportunity, he is always ready to talk about Wardley Maps.</p>"
+    }
+  ],
+  "formReplaced": false
+}

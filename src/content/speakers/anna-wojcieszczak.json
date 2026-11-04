@@ -1,0 +1,36 @@
+{
+  "wpId": 4978,
+  "title": "Anna Wojcieszczak",
+  "slug": "anna-wojcieszczak",
+  "path": "/contributor/anna-wojcieszczak/",
+  "date": "2024-02-19 10:22:38",
+  "modified": "2024-02-29 22:42:54",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "DesignOps & Service Design | UX PgM at Google",
+    "speaker_avatar": {
+      "id": 4979,
+      "url": "/uploads/2024/02/1697284045828-1.jpeg",
+      "alt": "1697284045828 (1)",
+      "width": 634,
+      "height": 634
+    },
+    "speaker_surname": "Wojcieszczak",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/anna-wojcieszczak/",
+    "speaker_gh": "",
+    "speaker_add_info": "Google"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Anna is a mediator, business advisor &amp; trainer with extensive experience of working with international clients, which taught her the value of operational excellence, excellent customer service and thinking on her feet. She is a critical thinker &amp; problem solver with superb communication and presentation skills underpinned by an enthusiastic and proactive approach. Passionate about communication, design, strategical business development and ADR. Putting mileage on, she has also gained experience in legal, finance and risk management services which helps her understand various market conditions better while working with her customers on the most complex and challenging projects.</p>"
+    }
+  ],
+  "formReplaced": false
+}

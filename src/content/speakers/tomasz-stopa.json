@@ -1,0 +1,43 @@
+{
+  "wpId": 284,
+  "title": "Tomasz Stopa",
+  "slug": "tomasz-stopa",
+  "path": "/contributor/tomasz-stopa/",
+  "date": "2020-01-01 00:01:48",
+  "modified": "2022-05-23 10:20:32",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 53,
+        "slug": "quantum-computing",
+        "name": "Quantum Computing"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Release Manager at IBM",
+    "speaker_avatar": {
+      "id": 285,
+      "url": "/uploads/2021/03/TStopa_photo-Tomasz-Stopa-scaled.jpg",
+      "alt": "Tomasz Stopa",
+      "width": 2560,
+      "height": 2560
+    },
+    "speaker_surname": "Stopa",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/tomasz-stopa-0164a237",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Tomek works in IBM Software Lab in Kraków, Poland. He obtained his PhD in Physics from AGH University of Science and Technology in Kraków. With a background in theoretical solid-state physics he moved to software development many years ago ;) Currently works as a development manager in software asset management space. He is an IBM-Q Ambassador and IBM Master Inventor with many IT-related patents and publications.</p>"
+    }
+  ],
+  "formReplaced": false
+}

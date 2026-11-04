@@ -1,0 +1,43 @@
+{
+  "wpId": 226,
+  "title": "Mathieu Sinn",
+  "slug": "mathieu-sinn",
+  "path": "/contributor/mathieu-sinn/",
+  "date": "2020-01-01 00:02:11",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Technical Staff Member & Research Manager - AI, Security & Privacy at IBM",
+    "speaker_avatar": {
+      "id": 227,
+      "url": "/uploads/2021/03/MathieuSinn-Mathieu-Sinn.png",
+      "alt": "Mathieu Sinn",
+      "width": 421,
+      "height": 421
+    },
+    "speaker_surname": "Sinn",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/mathieu-sinn-28611936/?originalSubdomain=ie",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Dr Mathieu Sinn is a Research Staff Member and Manager of the AI &amp; Machine Learning group at the IBM Research lab in Dublin, Ireland. He has a Master's in Computer Science and a PhD in Mathematics from the University of Luebeck, Germany. He has worked on a large variety of fundamental and practical aspects of AI &amp; Machine Learning, with the most recent focus on robustness of AI against adversarial attacks. Mathieu is an Open Certified Data Science Thought Leader, regular reviewer for top AI conferences and has served as an external PhD committee member on various occasions.</p>"
+    }
+  ],
+  "formReplaced": false
+}

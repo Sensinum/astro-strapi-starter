@@ -1,0 +1,1060 @@
+{
+  "wpId": 5045,
+  "title": "SpHERe.it Conference",
+  "slug": "inspiring-women-in-it",
+  "path": "/event-series/inspiring-women-in-it/",
+  "date": "2024-03-11 12:47:21",
+  "modified": "2024-06-04 09:26:09",
+  "template": null,
+  "excerpt": "A celebration of diversity, empowerment, and innovation in the tech industry. Celebrate women's heritage in tech, gain valuable insights, and contribute to shaping a more inclusive future.",
+  "featuredImage": "/uploads/2024/01/1200x630.png",
+  "seo": {
+    "description": "A celebration of diversity, empowerment, and innovation in the tech industry. Celebrate women's heritage in tech, gain valuable insights, and contribute to shaping a more inclusive future.",
+    "ogImage": "/uploads/2024/01/1200x630-1024x538.png"
+  },
+  "terms": {},
+  "acf": {
+    "series_logotype": {
+      "id": 4712,
+      "url": "/uploads/2023/11/960-x-960-3.png",
+      "alt": "960 x 960 (3)",
+      "width": 960,
+      "height": 960
+    },
+    "event_series_tax": 180,
+    "alt_dynamic_menu": true
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-header-event",
+      "anchor": "acf-block-665ec190943e7",
+      "data": {
+        "event_series_label": null,
+        "event_alt_title": null,
+        "disable_title": true,
+        "reduce_font_size": "1",
+        "info_1": "15.03.2024",
+        "type_of_event": "CKF13",
+        "event_entry": "Krakow | Virtual Live",
+        "event_artwork": {
+          "id": 4701,
+          "url": "/uploads/2023/11/Logo.png",
+          "alt": "Logo",
+          "width": 841,
+          "height": 280
+        },
+        "alternative_artwork": true,
+        "event_background_color": "#fff0f7",
+        "header_background_image": {
+          "id": 4906,
+          "url": "/uploads/2023/11/BG_Homepage_3840x2160-6.png",
+          "alt": "BG_Homepage_3840x2160-6",
+          "width": 3840,
+          "height": 2160
+        },
+        "event_font_color": true,
+        "event_font_color_value": "#16164f",
+        "event_register": null,
+        "header_cta_2": null,
+        "event_scroll_button": null,
+        "buttons_background_color": "#16164f",
+        "buttons_font_color": "#97d8c4"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-655321fab66c8",
+      "data": {
+        "block_title": null,
+        "block_description": "<div class=\"font-montserrat content\">Join us, either <strong>online</strong> or <strong>onsite</strong>, for a day brimming with lectures, workshops, mentoring, and networking – all included in the <strong>price of a single ticket.</strong> Regardless of your background or expertise, your unique story is a vital thread in the transformative fabric of spHERe.it Conference.</div>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": null,
+        "block_background_color": "#fff0f7",
+        "block_font_color": "#16164f",
+        "menu_label": "TICKETS"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-text-columns",
+      "anchor": "acf-block-65c09eb1eec9d",
+      "data": {
+        "block_title": "The SpHERe.it Conference is for",
+        "block_description": "The SpHERe.it Conference brings together a vibrant mix of individuals and encourage professionals of any gender who find themselves in a position to contribute, share, and benefit from the community.",
+        "block_columns": [
+          {
+            "title": "Women in Tech and Career Changers",
+            "description": "Women across various backgrounds, celebrating their journey in technology. Returning Professionals overcoming challenges of career breaks.",
+            "bg_color": "rgba(86,86,232,0.85)"
+          },
+          {
+            "title": "Industry Leaders and Professionals",
+            "description": "Experts & Tech Leaders shaping the future of the industry. Beyond Senior Professionals seeking proactive approaches to career advancement. Entrepreneurs driving innovation and impact in the tech landscape.",
+            "bg_color": "rgb(255,153,94)"
+          },
+          {
+            "title": "Tech Enthusiasts",
+            "description": "Individuals of any gender passionate about contributing to and benefiting from the tech community. Tech Enthusiasts eager to explore the latest trends and innovations.",
+            "bg_color": "rgb(151,216,196)"
+          }
+        ],
+        "block_background_image": {
+          "id": 4905,
+          "url": "/uploads/2023/11/BG_Homepage_3840x2160-5.png",
+          "alt": "BG_Homepage_3840x2160-5",
+          "width": 3840,
+          "height": 2160
+        },
+        "block_background_color": "#fff0f7",
+        "block_font_color": "#16164f",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-65a0024e8c61d",
+      "data": {
+        "block_title": "2024 Theme: HERitage of Tech",
+        "block_description": "<div class=\"font-montserrat content\">This year’s edition is a celebration and a call to action, emphasizing not just looking back but understanding how today’s women in tech are building upon the foundations laid by those who came before them.</div>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": null,
+        "block_background_color": "#16164f",
+        "block_font_color": "#fff",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-659e7472790d3",
+      "data": {
+        "block_title": "Speakers | Trainers | Mentors",
+        "automatic_selection": false,
+        "speaker_groups": [
+          {
+            "group_label": "Keynote Speakers",
+            "speakers": [
+              4890,
+              190
+            ]
+          },
+          {
+            "group_label": "Speakers",
+            "speakers": [
+              4726,
+              4730,
+              4728,
+              4790,
+              4800,
+              4802,
+              3994,
+              4896,
+              4837,
+              4875,
+              4878,
+              4881,
+              4892,
+              4911,
+              4978,
+              4982,
+              4991,
+              4994,
+              4988,
+              5007,
+              5039,
+              5037
+            ]
+          },
+          {
+            "group_label": "Mentors",
+            "speakers": [
+              2756,
+              4124,
+              384,
+              4818,
+              2762,
+              4837,
+              4835,
+              4871,
+              1867,
+              4885,
+              2220
+            ]
+          },
+          {
+            "group_label": "Trainers",
+            "speakers": [
+              4726,
+              4815,
+              4835,
+              4420
+            ]
+          },
+          {
+            "group_label": "Hosts",
+            "speakers": [
+              552,
+              1919,
+              4976
+            ]
+          }
+        ],
+        "block_background_color": null,
+        "block_font_color": "#000",
+        "menu_label": "Speakers "
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "block-sphere-agenda",
+      "data": {
+        "block_title": "Agenda",
+        "block_description": "<div class=\"font-montserrat content\">The SpHERe.it Conference 2024 brings together a vibrant mix of individuals from<strong>\r\nTechnology • Software • Digital • Engineering • Design • Science\r\n</strong>\r\nExplore the breadth of the tech world with us.</div>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": null,
+        "block_background_color": "#16164f",
+        "block_font_color": "#fff0f7",
+        "menu_label": "Agenda"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-conf-2022-agenda",
+      "anchor": "acf-block-65cb31911273c",
+      "data": {
+        "block_title": "Event Agenda ",
+        "block_agenda": [
+          {
+            "label": "Violet Stage | 15.03 | Friday",
+            "day_schedule": [
+              {
+                "item_type": "other",
+                "start_time": "08:00:00",
+                "end_time": "09:00:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Registration",
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "09:00:00",
+                "end_time": "09:30:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Event Opening",
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "09:30:00",
+                "end_time": "10:10:00",
+                "selected_talk": 4916,
+                "is_keynote": true,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "10:20:00",
+                "end_time": "10:50:00",
+                "selected_talk": 4917,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "11:00:00",
+                "end_time": "11:30:00",
+                "selected_talk": 4918,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "11:40:00",
+                "end_time": "00:10:00",
+                "selected_talk": 4919,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "12:20:00",
+                "end_time": "12:50:00",
+                "selected_talk": 4920,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "13:00:00",
+                "end_time": "13:30:00",
+                "selected_talk": 4921,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "13:40:00",
+                "end_time": "14:10:00",
+                "selected_talk": 4923,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "14:20:00",
+                "end_time": "15:20:00",
+                "selected_talk": 4943,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "15:30:00",
+                "end_time": "16:00:00",
+                "selected_talk": 5009,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "16:10:00",
+                "end_time": "16:40:00",
+                "selected_talk": 4925,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "16:50:00",
+                "end_time": "17:30:00",
+                "selected_talk": 4926,
+                "is_keynote": true,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              }
+            ],
+            "add_load_more_button": true,
+            "show_more_index": null
+          },
+          {
+            "label": "Sapphire Stage | 15.03 | Friday",
+            "day_schedule": [
+              {
+                "item_type": "talk",
+                "start_time": "10:20:00",
+                "end_time": "10:50:00",
+                "selected_talk": 4927,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "11:00:00",
+                "end_time": "11:30:00",
+                "selected_talk": 4928,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "12:20:00",
+                "end_time": "12:50:00",
+                "selected_talk": 4930,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "13:00:00",
+                "end_time": "13:30:00",
+                "selected_talk": 4929,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "13:40:00",
+                "end_time": "14:10:00",
+                "selected_talk": 4984,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "15:30:00",
+                "end_time": "16:00:00",
+                "selected_talk": 4931,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "16:10:00",
+                "end_time": "16:40:00",
+                "selected_talk": 4932,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              }
+            ],
+            "add_load_more_button": true,
+            "show_more_index": null
+          }
+        ],
+        "block_background_image": {
+          "id": 5023,
+          "url": "/uploads/2024/03/BG_Agenda_3840x2160-min-scaled.jpg",
+          "alt": "BG_Agenda_3840x2160-min",
+          "width": 2560,
+          "height": 1440
+        },
+        "block_background_color": "#fff0f7",
+        "block_font_color": "#0C1F1A",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-conf-2022-agenda",
+      "anchor": "acf-block-65cb3627c5dd6",
+      "data": {
+        "block_title": null,
+        "block_agenda": [
+          {
+            "label": "On-site Workshops | 15.03 | Friday",
+            "day_schedule": [
+              {
+                "item_type": "talk",
+                "start_time": "09:30:00",
+                "end_time": "11:00:00",
+                "selected_talk": 4933,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "11:10:00",
+                "end_time": "12:35:00",
+                "selected_talk": 4935,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "12:40:00",
+                "end_time": "15:10:00",
+                "selected_talk": 4446,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "15:20:00",
+                "end_time": "16:40:00",
+                "selected_talk": 4934,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              }
+            ],
+            "add_load_more_button": false,
+            "show_more_index": null
+          },
+          {
+            "label": "VOD Premium Content ",
+            "day_schedule": [
+              {
+                "item_type": "talk",
+                "start_time": null,
+                "end_time": null,
+                "selected_talk": 5044,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": null,
+                "end_time": null,
+                "selected_talk": 4996,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": null,
+                "end_time": null,
+                "selected_talk": 4993,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": null,
+                "end_time": null,
+                "selected_talk": 4922,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              }
+            ],
+            "add_load_more_button": false,
+            "show_more_index": null
+          }
+        ],
+        "block_background_image": {
+          "id": 5024,
+          "url": "/uploads/2024/02/BG_Speakers_3840x2160-min-scaled.jpg",
+          "alt": "BG_Speakers_3840x2160-min",
+          "width": 2560,
+          "height": 1440
+        },
+        "block_background_color": "#fcecf4",
+        "block_font_color": "#0C1F1A",
+        "menu_label": "WORKSHOPS"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-65cf5212c2faf",
+      "data": {
+        "block_description": "<div class=\"font-montserrat content\">\r\n\r\nThe <b data-stringify-type=\"bold\">registration</b> for exclusive 1:1 mentoring sessions (available for both onsite and virtual attendees) and hands-on workshops (exclusively available for onsite attendees) is<b data-stringify-type=\"bold\"> now open!</b>\r\n\r\n<b data-stringify-type=\"bold\">Limited capacity</b> – first come, first serve!\r\n\r\n</div>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 4971,
+          "url": "/uploads/2024/02/sphere-it-day1-1033-scaled.jpg",
+          "alt": "sphere-it-day1-1033",
+          "width": 2560,
+          "height": 1707
+        },
+        "switch_text_side": true,
+        "block_background_color": "#97d8c4",
+        "block_font_color": "#16164f",
+        "menu_label": "MENTORING"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-65a0024e8c8da",
+      "data": {
+        "block_title": "Got your tickets already?",
+        "block_description": "<div class=\"font-montserrat content\">Register on our event platform to gain access to digital streaming and conference materials. Your online event experience starts here!</div>",
+        "block_button": {
+          "title": "REGISTER ON A PLATFORM",
+          "url": "https://her-conf.sphere.it",
+          "target": "_blank"
+        },
+        "cta_background_color": "#16164f",
+        "cta_font_color": "#fff0f7",
+        "cta_border_radius": 50,
+        "block_background_image": null,
+        "block_background_color": "#fff0f7",
+        "block_font_color": "#16164f",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-65c09eb1eee52",
+      "data": {
+        "block_description": "<div class=\"font-montserrat content\">Step into the rich history of our event venue! Nestled in the heart of the multifunctional Fabryczna City complex, it occupies the charming historic section, once a vibrant Polmos vodka distillery. The echoes of craftsmanship and tradition infuse the air, setting the stage for an unforgettable experience at this year’s conference.</div>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 4854,
+          "url": "/uploads/2023/11/48113_25.jpg",
+          "alt": "48113_25",
+          "width": 1200,
+          "height": 800
+        },
+        "switch_text_side": false,
+        "block_background_color": "#16164f",
+        "block_font_color": null,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-655321fab67d6",
+      "data": {
+        "block_description": "<div class=\"font-montserrat content\">Join hands with A-list brands in technology, digital &amp; product industries to empower women in tech! Be part of the movement at sphere.it and make a difference.</div>",
+        "block_button": {
+          "title": "GET IN TOUCH",
+          "url": "/#block-contact-home",
+          "target": ""
+        },
+        "cta_background_color": "#fff0f7",
+        "cta_font_color": "#16164f",
+        "cta_border_radius": 50,
+        "block_background_image": {
+          "id": 4859,
+          "url": "/uploads/2023/11/sphere-it-day2-1182-scaled.jpg",
+          "alt": "sphere-it-day2-1182",
+          "width": 2560,
+          "height": 1707
+        },
+        "switch_text_side": true,
+        "block_background_color": "#16164f",
+        "block_font_color": "#fff0f7",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-659ff893e8b9a",
+      "data": {
+        "block_description": "<div class=\"font-montserrat content\">The heart of innovation – <a href=\"https://virtuslab.com/\" target=\"_blank\" rel=\"noopener\">VirtusLab Group</a>, the visionary architects of the Sphere.it platform and its dynamic initiatives. VirtusLab stands as a synonim for journey of empowerment and transformation, where technology fuels progress.</div>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": null,
+        "switch_text_side": false,
+        "block_background_color": "#16164f",
+        "block_font_color": "#fff0f7",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-sponsors",
+      "anchor": "acf-block-65a7f65521734",
+      "data": {
+        "logotypes_alignment": true,
+        "sponsor_groups": [
+          {
+            "label": "Honorary Patronage",
+            "members": [
+              {
+                "logotype": {
+                  "id": 5000,
+                  "url": "/uploads/2024/02/image001.jpg",
+                  "alt": "Drukowanie",
+                  "width": 850,
+                  "height": 850
+                },
+                "url": "https://www.krakow.pl"
+              },
+              {
+                "logotype": {
+                  "id": 4959,
+                  "url": "/uploads/2024/02/KPT_logo_PL_png.png",
+                  "alt": "KPT_logo_PL_png",
+                  "width": 1586,
+                  "height": 302
+                },
+                "url": "https://www.kpt.krakow.pl"
+              }
+            ]
+          },
+          {
+            "label": "Gold Sponsor",
+            "members": [
+              {
+                "logotype": {
+                  "id": 5006,
+                  "url": "/uploads/2024/02/Nokia-logo_Std-clear-space_RGB_Bright-blue_HR.png",
+                  "alt": "Nokia logo_Std clear space_RGB_Bright blue_HR",
+                  "width": 4482,
+                  "height": 1986
+                },
+                "url": "https://www.nokia.com"
+              }
+            ]
+          },
+          {
+            "label": "Powered by",
+            "members": [
+              {
+                "logotype": {
+                  "id": 5025,
+                  "url": "/uploads/2024/03/VirtusLab_logo_horizontal_color@2x.png",
+                  "alt": "VirtusLab_logo_horizontal_color@2x",
+                  "width": 1249,
+                  "height": 601
+                },
+                "url": "https://virtuslab.com"
+              }
+            ]
+          },
+          {
+            "label": "Partners | Supporters",
+            "members": [
+              {
+                "logotype": {
+                  "id": 4793,
+                  "url": "/uploads/2023/11/Logo-Women-TechStyle-Summit-2024-online.png",
+                  "alt": "Logo &#8211; Women TechStyle Summit 2024 (online)",
+                  "width": 816,
+                  "height": 427
+                },
+                "url": "https://womentechstyle.pl"
+              },
+              {
+                "logotype": {
+                  "id": 4812,
+                  "url": "/uploads/2023/11/do-digitalu-na-jasne-tAo.png",
+                  "alt": "do digitalu &#8211; na jasne tÅo",
+                  "width": 2000,
+                  "height": 2000
+                },
+                "url": "https://nofluffjobs.com/pl?utm_source=websiteu0026utm_medium=logou0026utm_campaign=epu0026utm_content=sphere.it"
+              },
+              {
+                "logotype": {
+                  "id": 4794,
+                  "url": "/uploads/2023/11/logo-01.png",
+                  "alt": "Logo Code Frenzy",
+                  "width": 1579,
+                  "height": 917
+                },
+                "url": "https://codefrenzy.pl"
+              },
+              {
+                "logotype": {
+                  "id": 4821,
+                  "url": "/uploads/2023/11/HackYeah-logo_na-czarnym.jpg",
+                  "alt": "HackYeah logo_na czarnym",
+                  "width": 843,
+                  "height": 596
+                },
+                "url": "https://hackyeah.pl"
+              },
+              {
+                "logotype": {
+                  "id": 4848,
+                  "url": "/uploads/2023/11/unnamed.png",
+                  "alt": "4developers",
+                  "width": 1001,
+                  "height": 1000
+                },
+                "url": "https://4developers.org.pl/4developers-2024/"
+              },
+              {
+                "logotype": {
+                  "id": 4825,
+                  "url": "/uploads/2023/11/IT-Girls-RGB.png",
+                  "alt": "IT Girls RGB",
+                  "width": 1510,
+                  "height": 744
+                },
+                "url": "https://itgirls.org.pl"
+              },
+              {
+                "logotype": {
+                  "id": 4833,
+                  "url": "/uploads/2023/11/agiletudio-with-green-background-FB.png",
+                  "alt": "agiletudio with green background FB",
+                  "width": 1836,
+                  "height": 1847
+                },
+                "url": "https://agilestudio.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 4865,
+                  "url": "/uploads/2023/11/WITA.png",
+                  "alt": "WITA",
+                  "width": 726,
+                  "height": 154
+                },
+                "url": "https://womenintechalliance.com"
+              },
+              {
+                "logotype": {
+                  "id": 4874,
+                  "url": "/uploads/2023/11/Techies-Space-Codete-_logo.png",
+                  "alt": "Techie&#8217;s Space Codete _logo",
+                  "width": 540,
+                  "height": 341
+                },
+                "url": "https://www.facebook.com/techies.krakow"
+              },
+              {
+                "logotype": {
+                  "id": 2706,
+                  "url": "/uploads/2022/02/tryit.png",
+                  "alt": "Fundacja Try IT logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.tryit.org.pl/pl/"
+              },
+              {
+                "logotype": {
+                  "id": 4953,
+                  "url": "/uploads/2023/11/Code-Europe-1.png",
+                  "alt": "Code Europe (1)",
+                  "width": 609,
+                  "height": 192
+                },
+                "url": "https://www.codeeurope.pl/pl/"
+              },
+              {
+                "logotype": {
+                  "id": 4954,
+                  "url": "/uploads/2023/11/codeme_logo_black_red_subtitle_black_rgb.png",
+                  "alt": "codeme_logo_black_red_subtitle_black_rgb",
+                  "width": 2437,
+                  "height": 600
+                },
+                "url": "https://codeme.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 4955,
+                  "url": "/uploads/2023/11/cropped-logo_horizontal.png",
+                  "alt": "cropped-logo_horizontal",
+                  "width": 399,
+                  "height": 200
+                },
+                "url": "https://www.wakeupandcode.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 4956,
+                  "url": "/uploads/2023/11/pd_vertical.png",
+                  "alt": "pd_vertical",
+                  "width": 632,
+                  "height": 611
+                },
+                "url": "https://www.facebook.com/groups/1361091490641914"
+              },
+              {
+                "logotype": {
+                  "id": 4967,
+                  "url": "/uploads/2024/02/logo_viceversa_wektor_-1-1.pdf",
+                  "alt": "logo_viceversa_wektor_ (1) (1)",
+                  "width": null,
+                  "height": null
+                },
+                "url": "https://viceversa.app/?utm_source=baneru0026utm_medium=cpcu0026utm_campaign=instalacje_krku0026utm_term=sphere_baner"
+              },
+              {
+                "logotype": {
+                  "id": 4969,
+                  "url": "/uploads/2024/02/Talenti_Logo_Red_R_RGB_nobcg.png",
+                  "alt": "Talenti_Logo_Red_R_RGB_nobcg",
+                  "width": 1366,
+                  "height": 584
+                },
+                "url": "https://talenti.pl"
+              },
+              {
+                "logotype": {
+                  "id": 4970,
+                  "url": "/uploads/2024/02/Mobile-Trends.png",
+                  "alt": "Mobile Trends",
+                  "width": 282,
+                  "height": 200
+                },
+                "url": "https://2024.mobiletrends.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 4985,
+                  "url": "/uploads/2024/02/Logo_EE_ekspertkirazem_tlo_biale.png",
+                  "alt": "Logo_EE_ekspertkirazem_tlo_biale",
+                  "width": 900,
+                  "height": 350
+                },
+                "url": "https://www.linkedin.com/company/ekspertki-razem-stowarzyszenie/"
+              },
+              {
+                "logotype": {
+                  "id": 4986,
+                  "url": "/uploads/2024/02/326336539_1570597570116190_6924501174450922392_n.jpg",
+                  "alt": "326336539_1570597570116190_6924501174450922392_n",
+                  "width": 444,
+                  "height": 444
+                },
+                "url": "https://www.facebook.com/kielcejava"
+              },
+              {
+                "logotype": {
+                  "id": 5003,
+                  "url": "/uploads/2024/02/Logo-Strong-Women-in-IT.png",
+                  "alt": "Logo Strong Women in IT",
+                  "width": 500,
+                  "height": 500
+                },
+                "url": "https://strongwomeninit.com/en/"
+              },
+              {
+                "logotype": {
+                  "id": 5004,
+                  "url": "/uploads/2024/02/Kobiety-jutra-logo.png",
+                  "alt": "Kobiety jutra logo",
+                  "width": 500,
+                  "height": 500
+                },
+                "url": "https://www.linkedin.com/company/kobiety-jutra/"
+              },
+              {
+                "logotype": {
+                  "id": 5028,
+                  "url": "/uploads/2024/02/GYM-BREAK-logo-poziome-czarne.jpg",
+                  "alt": "GYM-BREAK-logo-poziome-czarne",
+                  "width": 2300,
+                  "height": 1153
+                },
+                "url": "https://www.instagram.com/gym_break51?igsh=dWU5dTYyenNsdzdy"
+              },
+              {
+                "logotype": {
+                  "id": 5046,
+                  "url": "/uploads/2024/03/WOMENGOTECH-Logo-Color-1-e1706548887251.png",
+                  "alt": "WOMENGOTECH-Logo-Color-1-e1706548887251",
+                  "width": 1283,
+                  "height": 822
+                },
+                "url": "https://www.womengotech.com"
+              },
+              {
+                "logotype": {
+                  "id": 5054,
+                  "url": "/uploads/2024/03/bulldogjob-LOGO-new-0122-black.png",
+                  "alt": "bulldogjob LOGO new 0122 black",
+                  "width": 1121,
+                  "height": 213
+                },
+                "url": null
+              }
+            ]
+          }
+        ],
+        "block_background_color": null,
+        "menu_label": "Partners"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-video-home",
+      "anchor": "acf-block-65a101070e5d1",
+      "data": {
+        "header_title": "Watch sphere.it speakers on stage",
+        "all_videos_filter": null,
+        "filters_urls": [],
+        "video_rows": [
+          {
+            "video_type": "featured",
+            "feature_videos": [
+              4464,
+              4502,
+              4330,
+              4301,
+              4483
+            ],
+            "category": null,
+            "talks_cat_title": null
+          }
+        ],
+        "button_for_all_videos": null,
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

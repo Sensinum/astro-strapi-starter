@@ -1,0 +1,38 @@
+---
+import ResponsiveImage from './ResponsiveImage.astro';
+import { youtubeId } from '../lib/format';
+import type { SpeakerEntry, TalkEntry } from '../lib/content';
+interface Props {
+  talk: TalkEntry;
+  speakers?: SpeakerEntry[];
+}
+const { talk, speakers = [] } = Astro.props;
+const video = String(talk.data.acf?.talk_video || '');
+const id = youtubeId(video);
+const thumb = talk.data.acf?.video_thumbnail?.url || (id ? `https://i.ytimg.com/vi/${id}/hqdefault.jpg` : '/theme/assets/img/sphere_placeholder_square.png');
+const cats = talk.data.terms?.talks_cat || [];
+const tags = talk.data.terms?.talks_tags || [];
+const names = speakers.map((speaker) => speaker.data.title).join(', ');
+---
+<a
+  href={talk.data.path}
+  class="video-item col-12 col-md-6 col-lg-3"
+  data-filter-card
+  title="Watch the video"
+  data-title={talk.data.title}
+  data-people={names}
+  data-cats={cats.map((cat) => cat.id).join(',')}
+  data-tags={tags.map((tag) => tag.id).join(',')}
+>
+  <div class="feature-image">
+    <ResponsiveImage src={thumb} alt={talk.data.title} wrap classes="square" />
+    {cats.length > 0 && (
+      <div class="feature-image__categories">
+        {cats.map((cat) => <div class="feature-image__category">{cat.name}</div>)}
+      </div>
+    )}
+    <div class="hover-layer"><div class="round-icon white-bg"><i class="fas fa-play"></i></div></div>
+  </div>
+  <h4 class="title"><span class="load">{talk.data.title}</span></h4>
+  {names && <div class="author"><span class="load">{names}</span></div>}
+</a>

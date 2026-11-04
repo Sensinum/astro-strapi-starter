@@ -1,0 +1,37 @@
+{
+  "wpId": 5141,
+  "title": "Kagabo Ngiruwonsanga",
+  "slug": "kagabo-ngiruwonsanga",
+  "path": "/contributor/kagabo-ngiruwonsanga/",
+  "date": "2024-04-19 12:31:53",
+  "modified": "2024-04-19 12:31:53",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5142,
+      "url": "/uploads/2024/04/1516299123413.jpeg",
+      "alt": "1516299123413",
+      "width": 299,
+      "height": 299
+    },
+    "speaker_position": "Head of Innovations Underwriting - Greenlight Re",
+    "speaker_add_info": "",
+    "speaker_surname": "Kagabo Ngiruwonsanga",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/kagabo/",
+    "speaker_gh": "",
+    "desc_episodes": "Head of Innovations Underwriting - Greenlight Re"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Head of Innovations Underwriting - Greenlight Re</p>"
+    }
+  ],
+  "formReplaced": false
+}

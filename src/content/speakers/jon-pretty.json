@@ -1,0 +1,43 @@
+{
+  "wpId": 100,
+  "title": "Jon Pretty",
+  "slug": "jon-pretty",
+  "path": "/contributor/jon-pretty/",
+  "date": "2020-01-01 00:02:40",
+  "modified": "2022-05-23 10:49:14",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "CEO at Propensive",
+    "speaker_avatar": {
+      "id": 101,
+      "url": "/uploads/2021/03/jonpretty.jpg",
+      "alt": "Jon Pretty",
+      "width": 1459,
+      "height": 1418
+    },
+    "speaker_surname": "Pretty",
+    "speaker_twitter": "https://twitter.com/propensive",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/jpretty/?originalSubdomain=uk",
+    "speaker_gh": "https://github.com/propensive"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Jon has been having fun riding the bleeding edge of Scala for over a decade, and he’s not finished yet.</p>\n\n\n\n<p>While he’s not travelling the world attending Scala conferences or organizing Scala World, Jon spends his time working on a variety of open-source Scala libraries and providing professional Scala training services.</p>"
+    }
+  ],
+  "formReplaced": false
+}

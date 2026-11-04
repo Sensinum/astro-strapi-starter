@@ -1,0 +1,43 @@
+{
+  "wpId": 426,
+  "title": "Martin Duhem",
+  "slug": "martin-duhem",
+  "path": "/contributor/martin-duhem/",
+  "date": "2020-01-01 00:00:56",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at Scala Center",
+    "speaker_avatar": {
+      "id": 427,
+      "url": "/uploads/2021/03/Martin_Duhem.jpeg",
+      "alt": "Martin Duhem",
+      "width": 460,
+      "height": 460
+    },
+    "speaker_surname": "Duhem",
+    "speaker_twitter": "https://twitter.com/mnduhem",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/martinduhem/",
+    "speaker_gh": "https://github.com/Duhemm"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Martin Duhem is a Software Engineer at Scala Center, where he works on compilers and developer tools.</p>"
+    }
+  ],
+  "formReplaced": false
+}

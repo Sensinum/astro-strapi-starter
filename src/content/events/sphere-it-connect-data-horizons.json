@@ -1,0 +1,351 @@
+{
+  "wpId": 5437,
+  "title": "Sphere.it Connect #3: Data Horizons",
+  "slug": "sphere-it-connect-data-horizons",
+  "path": "/event/sphere-it-connect-data-horizons/",
+  "date": "2025-05-28 18:04:00",
+  "modified": "2025-09-29 11:23:36",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2025/05/Theme_date_1200x630_Evenea_cover-min.png",
+  "seo": {
+    "description": "Join Sphere.it Connect #3: Data Horizons on 30.09.2025 in Kraków. This event brings together diverse perspectives from both engineering and business domains. We will explore how modern data architectures and AI solutions can deliver tangible value. Expect expert talks, a panel, and networking.",
+    "ogImage": "/uploads/2025/05/Theme_date_1200x630_Evenea_cover-min-1024x538.png"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 190,
+        "slug": "sphere-it-connect",
+        "name": "Sphere.it Connect"
+      }
+    ]
+  },
+  "acf": {
+    "alt_dynamic_menu": true,
+    "event_alt_title": "#3 Data Horizons",
+    "reduce_font_size": "1",
+    "event_series_label": "",
+    "event_date": "30.09.2025",
+    "event_date_hidden": true,
+    "type_of_event": "September 30th 2025",
+    "event_entry": "Forty Kleparz, Kraków",
+    "event_artwork": {
+      "id": 5439,
+      "url": "/uploads/2025/05/logo-1.png",
+      "alt": "logo-1",
+      "width": 2340,
+      "height": 1662
+    },
+    "event_artwork_listing": false,
+    "event_background_color": "#f8fcee",
+    "header_background_image": {
+      "id": 5440,
+      "url": "/uploads/2025/05/Sphere.it-Connect_2560x1440_LP_header.jpg",
+      "alt": "Sphere.it-Connect_2560x1440_LP_header",
+      "width": 2560,
+      "height": 1440
+    },
+    "event_font_color": true,
+    "event_font_color_value": "#181818",
+    "event_register": "",
+    "header_cta_2": "",
+    "event_scroll_button": "about-conf",
+    "buttons_background_color": "#181818",
+    "buttons_font_color": "#ffffff",
+    "event_agenda": false
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "about-conf",
+      "data": {
+        "block_title": null,
+        "block_description": "<span style=\"font-weight: 400;\">In today's rapidly evolving landscape, organizations that successfully bridge technical data innovation with business strategy gain a significant competitive advantage. This meetup brings together diverse perspectives from both engineering and business domains to explore how modern data architectures and AI solutions can deliver tangible value.</span>",
+        "block_button": {
+          "title": "Save your seat",
+          "url": "https://app.evenea.pl/event/sphere-connect-data-horizons/",
+          "target": "_blank"
+        },
+        "cta_background_color": "#181818",
+        "cta_font_color": "#ffffff",
+        "cta_border_radius": 36,
+        "block_background_image": {
+          "id": 5441,
+          "url": "/uploads/2025/05/Sphere.it-Connect_2560x1440_bg.jpg",
+          "alt": "Sphere.it-Connect_2560x1440_bg",
+          "width": 2560,
+          "height": 1440
+        },
+        "block_background_color": "#f2f2f1",
+        "block_font_color": "#181818",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-68370e44911b2",
+      "data": {
+        "block_description": "<b>Sphere.it Connect</b><span style=\"font-weight: 400;\"> is a carefully crafted series of events tailored to foster meaningful interactions within the tech community. Each event is focused on a specific, high-impact theme, creating an intimate setting where experts, enthusiasts, and innovators can come together to exchange knowledge, share experiences in form of talks, lightning talks, discussion panels, workshops and hackathons. <a href=\"/\">Sphere.it</a> events have been organised by the <a href=\"https://virtuslab.com/\">VirtusLab</a> since 2016.</span>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 4583,
+          "url": "/uploads/2023/09/2022-11-24_Virtuslab-buginnings_PDlugosz_011.jpg",
+          "alt": "2022-11-24_Virtuslab-buginnings_PDlugosz_011",
+          "width": 2048,
+          "height": 1365
+        },
+        "switch_text_side": true,
+        "block_background_color": "#3b3b3b",
+        "block_font_color": "#ffffff",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-68372f306d5f4",
+      "data": {
+        "block_title": "Meet Our Experts",
+        "automatic_selection": false,
+        "speaker_groups": [
+          {
+            "group_label": "Speakers",
+            "speakers": [
+              5450,
+              5451,
+              5462,
+              5471,
+              5481
+            ]
+          }
+        ],
+        "block_background_color": "#f2f2f1",
+        "block_font_color": "#181818",
+        "menu_label": "Speakers"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-68373dbe2123e",
+      "data": {
+        "block_title": "Become a Speaker",
+        "block_description": "Are you passionate about data innovation, AI, or modern architectures? Share your expertise with a community of forward-thinking professionals at Sphere.it Connect! Apply now to join our lineup of speakers and inspire others.",
+        "block_button": {
+          "title": "Become a speaker",
+          "url": "https://virtuslab.com/contact",
+          "target": "_blank"
+        },
+        "cta_background_color": "#181818",
+        "cta_font_color": "#ffffff",
+        "cta_border_radius": 36,
+        "block_background_image": null,
+        "block_background_color": "#f2f2f1",
+        "block_font_color": "#181818",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-conf-2022-agenda",
+      "anchor": "acf-block-68370e4491772",
+      "data": {
+        "block_title": "Agenda",
+        "block_agenda": [
+          {
+            "label": null,
+            "day_schedule": [
+              {
+                "item_type": "other",
+                "start_time": "18:00:00",
+                "end_time": "18:05:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Welcome",
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "18:05:00",
+                "end_time": "18:35:00",
+                "selected_talk": 5449,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "18:35:00",
+                "end_time": "19:05:00",
+                "selected_talk": 5485,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "19:15:00",
+                "end_time": "19:30:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "15-min break",
+                "icon": {
+                  "id": 3206,
+                  "url": "/uploads/2022/04/icon_coffee.png",
+                  "alt": "Coffee icon",
+                  "width": 55,
+                  "height": 54
+                }
+              },
+              {
+                "item_type": "talk",
+                "start_time": "19:30:00",
+                "end_time": "07:55:00",
+                "selected_talk": 5476,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "19:55:00",
+                "end_time": "20:10:00",
+                "selected_talk": 5464,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "20:15:00",
+                "end_time": "23:00:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Networking and afterparty",
+                "icon": {
+                  "id": 3207,
+                  "url": "/uploads/2022/04/icon_glasses.png",
+                  "alt": "Glasses icon",
+                  "width": 60,
+                  "height": 74
+                }
+              }
+            ],
+            "add_load_more_button": false,
+            "show_more_index": null
+          }
+        ],
+        "block_background_image": {
+          "id": 5442,
+          "url": "/uploads/2025/05/Sphere.it-Connect_2560x1440_bg_2-2.jpg",
+          "alt": "Sphere.it-Connect_2560x1440_bg_2-2",
+          "width": 2560,
+          "height": 1440
+        },
+        "block_background_color": "#f2f2f1",
+        "block_font_color": "#181818",
+        "menu_label": "Agenda"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-68370e4491894",
+      "data": {
+        "block_description": "The event will take place at <strong>Forty Kleparz Restobar</strong> (Kamienna 2, Krakow), a unique venue combining historical charm with a modern atmosphere, perfect for networking and relaxation.\r\n\r\nYour ticket for the evening event includes complimentary snacks and drinks.",
+        "block_button": {
+          "title": "Get your tickets",
+          "url": "https://app.evenea.pl/event/sphere-connect-data-horizons/",
+          "target": "_blank"
+        },
+        "cta_background_color": "#f2f2f1",
+        "cta_font_color": "#181818",
+        "cta_border_radius": 64,
+        "block_background_image": {
+          "id": 5443,
+          "url": "/uploads/2025/05/Frame-155-min.jpg",
+          "alt": "Frame-155-min",
+          "width": 900,
+          "height": 549
+        },
+        "switch_text_side": true,
+        "block_background_color": "#3b3b3b",
+        "block_font_color": "#ffffff",
+        "menu_label": "Tickets"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-sponsors",
+      "anchor": "acf-block-68372d403a8cf",
+      "data": {
+        "logotypes_alignment": true,
+        "sponsor_groups": [
+          {
+            "label": "Community Partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 5292,
+                  "url": "/uploads/2024/09/datakrk-1.png",
+                  "alt": "datakrk (1)",
+                  "width": 2050,
+                  "height": 780
+                },
+                "url": "https://www.meetup.com/pl-PL/datakrk/"
+              },
+              {
+                "logotype": {
+                  "id": 5410,
+                  "url": "/uploads/2024/12/Logo-WOmen.png",
+                  "alt": "Logo WOmen",
+                  "width": 2000,
+                  "height": 1414
+                },
+                "url": "https://itgirls.org.pl/en/"
+              }
+            ]
+          },
+          {
+            "label": "Organiser",
+            "members": [
+              {
+                "logotype": {
+                  "id": 5025,
+                  "url": "/uploads/2024/03/VirtusLab_logo_horizontal_color@2x.png",
+                  "alt": "VirtusLab_logo_horizontal_color@2x",
+                  "width": 1249,
+                  "height": 601
+                },
+                "url": "https://virtuslab.com/"
+              }
+            ]
+          }
+        ],
+        "block_background_color": null,
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

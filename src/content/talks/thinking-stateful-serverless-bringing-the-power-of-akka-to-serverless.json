@@ -1,0 +1,48 @@
+{
+  "wpId": 175,
+  "title": "Thinking Stateful Serverless - Bringing the Power of Akka to Serverless",
+  "slug": "thinking-stateful-serverless-bringing-the-power-of-akka-to-serverless",
+  "path": "/watch/thinking-stateful-serverless-bringing-the-power-of-akka-to-serverless/",
+  "date": "2020-01-01 00:03:13",
+  "modified": "2021-03-31 14:43:32",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 32,
+        "slug": "akka",
+        "name": "Akka"
+      },
+      {
+        "id": 38,
+        "slug": "serverless",
+        "name": "Serverless"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=tr2E1j4QFiE&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "December 9, 2020",
+    "talks_speakers": [
+      137
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>As developers, we all want to be more productive. Serverless helps you do just that, by letting you focus on the business logic while shifting operations somewhere else. As more companies discover this emerging technology, we also discover drawbacks like state management. In this session, we’ll focus on what serverless is, how it helps developers, what potential drawbacks exist, and how we can add state management into serverless.</p>"
+    }
+  ],
+  "formReplaced": false
+}

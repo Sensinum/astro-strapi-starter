@@ -1,0 +1,36 @@
+{
+  "wpId": 1007,
+  "title": "My Take on Scala 3 by Wiem Zine Elabidine",
+  "slug": "my-take-on-scala-3-by-wiem-zine-elabidine",
+  "path": "/watch/my-take-on-scala-3-by-wiem-zine-elabidine/",
+  "date": "2021-04-28 15:37:25",
+  "modified": "2021-04-28 15:37:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=8q9DuMIqL3w&t=2s",
+    "video_thumbnail": false,
+    "talk_date": "April 23, 2021",
+    "talks_speakers": [
+      985
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In this short talk, Wiem shares her insights on the Scala 3 release, focusing specifically on Type Lambdas.</p>"
+    }
+  ],
+  "formReplaced": false
+}

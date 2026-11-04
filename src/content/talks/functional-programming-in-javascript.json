@@ -1,0 +1,43 @@
+{
+  "wpId": 464,
+  "title": "Functional programming in JavaScript",
+  "slug": "functional-programming-in-javascript",
+  "path": "/watch/functional-programming-in-javascript/",
+  "date": "2020-01-01 00:02:41",
+  "modified": "2021-03-31 15:10:39",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 18,
+        "slug": "javascript",
+        "name": "JavaScript"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=mY11FwmB1w8&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      286
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Be a better programmer and gain more confidence and trust over your code. All of it by applying principles of FP in JS which results in more safe, communicative and declarative code. No libraries, only plain ol' JavaScript</p>"
+    }
+  ],
+  "formReplaced": false
+}

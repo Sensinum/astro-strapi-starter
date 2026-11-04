@@ -1,0 +1,43 @@
+{
+  "wpId": 440,
+  "title": "How to model your crazy data in TypeScript",
+  "slug": "how-to-model-your-crazy-data-in-typescript",
+  "path": "/watch/how-to-model-your-crazy-data-in-typescript/",
+  "date": "2020-01-01 00:03:02",
+  "modified": "2021-03-31 14:56:07",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 60,
+        "slug": "typescript",
+        "name": "TypeScript"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=HQ-7ldlWXmY&t=18s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      207
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Our data models can be crazy. Sometimes you take a quick look and you already see that <code>if-else</code> to handle it properly. But if you use TypeScript you can handle most of it on the compilation level. I will show you how I’m dealing with strange types cases, how to avoid type-mess in your app, properly use algebraic types and how to benefit from a structural type system.</p>"
+    }
+  ],
+  "formReplaced": false
+}

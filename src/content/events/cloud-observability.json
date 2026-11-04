@@ -1,0 +1,137 @@
+{
+  "wpId": 1754,
+  "title": "Cloud & Observability",
+  "slug": "cloud-observability",
+  "path": "/event/cloud-observability/",
+  "date": "2021-09-01 09:16:04",
+  "modified": "2023-03-08 16:02:47",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogTitle": "Sphere.it Tech Talks #3 - Cloud & Observability",
+    "ogDescription": "Join us on September 30th to hear three talks on Cloud & Observability",
+    "ogImage": "/uploads/2021/09/szer-min.png"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 138,
+        "slug": "sphere-it-tech-talks",
+        "name": "Sphere.it Tech Talks"
+      }
+    ]
+  },
+  "acf": {
+    "event_date": "30.09.2021",
+    "type_of_event": "Start 6:00 PM CEST",
+    "event_entry": "",
+    "event_artwork": {
+      "id": 1790,
+      "url": "/uploads/2021/09/cloud_ob_alt-min.png",
+      "alt": "Cloud & Observability",
+      "width": 1080,
+      "height": 1080
+    },
+    "event_register": {
+      "title": "Register for free",
+      "url": "https://www.airmeet.com/e/c4c24670-0b23-11ec-848b-ed271176ee35",
+      "target": "_blank"
+    },
+    "event_background_color": "#4b38a9",
+    "event_font_color": false,
+    "event_font_color_value": "#fde5dc",
+    "reduce_font_size": "1",
+    "event_scroll_button": "event-agenda",
+    "event_series_label": "Sphere.it Tech Talks #3",
+    "event_agenda": [
+      {
+        "item_type": "talk",
+        "item_time": "6:00 PM",
+        "talk_id": 1940,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "#fef5f2",
+        "font_color": "#323232",
+        "accent_font_color": "#4b38a9"
+      },
+      {
+        "item_type": "talk",
+        "item_time": "6:30 PM",
+        "talk_id": 2327,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "#fdebe4",
+        "font_color": "#323232",
+        "accent_font_color": "#4b38a9"
+      },
+      {
+        "item_type": "talk",
+        "item_time": "7:00 PM",
+        "talk_id": 1935,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "#fef5f2",
+        "font_color": "#323232",
+        "accent_font_color": "#4b38a9"
+      },
+      {
+        "item_type": "custom",
+        "item_time": "7:30 PM",
+        "talk_id": false,
+        "custom_title": "Q&A",
+        "item_content": "",
+        "background_color": "#fdebe4",
+        "font_color": "#323232",
+        "accent_font_color": "#4b38a9"
+      },
+      {
+        "item_type": "custom",
+        "item_time": "8:00 PM",
+        "talk_id": false,
+        "custom_title": "Networking on Airmeet",
+        "item_content": "",
+        "background_color": "#fef5f2",
+        "font_color": "#323232",
+        "accent_font_color": "#4b38a9"
+      }
+    ],
+    "header_background_image": false,
+    "buttons_background_color": "",
+    "buttons_font_color": "",
+    "alt_dynamic_menu": false,
+    "event_alt_title": "",
+    "event_date_hidden": false,
+    "event_artwork_listing": false,
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-event-agenda",
+      "anchor": "event-agenda",
+      "data": {
+        "block_title": null,
+        "block_background_color": null,
+        "block_font_color": null,
+        "block_accent_font_color": null,
+        "smaller_paddings": false,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-6408a3961e512",
+      "data": {
+        "block_title": "Our all-star guests",
+        "automatic_selection": true,
+        "speaker_groups": [],
+        "block_background_color": "#ffffff",
+        "block_font_color": "#323232",
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

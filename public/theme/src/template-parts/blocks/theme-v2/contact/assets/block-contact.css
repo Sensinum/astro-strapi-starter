@@ -1,0 +1,185 @@
+.block-contact {
+  position: relative;
+  background-color: #0D111A;
+  padding: 100px 0;
+}
+@media (max-width: 991.98px) {
+  .block-contact {
+    padding: 50px 0;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-contact {
+    padding: 40px 0;
+  }
+}
+@media (min-width: 992px) {
+  .block-contact .title-row {
+    margin-bottom: 135px;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-contact .block-description {
+    margin-top: 80px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-contact .block-description {
+    margin-top: 65px;
+  }
+}
+.block-contact .block-description a {
+  color: #A1EF8B;
+}
+.block-contact .block-description p:last-child, .block-contact .block-description ul:last-child {
+  margin-bottom: 0;
+}
+.block-contact .col-wrapper {
+  position: relative;
+}
+@media (max-width: 991.98px) {
+  .block-contact .col-wrapper {
+    margin-top: 80px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-contact .col-wrapper {
+    margin-top: 65px;
+  }
+}
+.block-contact .col-wrapper .image-wrapper {
+  position: relative;
+  width: 455px;
+  margin-left: auto;
+  padding-right: 62px;
+  padding-bottom: 80px;
+}
+@media (max-width: 767.98px) {
+  .block-contact .col-wrapper .image-wrapper {
+    width: 370px;
+    padding-right: 56px;
+    padding-bottom: 60px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-contact .col-wrapper .image-wrapper {
+    width: 100%;
+    padding-right: 0;
+    padding-bottom: 100px;
+  }
+}
+.block-contact .col-wrapper .image-wrapper .accent-line-wrapper {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+.block-contact .col-wrapper .image-wrapper .accent-line-wrapper.line-1 .accent-line {
+  transform-origin: right;
+}
+@media (max-width: 575.98px) {
+  .block-contact .col-wrapper .image-wrapper .accent-line-wrapper.line-1 .accent-line {
+    transform-origin: center;
+  }
+}
+.block-contact .col-wrapper .image-wrapper .accent-line-wrapper.line-2 {
+  height: 50%;
+}
+@media (max-width: 575.98px) {
+  .block-contact .col-wrapper .image-wrapper .accent-line-wrapper.line-2 {
+    display: none;
+  }
+}
+.block-contact .col-wrapper .image-wrapper .accent-line-wrapper.line-2 .accent-line {
+  transform-origin: bottom;
+}
+.block-contact .col-wrapper .image-wrapper .image-caption {
+  position: absolute;
+  bottom: 158px;
+  right: 0;
+  transform: translateX(60px) rotate(-90deg);
+}
+@media (max-width: 767.98px) {
+  .block-contact .col-wrapper .image-wrapper .image-caption {
+    bottom: 138px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-contact .col-wrapper .image-wrapper .image-caption {
+    bottom: 170px;
+    transform: translateX(48px) rotate(-90deg);
+  }
+}
+.block-contact .col-wrapper .contact-email {
+  position: absolute;
+  bottom: 40px;
+  right: 190px;
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .block-contact .col-wrapper .contact-email {
+    right: 60px;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-contact .col-wrapper .contact-email {
+    right: 55px;
+  }
+}
+@media (max-width: 767.98px) {
+  .block-contact .col-wrapper .contact-email {
+    right: 45px;
+  }
+}
+@media (min-width: 576px) and (max-width: 630px) {
+  .block-contact .col-wrapper .contact-email a {
+    font-size: 85%;
+  }
+  .block-contact .col-wrapper .contact-email a .header-pixel {
+    font-size: 4rem;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-contact .col-wrapper .contact-email {
+    right: initial;
+    left: 0;
+    bottom: 30px;
+  }
+  .block-contact .col-wrapper .contact-email .separator {
+    display: block;
+    line-height: 40px;
+  }
+}
+.block-contact .sliding-caption {
+  position: relative;
+  height: 200px;
+}
+@media (max-width: 991.98px) {
+  .block-contact .sliding-caption {
+    height: 110px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-contact .sliding-caption {
+    height: 95px;
+  }
+}
+.block-contact .sliding-caption .header-inter {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  white-space: nowrap;
+  min-width: 100%;
+  transform: translate(-50%, -50%); /* Animation start out of the screen */
+  /* Add the animation */
+  animation: move 25s linear infinite reverse;
+  -webkit-text-stroke-color: #363B45;
+}
+@keyframes move {
+  0% {
+    transform: translate(-50%, -50%);
+  }
+  100% {
+    transform: translate(0%, -50%);
+  }
+}
+
+/*# sourceMappingURL=block-contact.css.map */

@@ -1,0 +1,43 @@
+{
+  "wpId": 985,
+  "title": "Wiem Zine Elabidine",
+  "slug": "wiem-zine-elabidine",
+  "path": "/contributor/wiem-zine-elabidine/",
+  "date": "2021-04-28 13:42:24",
+  "modified": "2021-04-28 13:42:54",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer",
+    "speaker_avatar": {
+      "id": 986,
+      "url": "/uploads/2021/04/Wiem_Zine.jpg",
+      "alt": "Wiem Zine Elabidine",
+      "width": 2055,
+      "height": 1975
+    },
+    "speaker_surname": "Elabidine",
+    "speaker_twitter": "https://twitter.com/WiemZin",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/wiem-zine-el-abidine/",
+    "speaker_gh": "https://github.com/wi101"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Wiem Zine Elabidine is a Software Engineer. She is enthusiastic about Scala and Functional programming. In her free time, she contributes to a Scala open source projects.</p>"
+    }
+  ],
+  "formReplaced": false
+}

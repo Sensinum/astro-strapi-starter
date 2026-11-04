@@ -1,0 +1,28 @@
+{
+  "wpId": 5258,
+  "title": "Beyond .encode(text). Embeddings at scale",
+  "slug": "beyond-encodetext-embeddings-at-scale",
+  "path": "/watch/beyond-encodetext-embeddings-at-scale/",
+  "date": "2024-09-11 10:59:53",
+  "modified": "2024-10-02 16:02:41",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "October 24, 2024",
+    "talks_speakers": [
+      5256
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p><strong>Retrieval-Augmented Generation (RAG)</strong>&nbsp;has emerged as a transformative application for large language models, enhancing their ability to generate accurate, context-aware responses by integrating external knowledge. </p>\n\n\n\n<p>RAG is particularly effective in incorporating information that is either missing from the model's training data or consists of private, proprietary company data, making it invaluable for custom applications. Additionally, RAG helps reduce the risk of hallucinations by grounding responses in specific, retrieved documents.</p>\n\n\n\n<p>At the core of RAG is the process of generating document embeddings—dense numerical representations that enable efficient retrieval and comparison across vast datasets. While many introductory resources touch on basic embedding techniques (e.g., <code>model.encode(text)</code>), they often overlook the significant challenges that arise when scaling this process to handle millions of documents.</p>\n\n\n\n<p>Embedding large corpora demands careful consideration of computational efficiency, memory optimisation, data quality and chunking strategies, model selection and fine-tuning, and index design choices to ensure robust and efficient text encoding, reliable vector upserting and fast retrieval.</p>\n\n\n\n<p><br>In this talk, I will explore the complexities of embedding text at scale, highlighting the practical challenges and advanced solutions that enable efficient and effective large-scale implementations.</p>"
+    }
+  ],
+  "formReplaced": false
+}

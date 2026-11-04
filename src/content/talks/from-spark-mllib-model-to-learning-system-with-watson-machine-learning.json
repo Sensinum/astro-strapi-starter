@@ -1,0 +1,36 @@
+{
+  "wpId": 645,
+  "title": "From Spark MLlib model to learning system with Watson Machine Learning",
+  "slug": "from-spark-mllib-model-to-learning-system-with-watson-machine-learning",
+  "path": "/watch/from-spark-mllib-model-to-learning-system-with-watson-machine-learning/",
+  "date": "2020-01-01 00:00:51",
+  "modified": "2023-03-20 14:13:00",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=B4s7RT-DTGY",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      569
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>A biomedical company that produces heart drugs has collected data about a set of patients, all of whom suffered from the same illness. During their course of treatment, each patient responded to one of five medications. Based on treatment records they would like to predict the best drug for the patient. They also need to ensure that their prediction model is always up-to-date providing the highest possible quality of predictions. During this session I will demonstrate how continuous learning system (part of Watson Machine Learning) can be used to achieve those goals.</p>"
+    }
+  ],
+  "formReplaced": false
+}

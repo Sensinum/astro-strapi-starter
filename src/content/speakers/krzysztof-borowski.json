@@ -1,0 +1,43 @@
+{
+  "wpId": 395,
+  "title": "Krzysztof Borowski",
+  "slug": "krzysztof-borowski",
+  "path": "/contributor/krzysztof-borowski/",
+  "date": "2020-01-01 00:01:10",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at VirtusLab",
+    "speaker_avatar": {
+      "id": 396,
+      "url": "/uploads/2021/03/Krzysztof_Borowski.jpg",
+      "alt": "Krzysztof Borowski",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Borowski",
+    "speaker_twitter": "https://twitter.com/liosedhel",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/liosedhel/",
+    "speaker_gh": "https://github.com/liosedhel"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Krzysiek is a Scala programmer @ Virtuslab. Believes that simplicity is the key to modern software development. Passionate about all technologies and ideas that make programmer life brighter and more interesting. Born with a love of mountains, singing, and exciting new experiences.</p>"
+    }
+  ],
+  "formReplaced": false
+}

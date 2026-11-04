@@ -1,0 +1,47 @@
+{
+  "wpId": 4515,
+  "title": "Only one product in the world is completely yours. And why it’s worth losing £10.",
+  "slug": "only-one-product-in-the-world-is-completely-yours-and-why-its-worth-losing-10",
+  "path": "/watch/only-one-product-in-the-world-is-completely-yours-and-why-its-worth-losing-10/",
+  "date": "2023-08-01 12:26:12",
+  "modified": "2024-01-12 10:38:00",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 183,
+        "slug": "product",
+        "name": "Product"
+      },
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=AAak7YX6r0I",
+    "video_thumbnail": {
+      "id": 4770,
+      "url": "/uploads/2023/08/maxresdefault-6.jpg",
+      "alt": "Piotr Przygoda",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "September 28, 2023",
+    "talks_speakers": [
+      4513
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>This talk reveals three transformative insights that have changed my perception of product management and brought joy to my professional journey. The presentation will provide a personal, unique and concise perspective on product management from a seasoned professional with over 15 years of experience. </p>\n\n\n\n<p>Everyone is a product manager in some way. Even though we are all different. We look differently or earn differently. But neither the way we look nor the job title - that determines our salary - defines who we are as product captains. True success lies in our ability to learn from life’s lessons. This presentation is intended to be a concrete and inspiring message for product people, those planning development in this area, and the wider IT world.</p>"
+    }
+  ],
+  "formReplaced": false
+}

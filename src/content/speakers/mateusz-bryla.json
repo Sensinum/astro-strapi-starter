@@ -1,0 +1,43 @@
+{
+  "wpId": 380,
+  "title": "Mateusz Bryła",
+  "slug": "mateusz-bryla",
+  "path": "/contributor/mateusz-bryla/",
+  "date": "2020-01-01 00:01:17",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Technical Lead at Cloudinary",
+    "speaker_avatar": {
+      "id": 381,
+      "url": "/uploads/2021/03/Mateusz_Bryla.jpeg",
+      "alt": "Mateusz Bryła",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Bryła",
+    "speaker_twitter": "https://twitter.com/mateusz_bryla",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/mateusz-bry%C5%82a-78aa1572/?originalSubdomain=pl",
+    "speaker_gh": "https://github.com/mbryla"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>A programmer trying to let his creativity run free without limits. Loves to address complicated problems head-on and share knowledge and experiences with others. Privately a music lover and a hopeless traveller. Currently working with Cloudinary - a company that has taken image delivery to a whole new level. Hates to be bored and to bore others, so expect something dynamic and interesting ;)</p>"
+    }
+  ],
+  "formReplaced": false
+}

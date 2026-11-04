@@ -1,0 +1,43 @@
+{
+  "wpId": 3897,
+  "title": "Never say never",
+  "slug": "never-say-never",
+  "path": "/watch/never-say-never/",
+  "date": "2022-11-07 16:18:22",
+  "modified": "2023-01-12 15:02:12",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/11/thumbnail_video_adam-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      },
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=H1T1T6Qf8PI&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "November 24, 2022",
+    "talks_speakers": [
+      3895
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>It's a common story, programming in Logo/Basic as a child, through Pascal and C when growing up, and ending up as a \"professional\" software developer. But there have been a couple of twists along the way. I ended up doing things (out of my free will!) that I'd never have expected to do when I started. Was it worth it? What might your options be? (btw: I didn't pivot to herding sheeps in Bieszczady, I'm still doing quite a lot of programming)</p>"
+    }
+  ],
+  "formReplaced": false
+}

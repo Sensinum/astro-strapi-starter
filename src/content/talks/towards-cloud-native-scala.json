@@ -1,0 +1,53 @@
+{
+  "wpId": 517,
+  "title": "Towards cloud-native Scala",
+  "slug": "towards-cloud-native-scala",
+  "path": "/watch/towards-cloud-native-scala/",
+  "date": "2020-01-01 00:01:55",
+  "modified": "2023-03-21 09:52:32",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 93,
+        "slug": "graalvm",
+        "name": "GraalVM"
+      },
+      {
+        "id": 37,
+        "slug": "kubernetes",
+        "name": "Kubernetes"
+      },
+      {
+        "id": 83,
+        "slug": "microservices",
+        "name": "Microservices"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=pR6UpuXNvuo",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      393
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>JVM has a bad rep amongst the members of the cloud-native crowd for a very good reason: it's sluggish, heavy and resource-hungry. GraalVM turns this upside down with the possibility of compiling down JVM apps down to native code. Scala, especially the pure functional taste, is the language best suited to benefit from this transformation and used to build small, lean and fast microservices working seamlessly in Kubernetes-managed environments. I will show you the tradeoffs of this process, why and when to pursue it and the tooling built especially to make it happen easier.</p>"
+    }
+  ],
+  "formReplaced": false
+}

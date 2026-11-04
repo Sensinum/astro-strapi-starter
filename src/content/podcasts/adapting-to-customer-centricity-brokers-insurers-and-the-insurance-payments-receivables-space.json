@@ -1,0 +1,47 @@
+{
+  "wpId": 5173,
+  "title": "Adapting to customer-centricity brokers insurers and the Insurance payments/receivables space",
+  "slug": "adapting-to-customer-centricity-brokers-insurers-and-the-insurance-payments-receivables-space",
+  "path": "/podcast/adapting-to-customer-centricity-brokers-insurers-and-the-insurance-payments-receivables-space/",
+  "date": "2024-04-19 13:36:57",
+  "modified": "2024-04-19 14:21:08",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E12_thumbnail_Donny_Wiesenfeld_Interview-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5171
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "Watch on Youtube",
+      "url": "https://www.youtube.com/watch?v=eI-EmmVbyYY&list=PLl9Aulxh1VePW1MCtgpOqCRDPjYWn9Zy2&index=17",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>One of the many interviews with Insurance Experts that we recorded at the Insurtech Insights 2024 in London. Interviewing Donny Wiesenfeld, Account Executive at Blink</p>\n",
+    "podcast_cover": {
+      "id": 5174,
+      "url": "/uploads/2024/04/S01E12_thumbnail_Donny_Wiesenfeld_Interview-min.jpg",
+      "alt": "S01E12_thumbnail_Donny_Wiesenfeld_Interview-min",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

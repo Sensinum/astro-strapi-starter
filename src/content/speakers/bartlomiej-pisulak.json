@@ -1,0 +1,35 @@
+{
+  "wpId": 4448,
+  "title": "Bartłomiej Pisulak",
+  "slug": "bartlomiej-pisulak",
+  "path": "/contributor/bartlomiej-pisulak/",
+  "date": "2023-07-10 10:19:34",
+  "modified": "2023-07-10 10:19:35",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Senior Manager, Cloud Engineering at Pegasystems",
+    "speaker_avatar": {
+      "id": 4449,
+      "url": "/uploads/2023/07/CV_Kwadrat_Duze.jpeg",
+      "alt": "CV_Kwadrat_Duze",
+      "width": 1600,
+      "height": 1600
+    },
+    "speaker_surname": "",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/bart%C5%82omiej-pisulak-82b94036/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Senior Manager of Cloud Engineering with 10+ years of professional experience. Passionate about building successful organisations. 改善 Kaizen enthusiast. Seasoned IT Trainer and university lecturer, with more than seven years of experience and 400+ people trained. Executive MBA graduate.</p>"
+    }
+  ],
+  "formReplaced": false
+}

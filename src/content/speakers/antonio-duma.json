@@ -1,0 +1,43 @@
+{
+  "wpId": 211,
+  "title": "Antonio Duma",
+  "slug": "antonio-duma",
+  "path": "/contributor/antonio-duma/",
+  "date": "2020-01-01 00:02:16",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Sr. Solutions Architect at AWS",
+    "speaker_avatar": {
+      "id": 213,
+      "url": "/uploads/2021/03/Antonio_Duma-1.jpeg",
+      "alt": "Antonio Duma",
+      "width": 227,
+      "height": 237
+    },
+    "speaker_surname": "Duma",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/antoniod82/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Antonio Duma is a Solutions Architect for Amazon Web Services in Italy. With several years of engineering background, he helps customers to design flexible and resilient architectures using AWS services.</p>"
+    }
+  ],
+  "formReplaced": false
+}

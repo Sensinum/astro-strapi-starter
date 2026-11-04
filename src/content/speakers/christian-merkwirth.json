@@ -1,0 +1,37 @@
+{
+  "wpId": 5318,
+  "title": "Christian Merkwirth",
+  "slug": "christian-merkwirth",
+  "path": "/contributor/christian-merkwirth/",
+  "date": "2024-09-12 13:26:56",
+  "modified": "2024-10-16 14:13:06",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5319,
+      "url": "/uploads/2024/09/1517705990690.jpeg",
+      "alt": "1517705990690",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_position": " Senior Deep Learning Algorithms Manager at NVIDIA",
+    "speaker_add_info": "NVIDIA",
+    "speaker_surname": "Merkwirth",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/christian-merkwirth/",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Christian Merkwirth is a seasoned Machine Learning and Deep Learning expert, currently spearheading the development of highly optimized AI microservices at Nvidia. There his team is optimizing TRT-LLM engines for peak inference performance.</p>\n\n\n\n<p>With a passion for applying AI to real-world problems, Christian has led teams across diverse industries, from revolutionizing revenue management systems at FLYR Labs to enhancing driving safety at NAUTO. A true pioneer in the field, Christian holds the distinction of being the first person to train Graph Neural Networks using SGD already back in 2005. His extensive background spans full-stack deep learning, cloud engineering, and advanced data analytics. Christian's expertise is complemented by his strong academic foundation, including a PhD in Physics and significant contributions to the field through publications and teaching.</p>"
+    }
+  ],
+  "formReplaced": false
+}

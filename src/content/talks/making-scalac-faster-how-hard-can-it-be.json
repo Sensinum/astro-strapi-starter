@@ -1,0 +1,44 @@
+{
+  "wpId": 583,
+  "title": "Making Scalac faster - how hard can it be?",
+  "slug": "making-scalac-faster-how-hard-can-it-be",
+  "path": "/watch/making-scalac-faster-how-hard-can-it-be/",
+  "date": "2020-01-01 00:01:27",
+  "modified": "2023-03-20 12:03:08",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2020/01/szablon_thumbnails_scala_rory_graves-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=39hFi1WMxlo&t=38s",
+    "video_thumbnail": {
+      "id": 3919,
+      "url": "/uploads/2020/01/szablon_thumbnails_scala_rory_graves-min.jpg",
+      "alt": "Making Scalac faster - how hard can it be?",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      204
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Improving the performance of ScalaC is an ongoing mission by a number of people. Optimising an application as complex and subtle as the Scala compiler is an interesting adventure. This talk is a fun romp through the world of compilers, performance measurement, optimisation and bytecode. On this journey we will highlight the unexpected challenges, opportunities and skeletons so far discovered.</p>"
+    }
+  ],
+  "formReplaced": false
+}

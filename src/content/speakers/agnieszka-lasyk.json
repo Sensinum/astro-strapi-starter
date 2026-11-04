@@ -1,0 +1,35 @@
+{
+  "wpId": 2756,
+  "title": "Agnieszka Lasyk",
+  "slug": "agnieszka-lasyk",
+  "path": "/contributor/agnieszka-lasyk/",
+  "date": "2022-02-24 15:00:32",
+  "modified": "2022-02-24 15:03:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Director of Engineering at Schibsted",
+    "speaker_avatar": {
+      "id": 2758,
+      "url": "/uploads/2022/02/1221-Agnieszka-Lasyk-min.jpeg",
+      "alt": "Agnieszka Lasyk",
+      "width": 2299,
+      "height": 2398
+    },
+    "speaker_surname": "Lasyk",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/agnieszka-lasyk/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Agnieszka is an experienced manager, for almost 10 years in the IT industry. Passionate about process improvement, good feedback, and psychological safety in the organization. Leader-mentor who, under various initiatives, helps women enter the technology industry. She likes working with people and supporting them in their development, building teams, and changing the organization for the better. She believes in the power of trust and empathy.</p>"
+    }
+  ],
+  "formReplaced": false
+}

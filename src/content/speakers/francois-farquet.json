@@ -1,0 +1,43 @@
+{
+  "wpId": 377,
+  "title": "Francois Farquet",
+  "slug": "francois-farquet",
+  "path": "/contributor/francois-farquet/",
+  "date": "2020-01-01 00:01:18",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Oracle Labs | GraalVM",
+    "speaker_avatar": {
+      "id": 378,
+      "url": "/uploads/2021/03/francois_farquet_square-François-Farquet.jpeg",
+      "alt": "Francois Farquet",
+      "width": 481,
+      "height": 481
+    },
+    "speaker_surname": "Farquet",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Francois Farquet is a senior researcher at Oracle Labs Switzerland in the GraalVM team. His interest are benchmarking, performance evaluation and regression detection. He also works on compiler parameters tuning using machine learning approaches.</p>"
+    }
+  ],
+  "formReplaced": false
+}

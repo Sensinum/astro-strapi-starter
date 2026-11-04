@@ -1,0 +1,36 @@
+{
+  "wpId": 529,
+  "title": "Tools: I see what you did there: Incrementalism and Inference in Build Tools",
+  "slug": "tools-i-see-what-you-did-there-incrementalism-and-inference-in-build-tools",
+  "path": "/watch/tools-i-see-what-you-did-there-incrementalism-and-inference-in-build-tools/",
+  "date": "2020-01-01 00:01:44",
+  "modified": "2023-03-20 12:10:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=s_3qLMSGHkI",
+    "video_thumbnail": false,
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      409
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Build tools are incremental execution engines for the decomposed and dependent steps of taking your project from its base inputs, all the way through to an output like a deploy binary, a test run, or a loaded repl. Incremental execution, ie: using languages or frameworks to track dependencies and minimize the amount of re-execution necessary after inputs have changed (while avoiding associated overheads), is a well studied problem. Given that, why have build systems not yet been “”solved”” once and for all? This talk will discuss the tradeoffs involved in build tool execution models and what they mean for our users. It will also focus on solved and open questions in systems like Bazel, Mill, Pants, and others.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,28 @@
+{
+  "wpId": 5265,
+  "title": "Optimizing LLM Inference: Challenges and Best Practices",
+  "slug": "optimizing-llm-inference-challenges-and-best-practices",
+  "path": "/watch/optimizing-llm-inference-challenges-and-best-practices/",
+  "date": "2024-09-11 11:10:02",
+  "modified": "2024-09-23 09:16:52",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "October 24, 2024",
+    "talks_speakers": [
+      5318
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>This presentation delves into the world of Large Language Models (LLMs), focusing on the  efficiency of LLM inference. We will discuss the tradeoff of latency and bandwidth, followed by a deep dive into techniques for accelerating inference, such as KV caching, quantization, speculative decoding, and various forms of parallelism. We will compare popular inference frameworks and address the challenge of navigating the multitude of design choices. Finally, we'll introduce Nvidia Inference Microservices as a convenient one-stop solution for achieving efficient inference on many of the popular models.</p>"
+    }
+  ],
+  "formReplaced": false
+}

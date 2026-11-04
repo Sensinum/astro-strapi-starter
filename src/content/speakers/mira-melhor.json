@@ -1,0 +1,43 @@
+{
+  "wpId": 2220,
+  "title": "Mira Melhor",
+  "slug": "mira-melhor",
+  "path": "/contributor/mira-melhor/",
+  "date": "2021-12-03 10:06:21",
+  "modified": "2024-02-06 18:24:52",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "UX Enterprise Manager at VirtusLab",
+    "speaker_avatar": {
+      "id": 4888,
+      "url": "/uploads/2021/12/427EE316-5BD1-4BFF-9964-F20D2DF7788B-2.jpg",
+      "alt": "427EE316-5BD1-4BFF-9964-F20D2DF7788B-2",
+      "width": 1293,
+      "height": 1293
+    },
+    "speaker_surname": "Melhor",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/mh-melhor/?originalSubdomain=pl",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>As a seasoned UX Manager and Project Manager at VirtusLab, Mira empowers her teams to develop intuitive and impactful user experiences for large-scale corporate projects. Her collaborative leadership style has fostered an environment of shared creativity and collective ownership of projects for over a decade.<br>With a hands-on approach to mentorship and project guidance, she champions a culture of continuous learning and open communication. Her career is marked by her dedication to aligning technological innovation with human-centric design, ensuring every project resonates with users and serves the community's needs. Through her commitment to both professional development and compassionate service, Mira exemplifies the balance of strength and empathy in modern leadership.</p>"
+    }
+  ],
+  "formReplaced": false
+}

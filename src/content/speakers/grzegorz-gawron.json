@@ -1,0 +1,43 @@
+{
+  "wpId": 338,
+  "title": "Grzegorz Gawron",
+  "slug": "grzegorz-gawron",
+  "path": "/contributor/grzegorz-gawron/",
+  "date": "2020-01-01 00:01:33",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Head of Data Science at VirtusLab",
+    "speaker_avatar": {
+      "id": 339,
+      "url": "/uploads/2021/03/Grzegorz_Gawron.jpeg",
+      "alt": "Grzegorz Gawron",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_surname": "Gawron",
+    "speaker_twitter": "https://twitter.com/gg159136",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/grzegorzgawron/?originalSubdomain=pl",
+    "speaker_gh": "https://github.com/gregaw"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Grzegorz Gawron is a lead software engineer/manager with interests in advanced analytics and a taste for theory (that makes him a computer scientist surely!).</p>\n\n\n\n<p>He acts as the Head of Data Science at VirtusLab. Previously doing data engineering at Base CRM. Before that trading systems for banking (PRM). … It all started with a :joy: of having the first Commodore 64 program stored securely on a magnetic tape.</p>\n\n\n\n<p>He holds an MSc in computer science and an MSc in economics from the University of Warsaw.</p>\n\n\n\n<p>Interests in data, algorithms, software engineering, distributed systems, machine learning.</p>"
+    }
+  ],
+  "formReplaced": false
+}

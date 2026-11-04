@@ -1,0 +1,35 @@
+{
+  "wpId": 4499,
+  "title": "Katarzyna Majer",
+  "slug": "katarzyna-majer",
+  "path": "/contributor/katarzyna-majer/",
+  "date": "2023-07-14 15:55:07",
+  "modified": "2023-07-14 15:57:38",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Senior Manager, Technical Program Management at Akamai",
+    "speaker_avatar": {
+      "id": 4501,
+      "url": "/uploads/2023/07/20211018-IMG_3845-copy-1-1-scaled.jpeg",
+      "alt": "20211018-IMG_3845-copy-1",
+      "width": 2560,
+      "height": 2560
+    },
+    "speaker_surname": "Majer",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/kasia-majer/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Non-technical person working in a hi-tech world for over 14 years now. My career has started in the area of business process improvements and quality management, to lead me towards technical program management. As an IT program manager, I have worked on a number of process automation programs, new system or tool implementations, and currently I support the new Akamai Connected Cloud build program. In my current role I run a team of international TPM/SM/PO/RTEs within Akamai's Compute Technology Group.<br>Personally, a mum of two kids, aged 7 and 5. I am a former professional skydiver, and a promotor of neurodiversity.</p>"
+    }
+  ],
+  "formReplaced": false
+}

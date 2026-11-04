@@ -1,0 +1,26 @@
+{
+  "wpId": 5423,
+  "title": "Afterparty 🍸🍕",
+  "slug": "afterparty",
+  "path": "/watch/afterparty/",
+  "date": "2025-01-20 16:22:02",
+  "modified": "2025-01-20 16:23:36",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "February 4, 2025",
+    "talks_speakers": false
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Join us for networking with snacks &amp; drinks! Relax, connect, and enjoy.</p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

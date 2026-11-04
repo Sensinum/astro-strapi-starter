@@ -1,0 +1,48 @@
+{
+  "wpId": 3211,
+  "title": "Mikołaj Klaman",
+  "slug": "mikolaj-klaman",
+  "path": "/contributor/mikolaj-klaman/",
+  "date": "2022-08-09 09:17:42",
+  "modified": "2022-10-13 13:57:34",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      },
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Frontend Engineer at VirtusLab",
+    "speaker_avatar": {
+      "id": 3229,
+      "url": "/uploads/2022/08/CV_Kwadrat_Male.jpg",
+      "alt": "Mikołaj Klaman",
+      "width": 600,
+      "height": 600
+    },
+    "speaker_surname": "Klaman",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/mklaman/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>A software engineer with a JVM background who converted to the frontend side but never felt comfortable without static typing. He is interested in taking various concepts or techniques from the FP folk and trying to apply them in practice in a way that does not annoy too many people but helps achieve readable and maintainable code. He is impeded mostly by his perfectionist tendencies, nothing that can't be fixed with a little bit of workaholism.</p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

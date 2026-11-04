@@ -1,0 +1,43 @@
+{
+  "wpId": 117,
+  "title": "Hubert Pomorski",
+  "slug": "hubert-pomorski",
+  "path": "/contributor/hubert-pomorski/",
+  "date": "2020-01-01 00:02:36",
+  "modified": "2021-03-30 17:00:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Big Data Developer at VirtusLab",
+    "speaker_avatar": {
+      "id": 118,
+      "url": "/uploads/2021/03/Hubert_Pomorski.png",
+      "alt": "Hubert Pomorski",
+      "width": 232,
+      "height": 251
+    },
+    "speaker_surname": "Pomorski",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/hubertpomorski/?originalSubdomain=pl",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Hubert Pomorski is Senior Big Data Developer @ VirtusLab, currently supporting client endeavor to scalable, fully automated Machine Learning pipelines in hybrid Hadoop-cloud environment. In free time, Hubert enjoys good board game.</p>"
+    }
+  ],
+  "formReplaced": false
+}

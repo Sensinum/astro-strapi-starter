@@ -1,0 +1,43 @@
+{
+  "wpId": 1756,
+  "title": "Menaka Basker",
+  "slug": "menaka-basker",
+  "path": "/contributor/menaka-basker/",
+  "date": "2021-09-01 08:40:31",
+  "modified": "2021-09-13 09:30:34",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Programmer at Kumaran System",
+    "speaker_avatar": {
+      "id": 1806,
+      "url": "/uploads/2021/09/menaka_alt2-1.jpg",
+      "alt": "Menaka Basker",
+      "width": 374,
+      "height": 377
+    },
+    "speaker_surname": "Basker",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/menaka-priyadharshini-basker-291600188/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Working as Senior Programmer, Menaka is a tech enthusiastic blogger and an international speaker who speaks about Cloud and .Net core. Menaka spends her valuable time learning and sharing her knowledge with the community. She is also a former Microsoft Student Partner and Mozilla Firefox student Ambassador. She is a Microsoft certified Resource in Azure and programming in c#. Menaka is recognized as the Most valuable professional by the C# corner community.</p>"
+    }
+  ],
+  "formReplaced": false
+}

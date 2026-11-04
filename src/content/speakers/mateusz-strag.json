@@ -1,0 +1,43 @@
+{
+  "wpId": 1258,
+  "title": "Mateusz Strąg",
+  "slug": "mateusz-strag",
+  "path": "/contributor/mateusz-strag/",
+  "date": "2021-06-11 13:39:57",
+  "modified": "2021-06-11 13:39:59",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Tech Lead at VirtusLab",
+    "speaker_avatar": {
+      "id": 1259,
+      "url": "/uploads/2021/06/mateusz_strag-Mateusz-Strąg.jpg",
+      "alt": "Mateusz Strąg",
+      "width": 960,
+      "height": 960
+    },
+    "speaker_surname": "Strąg",
+    "speaker_twitter": "https://twitter.com/MateuszStrag",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/mateusz-str%C4%85g-320a41131/",
+    "speaker_gh": "https://github.com/mstrag"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Mateusz is a Tech Lead at VirtusLab, developing headless CMS consumed by multiple applications, recently focused on building scalable infrastructure in the cloud for various applications. In his free time, he contributes to open source projects, and develops applications within the R &amp; D department. Loves to work on innovative tools, especially those which will improve the developer experience.</p>"
+    }
+  ],
+  "formReplaced": false
+}

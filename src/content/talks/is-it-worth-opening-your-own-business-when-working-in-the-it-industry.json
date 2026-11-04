@@ -1,0 +1,38 @@
+{
+  "wpId": 2356,
+  "title": "Is it worth opening your own business when working in the IT industry?",
+  "slug": "is-it-worth-opening-your-own-business-when-working-in-the-it-industry",
+  "path": "/watch/is-it-worth-opening-your-own-business-when-working-in-the-it-industry/",
+  "date": "2021-12-23 15:36:00",
+  "modified": "2023-03-21 10:13:51",
+  "template": null,
+  "excerpt": "Od pracy w agencji, przez startupy na różnym etapie rozwoju, aż po własny biznes, zebrałem kilka historii, które oddają realia pracy w każdej z tych organizacji. Pracując nad projektami komercyjnymi i rozwijając się po godzinach, przeszedłem transformację od programisty aplikacji mobilnych, przez full-stack web developera aż po lidera zespołu rozwijającego produkt w mojej firmie. Każda ze zmian wiązała się z nowymi początkami. W mojej prezentacji podzielę się z Wami konsekwencjami moich decyzji i postaram się odpowiedzieć czy było warto 🙂",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/12/jan_is.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=BS5EE2IALzU&t=21s",
+    "video_thumbnail": false,
+    "talk_date": "October 14, 2021",
+    "talks_speakers": [
+      1864
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>(PL) </p>\n\n\n\n<p>Od pracy w agencji, przez startupy na różnym etapie rozwoju, aż po własny biznes, zebrałem kilka historii, które oddają realia pracy w każdej z tych organizacji. Pracując nad projektami komercyjnymi i rozwijając się po godzinach, przeszedłem transformację od programisty aplikacji mobilnych, przez full-stack web developera aż po lidera zespołu rozwijającego produkt w mojej firmie. Każda ze zmian wiązała się z nowymi początkami. W mojej prezentacji podzielę się z Wami konsekwencjami moich decyzji i postaram się odpowiedzieć czy było warto. </p>\n\n\n\n<p></p>\n\n\n\n<p>(ENG) </p>\n\n\n\n<p>From working in an agency, through startups at various stages of development, to my own business, I have collected a few stories that reflect the realities of working in each of these organizations. Working on commercial projects and developing after hours, I have gone through a transformation from a mobile application developer, through a full-stack web developer, to a product development team leader in my company. Each of the changes was associated with new beginnings. In my presentation, I will share with you the consequences of my decisions and I will try to answer whether it was worth it.</p>"
+    }
+  ],
+  "formReplaced": false
+}

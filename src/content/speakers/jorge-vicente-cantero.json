@@ -1,0 +1,43 @@
+{
+  "wpId": 413,
+  "title": "Jorge Vicente Cantero",
+  "slug": "jorge-vicente-cantero",
+  "path": "/contributor/jorge-vicente-cantero/",
+  "date": "2020-01-01 00:01:02",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Devtools Engineer at the Scala Center",
+    "speaker_avatar": {
+      "id": 414,
+      "url": "/uploads/2021/03/Jorge_Vicente_Cantero.jpeg",
+      "alt": "Jorge Vicente Cantero",
+      "width": 460,
+      "height": 460
+    },
+    "speaker_surname": "Cantero",
+    "speaker_twitter": "https://twitter.com/jvicantak",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://ch.linkedin.com/in/jvican",
+    "speaker_gh": "https://github.com/jvican"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Jorge Vicente Cantero is a Devtools Engineer at the Scala Center. He works on the core infrastructure of the Scala programming language, from the compilers (Scala and Zinc) to build tools (sbt, bloop) and more. He’s the Lead of the Scala Improvement Process and coordinates the Scala Platform. His focus is on making Scala developers more productive.</p>"
+    }
+  ],
+  "formReplaced": false
+}

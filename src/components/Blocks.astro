@@ -1,0 +1,787 @@
+---
+import PixelLines from './PixelLines.astro';
+import PrimaryButton from './PrimaryButton.astro';
+import ResponsiveImage from './ResponsiveImage.astro';
+import SpeakerCard from './SpeakerCard.astro';
+import TalkCard from './TalkCard.astro';
+import { siteData, termById, terms } from '../data/site';
+import { eventsInSeries, htmlOf, isUpcoming, sortEvents, type AnyEntry, type Library } from '../lib/content';
+import { eventParts, formatClock, pixelHeader, plainText, vimeoId } from '../lib/format';
+
+interface Block {
+  kind: 'acf' | 'html';
+  name?: string;
+  anchor?: string;
+  className?: string;
+  data?: Record<string, any>;
+  html?: string;
+}
+interface Props {
+  blocks: Block[];
+  entry: AnyEntry;
+  library: Library;
+  context?: 'default-page' | 'series' | 'events-page' | 'general';
+}
+const { blocks, entry, library, context = 'general' } = Astro.props;
+const contact = siteData.contactUrl;
+
+function cls(base: string, block: Block) {
+  return [base, block.className].filter(Boolean).join(' ');
+}
+function idOf(block: Block, fallback: string) {
+  return block.anchor || fallback;
+}
+function seriesTaxId() {
+  const value = entry.data.acf?.event_series_tax;
+  return value ? Number(value) : null;
+}
+function artworkOf(event: { data: { acf?: Record<string, any> } }) {
+  return event.data.acf?.event_artwork_listing?.url || event.data.acf?.event_artwork?.url || '';
+}
+---
+{blocks.map((block, index) => {
+  if (block.kind === 'html' && block.html) {
+    return <Fragment set:html={block.html} />;
+  }
+  if (block.kind !== 'acf' || !block.name) return null;
+  const data = block.data || {};
+  const id = idOf(block, `${block.name.replace(/\W+/g, '-')}-${index}`);
+
+  if (block.name === 'acf/block-header-home-v2' || block.name === 'acf/block-header-podcast') {
+    const podcast = block.name.endsWith('podcast');
+    const video = vimeoId(data.podcast_url);
+    return (
+      <header class={cls(podcast ? 'block-header-podcast' : 'block-header-home-v2', block) + ' container-fluid px-0'} id={id}>
+        <div class="container-flexible">
+          <div class="upper-row">
+            <div class="line-wrapper"><div class="line-box"><div class="accent-line horizontal size-y"></div><div class="accent-line vertical size-x"></div></div></div>
+            {data.block_title?.length > 0 && (
+              <div class="row">
+                <div class="col-12 col-lg-11 offset-lg-1">
+                  <h1 class="header-inter uppercase with-stroke spacer-left">
+                    <PixelLines lines={data.block_title} newline={data.block_title.length > 1} />
+                  </h1>
+                </div>
+              </div>
+            )}
+          </div>
+          <div class="row lower-row">
+            <div class="col-12 col-sm-7 col-lg-6 offset-lg-1">
+              {data.block_description && <div class="font-inter size-20 uppercase block-description spacer-left" set:html={data.block_description} />}
+            </div>
+            <div class="col-12 col-sm-4 offset-sm-1"><div class="accent-line horizontal size-y"></div></div>
+          </div>
+          {video && (
+            <div class="row">
+              <div class="col-12 col-lg-10 offset-lg-1">
+                <div class="embed-responsive embed-responsive-16by9">
+                  <iframe src={`https://player.vimeo.com/video/${video}?dnt=1`} title="Sphere.it podcast" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                </div>
+                <PrimaryButton link={data.block_cta} />
+              </div>
+            </div>
+          )}
+        </div>
+      </header>
+    );
+  }
+
+  if (block.name === 'acf/block-slider-half-screen') {
+    return (
+      <section class={cls('block-slider-half-screen', block) + ' container-fluid px-0'} id={id}>
+        <div class="container-flexible">
+          {data.block_title && (
+            <div class="row align-items-end">
+              <div class="col offset-lg-1"><h2 class="header-inter uppercase with-stroke"><PixelLines lines={data.block_title} /></h2></div>
+              <div class="col pl-0"><div class="accent-line horizontal size-y"></div></div>
+            </div>
+          )}
+        </div>
+        <div class="slider-container">
+          <div class="splide splide-images-slider" id={`slider-${id}`}>
+            <div class="splide__track">
+              <ul class="splide__list">
+                {(data.block_slider || []).map((slide: any, slideIndex: number) => slide.image?.url && (
+                  <li class="splide__slide">
+                    <a href={slide.link?.url || '#'} title={slide.link?.title || ''} target={slide.link?.target || undefined} class:list={[slide.description && 'slide-has-desc']} data-target-id={`slide-desc-${slideIndex + 1}`}>
+                      <ResponsiveImage image={slide.image} wrap classes="image-wrapper square dark" />
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </div>
+          <div class="container-flexible">
+            <div class="row">
+              <div class="col-12 col-sm-8 col-lg-4 offset-lg-7 desc-col">
+                <div class="font-inter size-18 block-description">
+                  {data.block_description && <div class="base-desc" set:html={data.block_description} />}
+                  {(data.block_slider || []).map((slide: any, slideIndex: number) => slide.description && slide.link && (
+                    <div id={`slide-desc-${slideIndex + 1}`} class="slide-desc">{slide.description}</div>
+                  ))}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-green-line-separator') {
+    return (
+      <section class={cls('block-accent-line-separator', block) + ' container-fluid px-0'} id={id}>
+        <div class="accent-line-wrapper size-x"><div class="accent-line vertical"></div></div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-podcast') {
+    const video = vimeoId(data.podcast_url);
+    return (
+      <section class={cls('block-podcast', block) + ' container-fluid px-0'} id={id}>
+        <div class="container-flexible">
+          {data.block_title && (
+            <div class="row align-items-end">
+              <div class="col-12 col-sm-8 col-lg-6 offset-lg-1"><h2 class="header-inter uppercase with-stroke"><PixelLines lines={data.block_title} /></h2></div>
+              <div class="d-none d-sm-block col-sm-4 offset-lg-1 col-xxl-5 offset-xxl-0"><div class="accent-line horizontal size-y"></div></div>
+            </div>
+          )}
+          <div class="row position-relative">
+            {video && (
+              <div class="col-12 col-lg-10 offset-lg-1 main-col">
+                <div class="col-wrap">
+                  <div class="embed-responsive embed-responsive-16by9">
+                    <iframe src={`https://player.vimeo.com/video/${video}?dnt=1`} title="Podcast" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                  </div>
+                  <PrimaryButton link={data.block_cta} />
+                </div>
+              </div>
+            )}
+            {data.block_description && (
+              <div class="col-12 col-sm-6 col-lg-4 offset-lg-1 lower-col">
+                <div class="font-inter size-18 block-description" set:html={data.block_description} />
+              </div>
+            )}
+            <div class="accent-line-wrapper size-x"><div class="accent-line vertical"></div></div>
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-slideshow-v2') {
+    const gallery = (data.block_gallery || []).filter((image: any) => image?.url);
+    return (
+      <section class={cls('block-slideshow', block) + ' container-fluid px-0'} id={id}>
+        <div class="container-flexible">
+          <div class="row justify-content-center">
+            <div class="col-12 col-lg-8 helper-wrap">
+              <div class="slider-wrapper">
+                <div class="splide splide-images" id={`slider-${id}`}>
+                  <div class="splide__track">
+                    <ul class="splide__list">
+                      {gallery.map((image: any) => (
+                        <li class="splide__slide"><div class="image-wrapper"><ResponsiveImage image={image} classes="dark" /></div></li>
+                      ))}
+                    </ul>
+                  </div>
+                  {data.block_title_1 && <div class="header-inter uppercase with-stroke block-title-1"><div><span class="hover-me" set:html={pixelHeader(data.block_title_1)} /></div></div>}
+                  {data.block_title_2 && <div class="header-inter uppercase with-stroke block-title-2"><div><span class="hover-me" set:html={pixelHeader(data.block_title_2)} /></div></div>}
+                </div>
+                {data.block_description && <div class="font-inter size-18 block-description">{data.block_description}</div>}
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-vived-promo') {
+    return (
+      <section class={cls('block-vived-promo', block) + ' container-fluid px-0'} id={id}>
+        <div class="container-flexible">
+          <div class="row">
+            {data.block_title && (
+              <div class="col-12 col-lg-11 offset-lg-1">
+                <div class="header-inter uppercase with-stroke block-title"><PixelLines lines={data.block_title} /></div>
+              </div>
+            )}
+            {data.block_description && <div class="col-12 col-sm-8 d-lg-none"><div class="font-inter size-18 block-description" set:html={data.block_description} /></div>}
+            <div class="col-12 order-1 col-lg-6 offset-lg-1 order-lg-0 col-xl-5 promo-box-col">
+              {data.block_description && <div class="d-none d-lg-block font-inter size-18 block-description" set:html={data.block_description} />}
+              {(data.vived_appstore_url || data.vived_googleplay_url) && (
+                <div class="promo-box">
+                  <div class="text-info font-inter size-18">
+                    Download app and let <img src="/theme/src/template-parts/blocks/theme-v2/vived-promo/assets/vived-logo.png" class="vived-logo" alt="Vived" /> pick for you
+                  </div>
+                  <div class="link-vived">
+                    {data.vived_qr_code?.url && <div class="qr-code"><ResponsiveImage image={data.vived_qr_code} wrap classes="square dark" /></div>}
+                    {data.vived_appstore_url && <a href={data.vived_appstore_url} target="_blank" rel="noopener" class="vived-ios"><img src="/theme/src/template-parts/blocks/theme-v2/vived-promo/assets/badge-app-store.png" alt="Download Vived for iOS" /></a>}
+                    {data.vived_googleplay_url && <a href={data.vived_googleplay_url} target="_blank" rel="noopener" class="vived-android"><img src="/theme/src/template-parts/blocks/theme-v2/vived-promo/assets/badge-google-play.png" alt="Download Vived for Android" /></a>}
+                  </div>
+                </div>
+              )}
+            </div>
+            {(data.vived_screen_img?.url || data.vived_video_url) && (
+              <div class="col-12 col-lg-4 offset-lg-1">
+                <div class="video-wrapper">
+                  {vimeoId(data.vived_video_url) ? (
+                    <div class="embed-responsive embed-responsive-16by9"><iframe src={`https://player.vimeo.com/video/${vimeoId(data.vived_video_url)}?dnt=1`} title="Vived" allowfullscreen></iframe></div>
+                  ) : data.vived_screen_img?.url && <ResponsiveImage image={data.vived_screen_img} />}
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-contact') {
+    return (
+      <section class={cls('block-contact', block) + ' container-fluid px-0'} id={id}>
+        <div class="container-flexible">
+          {data.block_title && (
+            <div class="row align-items-end title-row">
+              <div class="col-12 col-sm offset-lg-1"><h2 class="header-inter uppercase with-stroke"><PixelLines lines={data.block_title} /></h2></div>
+              <div class="d-none d-sm-block col pl-0"><div class="accent-line horizontal size-y"></div></div>
+            </div>
+          )}
+          <div class="row">
+            <div class="col-12 col-sm-8 col-lg-4 offset-lg-1">
+              {data.block_description && <div class="font-inter size-18 block-description" set:html={data.block_description} />}
+            </div>
+            {data.block_image?.url && (
+              <div class="col-12 col-lg-6 offset-lg-1">
+                <div class="col-wrapper">
+                  <div class="image-wrapper">
+                    <div class="accent-line-wrapper size-y line-1"><div class="accent-line horizontal"></div></div>
+                    <div class="accent-line-wrapper size-x line-2"><div class="accent-line vertical"></div></div>
+                    <ResponsiveImage image={data.block_image} wrap classes="square dark" />
+                    {data.image_caption && <div class="font-inter size-14 uppercase image-caption">{data.image_caption}</div>}
+                    {data.contact_email && (
+                      <div class="header-inter with-stroke contact-email">
+                        <a href={data.contact_href || contact}>
+                          <span class="hover-me" set:html={pixelHeader(String(data.contact_email))} />
+                        </a>
+                      </div>
+                    )}
+                  </div>
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+        {data.sliding_caption && (
+          <div class="sliding-caption"><div class="header-inter with-stroke uppercase" set:html={pixelHeader(String(data.sliding_caption))} /></div>
+        )}
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-speaker-cta') {
+    const selected: string[] = data.selected_buttons || [];
+    const become = selected.includes('become') ? siteData.options.becomeSpeaker : null;
+    const nominate = selected.includes('nominate') && siteData.options.nominateSpeaker && typeof siteData.options.nominateSpeaker === 'object'
+      ? siteData.options.nominateSpeaker
+      : null;
+    const all = selected.includes('all-speakers') ? siteData.options.allSpeakers : null;
+    return (
+      <section class={cls('block-speaker-cta', block) + ' container-fluid px-0'} id={id}>
+        <div class="container-flexible">
+          <div class="row">
+            <div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+              <div class="block-content">
+                {data.block_title && <h2 class="heading-3">{data.block_title}</h2>}
+                {data.block_descriptionn && <div class="block-description" set:html={data.block_descriptionn} />}
+                <div class="cta-btns-group">
+                  {all?.url && <a class="cta-button" href={all.url}>{all.title}</a>}
+                  {become?.url && <a class="cta-button filled-black" href={become.url} target="_blank" rel="noopener">{become.title}</a>}
+                  {nominate?.url && <a class="cta-button" href={nominate.url} target="_blank" rel="noopener">{nominate.title}</a>}
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-faq-accordion') {
+    const wrapped = context !== 'default-page';
+    return (
+      <section class={cls('block-faq-accordion', block) + (wrapped ? ' wrapped-content' : '')} id={id} style={data.block_background_color ? `background-color:${data.block_background_color};color:${data.block_font_color || 'inherit'}` : undefined}>
+        {wrapped ? (
+          <div class="container-flexible"><div class="row justify-content-center"><div class="col-12 col-md-10 col-lg-8">
+            {data.block_title && <h2 class="heading-single">{data.block_title}</h2>}
+            {(data.block_faq || []).map((row: any, rowIndex: number) => row.question && (
+              <div class="dropdown-button faq-row">
+                <div class="dd-controller dropdown-toggle" data-toggle="collapse" data-target={`#${id}-question-${rowIndex}`} aria-expanded="false">
+                  <strong>{row.question}</strong>
+                  <div class="round-icon"><i class="fas fa-chevron-down"></i></div>
+                </div>
+                <div class="collapse" id={`${id}-question-${rowIndex}`}><div class="dd-content" set:html={row.answer} /></div>
+              </div>
+            ))}
+          </div></div></div>
+        ) : (
+          <Fragment>
+            {data.block_title && <h2 class="heading-3">{data.block_title}</h2>}
+            {(data.block_faq || []).map((row: any, rowIndex: number) => row.question && (
+              <div class="dropdown-button faq-row">
+                <div class="dd-controller dropdown-toggle" data-toggle="collapse" data-target={`#${id}-question-${rowIndex}`} aria-expanded="false">
+                  <strong>{row.question}</strong>
+                  <div class="round-icon"><i class="fas fa-chevron-down"></i></div>
+                </div>
+                <div class="collapse" id={`${id}-question-${rowIndex}`}><div class="dd-content" set:html={row.answer} /></div>
+              </div>
+            ))}
+          </Fragment>
+        )}
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-logo-with-text') {
+    return (
+      <section class={cls('block-logo-with-text', block) + ' container-fluid px-0'} id={id}>
+        <div class="container-flexible">
+          <div class="banner-box">
+            <div class="row">
+              {data.block_logo?.url && <div class="col-12 col-sm-4 offset-lg-2 col-lg-2"><ResponsiveImage image={data.block_logo} classes="dark" /></div>}
+              <div class="col-12 col-sm-8 col-lg-6">
+                {data.block_description && <div class="font-inter size-18 block-description">{data.block_description}</div>}
+                <PrimaryButton link={data.block_link} />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-podcasts-slider') {
+    const parents = (data.podcacts_cat_filter || []).map((idValue: number) => termById('podcasts_cat', Number(idValue))).filter(Boolean);
+    const active = Number(data.default_active_podcasts_cat || parents[0]?.id || 0);
+    const episodes = library.podcasts.filter((podcast) => (podcast.data.acf?.podcast_cover?.url));
+    return (
+      <section class={cls('block-podcasts-slider', block) + ' container-fluid px-0'} id={id}>
+        <div class="container-flexible">
+          {data.block_title && <h2 class="header-inter uppercase with-stroke"><PixelLines lines={data.block_title} /></h2>}
+          <div class="areas-filter" data-podcast-filters>
+            {parents.map((parent: any) => (
+              <button type="button" class:list={['area-btn', 'primary-btn', parent.id === active && 'active']} data-area={parent.id} style={parent.color ? `background:${parent.color}` : undefined}>{parent.name}</button>
+            ))}
+          </div>
+          <div class="podcasts-slider">
+            {episodes.map((podcast) => {
+              const cats = podcast.data.terms?.podcasts_cat || [];
+              const classList = cats.map((cat) => (cat.id && terms('podcasts_cat').find((term) => term.id === cat.id)?.parent ? `topic-${cat.id}` : `area-${cat.id}`)).join(' ');
+              const yt = podcast.data.acf?.podcast_yt;
+              const spotify = podcast.data.acf?.podcast_spotify;
+              const people = (podcast.data.acf?.podcast_contributors || []).map((idValue: number) => library.speakerById.get(Number(idValue))).filter(Boolean);
+              return (
+                <article class={`podcast-slide ${classList}`} data-areas={cats.map((cat) => cat.id).join(',')}>
+                  {podcast.data.acf?.podcast_cover?.url && (
+                    <a href={yt?.url || podcast.data.path} target={yt?.url ? '_blank' : undefined} rel={yt?.url ? 'noopener' : undefined}>
+                      <div class="cover-wrapper"><div class="responsive-image-wrapper"><img src={podcast.data.acf.podcast_cover.url} alt={podcast.data.title} /></div></div>
+                    </a>
+                  )}
+                  <div class="podcast-info">
+                    <div class="tags">
+                      {cats.filter((cat) => terms('podcasts_cat').find((term) => term.id === cat.id)?.parent).map((cat) => <div class="primary-btn">{cat.name}</div>)}
+                    </div>
+                    <h3 class="font-inter size-36"><a href={podcast.data.path}>{podcast.data.title}</a></h3>
+                    <div class="media-buttons">
+                      <PrimaryButton link={spotify} />
+                      <PrimaryButton link={yt} />
+                    </div>
+                    {podcast.data.acf?.podcast_description && <div class="font-inter size-18 podcast-desc" set:html={podcast.data.acf.podcast_description} />}
+                    {people.length > 0 && (
+                      <div class="contributors">
+                        {people.map((person: any) => <a href={person.data.path}>{person.data.title}</a>)}
+                      </div>
+                    )}
+                  </div>
+                </article>
+              );
+            })}
+          </div>
+          {data.text_no_slides && <p class="no-slides" hidden>{data.text_no_slides}</p>}
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-upcoming-events' || block.name === 'acf/block-past-events') {
+    const onSeries = context === 'series' || entry.data.template === null && entry.data.path?.includes('/event-series/');
+    const taxFilter = block.name === 'acf/block-upcoming-events'
+      ? Number(data.selected_tax_upcoming || (onSeries ? seriesTaxId() : 0))
+      : Number(data.selected_tax_past || (onSeries ? seriesTaxId() : 0));
+    const pool = taxFilter ? eventsInSeries(library.events, taxFilter) : library.events;
+    const upcoming = sortEvents(pool.filter((event) => isUpcoming(event)), 'asc');
+    const past = sortEvents(pool.filter((event) => !isUpcoming(event)), 'desc');
+    if (block.name === 'acf/block-upcoming-events') {
+      if (!upcoming.length) return null;
+      const heading = data.block_title || 'Upcoming events';
+      return (
+        <section class={cls('block-upcoming-events', block) + ' container-fluid px-0'} id={id}>
+          <div class="container-flexible">
+            <div class="row">
+              <div class="col-12 col-md-10 col-lg-9 col-xxl-6 component-upcoming-events">
+                {context === 'events-page' ? <h1 class="heading-3 with-static-offset">{heading}</h1> : <h2 class="heading-3 with-static-offset">{heading}</h2>}
+                {upcoming.map((event) => {
+                  const parts = eventParts(event.data.acf?.event_date);
+                  const art = artworkOf(event);
+                  const bg = event.data.acf?.event_background_color || '#F6F9FC';
+                  const font = event.data.acf?.event_font_color ? '#21212C' : '#f6f9fc';
+                  const image = event.data.acf?.header_background_image?.url;
+                  return (
+                    <div class="event-row with-static-offset">
+                      {parts.dayMonth && <div class="event-date-wrap"><div class="event-date"><div class="day-month">{parts.dayMonth}</div><div class="year">{parts.year}</div></div></div>}
+                      <a class="event" href={event.data.path} style={`background-color:${bg};color:${font};${image ? `background-image:url('${image}')` : ''}`}>
+                        {art && <div class="event-artwork"><div class="artwork-fill" style={`background-image:url('${art}')`}></div></div>}
+                        <div class:list={['event-info', !art && 'ml-0']}>
+                          {event.data.acf?.event_series_label && <div class="series-label">{event.data.acf.event_series_label}</div>}
+                          <h3 class="event-title">{event.data.title}</h3>
+                          <div class:list={['d-none d-sm-flex tile-footer', !event.data.acf?.event_font_color && 'light']}>
+                            <div class="info-lines">
+                              {event.data.acf?.type_of_event && <div class="info-line">{event.data.acf.type_of_event}</div>}
+                              {event.data.acf?.event_entry && <div class="info-line">{event.data.acf.event_entry}</div>}
+                            </div>
+                            <div class="learn-more">Learn more</div>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  );
+                })}
+              </div>
+            </div>
+          </div>
+        </section>
+      );
+    }
+    const pageSize = onSeries || data.selected_tax_past ? past.length : 5;
+    const seriesList = library.series.filter((series) => series.data.acf?.event_series_tax && series.id !== (onSeries ? entry.id : ''));
+    if (!past.length && !seriesList.length) return null;
+    return (
+      <section class={cls('block-past-events', block) + ' container-fluid px-0 both-components'} id={id}>
+        <div class="container-flexible">
+          <div class="row">
+            {past.length > 0 && (
+              <div class="col-12 col-lg-8 col-xxl-6 component-past-events" data-past-events data-page-size={pageSize}>
+                <h2 class="heading-3 with-static-offset">{data.block_title || 'Past events'}</h2>
+                {past.map((event, eventIndex) => {
+                  const parts = eventParts(event.data.acf?.event_date);
+                  const art = artworkOf(event);
+                  const bg = event.data.acf?.event_background_color || '#F6F9FC';
+                  return (
+                    <div class="event-row with-static-offset" data-event-row hidden={eventIndex >= pageSize}>
+                      {parts.dayMonth && <div class="event-date-wrap"><div class="event-date"><div class="day-month">{parts.dayMonth}</div><div class="year">{parts.year}</div></div></div>}
+                      <a class="event" href={event.data.path}>
+                        {art && <div class="event-artwork" style={`background-color:${bg}`}><div class="artwork-fill" style={`background-image:url('${art}')`}></div></div>}
+                        <div class="event-info">
+                          {event.data.acf?.event_series_label && <div class="series-label">{event.data.acf.event_series_label}</div>}
+                          <h3 class="event-title">{event.data.title}</h3>
+                          <div class="learn-more">Learn more</div>
+                        </div>
+                      </a>
+                    </div>
+                  );
+                })}
+                {past.length > pageSize && (
+                  <div class="pagination"><div class="pagination__wrapper">
+                    <button type="button" class="page-numbers" data-past-prev><i class="fas fa-arrow-left"></i></button>
+                    <button type="button" class="page-numbers" data-past-next><i class="fas fa-arrow-right"></i></button>
+                  </div></div>
+                )}
+              </div>
+            )}
+            {seriesList.length > 0 && (
+              <div class="col-12 offset-lg-1 col-lg-3 offset-xxl-3 component-events-series">
+                <h2 class="heading-3">{data.sidebar_title || 'Event series by Sphere.it'}</h2>
+                <div class="row series-row">
+                  {seriesList.map((series) => (
+                    <a class="col-lg-12 series-item" href={series.data.path}>
+                      {series.data.acf?.series_logotype?.url && <img src={series.data.acf.series_logotype.url} alt={series.data.title} />}
+                      <h3>{series.data.title}</h3>
+                      {series.data.excerpt && <p>{plainText(series.data.excerpt, 24)}</p>}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-half-bg-image' || block.name === 'acf/block-full-bg-image') {
+    const full = block.name.endsWith('full-bg-image');
+    const bg = data.block_background_color || (full ? '#000000' : '#000000');
+    const font = data.block_font_color || '#ffffff';
+    const image = data.block_background_image?.url;
+    const switched = Boolean(data.switch_text_side);
+    return (
+      <section class={cls(full ? 'block-full-bg-image' : 'block-half-bg-image', block) + (switched ? ' switch-sides' : '') + ' container-fluid px-0'} id={id}>
+        <div class="content-wrap" style={`background-color:${bg};color:${font};`}>
+          {image && (
+            <div class="responsive-bg-image lazy-background visible">
+              <div class="responsive-bg-image__wrapper" style={`background-image:url('${image}')`}></div>
+            </div>
+          )}
+          <div class="container-flexible">
+            {full ? (
+              <div class="row"><div class="col-12 col-md-8 offset-md-2 col-xxl-6 offset-xxl-3">
+                {data.block_title && <h2 class="block-title">{data.block_title}</h2>}
+                {data.block_description && <div class="block-description" set:html={data.block_description} />}
+                {data.block_button?.url && <a class="block-button" href={data.block_button.url} target={data.block_button.target || undefined} style={`background:${data.cta_background_color || '#fff'};color:${data.cta_font_color || '#000'};border-radius:${data.cta_border_radius ?? 6}px`}>{data.block_button.title}</a>}
+              </div></div>
+            ) : (
+              <div class="row">
+                <div class={switched ? 'col-12 col-md-6 offset-lg-1 image-half-wrapper' : 'col-12 col-md-6 image-half-wrapper'}>{image && <div class="image-half"></div>}</div>
+                <div class={switched ? 'd-flex align-items-center col-12 col-md-6 col-lg-5 text-half-wrapper' : 'd-flex align-items-center col-12 col-md-6 col-lg-5 offset-lg-1 text-half-wrapper'}>
+                  <div class="text-half">
+                    {data.block_description && <div class="block-description" set:html={data.block_description} />}
+                    {data.block_button?.url && <a class="block-button" href={data.block_button.url} target={data.block_button.target || undefined} style={`background:${data.cta_background_color || '#fff'};color:${data.cta_font_color || '#000'};border-radius:${data.cta_border_radius ?? 6}px`}>{data.block_button.title}</a>}
+                  </div>
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-about-text') {
+    if (!data.block_description) return null;
+    return (
+      <section class={cls('block-about-text', block) + ' container-fluid px-0'} id={id}>
+        <div class="content-wrap" style={`background-color:${data.block_background_color || '#ffffff'};color:${data.block_font_color || '#000000'};`}>
+          <div class="container-flexible"><div class="row"><div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+            {data.block_title && <h2 class="heading-single block-title">{data.block_title}</h2>}
+            <div class="block-description" set:html={data.block_description} />
+          </div></div></div>
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-sponsors') {
+    const groups = data.sponsor_groups || [];
+    if (!groups.length) return null;
+    return (
+      <section class={cls('block-sponsors', block) + ' container-fluid px-0'} id={id} style={`background-color:${data.block_background_color || '#ffffff'}`}>
+        <div class="container-flexible">
+          {groups.map((group: any) => (
+            <div class:list={['row group-row', data.logotypes_alignment && 'justify-content-center']}>
+              {group.label && <div class="col-12 group-label">{group.label}</div>}
+              {(group.members || []).filter((member: any) => member.logotype?.url).map((member: any) => (
+                <div class="col-6 col-sm-4 col-md-3 col-xl-2 group-member">
+                  {member.url ? (
+                    <a class="logo-wrapper" href={member.url} rel="noopener" target="_blank"><ResponsiveImage image={member.logotype} alt="Partner logotype" /></a>
+                  ) : (
+                    <span class="logo-wrapper"><ResponsiveImage image={member.logotype} alt="Partner logotype" /></span>
+                  )}
+                </div>
+              ))}
+            </div>
+          ))}
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-speaker-groups-listing') {
+    const groups = data.automatic_selection ? [] : (data.speaker_groups || []);
+    let autoIds: number[] = [];
+    if (data.automatic_selection && Array.isArray(entry.data.acf?.event_agenda)) {
+      for (const item of entry.data.acf.event_agenda) {
+        if (item.item_type === 'talk' && item.talk_id) {
+          const talk = library.talkById.get(Number(item.talk_id));
+          autoIds = autoIds.concat(talk?.data.acf?.talks_speakers || []);
+        }
+      }
+    }
+    return (
+      <section class={cls('block-speaker-groups-listing', block) + ' container-fluid px-0'} id={id}>
+        <div class="content-wrap" style={`background-color:${data.block_background_color || '#ffffff'};color:${data.block_font_color || '#000'};`}>
+          <div class="container-flexible"><div class="row"><div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+            {data.block_title && <h2 class="heading-single block-title">{data.block_title}</h2>}
+            {groups.map((group: any) => (
+              <Fragment>
+                {group.group_label && <h3 class="heading-4 group-label">{group.group_label}</h3>}
+                <div class="row speaker-group">
+                  {(group.speakers || []).map((speakerId: number) => {
+                    const speaker = library.speakerById.get(Number(speakerId));
+                    return speaker ? <SpeakerCard speaker={speaker} wide /> : null;
+                  })}
+                </div>
+              </Fragment>
+            ))}
+            {autoIds.length > 0 && (
+              <div class="row speaker-group">
+                {[...new Set(autoIds)].map((speakerId) => {
+                  const speaker = library.speakerById.get(Number(speakerId));
+                  return speaker ? <SpeakerCard speaker={speaker} wide /> : null;
+                })}
+              </div>
+            )}
+          </div></div></div>
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-event-agenda') {
+    const agenda = entry.data.acf?.event_agenda || [];
+    return (
+      <section class={cls('block-event-agenda', block) + (data.smaller_paddings ? ' reduce-spacings' : '') + ' container-fluid px-0'} id={id} style={`background-color:${data.block_background_color || '#fff'};color:${data.block_font_color || '#000'}`}>
+        {data.block_title && <div class="container-flexible"><div class="row"><div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2"><h2 class="block-title">{data.block_title}</h2></div></div></div>}
+        {agenda.map((item: any, itemIndex: number) => {
+          const talk = item.item_type === 'talk' ? library.talkById.get(Number(item.talk_id)) : null;
+          const title = item.custom_title || talk?.data.title || '';
+          const description = item.item_type === 'custom' ? item.item_content : (talk ? htmlOf(talk) : '');
+          const speakers = (talk?.data.acf?.talks_speakers || []).map((speakerId: number) => library.speakerById.get(Number(speakerId))).filter(Boolean);
+          return (
+            <div class={`agenda-item item-${itemIndex}`} style={`background:${item.background_color || data.block_background_color || '#fff'};color:${item.font_color || data.block_font_color || '#000'}`}>
+              <div class="container-flexible"><div class="row"><div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+                {item.item_time && <div class="heading-4">{item.item_time}</div>}
+                {title && <h3 class="item-title">{title}</h3>}
+                {description && <div class="item-description" set:html={description} />}
+                {speakers.length > 0 && (
+                  <div class="talk-speakers">
+                    {speakers.map((speaker: any, speakerIndex: number) => (
+                      <Fragment>
+                        <a href={speaker.data.path}>{speaker.data.title}</a>
+                        {speaker.data.acf?.speaker_position ? ` • ${speaker.data.acf.speaker_position}` : ''}
+                        {speakerIndex < speakers.length - 1 ? ' & ' : ''}
+                      </Fragment>
+                    ))}
+                  </div>
+                )}
+                {talk?.data.acf?.talk_video && <a class="block-button" href={talk.data.path}>Watch this talk <i class="fas fa-arrow-right"></i></a>}
+              </div></div></div>
+            </div>
+          );
+        })}
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-conf-2022-agenda') {
+    const days = data.block_agenda || [];
+    return (
+      <section class={cls('block-conf-2022-agenda', block) + ' container-fluid px-0'} id={id} style={data.block_background_image?.url ? `background-image:url('${data.block_background_image.url}');background-size:cover;` : undefined}>
+        <div class="container-flexible">
+          {data.block_title && <h2 class="block-title">{data.block_title}</h2>}
+          <div class:list={['row', days.length === 1 && 'justify-content-center']}>
+            {days.map((day: any, dayIndex: number) => (
+              <div class={`col-12 col-lg-6 agenda-item ${dayIndex % 2 ? 'offset-xxl-1' : ''}`} id={`${id}-day-schedule-${dayIndex}`}>
+                {day.label && <div class="item-day-label"><h3>{day.label}</h3></div>}
+                <div class="day-schedule">
+                  {(day.day_schedule || []).map((item: any) => {
+                    const talk = item.item_type === 'talk' && item.selected_talk ? library.talkById.get(Number(item.selected_talk)) : null;
+                    const title = item.item_title || talk?.data.title || '';
+                    const speakers = (talk?.data.acf?.talks_speakers || []).map((speakerId: number) => library.speakerById.get(Number(speakerId))).filter(Boolean);
+                    return (
+                      <div class:list={['schedule-item', item.is_keynote && 'is-keynote', item.item_type]}>
+                        <div class="item-time">{formatClock(item.start_time)}{item.end_time ? ` – ${formatClock(item.end_time)}` : ''}</div>
+                        <h4 class="item-title">{item.link_talk && talk ? <a href={talk.data.path}>{title}</a> : title}</h4>
+                        {speakers.length > 0 && <div class="item-speakers">{speakers.map((speaker: any) => <a href={speaker.data.path}>{speaker.data.title}</a>)}</div>}
+                        {(item.talk_summary || (!talk && item.item_title)) && <div class="item-summary">{item.talk_summary}</div>}
+                      </div>
+                    );
+                  })}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-text-columns') {
+    return (
+      <section class={cls('block-text-columns', block) + ' container-fluid px-0'} id={id} style={`background:${data.block_background_color || 'transparent'};color:${data.block_font_color || 'inherit'};${data.block_background_image?.url ? `background-image:url('${data.block_background_image.url}');background-size:cover;` : ''}`}>
+        <div class="container-flexible">
+          {data.block_title && <h2 class="block-title">{data.block_title}</h2>}
+          {data.block_description && <div class="block-description" set:html={data.block_description} />}
+          <div class="row">
+            {(data.block_columns || []).map((column: any) => (
+              <div class="col-12 col-md-4 column" style={column.bg_color ? `background:${column.bg_color}` : undefined}>
+                {column.title && <h3>{column.title}</h3>}
+                {column.description && <div set:html={column.description} />}
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-header-event-series') {
+    const logo = data.header_image?.url || entry.data.acf?.series_logotype?.url;
+    return (
+      <header class={cls('block-header-event-series', block) + ' container-fluid px-0'} id={id}>
+        <div class="container-flexible">
+          <div class="row align-items-center">
+            <div class="col-12 col-lg-6">
+              {logo && <img class="series-logo" src={logo} alt={entry.data.title} />}
+              <h1 class="heading-single">{data.block_title || entry.data.title}</h1>
+              {data.header_description && <div class="header-description" set:html={String(data.header_description).replace(/\n/g, '<br>')} />}
+              <div class="cta-row">
+                {data.cta_button_1?.url && <a class="cta-button" href={data.cta_button_1.url} target={data.cta_button_1.target || undefined}>{data.cta_button_1.title}</a>}
+                {data.cta_button_2?.url && <a class="cta-button outline-button" href={data.cta_button_2.url} target={data.cta_button_2.target || undefined}>{data.cta_button_2.title}</a>}
+              </div>
+            </div>
+          </div>
+        </div>
+      </header>
+    );
+  }
+
+  if (block.name === 'acf/block-series-talks-library') {
+    const tax = seriesTaxId();
+    const ids = new Set<number>();
+    for (const event of eventsInSeries(library.events, tax)) {
+      for (const item of event.data.acf?.event_agenda || []) {
+        if (item.item_type === 'talk' && item.talk_id) {
+          const talk = library.talkById.get(Number(item.talk_id));
+          if (talk?.data.acf?.talk_video) ids.add(talk.data.wpId);
+        }
+      }
+    }
+    const talks = [...ids].map((talkId) => library.talkById.get(talkId)).filter(Boolean);
+    if (!talks.length) return null;
+    return (
+      <section class="container-fluid px-0 block-videos" id={id}>
+        <div class="container-flexible">
+          <div class="block-videos__row">
+            {data.block_title && <h2 class="heading-3 block-videos__row-title">{data.block_title}</h2>}
+            <div class="row">
+              {talks.map((talk) => talk && (
+                <TalkCard talk={talk} speakers={(talk.data.acf?.talks_speakers || []).map((speakerId: number) => library.speakerById.get(Number(speakerId))).filter(Boolean) as any} />
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+    );
+  }
+
+  if (block.name === 'acf/block-header-event') return null;
+
+  return (
+    <section class={block.name.replace('acf/', '')} id={id}>
+      {data.block_title && <h2>{typeof data.block_title === 'string' ? data.block_title : ''}</h2>}
+      {data.block_description && <div set:html={data.block_description} />}
+    </section>
+  );
+})}

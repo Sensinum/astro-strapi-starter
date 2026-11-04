@@ -1,0 +1,42 @@
+{
+  "wpId": 4299,
+  "title": "Communication for Developers: estimates, code reviews, and other hard problems",
+  "slug": "communication-for-developers-estimates-code-reviews-and-other-hard-problems",
+  "path": "/watch/communication-for-developers-estimates-code-reviews-and-other-hard-problems/",
+  "date": "2023-04-28 17:25:23",
+  "modified": "2024-01-12 10:26:19",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=rXSu3Q6wFj0",
+    "video_thumbnail": {
+      "id": 4777,
+      "url": "/uploads/2023/04/maxresdefault-13.jpg",
+      "alt": "Wojciech Pituła",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "September 28, 2023",
+    "talks_speakers": [
+      4295
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>For many of us, writing code quickly becomes the least of our concerns. Let's talk about something that can be much harder: communication. But don't worry, this won't be yet another abstract talk delivered by a couch.<br>Instead, we will touch on subjects directly related to the developer's life: code reviews, git commits, managing your manager, talking to the product and business people, estimates, or knowledge sharing.</p>\n\n\n\n<p>How to get your PR reviewed without much waiting?<br>How to review the PR without making enemies?<br>How to respond to estimate requests without making (unrealistic) commitments?<br>How to keep necessary people in the loop without creating unnecessary noise?<br>Let's try to answer all of those questions and more!</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 148,
+  "title": "Nicolas Frankel",
+  "slug": "nicolas-frankel",
+  "path": "/contributor/nicolas-frankel/",
+  "date": "2020-01-01 00:02:25",
+  "modified": "2021-03-30 17:00:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Developer Advocate at Hazelcast",
+    "speaker_avatar": {
+      "id": 151,
+      "url": "/uploads/2021/03/Nikolas_Frankel-1.jpg",
+      "alt": "Nicolas Frankel",
+      "width": 1115,
+      "height": 1193
+    },
+    "speaker_surname": "Frankel",
+    "speaker_twitter": "https://twitter.com/nicolas_frankel",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/nicolasfrankel/?originalSubdomain=ch",
+    "speaker_gh": "https://github.com/nfrankel"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Developer Advocate with 15+ years experience consulting for many different customers, in a wide range of contexts (such as telecoms, banking, insurances, large retail and public sector). </p>\n\n\n\n<p>Usually working on Java/Java EE and Spring technologies, but with focused interests like Rich Internet Applications, Testing, CI/CD and DevOps. Currently working for Hazelcast. Also double as a teacher in universities and higher education schools, a trainer and triples as a book author.</p>"
+    }
+  ],
+  "formReplaced": false
+}

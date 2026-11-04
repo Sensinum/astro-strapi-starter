@@ -1,0 +1,28 @@
+{
+  "wpId": 5044,
+  "title": "Can Mentoring Help Conquer the Four Horsemen of Personal and Professional Apocalypse?",
+  "slug": "can-mentoring-help-conquer-the-four-horsemen-of-personal-and-professional-apocalypse",
+  "path": "/watch/can-mentoring-help-conquer-the-four-horsemen-of-personal-and-professional-apocalypse/",
+  "date": "2024-03-08 10:37:26",
+  "modified": "2024-03-08 10:37:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2024",
+    "talks_speakers": [
+      4988
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In today's fast-paced world, professionals face numerous challenges that can hinder personal growth and professional advancement. These challenges, often referred to as the \"Four Horsemen of Personal and Professional Apocalypse,\" include Imposter Syndrome, Perfectionism, Fear of Failure, and Comfort Zone Confinement. This presentation explores the transformative power of mentoring in overcoming these obstacles, fostering resilience, and promoting a culture of continuous learning and development.</p>"
+    }
+  ],
+  "formReplaced": false
+}

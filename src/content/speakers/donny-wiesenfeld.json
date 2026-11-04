@@ -1,0 +1,37 @@
+{
+  "wpId": 5171,
+  "title": "Donny Wiesenfeld",
+  "slug": "donny-wiesenfeld",
+  "path": "/contributor/donny-wiesenfeld/",
+  "date": "2024-04-19 13:35:25",
+  "modified": "2024-04-19 13:35:26",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5172,
+      "url": "/uploads/2024/04/1675848515644.jpeg",
+      "alt": "1675848515644",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_position": "Account Executive at Blink",
+    "speaker_add_info": "",
+    "speaker_surname": "Donny Wiesenfeld",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/donny-wiesenfeld-534b261a7/",
+    "speaker_gh": "",
+    "desc_episodes": "Our widely-acclaimed online portal and UK-based team are the power behind the payment platform revolution.\r\nAt Blink, we continuously 'explore the possible' by constantly challenging convention, innovating and utilising the latest technology. We want to make keeping track of payments and getting paid as easy as possible for our clients."
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Account Executive at Blink</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,36 @@
+{
+  "wpId": 536,
+  "title": "Enabling the first step",
+  "slug": "enabling-the-first-step",
+  "path": "/watch/enabling-the-first-step/",
+  "date": "2020-01-01 00:01:37",
+  "modified": "2023-03-20 12:07:58",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=YDKrwYgQsB8",
+    "video_thumbnail": false,
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      418
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>They say “a journey of a thousand miles begins with a single step”. Yet we’re so busy with so many things in our tools, that we tend to forget about this simple truth, even to forget that there is the first step. You know what? The Scala team at JetBrains is hardly an exception! However, we rolled up our sleeves and dared to re-evaluate the experience of getting started with Scala in IntelliJ IDEA. In this presentation, we share the resulting insights, using our work as a case study.</p>"
+    }
+  ],
+  "formReplaced": false
+}

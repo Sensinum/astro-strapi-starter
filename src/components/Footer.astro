@@ -1,0 +1,37 @@
+---
+import { siteData } from '../data/site';
+const year = new Date().getFullYear();
+---
+<footer>
+  <div class="container-flexible">
+    <div class="row justify-content-center">
+      <div class="col-12 footer-wrapper">
+        <div class="row justify-content-between align-items-center">
+          <div class="col-12 col-lg">
+            <div class="footer-main-menu">
+              <ul class="menu">
+                {siteData.menus.footer.items.map((item) => (
+                  <li class="menu-item"><a href={item.url}>{item.title}</a></li>
+                ))}
+              </ul>
+            </div>
+          </div>
+          <div class="col-12 col-sm socials-col">
+            <div class="sphere-socials">
+              {siteData.socials.map((social) => (
+                <a class="social-btn" href={social.href} title={social.title} target="_blank" rel="noopener">
+                  <i class={social.icon}></i>
+                </a>
+              ))}
+            </div>
+          </div>
+          <div class="col-12 col-sm col-lg-12">
+            <div class="site-info font-inter size-12 medium">
+              ©{year} <a href="/">Sphere.it</a> by <a href="https://virtuslab.com/" target="_blank" rel="noopener">VirtusLab</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>

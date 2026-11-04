@@ -1,0 +1,60 @@
+{
+  "wpId": 3239,
+  "title": "Will AI take our jobs?",
+  "slug": "will-ai-take-our-jobs",
+  "path": "/watch/will-ai-take-our-jobs/",
+  "date": "2022-08-10 10:18:09",
+  "modified": "2023-03-21 11:38:12",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/08/thumbnails_spherekonf_lukasz-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 46,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 162,
+        "slug": "future-of-software",
+        "name": "Future of Software"
+      },
+      {
+        "id": 163,
+        "slug": "github-copilot",
+        "name": "Github Copilot"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=0JmssIDKcXU",
+    "video_thumbnail": false,
+    "talk_date": "September 20, 2022",
+    "talks_speakers": [
+      3236
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Recently I've made a little experiment trying to create a clone of Space Invaders game not writing a single line of code. I employed Github Copilot AI to do it. It kind of worked, but also filled my head with ideas. How did it work? Will AI take developers jobs soon? Are we all doomed?</p>"
+    }
+  ],
+  "formReplaced": false
+}

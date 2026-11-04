@@ -1,0 +1,47 @@
+{
+  "wpId": 5122,
+  "title": "Managing the surge of zettabytes of Data within the insurance domain",
+  "slug": "managing-the-surge-of-zettabytes-of-data-within-the-insurance-domain",
+  "path": "/podcast/managing-the-surge-of-zettabytes-of-data-within-the-insurance-domain/",
+  "date": "2024-04-19 11:58:29",
+  "modified": "2024-04-19 11:59:53",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/Plansza_otwierajaca_Andrew_Turner_Interview-min-scaled.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5120
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "Watch on Youtube",
+      "url": "https://www.youtube.com/watch?v=gPzANStaEew&list=PLl9Aulxh1VePW1MCtgpOqCRDPjYWn9Zy2&index=7",
+      "target": "_blank"
+    },
+    "podcast_description": "<p><span class=\"yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap\" role=\"text\"><span class=\"yt-core-attributed-string--link-inherit-color\">One of the many interviews with Insurance Experts which we recorded at the Insurtech Insights 2024 in London</span></span></p>\n<div id=\"snippet\" class=\"style-scope ytd-text-inline-expander\">\n<div class=\"style-scope ytd-watch-metadata\">\n<div id=\"items\" class=\"style-scope ytd-structured-description-content-renderer\">\n<div id=\"header\" class=\"style-scope ytd-video-description-transcript-section-renderer\"></div>\n</div>\n</div>\n</div>\n",
+    "podcast_cover": {
+      "id": 5123,
+      "url": "/uploads/2024/04/Plansza_otwierajaca_Andrew_Turner_Interview-min-scaled.jpg",
+      "alt": "Interview-min",
+      "width": 2560,
+      "height": 1440
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

@@ -1,0 +1,36 @@
+{
+  "wpId": 4730,
+  "title": "Apurva Misra",
+  "slug": "apurva-misra",
+  "path": "/contributor/apurva-misra/",
+  "date": "2024-01-10 11:26:45",
+  "modified": "2024-02-29 22:48:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Senior Machine Learning Engineer at Truckstop",
+    "speaker_avatar": {
+      "id": 4787,
+      "url": "/uploads/2024/01/ApurvaM-2.jpeg",
+      "alt": "ApurvaM",
+      "width": 852,
+      "height": 852
+    },
+    "speaker_surname": "Misra",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/apurva-misra/",
+    "speaker_gh": "",
+    "speaker_add_info": "Truckstop"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Apurva Misra, an accomplished Senior Machine Learning Engineer, blends her passion for technology with a talent for teaching. With a rich history of conducting engaging AI workshops across the US and Canada, she brings both expertise and enthusiasm to the learning experience. Apurva holds a Master’s degree from the University of Waterloo, where she delved into the intriguing crossroads of driving technology and machine learning in her research. </p>\n\n\n\n<p>Her interest doesn't stop at academia; she's also deeply involved in the start-up ecosystem, consulting for start-ups and always eager to engage in conversations about the latest tech developments, as highlighted in TechCrunch. </p>\n\n\n\n<p>Outside of her professional pursuits, Apurva is an avid culinary explorer, always on the lookout for those unique, hidden dining spots. Don't hesitate to share your favourite eatery with her - she'd love to hear about it!</p>"
+    }
+  ],
+  "formReplaced": false
+}

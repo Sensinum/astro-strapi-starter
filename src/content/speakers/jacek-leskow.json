@@ -1,0 +1,43 @@
+{
+  "wpId": 266,
+  "title": "Jacek Leśkow",
+  "slug": "jacek-leskow",
+  "path": "/contributor/jacek-leskow/",
+  "date": "2020-01-01 00:01:56",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Director of the Polish National Institute for Academic and Computer Networks NASK",
+    "speaker_avatar": {
+      "id": 267,
+      "url": "/uploads/2021/03/Jacek_Leśkow.jpeg",
+      "alt": "Jacek Leśkow",
+      "width": 225,
+      "height": 225
+    },
+    "speaker_surname": "Leśkow",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/jacek-leskow-a947ab11/?originalSubdomain=pl",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Main field of interest: statistics, international academic cooperation, management. A professor at University of California (USA), Polish-American Higher School of Business – National-Louis University (Poland) and Cracow University of Technology. A visiting Professor in: USA, Mexico, France, Brazil, Ukraine, Kyrgyzstan, Sweden.<br>Management experience: a Director of Statistical Consulting Lab, University of California (USA), an owner of StatLab International Consulting (Poland), a vice-rector for Research, WSB-NLU (Poland), a Member of Committee for monitoring MRPO and a director of research projects financed by NATO (three times) and National Science Centre (Poland).<br>Professional distinction: a triple laureate of NATO grant in matters of analysis and security of telecommunication signals (1995, 2000, 2008) and a laureate of award for the best publication in matters of statistical signal analysis, European Signal Processing Society, 2007.</p>"
+    }
+  ],
+  "formReplaced": false
+}

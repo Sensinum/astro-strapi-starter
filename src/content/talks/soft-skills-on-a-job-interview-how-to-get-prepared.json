@@ -1,0 +1,41 @@
+{
+  "wpId": 2387,
+  "title": "Soft skills during a job interview - how to get prepared?",
+  "slug": "soft-skills-on-a-job-interview-how-to-get-prepared",
+  "path": "/watch/soft-skills-on-a-job-interview-how-to-get-prepared/",
+  "date": "2021-12-27 16:29:25",
+  "modified": "2023-03-21 10:16:37",
+  "template": null,
+  "excerpt": "<p>Przygotowując się do rekrutacji jako programista spędzamy godziny rozwiązując przykładowe zadania, przypominamy sobie kruczki składni języka i zakuwamy funkcje z bibliotek standardowych.   Umiejętności twarde – check. Ale co z umiejętnościami miękkimi? Można się z tego przygotować? Po co rekruterzy pytają o takie rzeczy jak “Co było najbardziej wartościowe w Twoich studiach?” albo “Gdzie widzisz siebie za 5 lat?”</p>\n\n<p>Przez 12 lat pracując nie jako rekruter, ale jako programista, Szymon przeprowadził prawie 400 rozmów kwalifikacyjnych. Teraz prowadzi własną firmę i oczywiście dalej rekrutuje. Opowie czego szukają pracodawcy i dlaczego samo pisanie kodu nie wystarczy.</p>",
+  "featuredImage": "/uploads/2021/12/szymon-sobczak.png",
+  "seo": {
+    "description": "When preparing for recruitment, as a programmer, we spend hours solving example tasks, remembering the language syntax tricks, and learning functions from standard libraries. Hard skills - check. But what about soft skills? Can you prepare for it? Why do recruiters ask things like \"What was the most valuable thing about your studies?\" or \"Where do you see yourself in 5 years?\"",
+    "ogTitle": "Soft skills on a job interview - how to get prepared?",
+    "ogDescription": "When preparing for recruitment, as a programmer, we spend hours solving example tasks, remembering the language syntax tricks, and learning functions from standard libraries. Hard skills - check. But what about soft skills? Can you prepare for it? Why do recruiters ask things like \"What was the most valuable thing about your studies?\" or \"Where do you see yourself in 5 years?\"",
+    "ogImage": "/uploads/2021/12/szymon-sobczak.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=kAIiX7bpIi0",
+    "video_thumbnail": false,
+    "talk_date": "January 20, 2022",
+    "talks_speakers": [
+      2223
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>[ENG] </p>\n\n\n\n<p>When preparing for recruitment, as a programmer, we spend hours solving example tasks, remembering the language syntax tricks, and learning functions from standard libraries. Hard skills - check. But what about soft skills? Can you prepare for it? Why do recruiters ask things like \"What was the most valuable thing about your studies?\" or \"Where do you see yourself in 5 years?\" For 12 years, working not as a recruiter but as a programmer, Szymon conducted almost 400 interviews. Now he runs his own company and, of course, continues to recruit. In his talk, he shares what employers are looking for and why writing code is not enough. </p>\n\n\n\n<p>[PL] </p>\n\n\n\n<p>Umiejętności miękkie na rozmowie kwalifikacyjnej – o co chodzi i jak się przygotować? </p>\n\n\n\n<p>Przygotowując się do rekrutacji jako programista spędzamy godziny rozwiązując przykładowe zadania, przypominamy sobie kruczki składni języka i zakuwamy funkcje z bibliotek standardowych. Umiejętności twarde – check. Ale co z umiejętnościami miękkimi? Można się z tego przygotować? Po co rekruterzy pytają o takie rzeczy jak “Co było najbardziej wartościowe w Twoich studiach?” albo “Gdzie widzisz siebie za 5 lat?” Przez 12 lat pracując nie jako rekruter, ale jako programista, Szymon przeprowadził prawie 400 rozmów kwalifikacyjnych. Teraz prowadzi własną firmę i oczywiście dalej rekrutuje. Opowie czego szukają pracodawcy i dlaczego samo pisanie kodu nie wystarczy.</p>"
+    }
+  ],
+  "formReplaced": false
+}

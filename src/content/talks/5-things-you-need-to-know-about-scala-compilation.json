@@ -1,0 +1,36 @@
+{
+  "wpId": 532,
+  "title": "5 things you need to know about Scala compilation",
+  "slug": "5-things-you-need-to-know-about-scala-compilation",
+  "path": "/watch/5-things-you-need-to-know-about-scala-compilation/",
+  "date": "2020-01-01 00:01:41",
+  "modified": "2023-03-20 12:09:50",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=5eoAC_j5EYg",
+    "video_thumbnail": false,
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      362
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>We all love Scala, but the one aspect we have a hard time accepting are long compile times. It’s not uncommon for a project to experience compilation times of a handful of minutes, if not worse. On top of that, compilation times are unpredictable, depending on a combination of language features, external libraries, and type annotations. A single line change may increase compilation times ten fold.</p>\n\n\n\n<p>Don’t bow to the compiler and accept long compilation times. Rather, understand how the compiler works and optimize your usage of Scala to compile faster!</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,38 @@
+{
+  "wpId": 165,
+  "title": "Type Proofs and Functional Programming for the Kotlin Type System",
+  "slug": "type-proofs-and-functional-programming-for-the-kotlin-type-system",
+  "path": "/watch/type-proofs-and-functional-programming-for-the-kotlin-type-system/",
+  "date": "2020-01-01 00:03:20",
+  "modified": "2023-03-21 10:50:22",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2020/01/raul_kotlin.png",
+  "seo": {
+    "ogImage": "/uploads/2020/01/raul_kotlin.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=iy0gAAbd9Ls",
+    "video_thumbnail": false,
+    "talk_date": "June 16, 2020",
+    "talks_speakers": [
+      111
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Type Proofs is a new compiler plugin built on Arrow Meta enabling new features in the Kotlin type system, such as Type Classes, Union Types, Type Refinements, and many other extensions that make Functional Programming easier in Kotlin.</p>\n\n\n\n<p>Type Proofs propositions are expressed as extension functions that unlock new relationships between types ad-hoc whilst remaining fully compatible with subtype polymorphism and the existing inheritance type system.</p>\n\n\n\n<p>This talk demonstrates some of the new features the Arrow team is introducing in Arrow at the type level and IDE and how others can benefit from them when building libraries and applications.</p>"
+    }
+  ],
+  "formReplaced": false
+}

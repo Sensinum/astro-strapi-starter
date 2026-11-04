@@ -1,0 +1,48 @@
+{
+  "wpId": 1383,
+  "title": "Maria Oleszkiewicz",
+  "slug": "maria-oleszkiewicz",
+  "path": "/contributor/maria-oleszkiewicz/",
+  "date": "2021-06-28 16:08:08",
+  "modified": "2021-07-06 10:37:43",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at IBM",
+    "speaker_avatar": {
+      "id": 1384,
+      "url": "/uploads/2021/06/Screenshot-2021-05-24-at-16.08.42-M.-P..png",
+      "alt": "Maria Oleszkiewicz",
+      "width": 372,
+      "height": 474
+    },
+    "speaker_surname": "Oleszkiewicz",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/maria-oleszkiewicz-6aba24112/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Maria Oleszkiewicz is a Python &amp; Scala programmer. Currently, she is developing the Python API for IBM Watson Machine Learning. In her free time, she creates unique items using manual skills like hand spinning, knitting, crocheting, and weaving.</p>"
+    }
+  ],
+  "formReplaced": false
+}

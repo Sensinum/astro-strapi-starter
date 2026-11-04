@@ -1,0 +1,48 @@
+{
+  "wpId": 2327,
+  "title": "Automate Azure DevOps update with Azure Functions",
+  "slug": "automate-azure-devops-update-with-azure-functions",
+  "path": "/watch/automate-azure-devops-update-with-azure-functions/",
+  "date": "2021-12-20 11:31:04",
+  "modified": "2021-12-20 13:00:04",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 135,
+        "slug": "azure",
+        "name": "Azure"
+      },
+      {
+        "id": 94,
+        "slug": "devops",
+        "name": "DevOps"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=gZ9IRyUHIR8",
+    "video_thumbnail": false,
+    "talk_date": "September 30, 2021",
+    "talks_speakers": [
+      1756
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In this presentation, we’re going to discuss how to automate stuff in the Azure DevOps environment using Azure Function to leverage the business productivity.</p>"
+    }
+  ],
+  "formReplaced": false
+}

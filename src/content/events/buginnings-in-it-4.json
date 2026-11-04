@@ -1,0 +1,264 @@
+{
+  "wpId": 2663,
+  "title": "BUGinnings in IT #4",
+  "slug": "buginnings-in-it-4",
+  "path": "/event/buginnings-in-it-4/",
+  "date": "2022-02-21 16:59:12",
+  "modified": "2023-03-21 12:32:17",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/02/bugs_4_tt-1024x538.jpg"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 137,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "event_agenda": [
+      {
+        "item_type": "talk",
+        "item_time": "18:00",
+        "talk_id": 2665,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "18:50",
+        "talk_id": 2666,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "19:30",
+        "talk_id": 2668,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "custom",
+        "item_time": "20:00",
+        "talk_id": false,
+        "custom_title": "Networking",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      }
+    ],
+    "event_series_label": "",
+    "event_date": "25.04.2022",
+    "type_of_event": "18:00",
+    "event_entry": "Biała Małpa, Katowice",
+    "event_artwork": {
+      "id": 2950,
+      "url": "/uploads/2022/02/bugs4.png",
+      "alt": "BUGinnings in IT #4",
+      "width": 2160,
+      "height": 2160
+    },
+    "header_background_image": false,
+    "event_background_color": "#08bd6c",
+    "event_font_color": true,
+    "event_font_color_value": "#0b151e",
+    "reduce_font_size": "1",
+    "event_register": {
+      "title": "Rejestracja",
+      "url": "https://app.evenea.pl/event/buginnings4/",
+      "target": "_blank"
+    },
+    "event_scroll_button": "",
+    "buttons_background_color": "",
+    "buttons_font_color": "",
+    "event_date_hidden": false,
+    "event_artwork_listing": false,
+    "alt_dynamic_menu": false,
+    "event_alt_title": "",
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-64074cf2a89a0",
+      "data": {
+        "block_description": "<img style=\"width: 60px;\" src=\"/uploads/2021/12/celeb-min.png\" alt=\"save-the-date\" />\r\n<p class=\"heading-3\" style=\"font-weight: 400;\">Kolejne spotkanie z serii BUGinnings in IT organizowane przez Sphere.it już niebawem! Tym razem zapraszamy do Katowic, gdzie będziemy mogli usłyszeć o tym jak rozwinąć skrzydła w IT, o istocie job shadowing'u, a także poznać 4 lekcje z kariery jednego z naszych prelegentów.</p>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2678,
+          "url": "/uploads/2022/02/5-min.jpg",
+          "alt": "BUGinnings in IT #4 &#8211; image from prev event",
+          "width": 1440,
+          "height": 960
+        },
+        "switch_text_side": true,
+        "block_background_color": "#e8f4ee",
+        "block_font_color": "#0b151e",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-64074cf2a89ff",
+      "data": {
+        "block_title": "Prelegenci",
+        "automatic_selection": true,
+        "speaker_groups": [],
+        "block_background_color": "#0b151e",
+        "block_font_color": "#e8f4ee",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-64074cf2a8a25",
+      "data": {
+        "block_description": "<img style=\"width: 80px;\" src=\"/uploads/2021/12/bugs-min.png\" alt=\"bugs-logo\" />\r\n<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; font-weight: 500; text-align: left;\">BUGinnnings in IT to seria spotkań poświęcona historiom o pierwszych krokach w IT, opowiedzianym przez ekspertów z wieloletnim stażem w branży.</p>\r\n<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; font-weight: 500; text-align: left;\">Zaproszeni przez nas goście dzielą się wskazówkami jak odnaleźć się w tej wymagającej, a zarazem satysfakcjonującej dziedzinie, na podstawie własnych doświadczeń.</p>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2677,
+          "url": "/uploads/2022/02/01-min.jpg",
+          "alt": "BUGinnings in IT #4 &#8211; image from prev event",
+          "width": 1440,
+          "height": 960
+        },
+        "switch_text_side": false,
+        "block_background_color": "#08bd6c",
+        "block_font_color": "#0b151e",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-event-agenda",
+      "anchor": "acf-block-64074cf2a8a45",
+      "data": {
+        "block_title": "Agenda",
+        "block_background_color": "#0b151e",
+        "block_font_color": "#e8f4ee",
+        "block_accent_font_color": "#0acc75",
+        "smaller_paddings": true,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-64074cf2a8a67",
+      "data": {
+        "block_title": " ",
+        "block_description": "&nbsp;\r\n<h2 style=\"margin-bottom: 20px;\">Spotkajmy się na żywo!</h2>\r\n<h3 class=\"heading-4\" style=\"margin-bottom: 30px;\">25.04.2022 | 18:00 | Biała Małpa, Katowice</h3>\r\n<span style=\"opacity: 0.85; font-size: 110%;\">Równowartość biletu będzie do odbioru przy barze w dniu wydarzenia.</span>",
+        "block_button": {
+          "title": "Rejestracja",
+          "url": "https://app.evenea.pl/event/buginnings4/",
+          "target": "_blank"
+        },
+        "cta_background_color": "#0b151e",
+        "cta_font_color": "#ffffff",
+        "cta_border_radius": 32,
+        "block_background_image": null,
+        "block_background_color": "#e8f4ee",
+        "block_font_color": "#0b151e",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-sponsors",
+      "anchor": "acf-block-64074cf2a8d0f",
+      "data": {
+        "logotypes_alignment": true,
+        "sponsor_groups": [
+          {
+            "label": "Sponsors",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2672,
+                  "url": "/uploads/2022/02/vl.png",
+                  "alt": "VirtusLab logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://virtuslab.com"
+              }
+            ]
+          },
+          {
+            "label": "Community partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2706,
+                  "url": "/uploads/2022/02/tryit.png",
+                  "alt": "Fundacja Try IT logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.tryit.org.pl/en/"
+              },
+              {
+                "logotype": {
+                  "id": 2984,
+                  "url": "/uploads/2022/04/jdd.png",
+                  "alt": "JDD logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://jdd.org.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2449,
+                  "url": "/uploads/2021/12/og_logo.png",
+                  "alt": "Junior Jobs Only logotype",
+                  "width": 800,
+                  "height": 533
+                },
+                "url": "https://www.juniorjobsonly.com/"
+              },
+              {
+                "logotype": {
+                  "id": 2987,
+                  "url": "/uploads/2022/04/4dev.png",
+                  "alt": "4Developers logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://4developers.org.pl/"
+              }
+            ]
+          }
+        ],
+        "block_background_color": null,
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

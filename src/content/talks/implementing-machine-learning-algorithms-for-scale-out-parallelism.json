@@ -1,0 +1,36 @@
+{
+  "wpId": 627,
+  "title": "Implementing Machine Learning Algorithms for Scale-Out Parallelism",
+  "slug": "implementing-machine-learning-algorithms-for-scale-out-parallelism",
+  "path": "/watch/implementing-machine-learning-algorithms-for-scale-out-parallelism/",
+  "date": "2020-01-01 00:01:08",
+  "modified": "2023-03-20 14:21:17",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=UhSnHC04vYQ",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      572
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Frameworks for elastic scale-out computation, like Apache Spark and Apache Flink, are important tools for putting machine intelligence into production applications. However, these frameworks do not always offer the same breadth or depth of algorithm coverage as specialized machine learning libraries that run on a single node, and the gulf between being a competent framework user and a seasoned library developer who can extend a framework can be quite daunting. In this talk, we’ll walk through the process of developing a parallel implementation of a machine learning algorithm. </p>\n\n\n\n<p>We’ll start with the basics, by considering what makes algorithms difficult to parallelize and showing how we’d design a parallel implementation of an unsupervised learning technique. We’ll then introduce a simple parallel implementation of our technique on Apache Spark, and iteratively improve it to make it more efficient and more user-friendly. While some of the techniques we’ll introduce will be specific to the Spark implementation of our example, most of the material in this talk is broadly applicable to other distributed computing frameworks. We’ll conclude by briefly examining some techniques to complement scale-out performance by scaling our code up, taking advantage of specialized hardware to accelerate single-worker performance. You’ll leave this talk with everything you need to implement a new machine learning technique that takes advantage of parallelism and resources in the public cloud.</p>"
+    }
+  ],
+  "formReplaced": false
+}

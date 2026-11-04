@@ -1,0 +1,47 @@
+{
+  "wpId": 4486,
+  "title": "From coding to building a company: My journey in starting a successful product company",
+  "slug": "from-coding-to-building-a-company-my-journey-in-starting-a-successful-product-company",
+  "path": "/watch/from-coding-to-building-a-company-my-journey-in-starting-a-successful-product-company/",
+  "date": "2023-07-11 16:21:23",
+  "modified": "2024-01-12 10:39:06",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 143,
+        "slug": "career-stories",
+        "name": "Career stories"
+      },
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=NfLoJMtV-b0",
+    "video_thumbnail": {
+      "id": 4772,
+      "url": "/uploads/2023/07/maxresdefault-8.jpg",
+      "alt": "Bart Kiszala",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "September 27, 2023",
+    "talks_speakers": [
+      4484
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The journey from a computer science student unsure of the career path to becoming an entrepreneur in the software industry. I will take you through the challenges I faced, the lessons learned, and the pivotal moments that shaped my path.</p>\n\n\n\n<p>I will discuss how I made the decision to pursue entrepreneurship, the valuable experiences gained from my first failed product, and the transformative decision to create Base, a sales management software for small businesses. Through my story, I want to emphasize the importance of listening to customer feedback, building a stellar team, and the role of growth in making key business decisions.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,35 @@
+{
+  "wpId": 2763,
+  "title": "Karolina Wasielewska ",
+  "slug": "karolina-wasielewska",
+  "path": "/contributor/karolina-wasielewska/",
+  "date": "2022-02-24 15:11:43",
+  "modified": "2022-02-24 15:11:46",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "journalist, author of “Girls Gone Tech” blog",
+    "speaker_avatar": {
+      "id": 2764,
+      "url": "/uploads/2022/02/FB_IMG_1636901028023-1-min-1.jpg",
+      "alt": "Karolina Wasielewska",
+      "width": 1080,
+      "height": 1080
+    },
+    "speaker_surname": "Wasielewska",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/wasielewska-karolina/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Karolina is a radio and press journalist and the author of the “Girls Gone Tech” blog. Currently, she publishes and reads news on Radio Złote Przeboje (Agora SA). She also runs a blog and a related fan page on Facebook devoted to the history of women in science and technology, and she published her first book \"Cyfrodziewczyny\" - a reportage about the female pioneers of Polish IT.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 282,
+  "title": "Fabio Tiriticco",
+  "slug": "fabio-tiriticco",
+  "path": "/contributor/fabio-tiriticco/",
+  "date": "2020-01-01 00:01:49",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer, Independent Consultant",
+    "speaker_avatar": {
+      "id": 283,
+      "url": "/uploads/2021/03/Fabio_Tiriticco.jpeg",
+      "alt": "Fabio Tiriticco",
+      "width": 512,
+      "height": 512
+    },
+    "speaker_surname": "Tiriticco",
+    "speaker_twitter": "https://twitter.com/ticofab",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/ticofab/",
+    "speaker_gh": "https://github.com/ticofab"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Fabio is a Software Engineer, conference speaker, and community leader based in Amsterdam. While building his own start-up, he fell in love with Akka, Scala, and Reactive systems. So much so that he founded the 2000-member strong Reactive Amsterdam meetup group. When he doesn’t happen to be in front of a screen, he enjoys long-distance bike rides and fingerpicking his guitar.</p>"
+    }
+  ],
+  "formReplaced": false
+}

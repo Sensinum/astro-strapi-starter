@@ -1,0 +1,36 @@
+{
+  "wpId": 575,
+  "title": "The perfect build tool",
+  "slug": "the-perfect-build-tool",
+  "path": "/watch/the-perfect-build-tool/",
+  "date": "2020-01-01 00:01:32",
+  "modified": "2023-03-20 12:08:58",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=rbiLGzs5Fvk",
+    "video_thumbnail": false,
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      424
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Bazel, sbt, CBT, mill, bloop… What makes any of them great? It depends on you. We write our own build tool in this talk. In the process, we compare technical aspects of existing tools and present a mental framework for comparison. We'll focus a bit more on CBT but this is not a sales pitch and tries to uncover trade offs to empower your own judgement.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,36 @@
+{
+  "wpId": 993,
+  "title": "My Take on Scala 3 by Tomasz Godzik",
+  "slug": "my-take-on-scala-3-by-tomasz-godzik",
+  "path": "/watch/my-take-on-scala-3-by-tomasz-godzik/",
+  "date": "2021-04-28 14:41:12",
+  "modified": "2021-04-29 08:46:03",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=GchucIGJg9I&t=5s",
+    "video_thumbnail": false,
+    "talk_date": "April 23, 2021",
+    "talks_speakers": [
+      261
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>A quick view on the current Scala 3 tooling efforts and the new bright plans for the future.</p>"
+    }
+  ],
+  "formReplaced": false
+}

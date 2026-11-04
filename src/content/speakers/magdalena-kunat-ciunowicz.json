@@ -1,0 +1,35 @@
+{
+  "wpId": 4124,
+  "title": "Magdalena Kunat-Ciunowicz",
+  "slug": "magdalena-kunat-ciunowicz",
+  "path": "/contributor/magdalena-kunat-ciunowicz/",
+  "date": "2023-02-20 16:43:32",
+  "modified": "2023-02-20 16:53:40",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Engineering Manager at Appsilon",
+    "speaker_avatar": {
+      "id": 4131,
+      "url": "/uploads/2023/02/mkunat_ciunowicz.png",
+      "alt": "Magdalena Kunat-Ciunowicz",
+      "width": 2262,
+      "height": 2262
+    },
+    "speaker_surname": "Kunat-Ciunowicz",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/magdalena-kunat-ciunowicz-4139083/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Magdalena is a software engineer with over 15 years of experience in professional software development that decided to switch to a managerial path last year. Her experience ranges from being a full stack developer, working on test automation, to working directly with the customer. She genuinely believes in the power of teamwork. She likes to spend her free time actively and close to nature. Above all, she is a mother of two girls that are her great inspiration.</p>"
+    }
+  ],
+  "formReplaced": false
+}

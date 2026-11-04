@@ -1,0 +1,36 @@
+{
+  "wpId": 4835,
+  "title": "Luiza Lipień",
+  "slug": "luiza-lipien",
+  "path": "/contributor/luiza-lipien/",
+  "date": "2024-01-30 08:50:42",
+  "modified": "2024-02-29 22:51:37",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Owner of Agile Studio",
+    "speaker_avatar": {
+      "id": 4836,
+      "url": "/uploads/2024/01/IT_sylwetki_3.png",
+      "alt": "IT_sylwetki_3",
+      "width": 1200,
+      "height": 1200
+    },
+    "speaker_surname": "Lipień",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/luiza-lipie%C5%84/",
+    "speaker_gh": "",
+    "speaker_add_info": "Agile Studio"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Owner of <a href=\"https://agilestudio.pl/\">Agile Studio</a></p>\n\n\n\n<p>With over 17 years of experience in IT, Luiza has held a variety of roles from PMO Manager,<br>Scrum Master, Engineering Manager to Head of Agile Transformation. Thanks to this, she<br>has gained knowledge in both traditional and Agile approaches, as well as firsthand<br>experience in setting up environments in which individuals and teams can succeed.</p>\n\n\n\n<p>Luiza is a certified ICF coach, Design Thinking moderator, OKRs coach and licensed<br>Management 3.0 trainer. She shares her experiences and knowledge across Agile<br>communities, speaking at various conferences and events. Additionally, she is a University<br>Lecturer at AGH University of Krakow, teaching business management and digital<br>transformation. She has also served as a mentor in LeadIT Lady, ScrumDzielnia, and<br>Women in Agile mentoring programs, as well as being a facilitator in the #Iamremarkable<br>initiative.</p>\n\n\n\n<p>As an experienced consultant and trainer in modern leadership and management<br>practices, Luiza owns Agile Studio – a consulting company whose mission is to help<br>business professionals adopt Lean, Agile, HR, and personal development best practices.</p>"
+    }
+  ],
+  "formReplaced": false
+}

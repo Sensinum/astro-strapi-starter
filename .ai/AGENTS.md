@@ -1,3 +1,7 @@
+# Agent instructions
+
+This checkout is the **static Sphere.it site**, not the Strapi starter it was forked from. Content is JSON in `src/content`. Theme CSS lives in `public/theme`. Do not reintroduce Strapi, Tailwind as the design system, or form backends. The historical Strapi notes below are obsolete.
+
 # Agent instructions: Astro × Strapi starter
 
 This project is a production-oriented **Astro 7** frontend with **Strapi 5** content loaded via [**@sensinum/astro-strapi-loader**](https://github.com/VirtusLab-Open-Source/astro-strapi-loader) and **Strapi 5 rich-text Blocks** rendered with [**@sensinum/astro-strapi-blocks**](https://github.com/VirtusLab-Open-Source/astro-strapi-blocks). Styling uses **Tailwind CSS 4** (Vite plugin) and **shadcn/ui**-style components.

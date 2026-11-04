@@ -1,0 +1,44 @@
+{
+  "wpId": 640,
+  "title": "Big O in a Retailer’s Big Data",
+  "slug": "big-o-in-a-retailers-big-data",
+  "path": "/watch/big-o-in-a-retailers-big-data/",
+  "date": "2020-01-01 00:00:56",
+  "modified": "2023-03-20 14:14:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 66,
+        "slug": "big-data",
+        "name": "Big Data"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=wDhzkS81gz8",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      338,
+      591
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In situations where 1% optimisation improvement might be worth millions - algorithm tuning, parallelisation, cloud benchmarking, etc - might turn out to be just the things that count. Grzegorz Gawron and Tomasz Lichoń will walk you through some cases where software engineering (computer science?) goes hand in hand with data science. All based on VirtusLab's real-world projects.</p>"
+    }
+  ],
+  "formReplaced": false
+}

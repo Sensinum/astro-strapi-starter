@@ -1,0 +1,43 @@
+{
+  "wpId": 596,
+  "title": "Rui Vieira",
+  "slug": "rui-vieira",
+  "path": "/contributor/rui-vieira/",
+  "date": "2020-01-01 00:00:26",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at Red Hat",
+    "speaker_avatar": {
+      "id": 599,
+      "url": "/uploads/2021/03/Rui_Vieira.jpg",
+      "alt": "Rui Vieira",
+      "width": 225,
+      "height": 225
+    },
+    "speaker_surname": "Vieira",
+    "speaker_twitter": "https://twitter.com/ruimvieira",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": "https://github.com/ruivieira"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Rui is a Software Engineer at Red Hat working on Data Science, Apache Spark and Spark Streaming applications.</p>"
+    }
+  ],
+  "formReplaced": false
+}

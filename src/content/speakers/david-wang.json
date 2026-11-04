@@ -1,0 +1,43 @@
+{
+  "wpId": 358,
+  "title": "David Wang",
+  "slug": "david-wang",
+  "path": "/contributor/david-wang/",
+  "date": "2020-01-01 00:01:25",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Architect at Cisco",
+    "speaker_avatar": {
+      "id": 359,
+      "url": "/uploads/2021/03/David_Wang.jpeg",
+      "alt": "David Wang",
+      "width": 315,
+      "height": 315
+    },
+    "speaker_surname": "Wang",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/dcwangmit01/",
+    "speaker_gh": "https://github.com/dcwangmit01"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Currently a Senior Software Architect in Cisco Customer Experience building SRE and development tools. Long experience in cloud, Prometheus, golang and python enthusiast. MIT grad.</p>"
+    }
+  ],
+  "formReplaced": false
+}

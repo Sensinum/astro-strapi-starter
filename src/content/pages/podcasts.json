@@ -1,0 +1,88 @@
+{
+  "wpId": 5031,
+  "title": "Podcasts",
+  "slug": "podcasts",
+  "path": "/podcasts/",
+  "date": "2024-03-19 11:49:29",
+  "modified": "2024-03-19 15:04:08",
+  "template": "page-podcasts",
+  "excerpt": "Explore the world of Digital Transformation and innovation with the Sphere.it Podcast. Join us as we delve into cutting-edge technologies, industry trends, and expert insights across various domains and sectors.",
+  "featuredImage": "/uploads/2024/03/Untitled-design-6.jpg",
+  "seo": {
+    "description": "Explore the world of Digital Transformation and innovation with the Sphere.it Podcast. Delve into technologies, industry trends, and expert insights."
+  },
+  "terms": {},
+  "acf": {},
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-header-podcast",
+      "anchor": "acf-block-65e9969f3ef6f",
+      "data": {
+        "block_title": [
+          {
+            "line": "SPHERE.IT",
+            "image": null
+          },
+          {
+            "line": "PODCAST",
+            "image": null
+          }
+        ],
+        "block_description": "<strong>Sphere.IT Podcast</strong> is a tech industry deep-dive led by specialists, offering enlightenment on trends and domain challenges — especially in the transformation-hungry insurance sector. It's where innovation meets opportunity, charting new territory for industry stakeholders.",
+        "podcast_url": "https://vimeo.com/868650778",
+        "block_cta": {
+          "title": "See all episodes on YouTube",
+          "url": "https://www.youtube.com/playlist?list=PLl9Aulxh1VeNxZOEceMTG1VOTNEKC3uLw",
+          "target": "_blank"
+        }
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-green-line-separator",
+      "anchor": "acf-block-65e9969f3efd7",
+      "data": {}
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-podcasts-slider",
+      "anchor": "acf-block-65e9969f3f140",
+      "data": {
+        "block_title": [
+          {
+            "line": "Episodes",
+            "image": null
+          }
+        ],
+        "podcacts_cat_filter": [
+          186,
+          188
+        ],
+        "default_active_podcasts_cat": 186,
+        "text_no_slides": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-logo-with-text",
+      "anchor": "acf-block-65e9969f3f1c9",
+      "data": {
+        "block_logo": {
+          "id": 5034,
+          "url": "/uploads/2024/03/vl_logo_white.png",
+          "alt": "VirtusLab logotype",
+          "width": 680,
+          "height": 272
+        },
+        "block_description": "This enlightening podcast is brought to you by VirtusLab, an IT service consulting firm committed to driving innovation and offering in-depth technical analysis.",
+        "block_link": {
+          "title": "Join us on this insightful journey",
+          "url": "https://virtuslab.com",
+          "target": "_blank"
+        }
+      }
+    }
+  ],
+  "formReplaced": false
+}

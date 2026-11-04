@@ -1,0 +1,42 @@
+{
+  "wpId": 4498,
+  "title": "Reach the senior level and watch your career skyrocket",
+  "slug": "reach-the-senior-level-and-watch-your-career-skyrocket",
+  "path": "/watch/reach-the-senior-level-and-watch-your-career-skyrocket/",
+  "date": "2023-07-13 14:39:25",
+  "modified": "2024-01-12 10:25:20",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=P1ybLCjNuvw",
+    "video_thumbnail": {
+      "id": 4771,
+      "url": "/uploads/2023/07/maxresdefault-7.jpg",
+      "alt": "Waldemar Woźny",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "September 28, 2023",
+    "talks_speakers": [
+      4491
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Some say life only just starts after you turn 40, same applies to your professional life with you reaching more senior job roles. Watch Waldek talking about his experience building career and where did that led him to now. What are the future prospects for him and how many more can be achieved with just your own willingness. Being senior does mean you reached the end of your career journey!</p>"
+    }
+  ],
+  "formReplaced": false
+}

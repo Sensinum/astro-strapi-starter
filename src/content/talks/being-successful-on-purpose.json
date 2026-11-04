@@ -1,0 +1,28 @@
+{
+  "wpId": 4917,
+  "title": "Being Successful on Purpose",
+  "slug": "being-successful-on-purpose",
+  "path": "/watch/being-successful-on-purpose/",
+  "date": "2024-02-13 09:41:19",
+  "modified": "2024-02-13 09:41:19",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2024",
+    "talks_speakers": [
+      4728
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In my talk I will share practical insights, strategies, and examples that demonstrate how individuals in the tech industry can be intentional about their career paths, skill development, and overall success.</p>"
+    }
+  ],
+  "formReplaced": false
+}

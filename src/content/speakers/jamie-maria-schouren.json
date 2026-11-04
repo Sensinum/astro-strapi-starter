@@ -1,0 +1,43 @@
+{
+  "wpId": 228,
+  "title": "Jamie Maria Schouren",
+  "slug": "jamie-maria-schouren",
+  "path": "/contributor/jamie-maria-schouren/",
+  "date": "2020-01-01 00:02:10",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Head of Product & Brand Strategy at Deity BV",
+    "speaker_avatar": {
+      "id": 229,
+      "url": "/uploads/2021/03/jamie_maria_schouren.jpg",
+      "alt": "Jamie Maria Schouren",
+      "width": 480,
+      "height": 480
+    },
+    "speaker_surname": "Schouren",
+    "speaker_twitter": "https://twitter.com/JamieMariaS",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/jamie-maria-schouren-%E2%9C%85-80583145/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Jamie Maria is addicted to e-commerce, in love with code and her mind bound to business. Driven by the urge for innovation she fights with the aim to improve the online world around her. </p>\n\n\n\n<p>Starting as a native app developer who jumped into e-commerce, she co-founded DEITY, with which she is on a mission to spark an online revolution to evolve web technologies to the use of PWA solutions. You can find her working in the heat of the moment or in the middle of the night while transforming chaos into gold. One of her passions is to empower women and girls to never stop chasing their dreams.</p>"
+    }
+  ],
+  "formReplaced": false
+}

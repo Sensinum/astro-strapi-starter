@@ -1,0 +1,30 @@
+---
+interface ImageAsset {
+  url?: string;
+  alt?: string;
+  width?: number | null;
+  height?: number | null;
+}
+interface Props {
+  image?: ImageAsset | null;
+  src?: string;
+  alt?: string;
+  wrap?: boolean;
+  classes?: string;
+}
+const { image, src, alt = '', wrap = false, classes = '' } = Astro.props;
+const url = image?.url || src || '';
+const label = image?.alt || alt;
+const width = image?.width || 0;
+const height = image?.height || 0;
+const square = classes.includes('square') || classes.includes('speaker-av');
+let proportions = 'width-prior';
+if (square) proportions = height > width && width ? 'width-prior' : 'height-prior';
+else if (height > width && width) proportions = 'height-prior';
+---
+{url && wrap && (
+  <div class:list={['responsive-image-wrapper', proportions, classes]}>
+    <img class="responsive-image" src={url} alt={label} />
+  </div>
+)}
+{url && !wrap && <img class:list={['responsive-image', classes]} src={url} alt={label} />}

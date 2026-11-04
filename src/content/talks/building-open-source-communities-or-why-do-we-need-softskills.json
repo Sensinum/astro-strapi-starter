@@ -1,0 +1,28 @@
+{
+  "wpId": 4931,
+  "title": "Building open-source communities — or: why do we need softskills?",
+  "slug": "building-open-source-communities-or-why-do-we-need-softskills",
+  "path": "/watch/building-open-source-communities-or-why-do-we-need-softskills/",
+  "date": "2024-02-13 09:51:01",
+  "modified": "2024-02-13 09:51:01",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2024",
+    "talks_speakers": [
+      4896
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>There is that stereotype of a programmer being a “lone wolf”, a genius who works from their basement and single-handedly crafts a new Microsoft or Facebook. Articles on “how to start your career in IT” also tend to only focus on technical skills — “how to write code”, if you will. And yet it’s difficult to overestimate the power of GNU tools, GNU/Linux system or services such as StackOverflow, GitHub or Reddit. The vast majority of software isn’t created by any single person, not even a single team, but whole complex communities of people — with all the consequences.</p>\n\n\n\n<p>Why are certain programming languages, libraries or tool completely niche, despite an amazing concept and performance, while others succeed despite obvious flaws? Why is it so difficult to create a good technology stack, despite so many great options being available? And what was even the matter with Linus Torvalds?</p>\n\n\n\n<p>I will answer all of the above and more, based on my experiences from communities I saw — and took a part in — raising.</p>"
+    }
+  ],
+  "formReplaced": false
+}

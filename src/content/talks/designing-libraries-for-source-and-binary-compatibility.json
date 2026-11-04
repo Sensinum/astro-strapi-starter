@@ -1,0 +1,36 @@
+{
+  "wpId": 578,
+  "title": "Designing libraries for source and binary compatibility",
+  "slug": "designing-libraries-for-source-and-binary-compatibility",
+  "path": "/watch/designing-libraries-for-source-and-binary-compatibility/",
+  "date": "2020-01-01 00:01:30",
+  "modified": "2023-03-20 12:04:05",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=2wkEX6MCxJs&t=19s",
+    "video_thumbnail": false,
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      374
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>We have all experienced at least once the dismay of trying to use two libraries, only to discover that they are not binary compatible with each other. The good news is: we can avoid this kind of situation, if we correctly design our libraries and their APIs so that we can <em>evolve</em> them later in binary compatible ways. In this talk, we will first explain what source and binary compatibility are, why they matter, and when. Then, we will give practical advice on designing APIs that can be evolved in backward compatible ways, as well as recommendations for versioning libraries.</p>"
+    }
+  ],
+  "formReplaced": false
+}

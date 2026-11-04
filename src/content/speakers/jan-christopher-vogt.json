@@ -1,0 +1,43 @@
+{
+  "wpId": 424,
+  "title": "Jan Christopher Vogt",
+  "slug": "jan-christopher-vogt",
+  "path": "/contributor/jan-christopher-vogt/",
+  "date": "2020-01-01 00:00:57",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer with Haskell at Symbiont.io",
+    "speaker_avatar": {
+      "id": 425,
+      "url": "/uploads/2021/03/Jan_Christopher_Vogt.png",
+      "alt": "Jan Christopher Vogt",
+      "width": 399,
+      "height": 399
+    },
+    "speaker_surname": "Vogt",
+    "speaker_twitter": "https://twitter.com/cvogt",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/cvogt-org/",
+    "speaker_gh": "https://github.com/cvogt"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Author of CBT, co-author of Slick, a former member of Martin’s Scala team, pragmatic functional programmer with an appreciation for simplicity and appropriate design.</p>"
+    }
+  ],
+  "formReplaced": false
+}

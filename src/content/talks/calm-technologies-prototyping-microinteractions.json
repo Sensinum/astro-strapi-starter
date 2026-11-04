@@ -1,0 +1,36 @@
+{
+  "wpId": 652,
+  "title": "Calm Technologies: Prototyping Microinteractions",
+  "slug": "calm-technologies-prototyping-microinteractions",
+  "path": "/watch/calm-technologies-prototyping-microinteractions/",
+  "date": "2020-01-01 00:00:45",
+  "modified": "2023-03-20 14:08:20",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=Jk2Q5zzqDx0&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      2220
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Photos of human faces increase sales and conversions, but how many pictures can you remember from the apps you use every day? In many cases the interface is only one way to communicate with the user, so schemes and buttons become the face of a product. Would you like it to be relaxed or attentive, friendly or emotionless?</p>\n\n\n\n<p>Microinteractions define the emotional impact of a product.</p>\n\n\n\n<ul>\n<li>What do people expect from interactions?</li>\n\n\n\n<li>Emotional impression as part of silent communication</li>\n\n\n\n<li>Loops &amp; Modes: triggers initiate feedback</li>\n\n\n\n<li>Preventing user error</li>\n\n\n\n<li>Interactions as imitations of intelligence</li>\n</ul>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

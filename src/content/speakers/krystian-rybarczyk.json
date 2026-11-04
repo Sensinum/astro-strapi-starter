@@ -1,0 +1,43 @@
+{
+  "wpId": 341,
+  "title": "Krystian Rybarczyk",
+  "slug": "krystian-rybarczyk",
+  "path": "/contributor/krystian-rybarczyk/",
+  "date": "2020-01-01 00:01:32",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Software Engineer at Codete",
+    "speaker_avatar": {
+      "id": 342,
+      "url": "/uploads/2021/03/Krystian_Rybarczyk.jpeg",
+      "alt": "Krystian Rybarczyk",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Rybarczyk",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/krybarczyk/?originalSubdomain=pl",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Krystian is a happy husband and father to two little chaps. He loves to learn new things and is truly fascinated by programming, which he learnt at Imperial College London. He has gained his work experience in technology companies in Munich, London and Palo Alto. </p>\n\n\n\n<p>Hacking mainly in the JVM world he has worked on event based systems for high throughput, leveraged the potential of functional programming and Scala for working with Big Data and is currently solving mobile apps industry challenges with the power of Kotlin. He is interested in code deployment, automates whatever he can and in his free time works on his culinary and barista skills.</p>"
+    }
+  ],
+  "formReplaced": false
+}

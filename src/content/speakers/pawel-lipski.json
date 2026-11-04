@@ -1,0 +1,43 @@
+{
+  "wpId": 2085,
+  "title": "Paweł Lipski",
+  "slug": "pawel-lipski",
+  "path": "/contributor/pawel-lipski/",
+  "date": "2021-11-02 17:05:22",
+  "modified": "2021-11-03 17:18:37",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Developer at VirtusLab",
+    "speaker_avatar": {
+      "id": 2098,
+      "url": "/uploads/2021/11/pawel-lipski-min.jpg",
+      "alt": "Paweł Lipski",
+      "width": 960,
+      "height": 960
+    },
+    "speaker_surname": "Lipski",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/pawelplipski/",
+    "speaker_gh": "https://github.com/PawelLipski"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Scala/DevOps Engineer @ VirtusLab, with an inclination towards automating software development processes.&nbsp;</p>\n\n\n\n<p>Currently maintaining VirtusLab open source projects: git-machete, aka \"probably the sharpest git repository organizer &amp; rebase workflow automation tool you've ever seen\", git-machete-IntelliJ-plugin and working on the alpha version of Akka-serialization-helper.</p>"
+    }
+  ],
+  "formReplaced": false
+}

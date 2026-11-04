@@ -1,0 +1,48 @@
+{
+  "wpId": 441,
+  "title": "The search for App-iness: Building the future with Progressive Web Apps",
+  "slug": "the-search-for-app-iness-building-the-future-with-progressive-web-apps",
+  "path": "/watch/the-search-for-app-iness-building-the-future-with-progressive-web-apps/",
+  "date": "2020-01-01 00:03:01",
+  "modified": "2021-03-31 14:58:03",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 18,
+        "slug": "javascript",
+        "name": "JavaScript"
+      },
+      {
+        "id": 61,
+        "slug": "pwa",
+        "name": "PWA"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=peAEPwnAiJ4&t=14s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      228
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Progressive Web Apps combine the best of the web and the best of apps. They load quickly, even on flaky networks, have an icon on the home screen, can re-engage with users by sending push notifications, and load as top-level, full-screen experiences. In this talk Jamie Maria Schouren explains the what, why, and how of Progressive Web Apps, her own quest in search for \"app-iness\" and with code examples and real-life use cases, shows why PWA’s are the future of the web!</p>"
+    }
+  ],
+  "formReplaced": false
+}

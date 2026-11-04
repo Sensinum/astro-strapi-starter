@@ -1,0 +1,36 @@
+{
+  "wpId": 581,
+  "title": "Enforce best coding practices with Scalafix linting",
+  "slug": "enforce-best-coding-practices-with-scalafix-linting",
+  "path": "/watch/enforce-best-coding-practices-with-scalafix-linting/",
+  "date": "2020-01-01 00:01:28",
+  "modified": "2023-03-20 12:03:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=aa5ff_iepDM",
+    "video_thumbnail": false,
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      428
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Scalafix is rewrite and linting tool for Scala. There’s a continuous process of adding new rules that help enforce best functional programming practices. I will show how the most important rules work and how they were implemented. I will also share my experience porting Wartremover rules to Scalafix and compare the two. In this talk, you will learn how to implement a scalafix linter rule, from idea, implementation, testing and release. There will be also a few words about what Scalafix currently can and can’t do and what kind of problems it solves.</p>"
+    }
+  ],
+  "formReplaced": false
+}

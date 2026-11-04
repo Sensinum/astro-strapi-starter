@@ -1,0 +1,43 @@
+{
+  "wpId": 207,
+  "title": "Michał Michalczuk",
+  "slug": "michal-michalczuk",
+  "path": "/contributor/michal-michalczuk/",
+  "date": "2020-01-01 00:02:18",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Software Engineer at Spartez / IT Trainer at infoShare Academy",
+    "speaker_avatar": {
+      "id": 208,
+      "url": "/uploads/2021/03/Michal_Michalczuk.jpeg",
+      "alt": "Michał Michalczuk",
+      "width": 460,
+      "height": 460
+    },
+    "speaker_surname": "Michalczuk",
+    "speaker_twitter": "https://twitter.com/michalczukm",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/michalczukm/?originalSubdomain=pl",
+    "speaker_gh": "https://github.com/michalczukm"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Full-Stack Software Developer, IT trainer at infoShare Academy, if there is a need – Scrum Master, Architect and Team Leader. TypeScript fan and promoter.<br>As a front-end dev, he's focused on TypeScript and Angular.<br>As a back-end dev he prefers C# and ASP.NET or Node.js, but vary of technologies and languages went through his fingers – from Python and Django, through WPF and Silverlight, Visual Basic, PHP etc.<br>And yes … he loves to talk and share knowledge.</p>"
+    }
+  ],
+  "formReplaced": false
+}

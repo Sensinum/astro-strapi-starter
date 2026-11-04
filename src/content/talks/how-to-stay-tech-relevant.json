@@ -1,0 +1,36 @@
+{
+  "wpId": 443,
+  "title": "How to stay tech relevant",
+  "slug": "how-to-stay-tech-relevant",
+  "path": "/watch/how-to-stay-tech-relevant/",
+  "date": "2020-01-01 00:02:59",
+  "modified": "2021-03-31 14:59:05",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=lk5lRtxEvEo&t=13s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      232
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In this talk, I explain the importance of learning principles and the effect that neglecting them can have over time, causing a deteriorating effect in our career and the projects we work on. Learning principles also has another dimensional effect beyond time. Principles help developers make better decisions at a high level, for example, a framework, and also at a low level, for example, a component. We will see a case study where a principle was violated and the impact it had on the project.</p>"
+    }
+  ],
+  "formReplaced": false
+}

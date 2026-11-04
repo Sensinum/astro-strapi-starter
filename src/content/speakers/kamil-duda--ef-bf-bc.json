@@ -1,0 +1,35 @@
+{
+  "wpId": 2635,
+  "title": "Kamil Duda",
+  "slug": "kamil-duda-%ef%bf%bc",
+  "path": "/contributor/kamil-duda-￼/",
+  "date": "2022-02-14 08:25:56",
+  "modified": "2022-04-07 08:58:04",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Software Engineer at VirtusLab",
+    "speaker_avatar": {
+      "id": 2637,
+      "url": "/uploads/2022/02/FEN_8404-cropped-Kamil-Duda-1.jpeg",
+      "alt": "Kamil Duda",
+      "width": 1780,
+      "height": 2067
+    },
+    "speaker_surname": "Duda",
+    "speaker_twitter": "https://twitter.com/FineConstant",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/kamilduda/",
+    "speaker_gh": "https://github.com/fineconstant"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Kamil is a Scala Engineer at VirtusLab, previously Senior DevOps Engineer, and then Domain Architect at ING Tech Poland. Currently, in his work, he deals with the creation of a global shipment tracking system based on microservices.</p>\n\n\n\n<p>He started his professional career in IT during his studies, in 2016. So far I have had the opportunity to write production applications in C #, Java, Kotlin, Scala, and TypeScript that work with SQL and NoSQL databases.</p>\n\n\n\n<p>Hobbies: electric guitar, music theory, canine behavior.</p>"
+    }
+  ],
+  "formReplaced": false
+}

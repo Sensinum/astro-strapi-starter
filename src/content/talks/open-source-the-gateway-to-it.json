@@ -1,0 +1,43 @@
+{
+  "wpId": 3894,
+  "title": "Open source - the gateway to IT",
+  "slug": "open-source-the-gateway-to-it",
+  "path": "/watch/open-source-the-gateway-to-it/",
+  "date": "2022-11-07 16:09:05",
+  "modified": "2023-03-21 10:35:25",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/11/szablon_thumbnail_tomek-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      },
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=gEgTfEY6LY8",
+    "video_thumbnail": false,
+    "talk_date": "November 24, 2022",
+    "talks_speakers": [
+      261
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Open source is in essence, multiple communities of developers working and helping each other out while working on freely available source code. This could be a great place to start your IT journey, however, it can also be quite overwhelming and not always a great experience. I'd like to discuss some rules and ideas that can improve your odds of getting into open source.</p>"
+    }
+  ],
+  "formReplaced": false
+}

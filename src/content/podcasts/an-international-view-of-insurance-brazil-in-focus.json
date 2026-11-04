@@ -1,0 +1,47 @@
+{
+  "wpId": 5168,
+  "title": "An international view of Insurance Brazil in focus",
+  "slug": "an-international-view-of-insurance-brazil-in-focus",
+  "path": "/podcast/an-international-view-of-insurance-brazil-in-focus/",
+  "date": "2024-04-19 13:29:18",
+  "modified": "2024-04-19 13:29:18",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E11_thumbnail_Pedro_London_Interview-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5166
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "Watch on YouTube",
+      "url": "https://www.youtube.com/watch?v=glMR0-fA6Rw&list=PLl9Aulxh1VePW1MCtgpOqCRDPjYWn9Zy2&index=16",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>One of the many interviews with Insurance Experts that we recorded at the Insurtech Insights 2024 in London. Interviewing Pedro London, Partner / Executive Director CQCS</p>\n",
+    "podcast_cover": {
+      "id": 5169,
+      "url": "/uploads/2024/04/S01E11_thumbnail_Pedro_London_Interview-min.jpg",
+      "alt": "S01E11_thumbnail_Pedro_London_Interview-min",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

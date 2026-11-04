@@ -1,0 +1,47 @@
+{
+  "wpId": 5128,
+  "title": "Revolutionising Underwriting: The Journey of Scala Open-Source and System Integration Challenges",
+  "slug": "revolutionising-underwriting-the-journey-of-scala-open-source-and-system-integration-challenges",
+  "path": "/podcast/revolutionising-underwriting-the-journey-of-scala-open-source-and-system-integration-challenges/",
+  "date": "2024-04-19 12:14:50",
+  "modified": "2024-04-19 12:14:50",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E02_thumbnail_Marek_Nelken_Interview-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5126
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "Watch on Youtube",
+      "url": "https://www.youtube.com/watch?v=QHAAalELt8Y&list=PLl9Aulxh1VePW1MCtgpOqCRDPjYWn9Zy2&index=8",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>One of the many interviews with Insurance Experts that we recorded at the Insurtech Insights 2024 in London. Interviewing Marek Nelken, CTO at Curotech Specialty</p>\n",
+    "podcast_cover": {
+      "id": 5129,
+      "url": "/uploads/2024/04/S01E02_thumbnail_Marek_Nelken_Interview-min.jpg",
+      "alt": "S01E02_thumbnail_Marek_Nelken_Interview-min",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

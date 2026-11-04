@@ -1,0 +1,43 @@
+{
+  "wpId": 547,
+  "title": "Jochen Mader",
+  "slug": "jochen-mader",
+  "path": "/contributor/jochen-mader/",
+  "date": "2020-01-01 00:00:52",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Systems Engineer at Codecentric",
+    "speaker_avatar": {
+      "id": 548,
+      "url": "/uploads/2021/03/Jochen_Mader.png",
+      "alt": "Jochen Mader",
+      "width": 150,
+      "height": 150
+    },
+    "speaker_surname": "Mader",
+    "speaker_twitter": "https://twitter.com/codepitbull",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/jochen-mader-a4b965112/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Grew up as C64-nerd, got into Basic, C and Assembly. Found the JVM and fell in love. Since then I’ve been constantly wandering through the world of IT, always focusing on highly available distributed systems. Today I am happy to be a part of the nerd herd at codecentric. I spent the past few years working with a bunch of very creative and fun people in Scala-heavy projects using Akka, Vert.x, Spark, … . Oh, and I joined the Vert.x-team in 2017 as maintainer for the Scala-stack. That’s where most of my non-working-coding-time goes.</p>"
+    }
+  ],
+  "formReplaced": false
+}

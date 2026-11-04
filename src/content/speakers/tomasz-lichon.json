@@ -1,0 +1,37 @@
+{
+  "wpId": 591,
+  "title": "Tomasz Lichoń",
+  "slug": "tomasz-lichon",
+  "path": "/contributor/tomasz-lichon/",
+  "date": "2020-01-01 00:00:28",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Big Data Engineer at VirtusLab",
+    "speaker_avatar": false,
+    "speaker_surname": "Lichoń",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/tomasz-licho%C5%84-ab3aa083/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Tomasz Lichoń is big data engineer and team leader at VirtusLab, in where he’s involved in building data lake and data processing pipelines using Hadoop related technologies. Prior to that, he was focusing on open source scientific projects, being one of the main contributors to onedata initiative that aims to revolutionize access to scientific data, and helping to improve software for simulating LHC beam collisions at Cern. He obtained his M.Sc. and started Ph.D. studies at AGH University of Science and Technology. His personal interests include football, AI, psychology and good beer.</p>"
+    }
+  ],
+  "formReplaced": false
+}

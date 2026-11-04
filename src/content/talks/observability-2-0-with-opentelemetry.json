@@ -1,0 +1,45 @@
+{
+  "wpId": 1940,
+  "title": "Observability 2.0 with OpenTelemetry",
+  "slug": "observability-2-0-with-opentelemetry",
+  "path": "/watch/observability-2-0-with-opentelemetry/",
+  "date": "2021-10-08 09:44:46",
+  "modified": "2023-03-21 11:03:06",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2021/10/przemo_th-1.png",
+  "seo": {
+    "ogImage": "/uploads/2021/10/przemo_th-1.png"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 130,
+        "slug": "observability",
+        "name": "Observability"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=DA_0KgpbnPc",
+    "video_thumbnail": false,
+    "talk_date": "September 30, 2021",
+    "talks_speakers": [
+      236
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Monitoring and observability are hardly new concepts, though until recently, multiple tools were required to cover all three pillars: logs, metrics, and traces. This changed with the introduction of OpenTelemetry, which has become one of the most active CNCF projects. In this talk, you will learn what OpenTelemetry is, how it solves observability, and how to start contributing!</p>"
+    }
+  ],
+  "formReplaced": false
+}

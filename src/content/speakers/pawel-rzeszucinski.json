@@ -1,0 +1,43 @@
+{
+  "wpId": 263,
+  "title": "Paweł Rzeszuciński",
+  "slug": "pawel-rzeszucinski",
+  "path": "/contributor/pawel-rzeszucinski/",
+  "date": "2020-01-01 00:01:57",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Chief Data Scientist at Codewise",
+    "speaker_avatar": {
+      "id": 264,
+      "url": "/uploads/2021/03/Pawel_Rzeszuciński.jpeg",
+      "alt": "Paweł Rzeszuciński",
+      "width": 256,
+      "height": 256
+    },
+    "speaker_surname": "Rzeszucinski",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/pawelrzeszucinski/?originalSubdomain=pl",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Dr Paweł Rzeszuciński, a member of the Forbes Technology Council, is the author of over 30 publications and patents in the field of broadly defined data analytics. He obtained a Master's degree in computer science from Cranfield University, after which he moved to the University of Manchester, where he obtained a PhD for the project for QinetiQ related to analytical solutions for the diagnosis of helicopter gearboxes. </p>\n\n\n\n<p>After returning to Poland, he worked as Senior Scientist at ABB Corporate Research Center and Senior Risk Modeler at Strategic Analytics for HSBC. He is currently working as a Chief Data Scientist at Codewise.</p>"
+    }
+  ],
+  "formReplaced": false
+}

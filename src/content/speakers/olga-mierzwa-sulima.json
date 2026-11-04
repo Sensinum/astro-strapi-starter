@@ -1,0 +1,43 @@
+{
+  "wpId": 582,
+  "title": "Olga Mierzwa-Sulima",
+  "slug": "olga-mierzwa-sulima",
+  "path": "/contributor/olga-mierzwa-sulima/",
+  "date": "2020-01-01 00:00:31",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Data Scientist at Appsilon Data Science / datahero.tech",
+    "speaker_avatar": {
+      "id": 584,
+      "url": "/uploads/2021/03/Olga_Mierzwa-Sulima.jpg",
+      "alt": "Olga Mierzwa-Sulima",
+      "width": 800,
+      "height": 800
+    },
+    "speaker_surname": "Mierzwa-Sulima",
+    "speaker_twitter": "https://twitter.com/olga_mie",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/olga-mierzwa-sulima-84843539/",
+    "speaker_gh": "https://olgamie.github.io/"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Olga is a senior data scientist at Appsilon Data Science and a co-founder of datahero.tech. She leads a team of data scientists and build data science predictive/explanatory solutions and deploy them in production, usually wrapped in a Shiny App UI. She develops Appsilon’s open-source R packages. Olga holds a MSc degree in Econometrics from the University of Rotterdam. She co-organizes the largest meetup of R users in Poland and is a co-founder of R-Ladies Warsaw chapter.</p>"
+    }
+  ],
+  "formReplaced": false
+}

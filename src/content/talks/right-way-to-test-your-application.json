@@ -1,0 +1,36 @@
+{
+  "wpId": 466,
+  "title": "The right way to test your application",
+  "slug": "right-way-to-test-your-application",
+  "path": "/watch/right-way-to-test-your-application/",
+  "date": "2020-01-01 00:02:39",
+  "modified": "2021-03-31 15:12:41",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=E6TrfKAa8u4",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      292
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I will focus on integration tests and how to run them in sandbox close to test/production env in order to catch as many problems before you commit to your VCS. I will explore test containers, pact and canaveral frameworks.</p>"
+    }
+  ],
+  "formReplaced": false
+}

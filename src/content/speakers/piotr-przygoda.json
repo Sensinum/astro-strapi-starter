@@ -1,0 +1,35 @@
+{
+  "wpId": 4513,
+  "title": "Piotr Przygoda",
+  "slug": "piotr-przygoda",
+  "path": "/contributor/piotr-przygoda/",
+  "date": "2023-08-01 12:12:22",
+  "modified": "2023-08-01 12:12:23",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Product Manager at VirtusLab",
+    "speaker_avatar": {
+      "id": 4514,
+      "url": "/uploads/2023/08/piotr_image.jpeg",
+      "alt": "piotr_image",
+      "width": 200,
+      "height": 200
+    },
+    "speaker_surname": "Przygoda",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/piotrprzygoda/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Piotr is an experienced product leader who specialises in identifying business opportunities, leading teams and creating compelling product propositions that benefit both the business and the customer. He helps clients build and launch IT products and digital strategies that deliver value. And he's always looking for ways to learn, experiment and break stereotypes. Piotr’s key interests: data &amp; analytics, sustainability, insect food production.</p>"
+    }
+  ],
+  "formReplaced": false
+}

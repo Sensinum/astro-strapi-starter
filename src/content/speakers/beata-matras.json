@@ -1,0 +1,36 @@
+{
+  "wpId": 4988,
+  "title": "Beata Matras",
+  "slug": "beata-matras",
+  "path": "/contributor/beata-matras/",
+  "date": "2024-02-21 13:02:49",
+  "modified": "2024-02-29 22:41:54",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Product Manager at IG Group",
+    "speaker_avatar": {
+      "id": 4989,
+      "url": "/uploads/2024/02/Beata_FB-10.png",
+      "alt": "Beata_FB-10",
+      "width": 1157,
+      "height": 1157
+    },
+    "speaker_surname": "Matras",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/beatamatras93/",
+    "speaker_gh": "",
+    "speaker_add_info": "IG Group"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Beata is a Product Manager by profession, responsible for developing and maintaining the website as well as its content management system at global FinTech.</p>\n\n\n\n<p>She works closely with three amazing development teams, each focusing on the front-end (what the user sees) and the back-end (how the website works).</p>\n\n\n\n<p>On a daily basis, her tasks include setting goals, creating roadmaps, prioritizing tasks, participating in meetings with end-users to gather feedback and analyze their needs. She also handles communication with key stakeholders and other individuals involved in activities related to the product.</p>\n\n\n\n<p>She's incredibly excited about merging tools from the product and project areas, as well as exploring the fascinating realms of communication and personal branding. She's even doing her own podcast (doing it my way by beata matras).</p>\n\n\n\n<p>And when Beata is not busy being a creative genius, you can find her indulging in activities like running, riding a bike, cooking up a storm in the kitchen, and expressing herself through writing. </p>"
+    }
+  ],
+  "formReplaced": false
+}

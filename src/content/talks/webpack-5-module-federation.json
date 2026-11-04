@@ -1,0 +1,58 @@
+{
+  "wpId": 152,
+  "title": "Webpack 5 Module Federation",
+  "slug": "webpack-5-module-federation",
+  "path": "/watch/webpack-5-module-federation/",
+  "date": "2020-01-01 00:03:27",
+  "modified": "2021-03-31 14:36:47",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 17,
+        "slug": "frontend",
+        "name": "Frontend"
+      },
+      {
+        "id": 18,
+        "slug": "javascript",
+        "name": "JavaScript"
+      },
+      {
+        "id": 20,
+        "slug": "module-federation",
+        "name": "Module Federation"
+      },
+      {
+        "id": 19,
+        "slug": "webpack",
+        "name": "WebPack"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=DAEqojidRmk&t=132s",
+    "video_thumbnail": false,
+    "talk_date": "May 12, 2020",
+    "talks_speakers": [
+      119
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>An upcoming flagship feature in Webpack 5 that enables javascript applications to import code from separately deployed applications at runtime.</p>\n\n\n\n<p>A game-changer to how we think about building applications in the javascript environment, Module Federation allows micro-services and micro-frontends to work as seamlessly as a monolithic application would.</p>\n\n\n\n<p>As the creator of Module Federation - I'll take you through what it is, why its useful, and how it can be used to solve various architectural challenges facing large engineering teams. Module Federation has been recognized as a true solution to challenges of micro-frontends, and solves it with no engineering overhead or need to alter codebases.</p>\n\n\n\n<p>Module Federation work with a standard require() or import and takes a \"just works\" approach to solve complex infrastructure. I'll detail and do some live coding where we take independent applications and federate them into one monolithic style SPA at runtime, demonstrate server-side federation, and streamed module federation over S3, as well as showcase more complex use cases.</p>"
+    }
+  ],
+  "formReplaced": false
+}

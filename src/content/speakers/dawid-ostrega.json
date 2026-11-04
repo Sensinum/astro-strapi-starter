@@ -1,0 +1,35 @@
+{
+  "wpId": 4377,
+  "title": "Dawid Ostręga",
+  "slug": "dawid-ostrega",
+  "path": "/contributor/dawid-ostrega/",
+  "date": "2023-06-28 14:08:00",
+  "modified": "2023-06-28 14:10:24",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Business Leader, Director of Operations at HTEC Group",
+    "speaker_avatar": {
+      "id": 4378,
+      "url": "/uploads/2023/06/DawidOstrega_LeadersIsland.png",
+      "alt": "DawidOstrega_LeadersIsland",
+      "width": 600,
+      "height": 600
+    },
+    "speaker_surname": "Ostręga",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/ostrega/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Dawid Ostręga is an IT engineer, Business Leader, Head Coach, Scout Master, and Keynote Speaker. He is specializing in building teams, set up from scratch four software development centers in Krakow, and managed in such firms as EPAM System, IBM, SolarWinds, and SKK. He is most passionate about identifying and developing the personal potential of people on the team.<br>For 20 years, he obtained experience outside Poland with the intention of bringing it back. After graduating in London, he accepted a scholarship to Wesley College in the USA to do an MBA.<br>At that time, he could already boast about leading a scout group, his own company, and the champions of England in American football. Even today, he loves to combine various worlds: sport, scouting, and business, in order to transfer experiences and managerial “lessons” between them.<br>Dawid is linked to Leaders Island through his passion for training leaders by practitioners. He shares his successes (and also failures) during various speeches to create a space for the development of the next leaders in our country.</p>"
+    }
+  ],
+  "formReplaced": false
+}

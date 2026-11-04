@@ -1,0 +1,43 @@
+{
+  "wpId": 4083,
+  "title": "Aga Myśliwczyk",
+  "slug": "aga-mysliwczyk",
+  "path": "/contributor/aga-mysliwczyk/",
+  "date": "2023-02-06 10:39:22",
+  "modified": "2023-02-17 15:14:12",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 174,
+        "slug": "inspiring-women-in-it",
+        "name": "Inspiring Women in IT"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Co-Founder & CEO @ CandidFuture",
+    "speaker_avatar": {
+      "id": 4123,
+      "url": "/uploads/2023/02/agamysliwczyk.png",
+      "alt": "Aga Myśliwczyk",
+      "width": 800,
+      "height": 800
+    },
+    "speaker_surname": "Myśliwczyk",
+    "speaker_twitter": "",
+    "speaker_fb": "https://www.facebook.com/profile.php?id=100079929375721",
+    "speaker_linkedin": "https://www.linkedin.com/in/agnieszkamysliwczyk/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>For 20 years as a leader, business partner and entrepreneur, I have been cooperating with companies and employees, bringing above-average benefits to both parties.<br>On a daily basis, I talk to the owners of technology businesses about their recruitment and needs in the field of building the employer brand (EB) in the Polish market.<br>I'm the founder of the boutique IT recruitment agency called CandidFuture, a recruiter of managerial and c-level staff, a mentor for IT Recruiters and co-founder of the IT career academy called CandidAcademy.<br>In 2019, I brought to life the FAIRit - a re-industry program for women under the patronage of infoShare Academy. Thanks to this, 14 out of 19 participants started working as Java or Frontend programmers within three months after finishing.</p>"
+    }
+  ],
+  "formReplaced": false
+}

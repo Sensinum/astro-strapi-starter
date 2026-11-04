@@ -1,0 +1,182 @@
+{
+  "wpId": 2228,
+  "title": "Data Science: type safety & A/B testing",
+  "slug": "sphere-tech-talks-six",
+  "path": "/event/sphere-tech-talks-six/",
+  "date": "2021-12-07 00:29:21",
+  "modified": "2022-07-06 13:00:54",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/12/tt6-share-min.png"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 138,
+        "slug": "sphere-it-tech-talks",
+        "name": "Sphere.it Tech Talks"
+      }
+    ]
+  },
+  "acf": {
+    "event_date": "27.01.2022",
+    "type_of_event": "Start 6:00 PM CET",
+    "event_entry": "online event",
+    "event_artwork": {
+      "id": 2229,
+      "url": "/uploads/2021/12/data_theme-min.png",
+      "alt": "Data Science: type safety & A/B testing",
+      "width": 1080,
+      "height": 1080
+    },
+    "event_register": {
+      "title": "Register now",
+      "url": "https://www.airmeet.com/e/ae6fd510-540f-11ec-bc49-5f1b8874110a",
+      "target": "_blank"
+    },
+    "event_background_color": "#14245f",
+    "event_font_color": false,
+    "event_font_color_value": "#d7e1ff",
+    "reduce_font_size": "2",
+    "event_scroll_button": "about-event",
+    "event_series_label": "Sphere.it Tech Talks #6",
+    "event_agenda": [
+      {
+        "item_type": "talk",
+        "item_time": "6:00 PM",
+        "talk_id": 2378,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "#14245f",
+        "font_color": "#d7e1ff",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "6:30 PM",
+        "talk_id": 2379,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "#14245f",
+        "font_color": "#d7e1ff",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "custom",
+        "item_time": "7:00 PM",
+        "talk_id": false,
+        "custom_title": "Q&A",
+        "item_content": "",
+        "background_color": "#14245f",
+        "font_color": "#d7e1ff",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "custom",
+        "item_time": "7:30 PM",
+        "talk_id": false,
+        "custom_title": "Networking on Airmeet",
+        "item_content": "",
+        "background_color": "#14245f",
+        "font_color": "#d7e1ff",
+        "accent_font_color": ""
+      }
+    ],
+    "header_background_image": false,
+    "buttons_background_color": "",
+    "buttons_font_color": "",
+    "alt_dynamic_menu": false,
+    "event_alt_title": "",
+    "event_date_hidden": false,
+    "event_artwork_listing": false,
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "about-event",
+      "data": {
+        "block_description": "<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; font-weight: 500; text-align: left;\">New year, a new season of tech talks! Save your spot for another session from our online series. This time we invited experts in #Data Engineering, #Data Science &amp; #Machine Learning from Product Madness and VirtusLab to share their expertise with us.</p>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2290,
+          "url": "/uploads/2021/12/tt6-min-1.jpg",
+          "alt": "Data Science: type safety &#038; A/B testing &#8211; sphere.it tech talks",
+          "width": 2400,
+          "height": 1600
+        },
+        "switch_text_side": true,
+        "block_background_color": "#2c3975",
+        "block_font_color": "#d7e1ff",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "data": {
+        "block_title": null,
+        "block_description": "<p class=\"heading-3\" style=\"margin-bottom: 15px; margin-top: 40px; line-height: 1.25; text-align: center;\">The event will take place on the 27th of January, 2022.</p>\r\n<p class=\"heading-3\" style=\"margin-bottom: 15px; margin-top: 40px; line-height: 1.25; text-align: center;\">We start at 6:00 PM.</p>\r\n<p style=\"text-align: center;\"><span style=\"font-weight: 400; opacity: 0.9;\">Don’t miss your chance and save a spot!</span></p>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": null,
+        "block_background_color": "#101016",
+        "block_font_color": "#d7e1ff",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-event-agenda",
+      "data": {
+        "block_title": "Agenda",
+        "block_background_color": "#14245f",
+        "block_font_color": "#cfd5ff",
+        "block_accent_font_color": "#455efc",
+        "smaller_paddings": true,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "data": {
+        "block_title": "Our all-star guests",
+        "automatic_selection": true,
+        "speaker_groups": [],
+        "block_background_color": "#101016",
+        "block_font_color": "#d7e1ff",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "data": {
+        "block_title": null,
+        "block_description": "<h2 style=\"margin-bottom: 15px; line-height: 1.25;\">Join us at Sphere.it Tech Talks</h2>\r\n<h3 class=\"heading-4\" style=\"margin-bottom: 30px;\">27.01 | START 6:00 PM CET | VIRTUAL EVENT</h3>",
+        "block_button": {
+          "title": "Register for free",
+          "url": "https://www.airmeet.com/e/ae6fd510-540f-11ec-bc49-5f1b8874110a",
+          "target": "_blank"
+        },
+        "cta_background_color": "#455efc",
+        "cta_font_color": "#ffffff",
+        "cta_border_radius": 32,
+        "block_background_image": null,
+        "block_background_color": "#2c3975",
+        "block_font_color": "#ffffff",
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

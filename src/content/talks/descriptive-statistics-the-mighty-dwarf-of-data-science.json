@@ -1,0 +1,45 @@
+{
+  "wpId": 633,
+  "title": "Descriptive statistics – the mighty dwarf of data science",
+  "slug": "descriptive-statistics-the-mighty-dwarf-of-data-science",
+  "path": "/watch/descriptive-statistics-the-mighty-dwarf-of-data-science/",
+  "date": "2020-01-01 00:01:02",
+  "modified": "2023-03-20 14:18:41",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2020/01/pawel-data.png",
+  "seo": {
+    "ogImage": "/uploads/2020/01/pawel-data.png"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 42,
+        "slug": "data-science",
+        "name": "Data Science"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=OJVdhQpyQ_o&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      263
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Nowadays fair part of the community (often influenced by the pressure from the business) seems to show a tendency of applying somewhat complex and rather computationally expensive algorithms to applications that would have been easily accommodated in the past by much simpler (hence faster) and much more interpretable (hence of greater business value) techniques. This presentation aims to remind peers of the power and beauty of descriptive statistics as an approach for quantitatively describing the nature of features and creating solid foundations for any subsequent data investigations.</p>"
+    }
+  ],
+  "formReplaced": false
+}

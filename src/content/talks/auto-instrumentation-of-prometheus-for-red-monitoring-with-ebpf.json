@@ -1,0 +1,39 @@
+{
+  "wpId": 1935,
+  "title": "Auto-instrumentation of Prometheus For RED Monitoring With eBPF",
+  "slug": "auto-instrumentation-of-prometheus-for-red-monitoring-with-ebpf",
+  "path": "/watch/auto-instrumentation-of-prometheus-for-red-monitoring-with-ebpf/",
+  "date": "2021-10-08 09:39:17",
+  "modified": "2023-03-21 11:02:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/10/bartek_harshitha_auto_alt.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=UVmFqrCVDM0",
+    "video_thumbnail": false,
+    "talk_date": "September 30, 2021",
+    "talks_speakers": [
+      1788,
+      1812
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Prometheus is known for robust client libraries in many languages allowing you to instrument your application with useful metrics. With those capabilities, many solid patterns emerged in order to get unified monitoring views for a cluster of applications. One of those is called RED which tells us from what points we should monitor our application (rate, errors, duration).</p>\n\n\n\n<p>While it’s easy to instrument such RED view for one application, it can be challenging for heterogeneous workloads, written in many different programming languages or in the close source.</p>\n\n\n\n<p>What if we could remove the instrumentation step from the equation, similar to what service meshes give, but without added complexity and overhead?</p>\n\n\n\n<p>In this talk, Harshitha and Bartek will go through different approaches of “auto” instrumenting your workload using eBPF, a way of safe and fast execution of code in the Linux kernel. You will learn how to leverage eBPF to get essential data in uniform format into Prometheus for RED monitoring. Join to see a demo showcasing these capabilities using open-source software.</p>"
+    }
+  ],
+  "formReplaced": false
+}

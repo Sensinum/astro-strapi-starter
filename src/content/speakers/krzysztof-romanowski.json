@@ -1,0 +1,50 @@
+{
+  "wpId": 328,
+  "title": "Krzysztof Romanowski",
+  "slug": "krzysztof-romanowski",
+  "path": "/contributor/krzysztof-romanowski/",
+  "date": "2020-01-01 00:01:38",
+  "modified": "2025-01-20 16:32:10",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      },
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Head of DX & Scala at VirtusLab",
+    "speaker_avatar": {
+      "id": 329,
+      "url": "/uploads/2021/03/Plener_72-2-Krzysztof-Romanowski-1.jpg",
+      "alt": "Krzysztof Romanowski",
+      "width": 705,
+      "height": 647
+    },
+    "speaker_surname": "Romanowski",
+    "speaker_twitter": "https://twitter.com/RomanowskiKr",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/romanowskikr/?originalSubdomain=pl",
+    "speaker_gh": "https://github.com/romanowski",
+    "speaker_add_info": "VirtusLab",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Krzysztof has dedicated most of his career to enhancing Developer Experience (DX). He focuses on hands-on development of developer tools and leading teams aimed at improving developer lives. Currently, he oversees the DX (tooling) and Scala departments at VirtusLab.</p>"
+    }
+  ],
+  "formReplaced": false
+}

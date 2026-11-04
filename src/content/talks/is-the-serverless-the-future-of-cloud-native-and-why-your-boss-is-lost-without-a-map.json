@@ -1,0 +1,43 @@
+{
+  "wpId": 516,
+  "title": "Is The Serverless the Future of Cloud Native, and why your boss is lost without a map!",
+  "slug": "is-the-serverless-the-future-of-cloud-native-and-why-your-boss-is-lost-without-a-map",
+  "path": "/watch/is-the-serverless-the-future-of-cloud-native-and-why-your-boss-is-lost-without-a-map/",
+  "date": "2020-01-01 00:01:56",
+  "modified": "2023-03-20 14:57:41",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 38,
+        "slug": "serverless",
+        "name": "Serverless"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=UARPqgifq3A&t=10s",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      193
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Cloud Native is doing well without any doubt, and serverless looks like its distant cousin, yet... this invisible relative has a couple of spectacular successes. Some people say that Cloud Native belongs to the past and that it will soon reveal how 'legacy' it is.</p>\n\n\n\n<p>But all of this is just a starter. Decisions to invest or not to invest in a particular technology are not easy, and in addition to that, people responsible for those choices are very prone to biases.</p>\n\n\n\n<p>In this presentation, I want to show you how to reduce your chances of being unpleasantly surprised by market changes with the help of Wardley Mapping. I will also show you how to use those maps to drive proper decisions, even if you are not the person in charge of the project.</p>\n\n\n\n<p>And Cloud Native vs Serverless sounds like an excellent example to work on!</p>"
+    }
+  ],
+  "formReplaced": false
+}

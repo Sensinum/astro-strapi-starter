@@ -1,0 +1,43 @@
+{
+  "wpId": 450,
+  "title": "Time-based domain events - how to deal with time on Kafka",
+  "slug": "time-based-domain-events-how-to-deal-with-time-on-kafka",
+  "path": "/watch/time-based-domain-events-how-to-deal-with-time-on-kafka/",
+  "date": "2020-01-01 00:02:53",
+  "modified": "2021-03-31 15:02:13",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 65,
+        "slug": "kafka",
+        "name": "Kafka"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=lfYSN2n_H4U&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      251
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Time-Based Domain Events are a niche in the studies of business modelling. Moreover, there is no straightforward answer to whether the technology would be appropriate to support them efficiently. Dealing with time very often proves to be a tough challenge. Especially bearing in mind distributed computing and various aspects of it. However, it is very likely that in your Domain, there are a plethora of Domain Events triggered by a precisely defined point in time.</p>\n\n\n\n<p>The purpose of this presentation is to tackle difficulties in proper and reliable design in order to fulfil business needs where Time-Based Domain Events are concerned. In the first place, some brief overview of a general idea is given. Secondly, the focus is put on the real requirements such as interaction with domain models. Next part includes technical exploration of solution backed up with Kafka. It is hoped that this presentation will shed some light on technical aspects of Time-based domain events as well as inspire interested parties to further research.</p>"
+    }
+  ],
+  "formReplaced": false
+}

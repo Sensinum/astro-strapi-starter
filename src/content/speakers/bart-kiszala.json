@@ -1,0 +1,35 @@
+{
+  "wpId": 4484,
+  "title": "Bart Kiszala ",
+  "slug": "bart-kiszala",
+  "path": "/contributor/bart-kiszala/",
+  "date": "2023-07-11 16:17:35",
+  "modified": "2023-07-11 16:17:36",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Entrepreneur, Angel Investor, co-founder of Base CRM",
+    "speaker_avatar": {
+      "id": 4485,
+      "url": "/uploads/2023/07/1677062581953-1.jpeg",
+      "alt": "1677062581953 (1)",
+      "width": 768,
+      "height": 768
+    },
+    "speaker_surname": "Kiszala",
+    "speaker_twitter": "https://twitter.com/kiszal",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/bartkiszala/?originalSubdomain=pl",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Bart Kiszala&nbsp;is an&nbsp;Entrepreneur and Angel Investor who started his first software business when he was 22. A few years later he co-founded Base CRM and worked on a product for 10 years as the CPO till 2018 when the company was acquired by Zendesk. Among other things, they managed to:</p>\n\n\n\n<ul>\n<li>Convince tens of thousands of salespeople to use Base</li>\n\n\n\n<li>Introduce Base to companies where hundreds of employees used our software daily</li>\n\n\n\n<li>Build an incredible team of 200+ people</li>\n\n\n\n<li>Raise more than 50M USD in 4 rounds of financing</li>\n\n\n\n<li>Run a tight operation between the two main offices, Krakow and Silicon Valley</li>\n\n\n\n<li>Scale production, tech, sales, marketing, finance, HR, and customer success</li>\n\n\n\n<li>Get acquired and become a gate for Zendesk to enter the sales software market</li>\n</ul>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 553,
+  "title": "Marcin Zagórski",
+  "slug": "marcin-zagorski",
+  "path": "/contributor/marcin-zagorski/",
+  "date": "2020-01-01 00:00:47",
+  "modified": "2021-06-08 13:28:47",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Scala Developer at VirtusLab",
+    "speaker_avatar": {
+      "id": 1248,
+      "url": "/uploads/2020/01/DSCF5898.jpg",
+      "alt": "Marcin Zagórski",
+      "width": 1099,
+      "height": 1109
+    },
+    "speaker_surname": "Zagórski",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/marcin-zag%C3%B3rski-a967798a/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Scala developer at VirtusLab. Feels best with Lightbend stack, but worked with variety of different technologies in many kinds of projects – from start ups to corporate scala. Excited about reactive stuff.</p>"
+    }
+  ],
+  "formReplaced": false
+}

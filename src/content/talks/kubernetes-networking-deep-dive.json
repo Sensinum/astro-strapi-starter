@@ -1,0 +1,43 @@
+{
+  "wpId": 650,
+  "title": "Kubernetes Networking Deep Dive",
+  "slug": "kubernetes-networking-deep-dive",
+  "path": "/watch/kubernetes-networking-deep-dive/",
+  "date": "2020-01-01 00:00:46",
+  "modified": "2023-03-20 14:10:20",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 37,
+        "slug": "kubernetes",
+        "name": "Kubernetes"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=9pVgVN813n0",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      132
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The point of this talk is to show that there is no magic in container networking, only Linux kernel and few network protocols and specifications working together. We'll explore what is Container Network Interface and how one of its implementations work in gory details. We'll use some sharp tools like: ip, netstat and tcpdump. It's just tin cans connected with taut strings.</p>"
+    }
+  ],
+  "formReplaced": false
+}

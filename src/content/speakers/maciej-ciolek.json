@@ -1,0 +1,21 @@
+{
+  "wpId": 559,
+  "title": "Maciej Ciołek",
+  "slug": "maciej-ciolek",
+  "path": "/contributor/maciej-ciolek/",
+  "date": "2020-01-01 00:00:41",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {},
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Event Sourcing, CQRS and Microservices Architecture enthusiast. Crazy about Scala language. Experienced software engineer and now Co-founder &amp; CTO at Codeheroes</p>"
+    }
+  ],
+  "formReplaced": false
+}

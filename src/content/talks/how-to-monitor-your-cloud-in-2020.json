@@ -1,0 +1,28 @@
+{
+  "wpId": 444,
+  "title": "How to monitor your cloud in 2020",
+  "slug": "how-to-monitor-your-cloud-in-2020",
+  "path": "/watch/how-to-monitor-your-cloud-in-2020/",
+  "date": "2020-01-01 00:02:58",
+  "modified": "2021-03-31 14:59:34",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=T4NOrUCLfns&t=71s",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      236
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Observability is a key concept - covering metrics, traces and logs. There is a new breed of tools that are supporting all of them in a single place. This allows having great visibility of what the computer system is doing. At least in theory, since most of them still treat the logs as unstructured data and are not always able to tie traces with them. In this talk, we would like to present a revolutionary approach based on a Pattern Discovery tied with Deep Learning. The first converts all logs into meaningful structured data. The latter works out of the box and is a great source of information on what has recently changed in systems behaviour. Integrates with K8S via a one-liner too.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,46 @@
+{
+  "wpId": 4007,
+  "title": "Personal Brand: How to Build the Brand Called 'You'",
+  "slug": "personal-brand-how-to-build-the-brand-called-you",
+  "path": "/watch/personal-brand-how-to-build-the-brand-called-you/",
+  "date": "2023-01-18 16:21:52",
+  "modified": "2023-01-18 16:22:26",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      },
+      {
+        "id": 143,
+        "slug": "career-stories",
+        "name": "Career stories"
+      },
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "February 21, 2023",
+    "talks_speakers": [
+      3997
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Tonight is the night! You have decided that you will transform your current role in IT.</p>\n\n\n\n<p>It can be either that you are leaving your current job in an IT company for good and you are going on your own - all-in, no return. Or you feel that you have expert knowledge in your hands but are undervalued at your current position. For some of you, it could be a new immediate reality. For some - it could be in-5-years-dream. However - in both cases - you get that heavy, cold, and unwelcome pressure in your stomach that replaces the initial euphoria. Your head is repeating over and over the question: how do people recognize that I am excellent in what I do?</p>\n\n\n\n<p>Obviously, you can stop me and say: Wojtek, you silly - it's all about marketing! And you are right. Of course, it is. But building an expert image - someone trustworthy, an opinion-maker, and a real craftsman takes time. It does not happen overnight (despite snake oil and tricks sold by many), but it does not have to be trial and error. The premise of a higher salary, worldwide recognition, or potential clients finding you easily is tempting, but how on earth to do that?</p>\n\n\n\n<p>Throughout my IT career - first unconsciously, then fully aware - I have established, grown, and maintained my personal brand, which I capitalized on in many different ways. It was not easy, definitely not immediate, nor without errors. Come and join the talk if you want to learn what to do and, more importantly, what to avoid when building your personal brand. Learn how to invest in 'You', especially in such turbulent times, which is the best possible course of action you can take.</p>"
+    }
+  ],
+  "formReplaced": false
+}

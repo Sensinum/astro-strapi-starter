@@ -1,0 +1,43 @@
+{
+  "wpId": 471,
+  "title": "Metals - Your Next IDE?",
+  "slug": "metals-your-next-ide",
+  "path": "/watch/metals-your-next-ide/",
+  "date": "2020-01-01 00:02:35",
+  "modified": "2023-03-20 15:23:39",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 29,
+        "slug": "metals",
+        "name": "Metals"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=0UokpnWsWgc&t=2s",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      261
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Currently, most Scala developers use Intellij IDEA as their main tool to write code. While it is a wholesome and tested solution, it might not suit everybody’s needs. There are a number of other editors available, such as Vim, Emacs and VS Code, that all have their own faithful following. Metals is a Language Server Protocol (LSP) implementation that enables users of these alternative text editors to enjoy rich IDE capabilities such as code completion, rename, diagnostics, goto definition and more. </p>\n\n\n\n<p>Metals is open source and available at https://github.com/scalameta/metals, where it is maintained by the Scala Center, VirtusLab along with contributors from the Scala community. In this talk, you will learn how Metals builds on top of LSP to provide a productive code editing experience for Scala developers. You will explore the newest features that Metals provides and how they can be used for your day-to-day coding. You will also see some cool new features from VS Code such as Life Share or Remote Development that thanks to Metals work out-of-the-box Scala. Be prepared to take your code editing skills to the next level!</p>"
+    }
+  ],
+  "formReplaced": false
+}

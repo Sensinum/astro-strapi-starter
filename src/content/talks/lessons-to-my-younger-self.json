@@ -1,0 +1,39 @@
+{
+  "wpId": 3033,
+  "title": "Lessons to my younger self",
+  "slug": "lessons-to-my-younger-self",
+  "path": "/watch/lessons-to-my-younger-self/",
+  "date": "2022-06-01 20:15:14",
+  "modified": "2023-01-19 13:54:04",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "description": "Inspiring Women in IT event speaker - Agnieszka Lasyk (Director of Engineering at Schibsted) speaking about lessons to her younger self.",
+    "ogImage": "/uploads/2022/06/agnieszka_thumb-1024x576.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 174,
+        "slug": "inspiring-women-in-it",
+        "name": "Inspiring Women in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=omW0CCF5AV0",
+    "video_thumbnail": false,
+    "talk_date": "March 16, 2022",
+    "talks_speakers": [
+      2756
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>(PL)</p>\n\n\n\n<p>Co mnie zaskoczyło, czego się nauczyłam w trakcie pracy z ludźmi, projektami, organizacją - jakie wyniosłam lekcje, którymi chciałabym się podzielić. </p>\n\n\n\n<p>(ENG)</p>\n\n\n\n<p>What surprised me, what I learned while working with people, projects, and organization - what lessons I would like to share.</p>"
+    }
+  ],
+  "formReplaced": false
+}

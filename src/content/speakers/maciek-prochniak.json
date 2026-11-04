@@ -1,0 +1,43 @@
+{
+  "wpId": 603,
+  "title": "Maciek Próchniak",
+  "slug": "maciek-prochniak",
+  "path": "/contributor/maciek-prochniak/",
+  "date": "2020-01-01 00:00:24",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Leader of TouK Nussknacker project",
+    "speaker_avatar": {
+      "id": 605,
+      "url": "/uploads/2021/03/Maciek_Prochniak.jpg",
+      "alt": "Maciek Próchniak",
+      "width": 300,
+      "height": 300
+    },
+    "speaker_surname": "Próchniak",
+    "speaker_twitter": "https://twitter.com/mpproch",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": "https://github.com/mproch"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In the past algebraic topologist, for more than 10 years JVM developer (Java, Scala, …), currently usually as architect/(lead) developer – but my roles vary from analysis to devops.<br>My main fields of interest are integration (Camel, OSGi), functional programming and stream processing systems (Akka, Kafka, Flink).<br>I also like to give talks at conferences – Confitura, JEEConf, VoxxedDays just to name a few.<br>Currently I’m leader of TouK Nussknacker – project which enables analysts to create streaming jobs with friendly UI.</p>"
+    }
+  ],
+  "formReplaced": false
+}

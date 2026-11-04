@@ -1,0 +1,36 @@
+{
+  "wpId": 434,
+  "title": "Drawing the line between 3rd party and handcrafted code",
+  "slug": "drawing-the-line-between-3rd-party-and-handcrafted-code",
+  "path": "/watch/drawing-the-line-between-3rd-party-and-handcrafted-code/",
+  "date": "2020-01-01 00:03:08",
+  "modified": "2021-03-31 14:50:06",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=O-eULbf3eTM&t=15s",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2020",
+    "talks_speakers": [
+      215
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Often when we write new components, we might be like: Come on, there must be something out there! And most times there was already someone who faced the same problem… only that it's not quite the same. Should I use the 3rd party lib? Or go on my own? Let's find out the differences and drawbacks in this session.</p>"
+    }
+  ],
+  "formReplaced": false
+}

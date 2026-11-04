@@ -1,0 +1,104 @@
+.block-sponsors {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+.block-sponsors.add-top-border {
+  border-top: 1px solid #E7EBF1;
+}
+@media (max-width: 1199.98px) {
+  .block-sponsors {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+}
+@media (max-width: 767.98px) {
+  .block-sponsors {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
+.block-sponsors .group-row {
+  margin-bottom: -30px;
+  align-items: center;
+}
+@media (max-width: 1199.98px) {
+  .block-sponsors .group-row {
+    margin-bottom: -20px;
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-sponsors .group-row {
+    margin-bottom: -12px;
+    margin-left: -6px;
+    margin-right: -6px;
+  }
+}
+.block-sponsors .group-row:not(:first-child) {
+  margin-top: 40px;
+}
+@media (max-width: 767.98px) {
+  .block-sponsors .group-row:not(:first-child) {
+    margin-top: 30px;
+  }
+}
+.block-sponsors .group-row .group-label {
+  margin-bottom: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
+  line-height: 25px;
+  font-weight: 700;
+  color: #0d0e0e;
+  text-align: center;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+@media (max-width: 1199.98px) {
+  .block-sponsors .group-row .group-label {
+    margin-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 20px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-sponsors .group-row .group-label {
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+}
+.block-sponsors .group-row .group-member {
+  margin-bottom: 30px;
+}
+@media (max-width: 1199.98px) {
+  .block-sponsors .group-row .group-member {
+    margin-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-sponsors .group-row .group-member {
+    margin-bottom: 12px;
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+}
+.block-sponsors .group-row .group-member .logo-wrapper {
+  display: block;
+  position: relative;
+  padding-bottom: 42.85%;
+}
+.block-sponsors .group-row .group-member .logo-wrapper img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/*# sourceMappingURL=block-sponsors.css.map */

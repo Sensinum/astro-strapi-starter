@@ -1,0 +1,43 @@
+{
+  "wpId": 2216,
+  "title": "Joanna Sendorek",
+  "slug": "joanna-sendorek",
+  "path": "/contributor/joanna-sendorek/",
+  "date": "2021-12-03 09:18:17",
+  "modified": "2021-12-03 09:18:19",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at VirtusLab",
+    "speaker_avatar": {
+      "id": 2217,
+      "url": "/uploads/2021/12/vl-451.jpg",
+      "alt": "Joanna Sendorek",
+      "width": 2048,
+      "height": 2071
+    },
+    "speaker_surname": "Sendorek",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/joannasendorek/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Joanna is a Software Development Engineer at VirtusLab. She works on developing a framework for data forecasting and its deployment to the Hadoop cluster. She is particularly interested in delivering end-to-end data processing solutions. </p>"
+    }
+  ],
+  "formReplaced": false
+}

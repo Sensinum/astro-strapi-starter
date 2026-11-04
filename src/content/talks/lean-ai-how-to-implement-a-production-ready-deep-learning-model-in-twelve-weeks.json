@@ -1,0 +1,53 @@
+{
+  "wpId": 169,
+  "title": "Lean AI – How to Implement a Production-Ready Deep Learning Model in Twelve Weeks",
+  "slug": "lean-ai-how-to-implement-a-production-ready-deep-learning-model-in-twelve-weeks",
+  "path": "/watch/lean-ai-how-to-implement-a-production-ready-deep-learning-model-in-twelve-weeks/",
+  "date": "2020-01-01 00:03:17",
+  "modified": "2021-03-31 14:41:50",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 42,
+        "slug": "data-science",
+        "name": "Data Science"
+      },
+      {
+        "id": 47,
+        "slug": "lean",
+        "name": "Lean"
+      },
+      {
+        "id": 44,
+        "slug": "machine-learning",
+        "name": "Machine Learning"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=YF3V1uF1Z84&t=20s",
+    "video_thumbnail": false,
+    "talk_date": "July 21, 2020",
+    "talks_speakers": [
+      125
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Many data science and machine learning projects fail which then cause high risks for companies. In product development, there is a concept though called “lean startup” which is all about minimizing risks. In this talk, I will present how lean concepts can be used for ML projects and how both of them are actually very related to each other. I will also present a project that we’re currently working on where we applied those ideas. And yes it’s a cool deep learning project.</p>"
+    }
+  ],
+  "formReplaced": false
+}

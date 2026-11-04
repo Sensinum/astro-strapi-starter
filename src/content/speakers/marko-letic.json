@@ -1,0 +1,43 @@
+{
+  "wpId": 97,
+  "title": "Marko Letic",
+  "slug": "marko-letic",
+  "path": "/contributor/marko-letic/",
+  "date": "2020-01-01 00:02:41",
+  "modified": "2021-06-17 10:22:11",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Tech Speaker at Mozilla, Lead Front-end Engineer at AVA",
+    "speaker_avatar": {
+      "id": 98,
+      "url": "/uploads/2021/03/sXVfPHpN_400x400.jpg",
+      "alt": "Marko Letic",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_surname": "Letic",
+    "speaker_twitter": "https://twitter.com/nisamprogramer",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/marko-letic/?originalSubdomain=rs",
+    "speaker_gh": "https://github.com/mletic"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Marko Letic is a front-end engineer, lecturer and data visualization scientist. He is currently leading the front-end team at AVA, a Berlin-based company, where he is working on a platform that combines big data, pattern recognition and artificial intelligence to take the safety of individuals, organizations, cities, and countries to a whole new level. His main role is to create a contextual analysis of the processed data through a web-based client application. </p>\n\n\n\n<p>Marko is also working as a Tech Speaker at Mozilla promoting the values of the open web and he is one of the organizers of Armada JS, the first JavaScript conference in Serbia. He holds an MSc degree in Computer Science and is pursuing his PhD in data visualization. He sometimes writes fiction novels that probably will never get published as he spends too much time coding.</p>"
+    }
+  ],
+  "formReplaced": false
+}

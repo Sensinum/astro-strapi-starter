@@ -1,0 +1,23 @@
+---
+interface Props {
+  link?: { title?: string; url?: string; target?: string } | null;
+}
+const { link } = Astro.props;
+---
+{link?.url && (
+  <a href={link.url} target={link.target || undefined} class="primary-btn" rel={link.target === '_blank' ? 'noopener' : undefined}>
+    <div class="content-wrap">
+      <div class="arrow-wrap arrow-1">
+        <svg width="24" height="12" viewBox="0 0 24 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path d="M23.1015 6.53033C23.3944 6.23744 23.3944 5.76256 23.1015 5.46967L18.3286 0.696699C18.0357 0.403806 17.5608 0.403806 17.2679 0.696699C16.975 0.989593 16.975 1.46447 17.2679 1.75736L21.5105 6L17.2679 10.2426C16.975 10.5355 16.975 11.0104 17.2679 11.3033C17.5608 11.5962 18.0357 11.5962 18.3286 11.3033L23.1015 6.53033ZM0.428833 6.75H22.5712V5.25H0.428833V6.75Z" fill="white"></path>
+        </svg>
+      </div>
+      {link.title}
+      <div class="arrow-wrap arrow-2">
+        <svg width="24" height="12" viewBox="0 0 24 12" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+          <path d="M23.1015 6.53033C23.3944 6.23744 23.3944 5.76256 23.1015 5.46967L18.3286 0.696699C18.0357 0.403806 17.5608 0.403806 17.2679 0.696699C16.975 0.989593 16.975 1.46447 17.2679 1.75736L21.5105 6L17.2679 10.2426C16.975 10.5355 16.975 11.0104 17.2679 11.3033C17.5608 11.5962 18.0357 11.5962 18.3286 11.3033L23.1015 6.53033ZM0.428833 6.75H22.5712V5.25H0.428833V6.75Z" fill="white"></path>
+        </svg>
+      </div>
+    </div>
+  </a>
+)}

@@ -1,0 +1,50 @@
+{
+  "wpId": 3199,
+  "title": "Transformation hands-on - a culture beyond SLA and T&C",
+  "slug": "transformation-hands-on-a-culture-beyond-sla-and-tc",
+  "path": "/watch/transformation-hands-on-a-culture-beyond-sla-and-tc/",
+  "date": "2022-08-04 16:16:17",
+  "modified": "2023-03-21 11:30:38",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/08/sebastian_kister_sphereconf-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 154,
+        "slug": "development-operations",
+        "name": "Development Operations"
+      },
+      {
+        "id": 155,
+        "slug": "security",
+        "name": "Security"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=7Sln3gnQJt8",
+    "video_thumbnail": false,
+    "talk_date": "September 21, 2022",
+    "talks_speakers": [
+      3121
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>We will look at people, processes, and tools and elaborate on a success story on how to create a DevSecOps structure in big enterprises that is structured in silos. This talk will give managers, platform owners, and developers hands-on strategic input on how to enhance strong business KPIs that overcome silos and plan-build-run organizations bottom-up through tech and culture.</p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

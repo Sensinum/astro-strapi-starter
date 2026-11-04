@@ -1,0 +1,42 @@
+{
+  "wpId": 4410,
+  "title": "You put out the fire on production, what's next?",
+  "slug": "you-put-out-the-fire-on-production-whats-next",
+  "path": "/watch/you-put-out-the-fire-on-production-whats-next/",
+  "date": "2023-07-05 15:27:12",
+  "modified": "2024-01-12 10:25:53",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=OVJysTq21wA",
+    "video_thumbnail": {
+      "id": 4773,
+      "url": "/uploads/2023/07/maxresdefault-9.jpg",
+      "alt": "Michał Ostruszka",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "September 28, 2023",
+    "talks_speakers": [
+      4407
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Sh*t happens, releases don't always go as planned, production systems break sometimes. Whether it's bug in your code, library you use or infrastructure/hardware failure first thing you need is to bring the system back to life with minimal damage. </p>\n\n\n\n<p>But what happens next? Should we grab a coffee and carry on with our daily tasks? </p>\n\n\n\n<p>Have you heard about a ritual called \"Post Mortem Analysis\"? Seems scary but actually it's incredibly valuable when done properly and that's what I'd like to talk about. What it is, how to conduct such analysis, who should and who shouldn't be involved, what to watch for on the go and what are its ultimate goals. All in all you don't want to end up with the same production outage tomorrow, do you?</p>"
+    }
+  ],
+  "formReplaced": false
+}

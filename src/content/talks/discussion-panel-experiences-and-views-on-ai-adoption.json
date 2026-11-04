@@ -1,0 +1,43 @@
+{
+  "wpId": 647,
+  "title": "Discussion Panel: Experiences and views on AI adoption",
+  "slug": "discussion-panel-experiences-and-views-on-ai-adoption",
+  "path": "/watch/discussion-panel-experiences-and-views-on-ai-adoption/",
+  "date": "2020-01-01 00:00:49",
+  "modified": "2023-03-20 14:12:23",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=YcQWse0GgoE",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      572,
+      608,
+      259
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Panelists working at a diverse range of companies (open source/proprietary software, products/service focus, small/big) will share their unique perspectives on AI and ML adoption across industry.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,45 @@
+{
+  "wpId": 1788,
+  "title": "Bartłomiej Płotka",
+  "slug": "bartek-plotka",
+  "path": "/contributor/bartek-plotka/",
+  "date": "2021-09-01 17:22:24",
+  "modified": "2022-10-13 13:44:24",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "description": "Principal Engineer at Red Hat at the Sphere.it conf 2022 - Clouds are not Free: Guide to Observability-Driven Efficiency Optimizations."
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Principal Engineer at Red Hat",
+    "speaker_avatar": {
+      "id": 3170,
+      "url": "/uploads/2021/09/profile-min-1.jpg",
+      "alt": "Bartłomiej Płotka",
+      "width": 1823,
+      "height": 1911
+    },
+    "speaker_surname": "Plotka",
+    "speaker_twitter": "https://twitter.com/bwplotka",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/bwplotka/",
+    "speaker_gh": "https://github.com/bwplotka"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Bartek Plotka is a Principal Software Engineer at Red Hat with a background in SRE, currently working on Observability. As the co-author of the CNCF Thanos project and core maintainer of various open-source projects including Prometheus, he enjoys building OSS communities and maintainable, reliable distributed systems, ideally in Go. CNCF Ambassador. On top of that, he is active in the CNCF SIG Observability as the technical lead. He writes a book with O'Reilly.</p>\n\n\n\n<p></p>\n\n\n\n<div class=\"wp-block-buttons\"></div>"
+    }
+  ],
+  "formReplaced": false
+}

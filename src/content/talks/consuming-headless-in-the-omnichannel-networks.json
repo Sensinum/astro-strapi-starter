@@ -1,0 +1,65 @@
+{
+  "wpId": 1435,
+  "title": "Consuming headless in the omnichannel networks",
+  "slug": "consuming-headless-in-the-omnichannel-networks",
+  "path": "/watch/consuming-headless-in-the-omnichannel-networks/",
+  "date": "2021-07-01 10:08:31",
+  "modified": "2023-03-21 10:58:58",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/07/mateusz_consuming.png"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 125,
+        "slug": "headlesscms",
+        "name": "HeadlessCMS"
+      },
+      {
+        "id": 37,
+        "slug": "kubernetes",
+        "name": "Kubernetes"
+      },
+      {
+        "id": 89,
+        "slug": "node-js",
+        "name": "Node.js"
+      },
+      {
+        "id": 58,
+        "slug": "react",
+        "name": "React"
+      },
+      {
+        "id": 126,
+        "slug": "strapi",
+        "name": "Strapi"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=KpXd09KsIHE&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "June 24, 2021",
+    "talks_speakers": [
+      1258
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Headless CMS, but what next? What about the front part? How to create a frontend which consumes that content, or even how to build omnichannel networks? In this talk, I will show you how to build maintainable enterprise applications using Strapi, Node.js as a backend for frontend, and React, all together inside a Kubernetes cluster.</p>"
+    }
+  ],
+  "formReplaced": false
+}

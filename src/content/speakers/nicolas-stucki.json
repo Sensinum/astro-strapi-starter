@@ -1,0 +1,43 @@
+{
+  "wpId": 987,
+  "title": "Nicolas Stucki",
+  "slug": "nicolas-stucki",
+  "path": "/contributor/nicolas-stucki/",
+  "date": "2021-04-28 13:45:40",
+  "modified": "2021-04-28 13:45:42",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at EPFL",
+    "speaker_avatar": {
+      "id": 988,
+      "url": "/uploads/2021/04/Nicolas_Stucki.png",
+      "alt": "Nicolas Stucki",
+      "width": 1283,
+      "height": 1406
+    },
+    "speaker_surname": "Stucki",
+    "speaker_twitter": "https://twitter.com/stucki_nicolas",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/nicolas-stucki-0122394b/?originalSubdomain=ch",
+    "speaker_gh": "https://github.com/nicolasstucki"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Software Engineer at EPFL</p>"
+    }
+  ],
+  "formReplaced": false
+}

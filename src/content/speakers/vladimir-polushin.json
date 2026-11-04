@@ -1,0 +1,43 @@
+{
+  "wpId": 428,
+  "title": "Vladimir Polushin",
+  "slug": "vladimir-polushin",
+  "path": "/contributor/vladimir-polushin/",
+  "date": "2020-01-01 00:00:55",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Open source contributor – Scala",
+    "speaker_avatar": {
+      "id": 429,
+      "url": "/uploads/2021/03/Vladimir_Polushin.jpeg",
+      "alt": "Vladimir Polushin",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_surname": "Polushin",
+    "speaker_twitter": "https://twitter.com/vovapolu",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/vovapolu/",
+    "speaker_gh": "https://github.com/vovapolu"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Vladimir has worked on two Google Summer of Code projects, fastparse bytes and stalagmite for better case classes. He is a regular contributor to ENSIME and Scalafix.</p>"
+    }
+  ],
+  "formReplaced": false
+}

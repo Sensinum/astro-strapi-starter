@@ -1,0 +1,43 @@
+{
+  "wpId": 242,
+  "title": "Maria-Livia Chiorean",
+  "slug": "maria-livia-chiorean",
+  "path": "/contributor/maria-livia-chiorean/",
+  "date": "2020-01-01 00:02:05",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Developer at Sky",
+    "speaker_avatar": {
+      "id": 243,
+      "url": "/uploads/2021/03/Maria_Livia_Chiorean.jpeg",
+      "alt": "Maria-Livia Chiorean",
+      "width": 460,
+      "height": 460
+    },
+    "speaker_surname": "Chiorean",
+    "speaker_twitter": "https://twitter.com/marialiviach",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/marialivia/",
+    "speaker_gh": "https://github.com/marialivia16"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>A Software Developer based in London, working for Sky. Currently, she is building recommendations APIs that are used by thousands of users every day. Previously, Maria worked at the Guardian in the Editorial Tools Team developing software that makes quality journalism easy to create. In her spare time, she likes to travel, draw, take photographs and play with her large cat.<br>Sky is Europe’s biggest entertainment brand. Think top-quality shows. </p>\n\n\n\n<p>Breaking news. Innovative tech. Must-have products. Careers here mean the freedom and support you need to make an impact – pushing boundaries, creating solutions, hitting targets. Plus, experiences you’ll only find at Sky.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 251,
+  "title": "Konrad Jakubiec",
+  "slug": "konrad-jakubiec",
+  "path": "/contributor/konrad-jakubiec/",
+  "date": "2020-01-01 00:02:02",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at VirtusLab",
+    "speaker_avatar": {
+      "id": 252,
+      "url": "/uploads/2021/03/Konrad_Jakubiec.jpg",
+      "alt": "Konrad Jakubiec",
+      "width": 960,
+      "height": 960
+    },
+    "speaker_surname": "Jakubiec",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/konrad-jakubiec-39ba5bab/?originalSubdomain=pl",
+    "speaker_gh": "https://github.com/jakubiec"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Open-minded Software Engineer specializing in designing and building well crafted distributed systems. A charismatic leader of the cross-functional team at VirtusLab. Highly interested in quality improvement through an evolutionary approach to development lifecycle. </p>\n\n\n\n<p>Passionate about Domain-driven Design, Reactive Microservices and Event-driven architecture. Background includes extensive experience of backend development with Java, Kotlin, Vert.x and RxJava, as well as extensive adoption of infrastructure as a coding principle on AWS. Spending free time on self-growth, discovering new music and playing on drums.</p>"
+    }
+  ],
+  "formReplaced": false
+}

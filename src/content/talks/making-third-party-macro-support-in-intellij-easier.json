@@ -1,0 +1,31 @@
+{
+  "wpId": 576,
+  "title": "Making third-party macro support in IntelliJ easier",
+  "slug": "making-third-party-macro-support-in-intellij-easier",
+  "path": "/watch/making-third-party-macro-support-in-intellij-easier/",
+  "date": "2020-01-01 00:01:31",
+  "modified": "2023-03-20 12:04:20",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=PCWSJPA-zjs",
+    "video_thumbnail": false,
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      319
+    ]
+  },
+  "blocks": [],
+  "formReplaced": false
+}

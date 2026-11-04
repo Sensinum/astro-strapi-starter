@@ -1,0 +1,43 @@
+{
+  "wpId": 535,
+  "title": "Bridging the tooling gap with Scala.js",
+  "slug": "bridging-the-tooling-gap-with-scala-js",
+  "path": "/watch/bridging-the-tooling-gap-with-scala-js/",
+  "date": "2020-01-01 00:01:38",
+  "modified": "2023-03-20 12:08:21",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 18,
+        "slug": "javascript",
+        "name": "JavaScript"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=yQf9KjGbJJc",
+    "video_thumbnail": false,
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      415
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Scala.js is a tool for compiling your Scala code to JavaScript. This enables writing type-safe and robust front-end application, but have you ever considered what it can do for Scala tooling? In this talk we’ll see how Scala.js can bridge the gap between the Scala-based and the JavaScript-based tools we use every day as programmers.</p>"
+    }
+  ],
+  "formReplaced": false
+}

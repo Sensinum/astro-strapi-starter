@@ -1,0 +1,401 @@
+{
+  "wpId": 2680,
+  "title": "Inspiring Women in IT",
+  "slug": "inspiring-women-in-it-2022",
+  "path": "/event/inspiring-women-in-it-2022/",
+  "date": "2022-02-21 10:10:44",
+  "modified": "2023-11-14 08:35:51",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/02/share_evenea.jpg"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 180,
+        "slug": "inspiring-women-in-it",
+        "name": "Inspiring Women in IT"
+      }
+    ]
+  },
+  "acf": {
+    "event_agenda": [
+      {
+        "item_type": "custom",
+        "item_time": "18:00",
+        "talk_id": 2665,
+        "custom_title": "Rozpoczęcie spotkania - historie “Cyfrodziewczyn”",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "18:20",
+        "talk_id": 3029,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "18:50",
+        "talk_id": 3031,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "19:20",
+        "talk_id": 3033,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "custom",
+        "item_time": "20:00",
+        "talk_id": false,
+        "custom_title": "Panel dyskusyjny (host - Karolina Wasielewska)",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      }
+    ],
+    "event_series_label": "",
+    "event_date": "16.03.2022",
+    "type_of_event": "18:00",
+    "event_entry": "HEVRE, KRAKÓW",
+    "event_artwork": {
+      "id": 4056,
+      "url": "/uploads/2023/01/inspiring_women_logo_2022.png",
+      "alt": "Inspiring Women in IT 2022",
+      "width": 2250,
+      "height": 2250
+    },
+    "header_background_image": {
+      "id": 2681,
+      "url": "/uploads/2022/02/women-it-bg.png",
+      "alt": "[cover] Inspiring Women in IT 2022",
+      "width": 3840,
+      "height": 2160
+    },
+    "event_background_color": "#e9c3a6",
+    "event_font_color": true,
+    "event_font_color_value": "#3b2f23",
+    "reduce_font_size": "1",
+    "event_register": {
+      "title": "Edycja 2023",
+      "url": "/event/inspiring-women-in-it-2023/",
+      "target": "_blank"
+    },
+    "event_scroll_button": "",
+    "buttons_background_color": "#ffffff",
+    "buttons_font_color": "#3b2f23",
+    "alt_dynamic_menu": false,
+    "event_alt_title": "",
+    "event_date_hidden": false,
+    "event_artwork_listing": false,
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-63d1062b445b3",
+      "data": {
+        "block_title": null,
+        "block_description": "<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; font-weight: 500; text-align: center;\">Mówi się, że w świecie technologii brakuje dla kobiet wzorów do naśladowania, historii, które mogłyby zainspirować młodsze pokolenia do wkroczenia w IT lub bardziej pewnego dążenia do wysokich stanowisk. Z okazji Dnia Kobiet chcemy przedstawić Wam historie naszych bohaterek: liderek, managerek, mentorek - kobiet, które odniosły sukces w branży IT.</p>\r\n&nbsp;\r\n<h2 style=\"text-align: center;\">Zainspiruj się wraz z nami!</h2>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": null,
+        "block_background_color": "#3b2e23",
+        "block_font_color": "#f5e8dc",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-63d1062b4461f",
+      "data": {
+        "block_description": "<h3>Karolina Wasielewska</h3>\r\nDziennikarka i autorka bloga “Girls Gone Tech”. W swojej najnowszej książce “Cyfrodziewczyny” przypomina (a bardziej uświadamia), że pionierkami informatyki w Polsce były kobiety. Karolina przedstawi nam sylwetki polskich programistek z czasów PRL, a także porozmawia z naszymi trzema prelegentkami o ich współczesnych historiach sukcesu w świecie IT.",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2739,
+          "url": "/uploads/2022/02/karolina_wasielewska-min-1.jpg",
+          "alt": "Karolina Wasielewska",
+          "width": 1440,
+          "height": 960
+        },
+        "switch_text_side": false,
+        "block_background_color": "#bf5741",
+        "block_font_color": "#f5e8dc",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-63d1062b44645",
+      "data": {
+        "block_description": "<h3>Anita Warkiewicz</h3>\r\nZwiązana z IT głównie w rolach Project Managerki, Agile Coachyni, a w tym momencie Transformation Managerki @ Allegro. Uwielbia zarządzanie, szczególnie ludźmi i projektami, czym zajmuje się od 2014 roku. Fascynują ją zespoły, zwinne podejście do zarządzania i podważanie statusu quo. Dużą wartość znajduje w dzieleniu się wiedzą, dlatego jest mentorką w programie Tech Leaders, nagrywa podcast ledelse oraz rozkręca bloga – Pani Managerka.",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2690,
+          "url": "/uploads/2022/02/women_3.png",
+          "alt": "Anita Warkiewicz",
+          "width": 1440,
+          "height": 960
+        },
+        "switch_text_side": true,
+        "block_background_color": "#bf5741",
+        "block_font_color": "#f5e8dc",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-63d1062b44665",
+      "data": {
+        "block_description": "<h3>Dominika Glazer</h3>\r\n<span style=\"font-weight: 400;\">Z wykształcenia oraz zamiłowania historyk, profesjonalnie - managerka. W branży IT od 2016 roku, zarządzała projektami, produktami i zespołami. Obecnie, jako Senior Product Manager @ VirtusLab, koordynuje pracę zespołu produktowego i rozwija wizję produktu, opierającego się na jednym z paliw napędzających współczesne systemy biznesowe jakim są dane.</span>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2702,
+          "url": "/uploads/2022/02/dominika_glazer_sphere.jpg",
+          "alt": "Dominika Glazer",
+          "width": 1440,
+          "height": 960
+        },
+        "switch_text_side": false,
+        "block_background_color": "#bf5741",
+        "block_font_color": "#f5e8dc",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-63d1062b44686",
+      "data": {
+        "block_description": "<h3>Agnieszka Lasyk</h3>\r\nDirector of Engineering @ Schibsted - doświadczona managerka, od prawie 10 lat w branży IT. Pasjonatka usprawniania procesów, dobrego feedbacku i bezpieczeństwa psychologicznego w organizacji. Leaderka-mentorka, która w ramach różnych inicjatyw pomaga kobietom wejść w branżę technologiczną. Lubi pracować z ludźmi i wspierać ich w rozwoju, budować zespoły i zmieniać organizację na lepsze. Wierzy w siłę zaufania i empatii.",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2716,
+          "url": "/uploads/2022/02/agnieszka_lasyk_sphere-min.jpg",
+          "alt": "Agnieszka Lasyk",
+          "width": 1440,
+          "height": 960
+        },
+        "switch_text_side": true,
+        "block_background_color": "#bf5741",
+        "block_font_color": "#f5e8dc",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-event-agenda",
+      "anchor": "acf-block-63d1062b4469d",
+      "data": {
+        "block_title": "Agenda",
+        "block_background_color": "#3b2e23",
+        "block_font_color": "#f5e8dc",
+        "block_accent_font_color": "#bf5741",
+        "smaller_paddings": true,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-63d1062b446bb",
+      "data": {
+        "block_title": null,
+        "block_description": "<h2 style=\"margin-bottom: 20px;\">Dołącz do wydarzenia\r\ni zainspiruj się!</h2>\r\n<h3 class=\"heading-4\" style=\"margin-bottom: 30px;\">16.03.2022 • 18:00 • Hevre, Kraków</h3>",
+        "block_button": {
+          "title": "Edycja 2023",
+          "url": "/event/inspiring-women-in-it-2023/",
+          "target": "_blank"
+        },
+        "cta_background_color": "#3b2f23",
+        "cta_font_color": "#f5e8dc",
+        "cta_border_radius": 32,
+        "block_background_image": {
+          "id": 2681,
+          "url": "/uploads/2022/02/women-it-bg.png",
+          "alt": "[cover] Inspiring Women in IT 2022",
+          "width": 3840,
+          "height": 2160
+        },
+        "block_background_color": "#e9c3a6",
+        "block_font_color": "#3b2f23",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-sponsors",
+      "anchor": "acf-block-63d1062b44701",
+      "data": {
+        "logotypes_alignment": true,
+        "sponsor_groups": [
+          {
+            "label": "Sponsors",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2672,
+                  "url": "/uploads/2022/02/vl.png",
+                  "alt": "VirtusLab logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://virtuslab.com"
+              }
+            ]
+          },
+          {
+            "label": "Community partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2706,
+                  "url": "/uploads/2022/02/tryit.png",
+                  "alt": "Fundacja Try IT logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.tryit.org.pl/en/"
+              },
+              {
+                "logotype": {
+                  "id": 2713,
+                  "url": "/uploads/2022/02/Her_Impact_Logotyp-01-1-1-e1645452335701.png",
+                  "alt": "Her Impact logotype",
+                  "width": 1976,
+                  "height": 698
+                },
+                "url": "https://herimpact.co/"
+              },
+              {
+                "logotype": {
+                  "id": 2715,
+                  "url": "/uploads/2022/02/GGC_logo_wersja-podstawowa.jpg",
+                  "alt": "Geek Girls Carrots logotype",
+                  "width": 800,
+                  "height": 300
+                },
+                "url": "https://gocarrots.org/"
+              },
+              {
+                "logotype": {
+                  "id": 3339,
+                  "url": "/uploads/2022/04/akutalne-11_24_19-1.png",
+                  "alt": "Women in Technology logotype",
+                  "width": 1024,
+                  "height": 769
+                },
+                "url": "https://womenintechnology.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3174,
+                  "url": "/uploads/2022/04/DareIT-Logo-1.png",
+                  "alt": "Dare IT logotype",
+                  "width": 460,
+                  "height": 240
+                },
+                "url": "https://www.dareit.io/"
+              },
+              {
+                "logotype": {
+                  "id": 2449,
+                  "url": "/uploads/2021/12/og_logo.png",
+                  "alt": "Junior Jobs Only logotype",
+                  "width": 800,
+                  "height": 533
+                },
+                "url": "https://www.juniorjobsonly.com/"
+              },
+              {
+                "logotype": {
+                  "id": 2744,
+                  "url": "/uploads/2022/02/Kernel1.png",
+                  "alt": "KERNEL logotype",
+                  "width": 4000,
+                  "height": 1000
+                },
+                "url": "http://kernel.fis.agh.edu.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2765,
+                  "url": "/uploads/2022/02/logo-ksi-basic.png",
+                  "alt": "Koło Studentów Informatyki UJ logotype",
+                  "width": 1181,
+                  "height": 1181
+                },
+                "url": "https://ksi.ii.uj.edu.pl/en/"
+              },
+              {
+                "logotype": {
+                  "id": 2790,
+                  "url": "/uploads/2022/02/bit-logo-signed-transparent-black.png",
+                  "alt": "Koło naukowe BIT logotype",
+                  "width": 366,
+                  "height": 234
+                },
+                "url": "https://knbit.edu.pl/"
+              }
+            ]
+          },
+          {
+            "label": "Media Patronage",
+            "members": [
+              {
+                "logotype": {
+                  "id": 3223,
+                  "url": "/uploads/2022/04/review_logo_black_white_150dpi.png",
+                  "alt": "Re:view logotype",
+                  "width": 500,
+                  "height": 300
+                },
+                "url": "https://thereview.pl/"
+              }
+            ]
+          }
+        ],
+        "block_background_color": null,
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

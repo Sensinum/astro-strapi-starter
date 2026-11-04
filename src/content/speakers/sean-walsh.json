@@ -1,0 +1,43 @@
+{
+  "wpId": 122,
+  "title": "Sean Walsh",
+  "slug": "sean-walsh",
+  "path": "/contributor/sean-walsh/",
+  "date": "2020-01-01 00:02:34",
+  "modified": "2021-03-30 17:00:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Field CTO and Cloud Evangelist at Lightbend",
+    "speaker_avatar": {
+      "id": 123,
+      "url": "/uploads/2021/03/Sean_Walsh.jpg",
+      "alt": "Sean Walsh",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Walsh",
+    "speaker_twitter": "https://twitter.com/seanwalshesq",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/sean-walsh-b9672a6/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Field CTO and Cloud Evangelist at Lightbend, and a 20 year veteran of IT and has previously held various leadership roles in the tech industry. Sean is a distributed systems expert and has applied this expertise in the energy, financial and wellness industries, among others. Sean pioneered patterns for microservice integration that have since become standards, formalizing them in his book Reactive Application Development, published by Manning. </p>\n\n\n\n<p>Prior to joining Lightbend, he founded a consulting company to evangelize, architect, and implement reactive technologies at major enterprises around the world. This included leading the successful digital transformation of Weight Watchers.</p>"
+    }
+  ],
+  "formReplaced": false
+}

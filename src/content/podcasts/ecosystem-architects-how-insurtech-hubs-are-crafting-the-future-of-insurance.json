@@ -1,0 +1,47 @@
+{
+  "wpId": 5158,
+  "title": "Ecosystem Architects: How Insurtech Hubs are Crafting the Future of Insurance",
+  "slug": "ecosystem-architects-how-insurtech-hubs-are-crafting-the-future-of-insurance",
+  "path": "/podcast/ecosystem-architects-how-insurtech-hubs-are-crafting-the-future-of-insurance/",
+  "date": "2024-04-19 13:10:00",
+  "modified": "2024-04-19 13:10:00",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E09_thumbnail_Brijesh_Luthra_Interview-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5156
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "Watch on Youtube",
+      "url": "https://www.youtube.com/watch?v=cp-MsNQXa20&list=PLl9Aulxh1VePW1MCtgpOqCRDPjYWn9Zy2&index=14",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>One of the many interviews with Insurance Experts that we recorded at the Insurtech Insights 2024 in London. Interviewing Brijesh Luthra, Digital Transformation, Innovation &amp; Value Creation Leader &#8211; CxO Advisor &amp; VP Swiss InsurTech Hub</p>\n",
+    "podcast_cover": {
+      "id": 5159,
+      "url": "/uploads/2024/04/S01E09_thumbnail_Brijesh_Luthra_Interview-min.jpg",
+      "alt": "S01E09_thumbnail_Brijesh_Luthra_Interview-min",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

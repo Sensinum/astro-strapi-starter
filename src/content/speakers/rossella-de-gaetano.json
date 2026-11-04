@@ -1,0 +1,35 @@
+{
+  "wpId": 195,
+  "title": "Rossella De Gaetano",
+  "slug": "rossella-de-gaetano",
+  "path": "/contributor/rossella-de-gaetano/",
+  "date": "2020-01-01 00:02:22",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Software Engineer at IBM",
+    "speaker_avatar": {
+      "id": 196,
+      "url": "/uploads/2021/03/7FB5CaAt.jpeg",
+      "alt": "Rossella De Gaetano",
+      "width": 2138,
+      "height": 2136
+    },
+    "speaker_surname": "Gaetano",
+    "speaker_twitter": "https://twitter.com/DegaRoss",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/rossella-de-gaetano-197b965/?originalSubdomain=it",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Rossella De Gaetano is a Senior Technical Staff Member at IBM. In the last ten years she worked on developing and architecting cloud platforms focused on scalability and resiliency. She’s been working in the business analytics area designing and building toolkits to easily enable software to generate analytics data to be consumed by data scientists. Passionate about big data and hence cognitive scenarios, she has been collaborating with various italian universities and high school to provide courses about cloud native applications development, and cognitive applications. She is currently one of the architects responsible for the IBM Cloud platform.</p>\n\n\n\n<p>Enthusiastic presenter and keynote speaker to several international events, she has been one of the evangelists of cloud-native applications, agile development, Blockchain and cognitive technologies.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 1260,
+  "title": "Vanessa Otto (Böhner)",
+  "slug": "vanessa-bohner",
+  "path": "/contributor/vanessa-bohner/",
+  "date": "2021-06-11 13:45:54",
+  "modified": "2021-11-03 10:26:05",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": " Lead Frontend Developer at Zavvy",
+    "speaker_avatar": {
+      "id": 1262,
+      "url": "/uploads/2021/06/vanessa_boehner-Vanessa-Böhner-1-scaled.jpg",
+      "alt": "Vanessa Otto (Böhner)",
+      "width": 2447,
+      "height": 2560
+    },
+    "speaker_surname": "Boehner",
+    "speaker_twitter": "https://twitter.com/vannsl",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/vannsl/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Vanessa is a Web Developer. She has an M.Sc in Media Informatics with a focus on Human-Computer-Interaction. Vanessa is the Lead Frontend Developer at Zavvy. She is a host of the podcasts except (Exception), Working Draft, and Ausbaufähig. Until 2021 Vanessa was the Chapter Leader of the Front-end Foxes helping women with their first coding and speaking experiences. She is a member of the JS Kongress Program Committee.</p>"
+    }
+  ],
+  "formReplaced": false
+}

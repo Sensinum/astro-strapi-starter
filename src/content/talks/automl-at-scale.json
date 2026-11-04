@@ -1,0 +1,48 @@
+{
+  "wpId": 458,
+  "title": "AutoML at scale",
+  "slug": "automl-at-scale",
+  "path": "/watch/automl-at-scale/",
+  "date": "2020-01-01 00:02:47",
+  "modified": "2021-03-31 15:07:52",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 76,
+        "slug": "automl",
+        "name": "AutoML"
+      },
+      {
+        "id": 44,
+        "slug": "machine-learning",
+        "name": "Machine Learning"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=LshGR3pHBo8",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      273
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Automating the construction and tuning of machine learning (ML) models has long been one of the goals of the ML community. This is due to several factors, most notably a sharp increase in the demand for tailored AI solutions, a relative scarcity of trained ML scientists, and the development of deep learning models with complex architectures requiring accurate design and fine-tuning. AutoML will lessen our dependency on intuition by iteratively trying out an algorithm, scoring its performance, and choosing and refining other models.<br>Existing automated machine learning (AutoML) techniques have been remarkably successful in identifying good parameters for a given model, sometimes even outperforming humans. For example, Auto-WEKA and auto-sklearn efficiently use Bayesian hyperparameter optimization, and some of neural architecture search methods were successfully implemented in Auto-Keras. However, these options either take too long to train or they work for only a handful of parameters. That’s why Azure Machine Learning uses a probabilistic latent variable model to work with DNNs without needing to fully train them.<br>Azure Machine Learning works with any Python frameworks and allows you to train models with ease by autoscaling powerful GPU clusters. AutoML in the cloud will soon become mainstream. Join now.</p>"
+    }
+  ],
+  "formReplaced": false
+}

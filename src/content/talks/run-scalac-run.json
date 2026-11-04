@@ -1,0 +1,43 @@
+{
+  "wpId": 470,
+  "title": "Run Scalac, Run!",
+  "slug": "run-scalac-run",
+  "path": "/watch/run-scalac-run/",
+  "date": "2020-01-01 00:02:36",
+  "modified": "2021-03-31 15:14:16",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 84,
+        "slug": "scalac",
+        "name": "Scalac"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=PwS2uKEzT1o",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      324
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Are you plagued with unbearably slow compile times? Do you spend your day endlessly brewing tea, waiting for scalac to respond? Have you ever tried to speed up your build, but haven’t even known where to start? You’re in luck! In this talk, we will use recent advancements in scala tooling to look under the hood of the scala compiler and see what’s slowing it down. We’ll journey through build graphs, dive into compiler phases, and even learn how to use all those seemingly obscure compiler flags. By carefully benchmarking, profiling and tweaking our builds, we will turn our compiler into a well-oiled machine.</p>"
+    }
+  ],
+  "formReplaced": false
+}

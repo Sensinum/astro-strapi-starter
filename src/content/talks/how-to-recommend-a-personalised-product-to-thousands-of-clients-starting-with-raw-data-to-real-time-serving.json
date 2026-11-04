@@ -1,0 +1,58 @@
+{
+  "wpId": 167,
+  "title": "How to recommend a personalised product to thousands of clients starting with raw data to real-time serving",
+  "slug": "how-to-recommend-a-personalised-product-to-thousands-of-clients-starting-with-raw-data-to-real-time-serving",
+  "path": "/watch/how-to-recommend-a-personalised-product-to-thousands-of-clients-starting-with-raw-data-to-real-time-serving/",
+  "date": "2020-01-01 00:03:18",
+  "modified": "2021-03-31 14:41:33",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 42,
+        "slug": "data-science",
+        "name": "Data Science"
+      },
+      {
+        "id": 43,
+        "slug": "hadoop",
+        "name": "Hadoop"
+      },
+      {
+        "id": 44,
+        "slug": "machine-learning",
+        "name": "Machine Learning"
+      },
+      {
+        "id": 45,
+        "slug": "web-services",
+        "name": "Web-Services"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=jM45e5ediHQ&t=25s",
+    "video_thumbnail": false,
+    "talk_date": "July 21, 2020",
+    "talks_speakers": [
+      117
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Recommending a personalised product to the client is one of the crucial challenges for multiple businesses, including the top retailer from the UK. In this talk, we will walk through the world of Hadoop to discuss challenges and tools built by Data Scientists and ML Engineers to create stable, production-grade solutions for recommendations; then we will continue to consider the how different is world of the real-time serving in web-services.</p>"
+    }
+  ],
+  "formReplaced": false
+}

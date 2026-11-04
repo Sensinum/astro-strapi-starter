@@ -1,0 +1,43 @@
+{
+  "wpId": 632,
+  "title": "Building Successful Machine Learning Products",
+  "slug": "building-successful-machine-learning-products",
+  "path": "/watch/building-successful-machine-learning-products/",
+  "date": "2020-01-01 00:01:03",
+  "modified": "2023-03-20 14:19:42",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 44,
+        "slug": "machine-learning",
+        "name": "Machine Learning"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=g61XdncGGvY",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      585
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>With recent advancements in the AI ecosystem, the entry barriers for utilisation of Machine Learning techniques are lower than ever. The growing availability of tools and platforms together with decreasing cost of computation, allows smaller teams to build ML products faster and add value in a number of industries, from self-driving cars to personal assistants. This not only creates new opportunities, but also poses a number of challenges related to the design of products that we interact with on a daily basis. </p>\n\n\n\n<p>In this talk I will share a number of experiences and examples of products using Machine Learning, focusing on the common gaps as well as the key steps for designing a successful ML product. I will describe how techniques such as human-centered design or design thinking play an important role in choosing the right problem to solve with Machine Learning and in shapIng the user experience when the algorithms fail to deliver. The second part of the talk will focus on the engineering challenges, including data collection, model training and deployment at scale.</p>"
+    }
+  ],
+  "formReplaced": false
+}

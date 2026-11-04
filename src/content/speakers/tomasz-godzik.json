@@ -1,0 +1,43 @@
+{
+  "wpId": 261,
+  "title": "Tomasz Godzik",
+  "slug": "tomasz-godzik",
+  "path": "/contributor/tomasz-godzik/",
+  "date": "2020-01-01 00:01:58",
+  "modified": "2023-03-01 11:38:20",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Scala Developer at VirtusLab",
+    "speaker_avatar": {
+      "id": 4151,
+      "url": "/uploads/2020/01/Tomasz_Godzik.jpg",
+      "alt": "Tomasz Godzik",
+      "width": 1937,
+      "height": 1937
+    },
+    "speaker_surname": "Godzik",
+    "speaker_twitter": "https://twitter.com/tomekgodzik",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/tomasz-godzik-53300782/?originalSubdomain=pl",
+    "speaker_gh": "https://github.com/tgodzik"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Tomasz has worked with multiple programming language tools through the years trying to provide an effective environment for other developers to work within both in the corporate environment as well in open source. He currently leads the ScalaCLI and Metals teams, both of which are open-source projects.</p>"
+    }
+  ],
+  "formReplaced": false
+}

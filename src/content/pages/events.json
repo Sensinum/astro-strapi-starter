@@ -1,0 +1,39 @@
+{
+  "wpId": 2181,
+  "title": "Events",
+  "slug": "events",
+  "path": "/events/",
+  "date": "2021-12-17 15:04:47",
+  "modified": "2024-09-11 22:54:19",
+  "template": "page-events",
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {},
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-upcoming-events",
+      "anchor": "acf-block-65a10d55a012e",
+      "className": "pull-up",
+      "data": {
+        "block_title": "Upcoming events",
+        "selected_tax_upcoming": 190,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-past-events",
+      "anchor": "acf-block-65a10d55a0188",
+      "data": {
+        "block_title": null,
+        "selected_tax_past": null,
+        "sidebar_title": null,
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

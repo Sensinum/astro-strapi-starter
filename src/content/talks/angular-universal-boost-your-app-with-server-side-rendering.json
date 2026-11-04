@@ -1,0 +1,48 @@
+{
+  "wpId": 437,
+  "title": "Angular Universal - Boost your app with Server-Side Rendering",
+  "slug": "angular-universal-boost-your-app-with-server-side-rendering",
+  "path": "/watch/angular-universal-boost-your-app-with-server-side-rendering/",
+  "date": "2020-01-01 00:03:05",
+  "modified": "2021-03-31 14:51:47",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 57,
+        "slug": "angular",
+        "name": "Angular"
+      },
+      {
+        "id": 18,
+        "slug": "javascript",
+        "name": "JavaScript"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=BpNMvHYXv0Q&t=27s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      220
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Angular is not only for browser. With Angular Universal, you can launch your application on the server-side and response to your user a fully-rendered view. Thanks to that, you can make Single Page App SEO &amp; CDN friendly, and bring First Meaningful Paint much faster to your end-user. Apart from that, you can execute additional logic and work with sensitive data (ie: private keys) on the server-side. In this talk, you will hear how to do that, and what are best practices of working with the Server-Side code in Angular.</p>"
+    }
+  ],
+  "formReplaced": false
+}

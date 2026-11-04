@@ -1,0 +1,36 @@
+{
+  "wpId": 472,
+  "title": "Journey to the holy grail - Scala faster and smaller",
+  "slug": "journey-to-the-holy-grail-scala-faster-and-smaller",
+  "path": "/watch/journey-to-the-holy-grail-scala-faster-and-smaller/",
+  "date": "2020-01-01 00:02:34",
+  "modified": "2021-03-31 15:15:19",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=JN17s0kM5RY&t=16s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      224
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Scala development is notoriously plagued by its long compilation times and large deployment artifacts.<br>This gets even worse if you are using Docker, considering you need a full Java Runtime, your package can take almost 100 megabytes.<br>In the first quarter of 2018 Oracle publicly announced a project they had been working for 6 years called GraalVM.<br>This talk will take you in a small journey on how to make (specially short lived) Scala applications faster and smaller taking advantage of GraalVM native-image.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,37 @@
+{
+  "wpId": 643,
+  "title": "Collaborative Filtering Microservices on Spark",
+  "slug": "collaborative-filtering-microservices-on-spark",
+  "path": "/watch/collaborative-filtering-microservices-on-spark/",
+  "date": "2020-01-01 00:00:53",
+  "modified": "2023-03-20 14:13:41",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=QA8puin8Fyo&t=221s",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      596,
+      600
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The Alternating Least Squares (ALS) algorithm is still deemed the industry standard in collaborative filtering. In this talk we will focus on Apache Spark’s ALS implementation and discuss the steps we took to build a distributed recommendation engine, focusing on continuous model training and model management. We show that, by splitting the recommendation engine into microservices, we were able to reduce the system’s complexity and produce a robust collaborative filtering platform with support for continuous model training. At the end of this talk, you should be equipped with enough tools and ideas to implement your own collaborative algorithm and avoid some common pitfalls.</p>"
+    }
+  ],
+  "formReplaced": false
+}

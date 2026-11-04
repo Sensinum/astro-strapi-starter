@@ -1,0 +1,43 @@
+{
+  "wpId": 613,
+  "title": "Things learned from using Event Sourcing and CQRS patterns",
+  "slug": "things-learned-from-using-event-sourcing-and-cqrs-patterns",
+  "path": "/watch/things-learned-from-using-event-sourcing-and-cqrs-patterns/",
+  "date": "2020-01-01 00:01:14",
+  "modified": "2023-03-20 14:26:44",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 105,
+        "slug": "event-sourcing",
+        "name": "Event Sourcing"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=ceKTI9JeB0M&t=16s",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      559
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>There are pros and cons of using Event Sourcing and Command Query Responsibility Segregation patterns in our projects. Poorly implemented will bring chaos, well implemented can be a rescue for our software. I will share my experience of using them in projects I was participating in so far.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,48 @@
+{
+  "wpId": 1385,
+  "title": "Sofiane Fessi",
+  "slug": "sofiane-fessi",
+  "path": "/contributor/sofiane-fessi/",
+  "date": "2021-06-28 16:12:23",
+  "modified": "2021-06-28 16:12:25",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Head of Sales Engineering at Dataiku",
+    "speaker_avatar": {
+      "id": 1386,
+      "url": "/uploads/2021/06/Screenshot-2021-05-27-at-11.26.21-Sofiane-Fessi.png",
+      "alt": "Sofiane Fessi",
+      "width": 376,
+      "height": 376
+    },
+    "speaker_surname": "Fessi",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/sofianefessi/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Hi, I'm Sofiane and I have the pleasure of leading a team of brilliant Solutions Architects at Dataiku covering DACH and Eastern Europe.</p>"
+    }
+  ],
+  "formReplaced": false
+}

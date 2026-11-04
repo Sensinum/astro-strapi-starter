@@ -1,0 +1,36 @@
+{
+  "wpId": 4802,
+  "title": "Tetiana Gural",
+  "slug": "tetiana-gural",
+  "path": "/contributor/tetiana-gural/",
+  "date": "2024-01-19 15:12:51",
+  "modified": "2024-02-29 22:47:52",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Consulting Manager at Pegasystems",
+    "speaker_avatar": {
+      "id": 4803,
+      "url": "/uploads/2024/01/IMG_0748-01.jpeg",
+      "alt": "IMG_0748-01",
+      "width": 2210,
+      "height": 2211
+    },
+    "speaker_surname": "Gural",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/tetiana-gural/",
+    "speaker_gh": "",
+    "speaker_add_info": "Pegasystems"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>A dynamic people manager and solution architect, driven by my strong commitment to fostering positive relationships and ensuring customer success. My passion lies in collaborating with individuals and teams to think creatively and innovatively, leveraging both conventional and unconventional methods to tackle complex challenges with confidence. An avid book club enthusiast, constantly seeking out new and exciting concepts to explore and share with others. I strongly believe in the power of lively and engaging discussions to inspire and motivate others to unlock their full potential and achieve greatness. The lead of an employee resource group dedicated to gender equality. In a private life - mother of two kids.</p>"
+    }
+  ],
+  "formReplaced": false
+}

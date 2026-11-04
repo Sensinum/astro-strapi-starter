@@ -1,0 +1,37 @@
+{
+  "wpId": 5450,
+  "title": "Wojciech Szymański",
+  "slug": "wojciech-szymanski",
+  "path": "/contributor/wojciech-szymanski/",
+  "date": "2025-05-28 17:52:22",
+  "modified": "2025-05-29 08:12:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5452,
+      "url": "/uploads/2025/05/wojciech-szymanski.jpeg",
+      "alt": "wojciech-szymanski",
+      "width": 481,
+      "height": 481
+    },
+    "speaker_position": "Co-Founder & Data Consultant at insightify.io",
+    "speaker_add_info": "",
+    "speaker_surname": "",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/wojciechszymanski/",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>With over a decade of experience in data engineering and predictive analytics - and a foundation in software development - Wojtek has helped companies like John Lewis, Nordea, MediaMarktSaturn, and Sabre design and build scalable, high-performance data platforms. As part of <a href=\"http://insightify.io/\">insightify.io</a>, he partners closely with clients to craft tailored data solutions and support sales with technical insights. Lately, he’s been diving into Deep Learning and GenAI, adding another layer to his data expertise.</p>"
+    }
+  ],
+  "formReplaced": false
+}

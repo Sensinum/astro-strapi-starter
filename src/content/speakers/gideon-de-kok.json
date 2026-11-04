@@ -1,0 +1,37 @@
+{
+  "wpId": 555,
+  "title": "Gideon de Kok",
+  "slug": "gideon-de-kok",
+  "path": "/contributor/gideon-de-kok/",
+  "date": "2020-01-01 00:00:45",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Xebia",
+    "speaker_avatar": false,
+    "speaker_surname": "de Kok",
+    "speaker_twitter": "https://twitter.com/gideondk",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/gideondk",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Having built software over the full range of the stack; from embedded systems, telephony systems, to end-user focused applications and data-processing architectures, Gideon learned the importance of building responsive, resilient, elastic and decoupled systems the hard way. Backed by this experience, Gideon helps organisations in building software in redesigned architectures which enable a more scalable, agile and sustainable way of software development.</p>\n\n\n\n<p>A larger part of that focus lies in the design, implementation and creation of awareness of truly modular and autonomous services. Not only to improve overall reactive traits of that system, but to improve alignment within a business by separating and forming teams and functionality directly around the domains they try to model. Call it microservices, call it self-contained services, call it modular design, DDD or agile software architectures; Gideon’s focus is on helping organisations in mapping business and IT in the most optimal form.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,47 @@
+{
+  "wpId": 5163,
+  "title": "Using technology and AI to benefit motor insurance customers",
+  "slug": "using-technology-and-ai-to-benefit-motor-insurance-customers",
+  "path": "/podcast/using-technology-and-ai-to-benefit-motor-insurance-customers/",
+  "date": "2024-04-19 13:16:23",
+  "modified": "2024-04-19 13:16:23",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E010_thumbnail_Antonio_Santolaya_Interview-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5161
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "Watch on Youtube",
+      "url": "https://www.youtube.com/watch?v=LniQo0qSxgg&list=PLl9Aulxh1VePW1MCtgpOqCRDPjYWn9Zy2&index=15",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>One of the many interviews with Insurance Experts that we recorded at the Insurtech Insights 2024 in London. Interviewing Antonio Santolaya, Co-founder Pluginsurance &amp; Aictuari.com</p>\n",
+    "podcast_cover": {
+      "id": 5164,
+      "url": "/uploads/2024/04/S01E010_thumbnail_Antonio_Santolaya_Interview-min.jpg",
+      "alt": "S01E010_thumbnail_Antonio_Santolaya_Interview-min",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

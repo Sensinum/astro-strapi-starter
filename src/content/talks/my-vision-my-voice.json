@@ -1,0 +1,36 @@
+{
+  "wpId": 4114,
+  "title": "My Vision, My Voice: Building a Successful Career in IT",
+  "slug": "my-vision-my-voice",
+  "path": "/watch/my-vision-my-voice/",
+  "date": "2023-02-16 13:03:47",
+  "modified": "2023-11-14 08:38:51",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 174,
+        "slug": "inspiring-women-in-it",
+        "name": "Inspiring Women in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=BVevs_mHkn4",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2023",
+    "talks_speakers": [
+      2220
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I'll take you through my experience of facing cultural challenges and breaking barriers, also show you the opportunities and obstacles that come with working in a global market. With tips and tricks, I'll help you find your own path in this thrilling and fulfilling industry. Whether you're starting from scratch or looking to elevate your career, this talk will give you the motivation, insight, and guidance you need to make a big impact in tech. Come along with me as I share my journey as a woman in the exciting world of IT!</p>"
+    }
+  ],
+  "formReplaced": false
+}

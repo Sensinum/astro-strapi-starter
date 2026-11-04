@@ -1,0 +1,36 @@
+{
+  "wpId": 4982,
+  "title": "Dominika Laboubee",
+  "slug": "dominika-laboubee",
+  "path": "/contributor/dominika-laboubee/",
+  "date": "2024-02-19 16:27:28",
+  "modified": "2024-02-29 22:42:10",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Team Manager at Cisco",
+    "speaker_avatar": {
+      "id": 4983,
+      "url": "/uploads/2024/02/IMG_4996.jpg",
+      "alt": "IMG_4996",
+      "width": 472,
+      "height": 472
+    },
+    "speaker_surname": "Laboubee",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/dominika-laboub%C3%A9e-7b6aa473/",
+    "speaker_gh": "",
+    "speaker_add_info": "Cisco"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Dominika Laboubee is a seasoned team manager with a decade of experience in the tech industry. Passionate about leadership and people management, she demonstrated an unwavering commitment to advancing the careers of her team members. This commitment is deeply rooted in the belief that the success of any organization is intrinsically tied to the growth and development of its people. Holding a Ph.D. in Political Science, she brings a unique interdisciplinary perspective to leadership, which enriches her approach to team management, allowing for a holistic understanding of the complex dynamics within both the technological and human aspects of her teams.<br>Outside of the professional realm, Dominika indulges in a myriad of interests, including globetrotting to explore new cultures, mastering languages, and unleashing creativity through watercolour painting and calligraphy.</p>"
+    }
+  ],
+  "formReplaced": false
+}

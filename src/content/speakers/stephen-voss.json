@@ -1,0 +1,37 @@
+{
+  "wpId": 5176,
+  "title": "Stephen Voss",
+  "slug": "stephen-voss",
+  "path": "/contributor/stephen-voss/",
+  "date": "2024-04-19 13:40:56",
+  "modified": "2024-04-19 13:40:57",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5177,
+      "url": "/uploads/2024/04/1699378990210.jpeg",
+      "alt": "1699378990210",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_position": "Co-Founder / CSO #1 End-to-End Insurance Factory NEODIGITAL VERSICHERUNG AG & CEO Neodigital Autoversicherung AG",
+    "speaker_add_info": "",
+    "speaker_surname": "Voss",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/stephen-voss-712b107/",
+    "speaker_gh": "",
+    "desc_episodes": "Stephen Voss is a Sales & Marketing expert with over 25 years of experience in the banking & insurance industries. He has held senior positions with Zurich, AIG, Hartford Life , the Halifax Bank of Scotland (now Lloyds TSB), and Deutsche Bank, where he gained a wealth of experience.\r\nSince Jan 2017 Stephen is founder, investor and CEO of the newly listed NEODIGITAL AG, a full digital venture to explore the possibilities of a fully process orientated digital insurance service."
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Co-Founder / CSO #1 End-to-End Insurance Factory NEODIGITAL VERSICHERUNG AG &amp; CEO Neodigital Autoversicherung AG</p>"
+    }
+  ],
+  "formReplaced": false
+}

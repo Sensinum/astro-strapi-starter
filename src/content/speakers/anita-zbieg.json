@@ -1,0 +1,37 @@
+{
+  "wpId": 5380,
+  "title": "Anita Zbieg",
+  "slug": "anita-zbieg",
+  "path": "/contributor/anita-zbieg/",
+  "date": "2024-12-03 10:36:52",
+  "modified": "2025-01-20 16:31:34",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5381,
+      "url": "/uploads/2024/12/DSC04383-kopia-scaled.jpg",
+      "alt": "Anita Zbieg",
+      "width": 2560,
+      "height": 2553
+    },
+    "speaker_position": "CEO @ Network Perspective",
+    "speaker_add_info": "Network Perspective",
+    "speaker_surname": "Zbieg",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/anita-zbieg/",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Team Productivity Researcher | Developer Experience Ally | Collaboration &amp; Workspace Analyst</p>\n\n\n\n<p>Anita applied her PhD background to develop tools that enhance developer experience through a data-informed, people-centered approach, leveraging both active and passive big data. This includes DevEx Surveys, which help minimize daily blockers related to tools and processes, and WorkSmart AI, which fosters deep work and intentional collaboration.</p>\n\n\n\n<p>She's passionate about researching how dev teams can boost productivity through the measure-act-learn cycle and leveraging organization-wide data insights with network analysis. Recently, Anita hosted DevEx talks with inspiring tech leaders from top US tech companies.</p>\n\n\n\n<p>Outside of work, she's a mom of two and enjoys sailing, rollerblading, and snowboarding.</p>"
+    }
+  ],
+  "formReplaced": false
+}

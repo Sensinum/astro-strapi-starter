@@ -1,0 +1,36 @@
+{
+  "wpId": 485,
+  "title": "Your deployment in SBT",
+  "slug": "your-deployment-in-sbt",
+  "path": "/watch/your-deployment-in-sbt/",
+  "date": "2020-01-01 00:02:22",
+  "modified": "2021-03-31 15:32:40",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=bbn-IkkxPnc&t=3s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      360
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>SBT builds. It says right there in the name. That's how we conventionally think of our favorite build tool. It fetches dependencies, compiles our code, and outputs ..err .. a JAR file?</p>\n\n\n\n<p>Everything else you need in order to deploy? Building &amp; publishing a docker image, tagging your release, updating the version. That's your job. Or, more likely, your CI/CD pipeline's job.</p>\n\n\n\n<p>It doesn't necessarily need to be like that. Using the sbt-native-packager and sbt-release SBT plugins, I'm going to present one team's approach in using SBT to declaratively encode our deployment steps.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,35 @@
+{
+  "wpId": 4462,
+  "title": "Monika Starzyk",
+  "slug": "monika-starzyk",
+  "path": "/contributor/monika-starzyk/",
+  "date": "2023-07-10 13:36:00",
+  "modified": "2023-07-10 13:36:01",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Founder at ReWorked",
+    "speaker_avatar": {
+      "id": 4463,
+      "url": "/uploads/2023/07/Profilowe-18-11-2022-20-14-40.jpeg",
+      "alt": "Profilowe-18-11-2022-20-14-40",
+      "width": 1070,
+      "height": 1070
+    },
+    "speaker_surname": "Starzyk",
+    "speaker_twitter": "https://twitter.com/stmonika",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/monikastarzyk/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Monika is a neuropsychologist building tools, frameworks and educational content for mental and emotional optimization, strengths-based performance and career building as well as brain-health longevity. In the past, she used to be a professional athlete, partner at a fast-growing startup (Base, acquired by Zendesk), as well as a manager of the Google Developers Experts global community program at Google. </p>\n\n\n\n<p>Currently at ReWorked, she helps teams and individuals with assessing their strengths, blind spots, naming their unique tactics and quickly putting the theory into action for better effectiveness, cooperation, leadership and - last but definitely not least - satisfaction at work.</p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,53 @@
+{
+  "wpId": 468,
+  "title": "The Evolution From Monolith to Microservices to Serverless and Beyond",
+  "slug": "the-evolution-from-monolith-to-microservices-to-serverless-and-beyond",
+  "path": "/watch/the-evolution-from-monolith-to-microservices-to-serverless-and-beyond/",
+  "date": "2020-01-01 00:02:37",
+  "modified": "2021-03-31 15:13:51",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 83,
+        "slug": "microservices",
+        "name": "Microservices"
+      },
+      {
+        "id": 82,
+        "slug": "monolith",
+        "name": "Monolith"
+      },
+      {
+        "id": 38,
+        "slug": "serverless",
+        "name": "Serverless"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=63GRKlPaec4",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      321
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>If you are a developer or an architect, the odds are that you grew up building systems that are now commonly known as monoliths. In the last few years, we've seen a significant evolutionary shift to systems composed of microservices. Today we are witnessing the birth of serverless. </p>\n\n\n\n<p>The rate of evolutionary change is accelerating. But what is changing and what remains the same? In this talk, we will look at the evolution from the monolith to serverless seeking to extract the variables and the constants. We will also look at the progression from serverless to an inevitable future of frictionless computing.</p>"
+    }
+  ],
+  "formReplaced": false
+}

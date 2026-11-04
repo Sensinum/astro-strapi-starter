@@ -1,0 +1,38 @@
+{
+  "wpId": 2361,
+  "title": "Finding yourself in IT in the next 10 years",
+  "slug": "finding-yourself-in-it-in-the-next-10-years",
+  "path": "/watch/finding-yourself-in-it-in-the-next-10-years/",
+  "date": "2021-12-23 16:12:36",
+  "modified": "2023-03-21 10:15:22",
+  "template": null,
+  "excerpt": "<p>Porozmawiamy sobie o początkach w IT, nadziejach i satysfakcji z pracy.</p>\n\n<p>Jak zacząć w IT? Jakie umiejętności kształcić i kto za nie zapłaci? Dla kogo jest korpo, a dla kogo mały startup? Z kim pić piwo? Wreszcie jak przy kawie ze znajomymi można wymyślić własny startup czy firmę softwarową i jakie są tego konsekwencje?</p>\n\n<p>Czyli w skrócie – mniej o samych błędach, a więcej o decyzjach i ich następstwach.</p>",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/12/pawel_what_alt.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=WzBCGL1Un5s&t=961s",
+    "video_thumbnail": false,
+    "talk_date": "October 14, 2021",
+    "talks_speakers": [
+      552
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>(PL) </p>\n\n\n\n<p>Co wiedzieć, jak na tym zarobić i do tego mieć satysfakcję z pracy – czyli jak odnaleźć się w IT w następnym 10-leciu Porozmawiamy sobie o początkach w IT, nadziejach i satysfakcji z pracy. Jak zacząć w IT? Jakie umiejętności kształcić i kto za nie zapłaci? Dla kogo jest korpo, a dla kogo mały startup? Z kim pić piwo? Wreszcie jak przy kawie ze znajomymi można wymyślić własny startup czy firmę softwarową i jakie są tego konsekwencje? Czyli w skrócie – mniej o samych błędach, a więcej o decyzjach i ich następstwach.</p>\n\n\n\n<p></p>\n\n\n\n<p>(ENG)</p>\n\n\n\n<p>What to know, how to earn on it and have job satisfaction - that is, how to find yourself in IT in the next 10 years. We will talk about beginnings in IT, hopes and job satisfaction. How to start in IT? What skills should be educated and who will pay for them? Who is the corpo for and who is a small startup for? Who to drink beer with? Finally, how can you come up with your own startup or software company while having coffee with friends, and what are the consequences? In short - less about the mistakes themselves, and more about the decisions and their consequences.</p>"
+    }
+  ],
+  "formReplaced": false
+}

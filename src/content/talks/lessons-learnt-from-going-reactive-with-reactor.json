@@ -1,0 +1,36 @@
+{
+  "wpId": 445,
+  "title": "Lessons learnt from going reactive with Reactor",
+  "slug": "lessons-learnt-from-going-reactive-with-reactor",
+  "path": "/watch/lessons-learnt-from-going-reactive-with-reactor/",
+  "date": "2020-01-01 00:02:57",
+  "modified": "2021-03-31 15:00:00",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=SGGLNHYnXFg&t=7s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      240
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Apache James is a mail server with a long history. A huge part of its work is to deal with Inputs Outputs (IMAP, SMTP, Jmap, Cassandra, RabbitMQ, AWS S3, and so on), in order to speed up James, lots of parallelisms have been introduced. All went fine until have discovered that the parallelism was killing our performances.<br>At this point, we have decided to go reactive with Reactor, here is what we have learned.</p>"
+    }
+  ],
+  "formReplaced": false
+}

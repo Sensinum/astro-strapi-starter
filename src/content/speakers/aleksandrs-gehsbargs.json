@@ -1,0 +1,43 @@
+{
+  "wpId": 2218,
+  "title": "Aleksandrs Gehsbargs",
+  "slug": "aleksandrs-gehsbargs",
+  "path": "/contributor/aleksandrs-gehsbargs/",
+  "date": "2021-12-03 09:22:20",
+  "modified": "2021-12-31 15:17:06",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Data Science Tech Lead at Product Madness",
+    "speaker_avatar": {
+      "id": 2219,
+      "url": "/uploads/2021/12/Aleksandrs-Gehsbargs.jpeg",
+      "alt": "Aleksandrs Gehsbargs",
+      "width": 512,
+      "height": 512
+    },
+    "speaker_surname": "Gehsbargs",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/aleksandrs-gehsbargs-a8836932/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I am a Data Science soldier and leader. Machine Learning, Statistics, Causal Inferences, Data Visualization, Behavioral Economics all excite and inspire me to broaden my knowledge and skills, to support business, and to inspire others to do the same. With about 10 years of experience in the industry, I was lucky to master most of what is called 'Data Science' today - I built machine learning models, saw how they improved business processes, got into depths of statistical data analysis, and tried to disentangle tricky causal relationships. </p>\n\n\n\n<p>Today I am even luckier as I lead a team of talented data scientists. Together we learn how to make inferences from data, and how to support business and improve products. And we never forget that it is always about enjoying the journey - journey in the exciting world of data science!</p>"
+    }
+  ],
+  "formReplaced": false
+}

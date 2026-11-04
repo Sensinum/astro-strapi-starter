@@ -1,0 +1,43 @@
+{
+  "wpId": 386,
+  "title": "Oindrilla Chatterjee",
+  "slug": "oindrilla-chatterjee",
+  "path": "/contributor/oindrilla-chatterjee/",
+  "date": "2020-01-01 00:01:14",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Data Scientist at Red Hat",
+    "speaker_avatar": {
+      "id": 387,
+      "url": "/uploads/2021/03/Oindrilla_Chatterjee.jpg",
+      "alt": "Oindrilla Chatterjee",
+      "width": 618,
+      "height": 644
+    },
+    "speaker_surname": "Chatterjee",
+    "speaker_twitter": "https://twitter.com/oindrilla_chat",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/oindrilla-chatterjee/",
+    "speaker_gh": "https://github.com/oindrillac"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Oindrilla is a Data Scientist at Red Hat, the world's leading provider of Enterprise ready open-source solutions. She is working in the Office of the CTO working on emerging trends and research in ML and AI. </p>\n\n\n\n<p>Her work has been focused on developing Natural Language Processing tools for core business operations, development and productization processes. She has a Masters Degree in Computer Science with a specialization in Data-centric computing from Boston University.</p>"
+    }
+  ],
+  "formReplaced": false
+}

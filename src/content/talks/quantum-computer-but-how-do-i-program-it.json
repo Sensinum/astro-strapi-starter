@@ -1,0 +1,36 @@
+{
+  "wpId": 489,
+  "title": "Quantum computer...but how do I program it?",
+  "slug": "quantum-computer-but-how-do-i-program-it",
+  "path": "/watch/quantum-computer-but-how-do-i-program-it/",
+  "date": "2020-01-01 00:02:18",
+  "modified": "2023-03-21 09:44:19",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 53,
+        "slug": "quantum-computing",
+        "name": "Quantum Computing"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=7JvxtT5ow20&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      284
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Quantum computers not only promise new computational capabilities but also introduce new programming paradigm. Let's check what it means from a software developer's perspective. We'll use Qiskit to program IBM's quantum computer available today in a cloud to demonstrate the concepts. You may need this sooner than you expect ;)</p>"
+    }
+  ],
+  "formReplaced": false
+}

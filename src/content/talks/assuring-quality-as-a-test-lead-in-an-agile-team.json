@@ -1,0 +1,30 @@
+{
+  "wpId": 2501,
+  "title": "Assuring quality as a Test Lead in an Agile team",
+  "slug": "assuring-quality-as-a-test-lead-in-an-agile-team",
+  "path": "/watch/assuring-quality-as-a-test-lead-in-an-agile-team/",
+  "date": "2022-02-02 14:18:08",
+  "modified": "2023-03-21 11:26:25",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/02/bartosz_siwinski-1024x576.png"
+  },
+  "terms": {},
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=m8RxAXcB8BY",
+    "video_thumbnail": false,
+    "talk_date": "February 22, 2022",
+    "talks_speakers": [
+      2502
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Most testers at some point in their career are presented with the opportunity to become a test lead. Leading the test effort, supervising the quality, and choosing test strategies are just the tip of the iceberg. You will learn that managing the team atmosphere, preventing burnout, and developing and mentoring team members are just as important if not more. The project is only successful if you can do the next one. In this tech talk, I will share with you what I’ve learned after stepping into this role.</p>"
+    }
+  ],
+  "formReplaced": false
+}

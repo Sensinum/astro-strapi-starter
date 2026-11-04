@@ -1,0 +1,35 @@
+{
+  "wpId": 4818,
+  "title": "Magdalena Firlit",
+  "slug": "magdalena-firlit",
+  "path": "/contributor/magdalena-firlit/",
+  "date": "2024-01-25 15:31:03",
+  "modified": "2024-01-25 15:31:03",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Professional Scrum Trainer at Scrum.org",
+    "speaker_avatar": {
+      "id": 4819,
+      "url": "/uploads/2024/01/1516259151666.jpeg",
+      "alt": "1516259151666",
+      "width": 450,
+      "height": 450
+    },
+    "speaker_surname": "Firlit",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/magdalenafirlit/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Magdalena Firlit is a Professional Scrum Trainer and an experienced Scrum coach, graduated life &amp; business coach (ICF diploma), mentor, Agile coach, graduated trainer, and consultant at magdalenafirlit.com She is a founder and CEO of the company Agile in the Spotlight. Mentoring experience since 2014. As a mentor, and now a mentor for mentors, serves Women in Technology Poland. Also, organizes workshops for new mentors about the process and key points. </p>"
+    }
+  ],
+  "formReplaced": false
+}

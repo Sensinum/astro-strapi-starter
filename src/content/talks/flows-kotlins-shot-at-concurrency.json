@@ -1,0 +1,36 @@
+{
+  "wpId": 477,
+  "title": "Flows - Kotlin's shot at concurrency",
+  "slug": "flows-kotlins-shot-at-concurrency",
+  "path": "/watch/flows-kotlins-shot-at-concurrency/",
+  "date": "2020-01-01 00:02:29",
+  "modified": "2021-03-31 15:18:33",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=bgOaeHBbSvY&t=2s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      341
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Concurrency is and certainly will be one of the biggest challenges we, developers, now face having to squeeze everything out of all the cores our CPUs have. With Kotlin you do not need to struggle with Java's threads or Scala's actors. Kotlin has its own concurrency model and I will show you why it is really cool and that it’s worth having a look at. During this presentation we will look into coroutines and see how they facilitate asynchronous programming. We will talk about flows and see how they make writing reactive code a breeze. If flows fit into your domain why not give Kotlin a shot?</p>"
+    }
+  ],
+  "formReplaced": false
+}

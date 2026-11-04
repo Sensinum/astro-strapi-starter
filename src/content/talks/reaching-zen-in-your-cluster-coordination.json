@@ -1,0 +1,43 @@
+{
+  "wpId": 456,
+  "title": "Reaching Zen in Your Cluster Coordination",
+  "slug": "reaching-zen-in-your-cluster-coordination",
+  "path": "/watch/reaching-zen-in-your-cluster-coordination/",
+  "date": "2020-01-01 00:02:49",
+  "modified": "2021-03-31 15:05:10",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 67,
+        "slug": "zen-discovery",
+        "name": "Zen Discovery"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=a8H81c1234E&t=15s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      271
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Distributed systems are hard and unfortunately often less perfect than we would hope. This talk shows a concrete example: Elasticsearch's cluster coordination system, called Zen Discovery, got a rewrite in version 7.0. Starting from a formal model, the coordination layer was rebuilt to address multiple issues discovered over the years. We discuss the main improvements of the new implementation: Master elections are much faster, the infamous minimum_master_nodes setting has been removed, growing and shrinking clusters becomes safer and easier, and leaves less room to misconfigure the system. Let us join the new, more Zen way of cluster coordination.</p>"
+    }
+  ],
+  "formReplaced": false
+}

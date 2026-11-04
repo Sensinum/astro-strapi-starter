@@ -1,0 +1,43 @@
+{
+  "wpId": 352,
+  "title": "Adam Niedziałkowski",
+  "slug": "adam-niedzialkowski",
+  "path": "/contributor/adam-niedzialkowski/",
+  "date": "2020-01-01 00:01:28",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Developer/ML Engineer at 2040.io",
+    "speaker_avatar": {
+      "id": 353,
+      "url": "/uploads/2021/03/IMG_20190729_075607__01-Adam-Niedzialkowski-scaled.jpg",
+      "alt": "Adam Niedziałkowski",
+      "width": 2141,
+      "height": 2560
+    },
+    "speaker_surname": "Niedziałkowski",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/adam-niedzia%C5%82kowski-887153a5/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Adam works as a software developer (and sometimes machine learning engineer) at Edward.ai. He's keen on learning by breaking and a firm believer that AI will truly change the world.</p>"
+    }
+  ],
+  "formReplaced": false
+}

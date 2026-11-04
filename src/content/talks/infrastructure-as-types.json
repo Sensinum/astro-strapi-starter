@@ -1,0 +1,48 @@
+{
+  "wpId": 170,
+  "title": "Infrastructure as Types",
+  "slug": "infrastructure-as-types",
+  "path": "/watch/infrastructure-as-types/",
+  "date": "2020-01-01 00:03:16",
+  "modified": "2021-03-31 14:42:25",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 26,
+        "slug": "cloud",
+        "name": "Cloud"
+      },
+      {
+        "id": 48,
+        "slug": "infrastructure",
+        "name": "Infrastructure"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=I4gwsvlcGS8&t=1497s",
+    "video_thumbnail": false,
+    "talk_date": "September 15, 2020",
+    "talks_speakers": [
+      132
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In this talk, I'll show you infrastructure from a pragmatic point of view. I'll be talking about complexity, entropy and problems in the infrastructure. I'll explain briefly the why and how of the Cloud Native platforms. I'll show how workloads need to be adapted for the cloud and what new problems they face.</p>\n\n\n\n<p>Finally, we'll try to answer the following:<br>With Infrastructure as Code gaining popularity, what can be the next step?<br>What if we could leverage a strongly typed programming language?</p>\n\n\n\n<p>I'll also show an idea for Infrastructure as Types and a proof of concept written in Scala. This talk will help you systematize your knowledge about infrastructure and the cloud and hopefully inspire to wonder about what the future might bring in that regard.</p>"
+    }
+  ],
+  "formReplaced": false
+}

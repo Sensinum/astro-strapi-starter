@@ -1,0 +1,43 @@
+{
+  "wpId": 257,
+  "title": "Guillaume Martres",
+  "slug": "guillaume-martres",
+  "path": "/contributor/guillaume-martres/",
+  "date": "2020-01-01 00:02:00",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": " PhD student at LAMP/EPFL",
+    "speaker_avatar": {
+      "id": 258,
+      "url": "/uploads/2021/03/mug_square-Guillaume-Martres.jpg",
+      "alt": "Guillaume Martres",
+      "width": 1000,
+      "height": 1000
+    },
+    "speaker_surname": "Martres",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": "https://github.com/smarter"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>PhD student at EPFL, working on the Dotty compiler</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,59 +1,59 @@
-import { generateCollections } from '@sensinum/astro-strapi-loader';
+import { defineCollection, z } from 'astro:content';
+import { glob } from 'astro/loaders';
 
-// Strapi queries
-export const homepageQuery = {
-    populate: {
-        hero: {
-            populate: ["background", "cta"]
-        },
-        sections: {
-            populate: "*"
-        },
-        seo: {
-            populate: ["ogImage"],
-        },
-    },
-};
+const term = z.object({
+  id: z.number(),
+  slug: z.string(),
+  name: z.string(),
+});
 
-export const globalQuery = {
-    populate: {
-        logo: true,
-        navigation: true,
-        footer: true,
-    },
-};
+const block = z.object({
+  kind: z.enum(['acf', 'html']),
+  name: z.string().optional(),
+  anchor: z.string().optional(),
+  className: z.string().optional(),
+  data: z.record(z.string(), z.any()).optional(),
+  html: z.string().optional(),
+});
 
-export const pagesQuery = {
-    populate: {
-        content: {
-            populate: "*",
-        },
-        seo: {
-            populate: ["ogImage"],
-        },
-    },
-};
+const entry = z.object({
+  wpId: z.number(),
+  title: z.string(),
+  slug: z.string(),
+  path: z.string(),
+  date: z.string(),
+  modified: z.string(),
+  template: z.string().nullable().optional(),
+  excerpt: z.string().optional().default(''),
+  featuredImage: z.string().nullable().optional(),
+  seo: z
+    .object({
+      title: z.string().optional(),
+      description: z.string().optional(),
+      ogTitle: z.string().optional(),
+      ogDescription: z.string().optional(),
+      ogImage: z.string().optional(),
+    })
+    .optional(),
+  terms: z.record(z.string(), z.array(term)).optional(),
+  acf: z.record(z.string(), z.any()).optional(),
+  blocks: z.array(block).default([]),
+  formReplaced: z.boolean().optional(),
+});
 
-let strapiCollections: any = {};
-
-try {
-    strapiCollections = await generateCollections({
-        url: import.meta.env.STRAPI_URL || 'http://localhost:1337',
-        token: import.meta.env.STRAPI_TOKEN || '',
-    }, [{
-        name: "homepage",
-        query: homepageQuery,
-    }, {
-        name: "global",
-        query: globalQuery,
-    }, {
-        name: "pages",
-        query: pagesQuery,
-    }]);
-} catch (error) {
-    console.error('Strapi connection error:', error);
+function collection(dir: string) {
+  return defineCollection({
+    loader: glob({ pattern: '**/*.json', base: `./src/content/${dir}` }),
+    schema: entry,
+  });
 }
 
 export const collections = {
-    ...strapiCollections,
-}; 
+  pages: collection('pages'),
+  posts: collection('posts'),
+  events: collection('events'),
+  eventSeries: collection('event-series'),
+  speakers: collection('speakers'),
+  talks: collection('talks'),
+  podcasts: collection('podcasts'),
+};

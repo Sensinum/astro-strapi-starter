@@ -1,0 +1,41 @@
+{
+  "wpId": 628,
+  "title": "What we’ve learned from creating Edward.ai",
+  "slug": "what-weve-learned-from-creating-edward-ai",
+  "path": "/watch/what-weve-learned-from-creating-edward-ai/",
+  "date": "2020-01-01 00:01:07",
+  "modified": "2023-03-20 14:20:49",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=Cp8aSRoMQFk",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      574
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>This will be a story about creation of AI powered sales assistant. How did it all start, and what challenges we’ve faced during the last 18 months? How did we apply AI into our software and what our customers are saying about the usability of such tool? And what are the plans for the nearest future in comparison of artificial intelligence advancement.</p>"
+    }
+  ],
+  "formReplaced": false
+}

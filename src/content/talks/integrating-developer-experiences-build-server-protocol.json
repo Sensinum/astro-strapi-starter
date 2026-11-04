@@ -1,0 +1,43 @@
+{
+  "wpId": 514,
+  "title": "Integrating Developer Experiences - Build Server Protocol",
+  "slug": "integrating-developer-experiences-build-server-protocol",
+  "path": "/watch/integrating-developer-experiences-build-server-protocol/",
+  "date": "2020-01-01 00:01:58",
+  "modified": "2023-03-21 09:52:44",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 98,
+        "slug": "ide",
+        "name": "IDE"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=pdKxLikXZy4",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      269
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>IDEs - Integrated Development Environments - traditionally provide out of the box support for many of the tasks that go into making working software out of source code. But increasingly, developers expect to be able to use any one of a variety of special-purpose tools for each task. This shifts the focus of the IDE from \"Integrated\" to \"Integrating\" external tools into a coherent experience. I have been focusing on one aspect of this - build tools - and will talk about challenges integrating tools and how the Build Server Protocol makes it possible for IntelliJ to interface with any build tool.</p>"
+    }
+  ],
+  "formReplaced": false
+}

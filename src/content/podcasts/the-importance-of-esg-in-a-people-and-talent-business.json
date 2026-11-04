@@ -1,0 +1,47 @@
+{
+  "wpId": 5188,
+  "title": "The importance of ESG in a people and talent business",
+  "slug": "the-importance-of-esg-in-a-people-and-talent-business",
+  "path": "/podcast/the-importance-of-esg-in-a-people-and-talent-business/",
+  "date": "2024-04-19 13:57:57",
+  "modified": "2024-04-19 13:57:57",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E16_thumbnail_Paul_Baker_Interview-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5186
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "watch on YouTube",
+      "url": "https://www.youtube.com/watch?v=huY8OU7hOzA&list=PLl9Aulxh1VePW1MCtgpOqCRDPjYWn9Zy2&index=20",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>One of the many interviews with Insurance Experts that we recorded at the Insurtech Insights 2024 in London. Interviewing Paul Baker, Director @DiSRUPT Agency &amp; Co-founder</p>\n",
+    "podcast_cover": {
+      "id": 5189,
+      "url": "/uploads/2024/04/S01E16_thumbnail_Paul_Baker_Interview-min.jpg",
+      "alt": "S01E16_thumbnail_Paul_Baker_Interview-min",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

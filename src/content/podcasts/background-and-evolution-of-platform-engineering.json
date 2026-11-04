@@ -1,0 +1,51 @@
+{
+  "wpId": 5102,
+  "title": "Background and Evolution of Platform Engineering",
+  "slug": "background-and-evolution-of-platform-engineering",
+  "path": "/podcast/background-and-evolution-of-platform-engineering/",
+  "date": "2024-03-19 11:36:39",
+  "modified": "2024-03-19 11:37:59",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/03/S01E01-thumbnail.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 188,
+        "slug": "domain",
+        "name": "Domain"
+      },
+      {
+        "id": 189,
+        "slug": "platform-engineering",
+        "name": "Platform Engineering"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      141
+    ],
+    "podcast_spotify": {
+      "title": "Listen on Spotify",
+      "url": "https://open.spotify.com/episode/1ecfzBbUrd1VXfvvcKe1cU?si=OBtUXI1RSzuo2_4RlJmLDw",
+      "target": "_blank"
+    },
+    "podcast_yt": {
+      "title": "Watch on YouTube",
+      "url": "https://youtu.be/tooZ5vwRls0?si=ahMyCRpvjiePmvev",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>In our inaugural episode of another series, we delve into the foundations of platform engineering, exploring its historical context and evolution. Our guest will provide insights into their background in platform engineering and share their expertise on the subject. We&#8217;ll define platform engineering for newcomers and discuss its unique aspects compared to other fields like software development and system administration. Furthermore, we&#8217;ll explore how platform engineering contributes to the overall success of organizations and highlight key milestones in its development over the years.</p>\n",
+    "podcast_cover": {
+      "id": 5103,
+      "url": "/uploads/2024/03/S01E01-plansza-video-otwierajaI¨ca-scaled.jpg",
+      "alt": "Background and Evolution of Platform Engineering",
+      "width": 2560,
+      "height": 1440
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

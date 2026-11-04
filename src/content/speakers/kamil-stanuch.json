@@ -1,0 +1,35 @@
+{
+  "wpId": 1553,
+  "title": "Kamil Stanuch",
+  "slug": "kamil-stanuch",
+  "path": "/contributor/kamil-stanuch/",
+  "date": "2021-07-27 12:19:32",
+  "modified": "2021-07-28 09:13:11",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Former Site Director at Grand Parade",
+    "speaker_avatar": {
+      "id": 1554,
+      "url": "/uploads/2021/07/Kamil-Stanuch-BW-Kamil-Stanuch.jpeg",
+      "alt": "Kamil Stanuch",
+      "width": 800,
+      "height": 800
+    },
+    "speaker_surname": "Stanuch",
+    "speaker_twitter": "https://twitter.com/KamilStanuch",
+    "speaker_fb": "https://www.facebook.com/kamil.stanuch",
+    "speaker_linkedin": "https://www.linkedin.com/in/kamilstanuch/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Co-founder at Sigmapoint software house (acq'd by Grand Parade in 2016). Site Director of Grand Parade part of William Hill. A great lover of statistics and OKRs. In his free time, he runs the newsletter: kamilstanuch.pl/friendzone.</p>"
+    }
+  ],
+  "formReplaced": false
+}

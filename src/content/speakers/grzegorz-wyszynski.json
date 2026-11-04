@@ -1,0 +1,29 @@
+{
+  "wpId": 589,
+  "title": "Grzegorz Wyszyński",
+  "slug": "grzegorz-wyszynski",
+  "path": "/contributor/grzegorz-wyszynski/",
+  "date": "2020-01-01 00:00:29",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "R&D Engineer at Aptiv",
+    "speaker_avatar": false,
+    "speaker_surname": "Wyszyński",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Grzegorz is working in Advanced Engineering group in Aptiv (formerly Delphi) developing Advanced Driver Assistance and Automated Driving systems for the future cars. His team work is focused not only on sensors and hardware, but also on data analysis algorithms and modelling.</p>\n\n\n\n<p>Grzegorz finished Nuclear Physics on Jagiellonian Univiersity and gained his Ph.D. title in 2015. Since then his professional life is related to automotive and bringing new products to market, firstly as Validation Engineer, later as R&amp;D Engineer.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,47 @@
+.block-offer {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  font-family: "Montserrat", sans-serif;
+  color: #21212C;
+}
+@media (max-width: 1199.98px) {
+  .block-offer {
+    margin-top: 70px;
+    margin-bottom: 70px;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-offer {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-offer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+}
+.block-offer .download-offer-box {
+  padding: 40px 35px;
+}
+@media (max-width: 1199.98px) {
+  .block-offer .download-offer-box {
+    padding: 30px 30px 20px;
+  }
+}
+@media (max-width: 767.98px) {
+  .block-offer .download-offer-box {
+    padding: 30px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-offer .download-offer-box {
+    padding: 25px 20px;
+  }
+}
+.block-offer .download-offer-box .download-form .gform_wrapper form .gform_body .gfield .gfield_html {
+  color: #556173;
+}
+
+/*# sourceMappingURL=block-offer.css.map */

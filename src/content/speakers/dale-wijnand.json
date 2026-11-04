@@ -1,0 +1,43 @@
+{
+  "wpId": 411,
+  "title": "Dale Wijnand",
+  "slug": "dale-wijnand",
+  "path": "/contributor/dale-wijnand/",
+  "date": "2020-01-01 00:01:03",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Engineer at Lightbend",
+    "speaker_avatar": {
+      "id": 412,
+      "url": "/uploads/2021/03/Dale_Wijnand.jpeg",
+      "alt": "Dale Wijnand",
+      "width": 200,
+      "height": 200
+    },
+    "speaker_surname": "Wijnand",
+    "speaker_twitter": "https://twitter.com/dwijnand",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/dwijnand/",
+    "speaker_gh": "https://github.com/dwijnand"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I’m an active OSS contributor, typically in Scala, and an sbt maintainer at Lightbend. Interested in FP, software tooling, and API and library design.</p>"
+    }
+  ],
+  "formReplaced": false
+}

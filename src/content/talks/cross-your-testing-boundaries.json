@@ -1,0 +1,36 @@
+{
+  "wpId": 448,
+  "title": "Cross your testing boundaries",
+  "slug": "cross-your-testing-boundaries",
+  "path": "/watch/cross-your-testing-boundaries/",
+  "date": "2020-01-01 00:02:55",
+  "modified": "2021-03-31 15:01:07",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=sWEDeGNi9Hg&t=4s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      247
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Did you ever have a situation that you had to rewrite your tests after a refactoring? Or did you struggle to even write a test, as it was getting really complicated? Don't worry - you are not the only one and it's the best indicator of ultimate evil - testing implementation details.<br>In this presentation, I want to show how to avoid many different problems by testing your code on the correct level and with the proper scope when it comes to details exposed in tests. And why \"unit\" in testing doesn't have to mean the smallest piece of code possible.<br>I will show a few techniques and tools to make writing tests pure pleasure. On top of this - using TDD in the process.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,49 @@
+{
+  "wpId": 476,
+  "title": "Probabilistic data structures for Kafka Streams",
+  "slug": "probabilistic-data-structures-for-kafka-streams",
+  "path": "/watch/probabilistic-data-structures-for-kafka-streams/",
+  "date": "2020-01-01 00:02:30",
+  "modified": "2021-03-31 15:17:48",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 66,
+        "slug": "big-data",
+        "name": "Big Data"
+      },
+      {
+        "id": 65,
+        "slug": "kafka",
+        "name": "Kafka"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=wJNN1JQIpDU&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      334,
+      336
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Apache Kafka has emerged as the world's most popular data streaming platform backbone. Only recently, a new flavour of a stream processing has been introduced - Kafka Streams. However, while simple and lightweight, it lacks a high-level API for probabilistic data structures, which could be a way to provide a considerable solution for the bottlenecks.<br>In this talk, we will briefly describe the foundational concepts behind both Kafka Streams and probabilistic data structures and present our efforts in creating a library, which connects powerfully Kafka Streams pipeline builders to a variety of modern big data tools for approximate result computation.</p>"
+    }
+  ],
+  "formReplaced": false
+}

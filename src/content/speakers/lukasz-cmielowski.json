@@ -1,0 +1,37 @@
+{
+  "wpId": 569,
+  "title": "Łukasz Ćmielowski",
+  "slug": "lukasz-cmielowski",
+  "path": "/contributor/lukasz-cmielowski/",
+  "date": "2020-01-01 00:00:36",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "QA Architect at IBM",
+    "speaker_avatar": false,
+    "speaker_surname": "Ćmielowski",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/%C5%82ukasz-%C4%87mielowski-b941a33/",
+    "speaker_gh": "https://github.com/LukaszCmielowski"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Łukasz Ćmielowski joined IBM in 2008. In 2009 he successfully defended PhD dissertation in bioinformatics. Since then he worked as QA architect focused on putting AI into old school software quality activities. His domain was automation of software failure prediction. In 2015 he joined new team working on analytics solutions as automation architect and data scientist. He is also also a big fan of Norman Davies’ and Terry Pratchett’s book series.</p>"
+    }
+  ],
+  "formReplaced": false
+}

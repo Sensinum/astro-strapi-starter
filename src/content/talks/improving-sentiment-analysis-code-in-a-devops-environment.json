@@ -1,0 +1,50 @@
+{
+  "wpId": 497,
+  "title": "Improving Sentiment Analysis Code in a DevOps environment",
+  "slug": "improving-sentiment-analysis-code-in-a-devops-environment",
+  "path": "/watch/improving-sentiment-analysis-code-in-a-devops-environment/",
+  "date": "2020-01-01 00:02:10",
+  "modified": "2023-03-21 09:48:03",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2020/01/Oindrilla-data.png",
+  "seo": {
+    "ogImage": "/uploads/2020/01/Oindrilla-data.png"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 94,
+        "slug": "devops",
+        "name": "DevOps"
+      },
+      {
+        "id": 44,
+        "slug": "machine-learning",
+        "name": "Machine Learning"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=4tvPR_13WuU",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      386
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Machine Learning systems are well-positioned to analyze natural language workloads and discover actionable insights and knowledge in a DevOps environment. However, this presents a challenge when it comes to narrowing down to a system which can generalize to a wide variety of use cases. We discuss the limitations encountered in the use of sentiment analysis across various artifacts in a DevOps environment. Also, we show how we improved the service through continuous learning and evolved the system to learn, adapt and produce desirable outcomes for a multitude of use cases. </p>\n\n\n\n<p>Finally, we share the lessons learned while going through the process and also demonstrate the usage of the framework with examples. Through this presentation, developers will quickly learn how to leverage and implement sentiment analysis in to their existing environment and data scientists learn how to use principles of transfer learning for natural language processing workloads.</p>"
+    }
+  ],
+  "formReplaced": false
+}

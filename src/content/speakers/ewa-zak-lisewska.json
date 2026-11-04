@@ -1,0 +1,37 @@
+{
+  "wpId": 5037,
+  "title": "Ewa Żak-Lisewska",
+  "slug": "ewa-zak-lisewska",
+  "path": "/contributor/ewa-zak-lisewska/",
+  "date": "2024-03-07 16:09:31",
+  "modified": "2024-03-08 10:31:40",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5038,
+      "url": "/uploads/2024/03/1636967974301-1.jpeg",
+      "alt": "1636967974301 (1)",
+      "width": 600,
+      "height": 600
+    },
+    "speaker_position": " CEO at NOVA SQUAD",
+    "speaker_add_info": "NOVA SQUAD",
+    "speaker_surname": "Żak-Lisewska",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/ewa-%C5%BCak-lisewska/",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Entrepreneur, fitness instructor, personal trainer, dietitian</p>\n\n\n\n<p>For 18 years she worked in corporations in positions ranging from specialist to department director. After leaving her job, she followed her dreams and opened the NOVA SQUAD personal training studio in Krakow. She completed coaching and instructor courses and postgraduate studies in dietetics.<br>She helps people get fit, get back in shape, maintain a healthy weight, get rid of pain, improve their health and sports achievements.</p>\n\n\n\n<p>She is also the owner of the Na Pełnej Pauzie® initiative which supports perimenopausal women in maintaining their physical and mental health.</p>\n\n\n\n<p>Promoting a healthy lifestyle, she gives lectures on the role of physical activity and nutrition for companies and schools.</p>\n\n\n\n<p>He also cooperates with an IT company, where she uses her experience from corporation. She is co-author of applications for business.</p>\n\n\n\n<p>A lover of France, she is also a sworn translator of French.</p>\n\n\n\n<p>Privately, a wife and mother of two teenagers. A fan of sport climbing, which she has been actively practicing for over 10 years.</p>"
+    }
+  ],
+  "formReplaced": false
+}

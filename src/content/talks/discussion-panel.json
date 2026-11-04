@@ -1,0 +1,26 @@
+{
+  "wpId": 4924,
+  "title": "Discussion Panel",
+  "slug": "discussion-panel",
+  "path": "/watch/discussion-panel/",
+  "date": "2024-02-13 09:45:50",
+  "modified": "2024-02-13 09:46:05",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2024",
+    "talks_speakers": false
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>TBA</p>"
+    }
+  ],
+  "formReplaced": false
+}

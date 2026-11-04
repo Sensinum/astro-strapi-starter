@@ -1,0 +1,37 @@
+{
+  "wpId": 5388,
+  "title": "Steve Yegge",
+  "slug": "steve-yegge",
+  "path": "/contributor/steve-yegge/",
+  "date": "2024-12-03 11:44:10",
+  "modified": "2025-01-20 16:31:23",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5403,
+      "url": "/uploads/2024/12/IMG_8854.jpeg",
+      "alt": "IMG_8854",
+      "width": 2304,
+      "height": 2304
+    },
+    "speaker_position": "Sourcegraph",
+    "speaker_add_info": "Sourcegraph",
+    "speaker_surname": "Yegge",
+    "speaker_twitter": "https://x.com/Steve_Yegge",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/steveyegge/",
+    "speaker_gh": "https://github.com/steveyegge",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p><em>A longtime industry veteran with nearly twenty years at Amazon and Google combined, as both an engineer and an engineering leader. He joined the Sourcegraph team two years ago, helping them expand the Sourcegraph product from Code Search into the premier enterprise Code AI product. He has also worked as an engineer on Cody, Sourcegraph’s coding assistant. Steve’s mission now is to help the world understand the dramatic shift in how programming actually works, how it will affect them, and how people can use not just Sourcegraph, but&nbsp;</em><strong><em>many</em></strong><em>&nbsp;different tools and techniques to accelerate their productivity with Code AI.</em></p>"
+    }
+  ],
+  "formReplaced": false
+}

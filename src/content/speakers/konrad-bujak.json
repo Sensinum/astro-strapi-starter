@@ -1,0 +1,36 @@
+{
+  "wpId": 4991,
+  "title": "Konrad Bujak",
+  "slug": "konrad-bujak",
+  "path": "/contributor/konrad-bujak/",
+  "date": "2024-02-21 13:21:23",
+  "modified": "2024-02-29 22:41:41",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Product Leader / Entrepreneur / Generative AI Engineer / Trainer",
+    "speaker_avatar": {
+      "id": 4992,
+      "url": "/uploads/2024/02/konrad-bujak.jpg",
+      "alt": "konrad-bujak",
+      "width": 300,
+      "height": 300
+    },
+    "speaker_surname": "Bujak",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/konrad-bujak/",
+    "speaker_gh": "",
+    "speaker_add_info": "Rockin'iT"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Passionate product leader with over 6 years of experience driving end-to-end product delivery and leading cross-functional teams.</p>\n\n\n\n<p>In his last role, he directed a portfolio of products using Agile methodologies (and Shape-Up), resulting in a 25% boost in productivity and a 40% increase in user satisfaction. Excel at rallying teams to bring innovative visions to life, informed by rigorous A/B testing and data analysis. 4-times founder in diverse industries (Culinary tourism, Generative AI, Legal, edtech).</p>\n\n\n\n<p>Eager to share lessons learned transitioning from product manager to people leader, executive, and founder. Well-versed in the mental shift required to guide teams versus individual contribution. Experienced drastic situations (i.e., after joining a company, the department people filed for quitting or physical violence in the workplace). Always seeking to mentor others, especially women, pursuing product roles in tech.</p>\n\n\n\n<p>He's excited to provide actionable insights on choosing mentors, embracing change, and celebrating women thriving as founders and executives in the IT industry.</p>"
+    }
+  ],
+  "formReplaced": false
+}

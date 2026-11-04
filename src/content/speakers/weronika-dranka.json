@@ -1,0 +1,53 @@
+{
+  "wpId": 372,
+  "title": "Weronika Dranka",
+  "slug": "weronika-dranka",
+  "path": "/contributor/weronika-dranka/",
+  "date": "2020-01-01 00:01:20",
+  "modified": "2022-10-13 13:59:18",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      },
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Data Scientist at Unit8",
+    "speaker_avatar": {
+      "id": 3219,
+      "url": "/uploads/2020/01/mt210602-UNIT8-PORTRET-0977-copy-min-scaled.jpg",
+      "alt": "Weronika Dranka",
+      "width": 2419,
+      "height": 2560
+    },
+    "speaker_surname": "Dranka",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/weronika-dranka-b3018b121/?originalSubdomain=pl",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Weronika is a Data Scientist at Unit8, driving digital transformations by turning customers' data into working systems. Curious by nature, she is excited to find real-world rules by exploring datasets. Weronika shares some personality traits with her beloved golden retrievers – energetic, trusting, always taking a joyous and playful approach to life, and hoping to maintain this puppyish behavior all life long!</p>"
+    }
+  ],
+  "formReplaced": false
+}

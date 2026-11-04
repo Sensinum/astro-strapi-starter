@@ -1,0 +1,36 @@
+{
+  "wpId": 4878,
+  "title": "Paulina Kacprzak",
+  "slug": "paulina-kacprzak",
+  "path": "/contributor/paulina-kacprzak/",
+  "date": "2024-02-06 15:59:20",
+  "modified": "2024-02-29 22:53:01",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Co-CEO of Design Practice, Customer Experience Consultant",
+    "speaker_avatar": {
+      "id": 4880,
+      "url": "/uploads/2024/02/8sbzAEA-1.jpeg",
+      "alt": "_8sbzAEA",
+      "width": 931,
+      "height": 931
+    },
+    "speaker_surname": "Kacprzak",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/paulaka/",
+    "speaker_gh": "",
+    "speaker_add_info": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Her background is graphic design and customer experience design. She organized the biggest design conference in Poland - Element Talks gathering over 3000 attendees each year. She’s a foodie and dog lover. 🐕</p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

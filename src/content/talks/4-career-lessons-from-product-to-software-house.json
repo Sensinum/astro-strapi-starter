@@ -1,0 +1,38 @@
+{
+  "wpId": 2668,
+  "title": "4 career lessons from product to software house",
+  "slug": "4-career-lessons-from-product-to-software-house",
+  "path": "/watch/4-career-lessons-from-product-to-software-house/",
+  "date": "2022-02-16 10:51:32",
+  "modified": "2023-03-21 10:20:11",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/02/michal_niec_thumbnail_video-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=LGSnwG1rZY8",
+    "video_thumbnail": false,
+    "talk_date": "June 23, 2022",
+    "talks_speakers": [
+      2640
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Computers have been my passion from an early age. I managed to get my first job as a programmer when I was in high school. In the presentation, I cite 4 interesting episodes from my early career as a software engineer that helped me make important decisions, and understand technology companies and the career paths they offer.</p>"
+    }
+  ],
+  "formReplaced": false
+}

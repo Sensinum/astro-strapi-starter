@@ -1,0 +1,416 @@
+{
+  "wpId": 4050,
+  "title": "Inspiring Women in IT",
+  "slug": "inspiring-women-in-it-2023",
+  "path": "/event/inspiring-women-in-it-2023/",
+  "date": "2023-01-25 10:32:57",
+  "modified": "2023-11-14 08:27:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "description": "Hear stories of Inspiring Women in IT on March 15th in Hevre. Let's celebrate International Women's day together.",
+    "ogImage": "/uploads/2023/01/women_2023_share-1024x538.png"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 180,
+        "slug": "inspiring-women-in-it",
+        "name": "Inspiring Women in IT"
+      }
+    ]
+  },
+  "acf": {
+    "event_agenda": [
+      {
+        "item_type": "custom",
+        "item_time": "5:30 PM ",
+        "talk_id": 2665,
+        "custom_title": "Doors Open",
+        "item_content": "<p>Come earlier, grab a drink and take your seat!</p>\n",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "custom",
+        "item_time": "6:00 PM ",
+        "talk_id": 4085,
+        "custom_title": "Event Opening",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "6:05 PM",
+        "talk_id": 4143,
+        "custom_title": "",
+        "item_content": "<p>TBD</p>\n",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "6:15 PM ",
+        "talk_id": 4085,
+        "custom_title": "",
+        "item_content": "<p>TBD</p>\n",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "6:45 PM  ",
+        "talk_id": 4114,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "custom",
+        "item_time": "7:15 PM",
+        "talk_id": 4137,
+        "custom_title": "Break",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "7:30 PM",
+        "talk_id": 4137,
+        "custom_title": "",
+        "item_content": "<p>TBD</p>\n",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "8:00 PM ",
+        "talk_id": 4126,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "custom",
+        "item_time": "8:30 PM",
+        "talk_id": false,
+        "custom_title": "Networking",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      }
+    ],
+    "event_series_label": "",
+    "event_date": "15.03.2023",
+    "type_of_event": "18:00",
+    "event_entry": "HEVRE, KRAKÓW",
+    "event_artwork": {
+      "id": 4036,
+      "url": "/uploads/2023/01/women_logo.png",
+      "alt": "[event logo] Inspiring Women in IT 2023",
+      "width": 1800,
+      "height": 1800
+    },
+    "header_background_image": {
+      "id": 4064,
+      "url": "/uploads/2023/01/bg_header.png",
+      "alt": "[cover] Inspiring Women in IT 2023",
+      "width": 2560,
+      "height": 1440
+    },
+    "event_background_color": "#e9c3a6",
+    "event_font_color": true,
+    "event_font_color_value": "#3b2f23",
+    "reduce_font_size": "1",
+    "event_register": {
+      "title": "Sign up here",
+      "url": "https://app.evenea.pl/event/inspiring-women-in-it/",
+      "target": "_blank"
+    },
+    "event_scroll_button": "",
+    "buttons_background_color": "#3b2e23",
+    "buttons_font_color": "#f6e6d7",
+    "alt_dynamic_menu": false,
+    "event_alt_title": "",
+    "event_date_hidden": false,
+    "event_artwork_listing": false,
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-63ce920e00205",
+      "data": {
+        "block_title": null,
+        "block_description": "<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; font-weight: 500; text-align: center;\">From the beginnings of programming in the 20th century to the present times entirely driven by technology, the history of IT is full of <strong>#womenheroes</strong>!</p>\r\n<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; font-weight: 500; text-align: center;\">To celebrate Women's Day, we invite you to get inspired and hear stories from our four invited speakers, successful women from the IT industry.</p>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": null,
+        "block_background_color": "#3b2e23",
+        "block_font_color": "#f5e8dc",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-63ef85357f882",
+      "data": {
+        "block_description": "<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; font-weight: 500; text-align: left;\">The event will be hosted by <a href=\"/contributor/dominika-glazer/\" target=\"_blank\" rel=\"noopener\">Dominika Glazer</a>, Head of Product @ VirtusLab</p>\r\n<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; font-weight: 500; text-align: left;\">Dominika shared her career story at Inspiring Women in IT 2022. You can watch her presentation <a href=\"/watch/holy-moley-it-did-work/\" target=\"_blank\" rel=\"noopener\">here</a>.</p>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 4119,
+          "url": "/uploads/2023/01/IMG_3710-scaled-1.jpeg",
+          "alt": "Inspiring Women in IT 2023 &#8211; image from prev event",
+          "width": 2560,
+          "height": 1707
+        },
+        "switch_text_side": false,
+        "block_background_color": "#bf5741",
+        "block_font_color": "#f6e6d7",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-event-agenda",
+      "anchor": "acf-block-63ce920e002cb",
+      "data": {
+        "block_title": "Agenda",
+        "block_background_color": "#f6e6d7",
+        "block_font_color": "#3b2f23",
+        "block_accent_font_color": "#bf5741",
+        "smaller_paddings": true,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-63ef85357f9e5",
+      "data": {
+        "block_title": "Speakers",
+        "automatic_selection": true,
+        "speaker_groups": [],
+        "block_background_color": "#3b2e23",
+        "block_font_color": "#f5e8dc",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-63ce920e002e4",
+      "data": {
+        "block_title": null,
+        "block_description": "<h2 style=\"margin-bottom: 20px;\">Let's get inspired!</h2>\r\n<h3 class=\"heading-4\" style=\"margin-bottom: 30px;\">15.03.2023 | 6:00 PM | Hevre, Krakow</h3>\r\n<span style=\"opacity: 0.85; font-size: 110%;\">The event will be held in Polish. The equivalent of the ticket can be collected at the bar during the event.</span>",
+        "block_button": {
+          "title": "Save your seat",
+          "url": "https://app.evenea.pl/event/inspiring-women-in-it/",
+          "target": "_blank"
+        },
+        "cta_background_color": "#3b2f23",
+        "cta_font_color": "#f5e8dc",
+        "cta_border_radius": 32,
+        "block_background_image": {
+          "id": 4064,
+          "url": "/uploads/2023/01/bg_header.png",
+          "alt": "[cover] Inspiring Women in IT 2023",
+          "width": 2560,
+          "height": 1440
+        },
+        "block_background_color": "#e9c3a6",
+        "block_font_color": "#3b2f23",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-sponsors",
+      "anchor": "acf-block-63ce920e00337",
+      "data": {
+        "logotypes_alignment": true,
+        "sponsor_groups": [
+          {
+            "label": "Community Partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2987,
+                  "url": "/uploads/2022/04/4dev.png",
+                  "alt": "4Developers logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://4developers.org.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2984,
+                  "url": "/uploads/2022/04/jdd.png",
+                  "alt": "JDD logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://jdd.org.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 4110,
+                  "url": "/uploads/2023/01/nofluffjobs_logo-1-1.png",
+                  "alt": "No Fluff Jobs logotype",
+                  "width": 2000,
+                  "height": 2000
+                },
+                "url": "https://nofluffjobs.com/?utm_source=partner_website&utm_medium=logo&utm_campaign=patronage&utm_term=&utm_content=sphereit"
+              },
+              {
+                "logotype": {
+                  "id": 3174,
+                  "url": "/uploads/2022/04/DareIT-Logo-1.png",
+                  "alt": "Dare IT logotype",
+                  "width": 460,
+                  "height": 240
+                },
+                "url": "https://www.dareit.io/"
+              },
+              {
+                "logotype": {
+                  "id": 2706,
+                  "url": "/uploads/2022/02/tryit.png",
+                  "alt": "Fundacja Try IT logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.facebook.com/Fundacja.Try.IT"
+              },
+              {
+                "logotype": {
+                  "id": 3253,
+                  "url": "/uploads/2022/04/JustJoin_logotype4x-e1676017519933.png",
+                  "alt": "Just Join IT logotype",
+                  "width": 800,
+                  "height": 162
+                },
+                "url": "https://justjoin.it/"
+              },
+              {
+                "logotype": {
+                  "id": 2985,
+                  "url": "/uploads/2022/04/hackyeah.png",
+                  "alt": "HackYeah logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://hackyeah.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2790,
+                  "url": "/uploads/2022/02/bit-logo-signed-transparent-black.png",
+                  "alt": "Koło naukowe BIT logotype",
+                  "width": 366,
+                  "height": 234
+                },
+                "url": "https://knbit.edu.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2765,
+                  "url": "/uploads/2022/02/logo-ksi-basic.png",
+                  "alt": "Koło Studentów Informatyki UJ logotype",
+                  "width": 1181,
+                  "height": 1181
+                },
+                "url": "https://www.facebook.com/ksi.uj/"
+              },
+              {
+                "logotype": {
+                  "id": 4141,
+                  "url": "/uploads/2023/01/logo_mamo_pracuj.png",
+                  "alt": "Mamo pracuj logotype",
+                  "width": 2089,
+                  "height": 566
+                },
+                "url": "https://mamopracuj.pl/mamo-pracuj-w-it/"
+              }
+            ]
+          },
+          {
+            "label": "Media Partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 3223,
+                  "url": "/uploads/2022/04/review_logo_black_white_150dpi.png",
+                  "alt": "Re:view logotype",
+                  "width": 500,
+                  "height": 300
+                },
+                "url": "https://thereview.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3152,
+                  "url": "/uploads/2022/04/logo_mono.png",
+                  "alt": "Vived logotype",
+                  "width": 2560,
+                  "height": 1051
+                },
+                "url": "https://vived.io/"
+              }
+            ]
+          },
+          {
+            "label": "Powered by",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2672,
+                  "url": "/uploads/2022/02/vl.png",
+                  "alt": "VirtusLab logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://careers.virtuslab.com/"
+              },
+              {
+                "logotype": {
+                  "id": 4091,
+                  "url": "/uploads/2023/01/18.01_Logo_Bold-2.png",
+                  "alt": "UBS logotype",
+                  "width": 3143,
+                  "height": 1769
+                },
+                "url": "https://www.ubs.com/global/en.html"
+              }
+            ]
+          }
+        ],
+        "block_background_color": null,
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

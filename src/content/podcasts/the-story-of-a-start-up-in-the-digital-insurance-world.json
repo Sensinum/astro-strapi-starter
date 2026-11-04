@@ -1,0 +1,47 @@
+{
+  "wpId": 5178,
+  "title": "The story of a start-up in the digital Insurance world",
+  "slug": "the-story-of-a-start-up-in-the-digital-insurance-world",
+  "path": "/podcast/the-story-of-a-start-up-in-the-digital-insurance-world/",
+  "date": "2024-04-19 13:42:31",
+  "modified": "2024-04-19 13:42:31",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E014_thumbnail_Stephen_Voss_Interview-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5176
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "Watch on yotubue",
+      "url": "https://www.youtube.com/watch?v=SOArZfV1mDc&list=PLl9Aulxh1VePW1MCtgpOqCRDPjYWn9Zy2&index=18",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>One of the many interviews with Insurance Experts that we recorded at the Insurtech Insights 2024 in London. Interviewing Stephen Voss, Co-Founder / CSO #1 End-to-End Insurance Factory NEODIGITAL VERSICHERUNG AG &amp; CEO Neodigital Autoversicherung AG</p>\n",
+    "podcast_cover": {
+      "id": 5179,
+      "url": "/uploads/2024/04/S01E014_thumbnail_Stephen_Voss_Interview-min.jpg",
+      "alt": "S01E014_thumbnail_Stephen_Voss_Interview-min",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

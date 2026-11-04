@@ -1,0 +1,48 @@
+{
+  "wpId": 160,
+  "title": "Mutatis Mutandis: Typesafe, transactional, indexed database queries in the cloud",
+  "slug": "mutatis-mutandis-typesafe-transactional-indexed-database-queries-in-the-cloud",
+  "path": "/watch/mutatis-mutandis-typesafe-transactional-indexed-database-queries-in-the-cloud/",
+  "date": "2020-01-01 00:03:24",
+  "modified": "2022-05-23 10:50:56",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 26,
+        "slug": "cloud",
+        "name": "Cloud"
+      },
+      {
+        "id": 27,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=L9ETDjUVCXk&t=180s",
+    "video_thumbnail": false,
+    "talk_date": "June 16, 2020",
+    "talks_speakers": [
+      100
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Our data is moving into the cloud, and all the major cloud service providers now offer simple abstractions for dynamically-structured object databases.</p>\n\n\n\n<p>However, having a network layer between application server and database, and the potential for mismatched code and data schemas poses the risk of runtime failures which may compromise the reliability of the software we write. Queries are typically invoked as strings, whose syntax, and the indexes they require, may not be checked until runtime.&nbsp;Mutatus provides a mapping between Scala case classes and Google Cloud Datastore rows, which is as simple to use as calling .save() on an object. But then it goes further to ensure that queries may be specified using typesafe collection-like constructs and lambda predicates, and may only be run in an environment known to have the necessary indexes, determined on initialization. What this means for developers is that runtime errors when working with Cloud Datastore may become a thing of the past!</p>"
+    }
+  ],
+  "formReplaced": false
+}

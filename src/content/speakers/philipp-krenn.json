@@ -1,0 +1,48 @@
+{
+  "wpId": 271,
+  "title": "Philipp Krenn",
+  "slug": "philipp-krenn",
+  "path": "/contributor/philipp-krenn/",
+  "date": "2020-01-01 00:01:54",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      },
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Developer Advocate at Elastic",
+    "speaker_avatar": {
+      "id": 272,
+      "url": "/uploads/2021/03/Philipp_Krenn.jpeg",
+      "alt": "Philipp Krenn",
+      "width": 600,
+      "height": 600
+    },
+    "speaker_surname": "Krenn",
+    "speaker_twitter": "https://twitter.com/xeraa",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/philippkrenn/?originalSubdomain=at",
+    "speaker_gh": "https://github.com/xeraa"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Philipp lives to demo interesting technology. Having worked as a web, infrastructure, and database engineer for over ten years, Philipp is now working as a developer advocate at Elastic — the company behind the open-source Elastic Stack consisting of Elasticsearch, Kibana, Beats, and Logstash. Based in Vienna, Austria, he is constantly travelling Europe and beyond to speak and discuss open-source software, search, databases, infrastructure, and security.</p>"
+    }
+  ],
+  "formReplaced": false
+}

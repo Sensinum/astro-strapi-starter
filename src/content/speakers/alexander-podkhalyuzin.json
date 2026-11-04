@@ -1,0 +1,43 @@
+{
+  "wpId": 288,
+  "title": "Alexander Podkhalyuzin",
+  "slug": "alexander-podkhalyuzin",
+  "path": "/contributor/alexander-podkhalyuzin/",
+  "date": "2020-01-01 00:01:46",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Developer at JetBrains",
+    "speaker_avatar": {
+      "id": 289,
+      "url": "/uploads/2021/03/Alexander_Podkhalyuzin.jpeg",
+      "alt": "Alexander Podkhalyuzin",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_surname": "Podkhalyuzin",
+    "speaker_twitter": "https://www.twitter.com/safela",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/alexander-podkhalyuzin-9a178020/?originalSubdomain=ru",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Alexander graduated from Saint-Petersburg State University in 2010, department of mathematics, he has a lot of prizes from international and regional mathematical competitions. In 2008, Alexander started to work for JetBrains, where he became Scala plugin for IntelliJ IDEA team leader. From 2012 he started teaching Scala in Saint-Petersburg Academic University. Starting from 2017 he left Scala plugin team to start working on Kotlin/Native IDE support.</p>"
+    }
+  ],
+  "formReplaced": false
+}

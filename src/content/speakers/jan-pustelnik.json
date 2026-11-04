@@ -1,0 +1,43 @@
+{
+  "wpId": 430,
+  "title": "Jan Pustelnik",
+  "slug": "jan-pustelnik",
+  "path": "/contributor/jan-pustelnik/",
+  "date": "2020-01-01 00:00:54",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at Actyx",
+    "speaker_avatar": {
+      "id": 431,
+      "url": "/uploads/2021/03/Jan_Pustelnik.png",
+      "alt": "Jan Pustelnik",
+      "width": 600,
+      "height": 600
+    },
+    "speaker_surname": "Pustelnik",
+    "speaker_twitter": "https://twitter.com/gosubpl",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/jan-pustelnik-2721733",
+    "speaker_gh": "https://github.com/jpuax"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Software Engineer at Actyx by day, sporadic Akka and Dotty projects contributor by night. Interested in how software works on low level, he does not find big frameworks appealing. This is the main reason why he loves Scala, a very expressive language that allows one to build right abstractions quickly without losing control over details. </p>\n\n\n\n<p>Jan is an active member of JUG Łódź and occasional conference speaker. In his spare time he loves to dust-off some old issue of computer science journal only to find out that everything has already been invented before he even was born.</p>"
+    }
+  ],
+  "formReplaced": false
+}

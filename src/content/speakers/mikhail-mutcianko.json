@@ -1,0 +1,43 @@
+{
+  "wpId": 319,
+  "title": "Mikhail Mutcianko",
+  "slug": "mikhail-mutcianko",
+  "path": "/contributor/mikhail-mutcianko/",
+  "date": "2020-01-01 00:01:42",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Developer at JetBrains",
+    "speaker_avatar": {
+      "id": 320,
+      "url": "/uploads/2021/03/Mikhail-Mutcianko.jpeg",
+      "alt": "Mikhail Mutcianko",
+      "width": 300,
+      "height": 300
+    },
+    "speaker_surname": "Mutcianko",
+    "speaker_twitter": "https://twitter.com/mutcianko",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/mikhail-mutcianko-64a58b105/",
+    "speaker_gh": "https://github.com/mutcianm"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Scala plugin developer and build engineer @ JetBrains</p>"
+    }
+  ],
+  "formReplaced": false
+}

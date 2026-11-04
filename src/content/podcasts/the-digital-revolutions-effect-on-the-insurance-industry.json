@@ -1,0 +1,51 @@
+{
+  "wpId": 5059,
+  "title": "The Digital Revolution's Effect on the Insurance Industry",
+  "slug": "the-digital-revolutions-effect-on-the-insurance-industry",
+  "path": "/podcast/the-digital-revolutions-effect-on-the-insurance-industry/",
+  "date": "2024-03-19 10:07:56",
+  "modified": "2024-03-19 11:45:48",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/03/thumbnail_The-Digital-Revolutionas-Effect-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5082
+    ],
+    "podcast_spotify": {
+      "title": "Listen on Spotify ",
+      "url": "https://open.spotify.com/episode/5bS8zRw9OXhAQsYLra0hJK?si=nydsyfqLQXWbaWPwzd5Aag",
+      "target": "_blank"
+    },
+    "podcast_yt": {
+      "title": "Watch on YouTube",
+      "url": "https://www.youtube.com/watch?v=IUzLVebr_Wk&t=11s",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>This podcast is about an exploration of the transformative journey at the edge of existing paradigms within across industry. It conveys the idea of being on the forefront of change, where traditional approaches meet the evolving digital transformation landscape. The podcast delves into discussions, insights, and interviews that shed light on the challenges, opportunities, and strategies for navigating this paradigm shift and embracing the digital transformation within the given sector.</p>\n",
+    "podcast_cover": {
+      "id": 5060,
+      "url": "/uploads/2024/03/plansza-video-otwierajAca-episode-1-scaled.jpg",
+      "alt": "The Digital Revolution's Effect on the Insurance Industry | Dan Fiehn | Sphere.it Podcast",
+      "width": 2560,
+      "height": 1440
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

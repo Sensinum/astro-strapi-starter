@@ -1,0 +1,36 @@
+{
+  "wpId": 4126,
+  "title": "From Software Developer to Servant Leader: My Journey and the Power of Empathy in Modern Leadership",
+  "slug": "from-software-developer-to-servant-leader-my-journey-and-the-power-of-empathy-in-modern-leadership",
+  "path": "/watch/from-software-developer-to-servant-leader-my-journey-and-the-power-of-empathy-in-modern-leadership/",
+  "date": "2023-02-20 16:50:21",
+  "modified": "2023-11-14 08:39:11",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 174,
+        "slug": "inspiring-women-in-it",
+        "name": "Inspiring Women in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=8MWPZrksrOA",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2023",
+    "talks_speakers": [
+      4124
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In this talk, I will share my career transition from a software developer to a servant leader. As a mother of two daughters, I found parenting to be closely related to leadership and how leading by example can be effective. I learned to embrace failure, take responsibility, step out of my comfort zone, collaborate with society, and put the needs of my team first. I believe in the power of servant leadership, where the leader's goal is to serve the team, and teamwork is the key to success. I also learned the importance of empathy in communication, essential for modern and authentic leadership. </p>\n\n\n\n<p>Being a supportive manager is truly a rewarding experience that brings immense satisfaction. When you create an environment of positivity, collaboration, and encouragement, you not only foster a sense of belonging among your team members but also inspire them to reach greater heights together. Through my journey, I hope to inspire more women to consider managerial roles in engineering leadership as we strive for gender equality in the industry.</p>"
+    }
+  ],
+  "formReplaced": false
+}

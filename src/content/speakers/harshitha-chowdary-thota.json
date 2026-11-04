@@ -1,0 +1,35 @@
+{
+  "wpId": 1812,
+  "title": "Harshitha Chowdary Thota",
+  "slug": "harshitha-chowdary-thota",
+  "path": "/contributor/harshitha-chowdary-thota/",
+  "date": "2021-09-07 15:47:11",
+  "modified": "2021-09-07 15:49:51",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Software Development Engineer at Amazon",
+    "speaker_avatar": {
+      "id": 1814,
+      "url": "/uploads/2021/09/speaker-photo.png",
+      "alt": "Harshitha Chowdary Thota",
+      "width": 591,
+      "height": 591
+    },
+    "speaker_surname": "Thota",
+    "speaker_twitter": "https://twitter.com/ThotaHarshitha",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Harshitha Chowdary is a Software Development Engineer at Amazon. She enjoys contributing to open source development and she was a past Google Summer of Code student at Thanos.</p>"
+    }
+  ],
+  "formReplaced": false
+}

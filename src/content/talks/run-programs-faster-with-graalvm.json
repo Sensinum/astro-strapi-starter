@@ -1,0 +1,68 @@
+{
+  "wpId": 493,
+  "title": "Run Programs Faster With GraalVM",
+  "slug": "run-programs-faster-with-graalvm",
+  "path": "/watch/run-programs-faster-with-graalvm/",
+  "date": "2020-01-01 00:02:14",
+  "modified": "2023-03-21 09:53:51",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 93,
+        "slug": "graalvm",
+        "name": "GraalVM"
+      },
+      {
+        "id": 18,
+        "slug": "javascript",
+        "name": "JavaScript"
+      },
+      {
+        "id": 89,
+        "slug": "node-js",
+        "name": "Node.js"
+      },
+      {
+        "id": 90,
+        "slug": "python",
+        "name": "Python"
+      },
+      {
+        "id": 92,
+        "slug": "r",
+        "name": "R"
+      },
+      {
+        "id": 91,
+        "slug": "ruby",
+        "name": "Ruby"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=vgivXdtFBXw",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      377
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>GraalVM is a new virtual machine that enhances the Java ecosystem with an integrated, polyglot, high-performance execution environment for dynamic, static, and native languages. It optimizes well any JVM-based languages, but can also run dynamic scripting languages like JavaScript, node.js, Ruby, R, and Python.<br>In this talk, we'll discuss how GraalVM can help you run your workloads faster, simplify developers' life with polyglot programming or leverage ahead of time compilation for low footprint and fast startup deployments in serverless environments.</p>"
+    }
+  ],
+  "formReplaced": false
+}

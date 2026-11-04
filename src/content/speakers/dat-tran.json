@@ -1,0 +1,43 @@
+{
+  "wpId": 125,
+  "title": "Dat Tran",
+  "slug": "dat-tran",
+  "path": "/contributor/dat-tran/",
+  "date": "2020-01-01 00:02:33",
+  "modified": "2021-03-30 17:00:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Head of AI at Axel Springer",
+    "speaker_avatar": {
+      "id": 126,
+      "url": "/uploads/2021/03/Dat_Tran.jpg",
+      "alt": "Dat Tran",
+      "width": 852,
+      "height": 813
+    },
+    "speaker_surname": "Tran",
+    "speaker_twitter": "https://twitter.com/datitran",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/dat-tran-a1602320/",
+    "speaker_gh": "https://github.com/datitran?language=css&tab=stars"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Dat is heading Axel Springer AI, the artificial intelligence unit of Axel Springer SE which is the largest digital publishing house in Europe. His goal is to make AI more accessible within Axel Springer and hence drive innovation within the group. His ultimate plan is to turn Axel Springer into an AI first company.</p>\n\n\n\n<p>Dat's interests are diverse from traditional machine learning, deep learning, AI in general to computer vision and NLP. He is a regular speaker and has presented at several renowned conferences. He also blogs about his work on Medium.</p>"
+    }
+  ],
+  "formReplaced": false
+}

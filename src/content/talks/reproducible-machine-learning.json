@@ -1,0 +1,45 @@
+{
+  "wpId": 479,
+  "title": "Reproducible Machine Learning",
+  "slug": "reproducible-machine-learning",
+  "path": "/watch/reproducible-machine-learning/",
+  "date": "2020-01-01 00:02:27",
+  "modified": "2023-03-21 09:49:33",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2020/01/matthew-data.png",
+  "seo": {
+    "ogImage": "/uploads/2020/01/matthew-data.png"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 44,
+        "slug": "machine-learning",
+        "name": "Machine Learning"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=yVC0GgxuKEo&t=17s",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      346
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Reproducibility is a cornerstone of scientific methods. Especially in production Machine Learning it's crucial to ensure that hidden source of randomness is not a real reason for a model performance improvement. In my talk I will elaborate on importance of reproducibility and show how we build reproducible machine learning pipelines at Netguru.</p>"
+    }
+  ],
+  "formReplaced": false
+}

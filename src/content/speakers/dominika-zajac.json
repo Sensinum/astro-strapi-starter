@@ -1,0 +1,36 @@
+{
+  "wpId": 3994,
+  "title": "Dominika Zając",
+  "slug": "dominika-zajac",
+  "path": "/contributor/dominika-zajac/",
+  "date": "2023-01-18 15:27:55",
+  "modified": "2024-02-29 22:55:39",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Senior Software Engineer at Qualtrics",
+    "speaker_avatar": {
+      "id": 4810,
+      "url": "/uploads/2023/01/20230812_164608-EDIT-1.jpeg",
+      "alt": "20230812_164608-EDIT",
+      "width": 2202,
+      "height": 2202
+    },
+    "speaker_surname": "Zając",
+    "speaker_twitter": "https://twitter.com/domizajac",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/dominikazajac/",
+    "speaker_gh": "",
+    "speaker_add_info": "Qualtrics"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Full-stack developer who loves sharing their knowledge and singing. Google Developer Expert for Web Technologies, senior software engineer at Qualtrics, public speaker, trainer and blogger. Speaking and writing about Web, a11y, teaching others how to code and code best practices. Privately, huge fan of singing.</p>"
+    }
+  ],
+  "formReplaced": false
+}

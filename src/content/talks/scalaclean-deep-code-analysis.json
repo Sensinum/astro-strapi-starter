@@ -1,0 +1,38 @@
+{
+  "wpId": 433,
+  "title": "ScalaClean – deep code analysis",
+  "slug": "scalaclean-deep-code-analysis",
+  "path": "/watch/scalaclean-deep-code-analysis/",
+  "date": "2020-01-01 00:03:09",
+  "modified": "2023-03-21 13:03:02",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2020/01/thumbnail_scalaclean-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=6UJ3wbGcbs0&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      204
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>This talk introduces ScalaClean which applies whole program static analysis to larger codebases. By combining data available from ScalaMeta and SemanticDB we are able to generate a full graph of all packages, classes, functions and variables within a codebase. We are able to use graph colouring to provide an interesting analysis of the graph to infer dead code and correct visibility scopes. We can apply these changes back to the code reducing the size of the codebase and improves incremental compilation and IDE completions. This talk explores the current progress and future direction of this work</p>"
+    }
+  ],
+  "formReplaced": false
+}

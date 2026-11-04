@@ -1,0 +1,38 @@
+{
+  "wpId": 2209,
+  "title": "Trust Driven Development. How to break the silos between Dev, Ops, and Change Management teams and shorten Lead Time for your Changes",
+  "slug": "trust-driven-development-how-to-break-the-silos-between-dev-ops-and-change-management-teams-and-shorten-lead-time-for-your-changes",
+  "path": "/watch/trust-driven-development-how-to-break-the-silos-between-dev-ops-and-change-management-teams-and-shorten-lead-time-for-your-changes/",
+  "date": "2021-12-02 18:36:18",
+  "modified": "2023-03-21 11:19:52",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2021/12/speaking-tomasz-fb-in-min-3.png",
+  "seo": {
+    "ogImage": "/uploads/2021/12/tomasz_trust-driven_alt.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 133,
+        "slug": "change-management",
+        "name": "Change management"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=Qfp5PPhHu10",
+    "video_thumbnail": false,
+    "talk_date": "November 23, 2021",
+    "talks_speakers": [
+      2081
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>We all know that Software Development Lifecycle can be a complicated process. We are usually good at identifying bottlenecks and we have tools like Value Stream Mapping to visualize them. We are often able to remove some of the barriers by adjusting the process itself. </p>\n\n\n\n<p>There are also some impediments that can be removed only by building trust across Development, Operations, and Change Management teams. During my talk, I will shine the light on how to build trust between these teams, break the silos and accelerate the delivery of our product.</p>"
+    }
+  ],
+  "formReplaced": false
+}

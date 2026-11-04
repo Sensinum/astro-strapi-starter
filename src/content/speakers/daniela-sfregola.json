@@ -1,0 +1,43 @@
+{
+  "wpId": 980,
+  "title": "Daniela Sfregola",
+  "slug": "daniela-sfregola",
+  "path": "/contributor/daniela-sfregola/",
+  "date": "2021-04-28 13:35:17",
+  "modified": "2021-04-28 13:36:58",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer",
+    "speaker_avatar": {
+      "id": 982,
+      "url": "/uploads/2021/04/Daniela_Sfregola.jpg",
+      "alt": "Daniela Sfregola",
+      "width": 828,
+      "height": 895
+    },
+    "speaker_surname": "Sfregola",
+    "speaker_twitter": "https://twitter.com/DanielaSfregola",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/danielasfregola/",
+    "speaker_gh": "https://github.com/DanielaSfregola"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Daniela is a Software Engineer based in London, UK. She is an active contributor to the Scala Community, a maintainer of open-source projects, and the author of Get Programming with Scala, by Manning Publications.</p>"
+    }
+  ],
+  "formReplaced": false
+}

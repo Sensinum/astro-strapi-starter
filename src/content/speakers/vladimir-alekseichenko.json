@@ -1,0 +1,43 @@
+{
+  "wpId": 606,
+  "title": "Vladimir Alekseichenko",
+  "slug": "vladimir-alekseichenko",
+  "path": "/contributor/vladimir-alekseichenko/",
+  "date": "2020-01-01 00:00:23",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Founder & CEO DataWorkshop",
+    "speaker_avatar": {
+      "id": 607,
+      "url": "/uploads/2021/03/Vladimir_Alekseichenko.jpg",
+      "alt": "Vladimir Alekseichenko",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Alekseichenko",
+    "speaker_twitter": "https://twitter.com/slon1024",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/vladimiralekseichenko/",
+    "speaker_gh": "https://github.com/slon1024"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Vladimir is Artificial Intelligence enthusiast. Perfectionist at heart, with a pragmatic mindset. He is a trainer at <a href=\"http://dataworkshop.eu/\">DataWorkshop.eu</a> where he explains how to use machine learning in real life. He has a podcast about Artificial Intelligence – <a href=\"http://biznesmysli.pl/\">BiznesMysli.pl</a> (in Polish). He is an architect at General Electric. He participates in Kaggle’s competitions. He loves data and its challenges.</p>"
+    }
+  ],
+  "formReplaced": false
+}

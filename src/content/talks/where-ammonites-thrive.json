@@ -1,0 +1,43 @@
+{
+  "wpId": 526,
+  "title": "Where Ammonites thrive",
+  "slug": "where-ammonites-thrive",
+  "path": "/watch/where-ammonites-thrive/",
+  "date": "2020-01-01 00:01:46",
+  "modified": "2023-03-20 12:18:50",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 28,
+        "slug": "dotty",
+        "name": "Dotty"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=MjvokKSNPFA",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      407
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>We all know that Bash exists. Most of us probably don't even want to understand how Bash works, and those of us that do not want to write Bash anyway. Unfortunately, sometimes scripting is necessary. Fortunately, there are better tools!<br>We're going to see how to write shell scripts in Scala using Ammonite. For some areas, Ammonite is a natural fit, and we will take a look at those. Finally, I'll show a sneak peek at the plans for Ammonite we have in Dotty.</p>"
+    }
+  ],
+  "formReplaced": false
+}

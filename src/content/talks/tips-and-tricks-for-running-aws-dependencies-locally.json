@@ -1,0 +1,56 @@
+{
+  "wpId": 446,
+  "title": "Tips and Tricks for Running AWS Dependencies Locally",
+  "slug": "tips-and-tricks-for-running-aws-dependencies-locally",
+  "path": "/watch/tips-and-tricks-for-running-aws-dependencies-locally/",
+  "date": "2020-01-01 00:02:56",
+  "modified": "2021-07-08 10:59:50",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2020/01/thumbshare_Maria-Livia_Chiorean_fb_li.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 63,
+        "slug": "aws",
+        "name": "AWS"
+      },
+      {
+        "id": 62,
+        "slug": "docker",
+        "name": "Docker"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=1O3zTuw9SFI&t=11s",
+    "video_thumbnail": {
+      "id": 1460,
+      "url": "/uploads/2020/01/maria-livia-thumbnail-1.png",
+      "alt": "Tips and Tricks for Running AWS Dependencies Locally",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      242
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Scala, AWS and Docker - can they really work well together when developing locally? Are there any tools out there to make developers' lives easier? In this talk, we're going to look at best practices and libraries that can help reduce the time we spend running Scala apps locally. Introducing Docker, we'll start with easy, straightforward techniques and try to simplify the startup of service down to a single command.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,48 @@
+{
+  "wpId": 1867,
+  "title": "Adrianna Woltmann",
+  "slug": "adrianna-woltmann",
+  "path": "/contributor/adrianna-woltmann/",
+  "date": "2021-09-15 16:46:03",
+  "modified": "2024-02-06 18:17:06",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      },
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Data Analyst",
+    "speaker_avatar": {
+      "id": 4243,
+      "url": "/uploads/2021/09/Adrianna_Woltmann.jpg",
+      "alt": "Adrianna Woltmann",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Woltmann",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/adrianna-woltmann/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Data analyst with 8 years of experience in quantitative research and 6 in SaaS product companies (Zendesk, Brainly). Currently working as Senior Business Data Analyst in Profitroom where I work with all stakeholder levels on making data-driven decisions and set up processes around data. </p>\n\n\n\n<p>Mentor in three editions of TechLeaders and experienced public speaker. I will walk you through the valley of data from basics of data engineering through data preparation and analysis to reporting and visualization. I fear not of experimentation and statistics. Favourite breakfast: hypoteses.</p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

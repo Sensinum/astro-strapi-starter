@@ -1,0 +1,43 @@
+{
+  "wpId": 200,
+  "title": "Ivan Jovanovic",
+  "slug": "ivan-jovanovic",
+  "path": "/contributor/ivan-jovanovic/",
+  "date": "2020-01-01 00:02:20",
+  "modified": "2023-03-17 14:49:12",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Founder at IJ Consulting/Engineer at NearForm",
+    "speaker_avatar": {
+      "id": 4246,
+      "url": "/uploads/2020/01/Ivan_Jovanovic.jpg",
+      "alt": "Ivan Jovanovic",
+      "width": 322,
+      "height": 322
+    },
+    "speaker_surname": "Jovanovic",
+    "speaker_twitter": "https://twitter.com/ivanjov96",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/ivanjov/?originalSubdomain=rs",
+    "speaker_gh": "https://github.com/IvanJov"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Ivan is a senior software engineer, team lead, speaker, and mentor. His focus is on building scalable JavaScript applications and experimenting with new languages and frameworks. He is into functional and reactive programming. Leading teams and mentoring developers is his everyday duty. He loves to share knowledge on his tech blog and he’s a regular speaker on many international conferences.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,48 @@
+{
+  "wpId": 496,
+  "title": "Understanding Types through TypeScript",
+  "slug": "understanding-types-through-typescript",
+  "path": "/watch/understanding-types-through-typescript/",
+  "date": "2020-01-01 00:02:11",
+  "modified": "2023-03-20 15:04:50",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 18,
+        "slug": "javascript",
+        "name": "JavaScript"
+      },
+      {
+        "id": 60,
+        "slug": "typescript",
+        "name": "TypeScript"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=D5DL0V68Gn0",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      384
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Type systems (for most programmers) are associated with something really hard, strongly academic, difficult to understand - not useful in the daily life. I will try to change that a bit, dispelling the myth that it is something difficult and incomprehensible.</p>\n\n\n\n<p>In an accessible and interactive way, I will introduce a little \"Computer Science\" to explain why particular programming languages we use are designed so differently and answer the question - how much \"Typed\" TypeScript really is?</p>"
+    }
+  ],
+  "formReplaced": false
+}

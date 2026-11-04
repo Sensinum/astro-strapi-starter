@@ -1,0 +1,43 @@
+{
+  "wpId": 565,
+  "title": "Yifan Xing",
+  "slug": "yifan-xing",
+  "path": "/contributor/yifan-xing/",
+  "date": "2020-01-01 00:00:38",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Student at Northeastern University / Scala Bridge organiser",
+    "speaker_avatar": {
+      "id": 566,
+      "url": "/uploads/2021/03/Xing_Yifan.jpg",
+      "alt": "Yifan Xing",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Xing",
+    "speaker_twitter": "https://twitter.com/yifan_xing_e",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/yifanxing/",
+    "speaker_gh": "https://github.com/xingyif"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Yifan is a student at Northeastern University. She built a back-end message queue system for the open source project Shared Health Research Information Network (SHRINE) at Harvard Medical School. The system uses concepts of parallel processing/multi-threading, non-blocking asynchronous, distributed systems, etc. Yifan is also involved in bringing diversity into the tech field. She is currently organizing ScalaBridge – Boston, and the first workshop is planned for summer 2018! Please contact her if you want to be involved.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,239 @@
+.block-lectures-listing {
+  margin-top: 110px;
+  margin-bottom: 110px;
+}
+@media (max-width: 991.98px) {
+  .block-lectures-listing {
+    margin-top: 100px;
+    margin-bottom: 100px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-lectures-listing {
+    margin-top: 80px;
+    margin-bottom: 80px;
+  }
+}
+.block-lectures-listing .block-title {
+  margin-bottom: 30px;
+  line-height: 48px;
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .block-lectures-listing .block-title {
+    margin-bottom: 35px;
+    line-height: 44px;
+  }
+}
+@media (max-width: 767.98px) {
+  .block-lectures-listing .block-title {
+    line-height: 36px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-lectures-listing .block-title {
+    text-align: center;
+  }
+}
+.block-lectures-listing .row {
+  margin-bottom: -30px;
+}
+@media (min-width: 768px) and (max-width: 1199.98px) {
+  .block-lectures-listing .row {
+    margin-bottom: -20px;
+  }
+}
+.block-lectures-listing .box-wrapper {
+  margin-bottom: 30px;
+}
+@media (min-width: 768px) and (max-width: 1199.98px) {
+  .block-lectures-listing .box-wrapper {
+    margin-bottom: 20px;
+  }
+}
+.block-lectures-listing .box-wrapper .box {
+  display: block;
+  padding: 50px 30px 33px;
+  border: 1px solid #E7EBF1;
+  border-radius: 6px;
+  background: #fff;
+  box-shadow: 0px 15px 30px -10px rgba(85, 97, 115, 0.1);
+  font-family: "Montserrat", sans-serif;
+  transition: 0.3s border-color ease-in-out, 0.3s box-shadow ease-in-out, 0.3s transform ease-in-out;
+}
+@media (max-width: 1199.98px) {
+  .block-lectures-listing .box-wrapper .box {
+    padding: 45px 30px 28px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-lectures-listing .box-wrapper .box {
+    padding: 30px 20px 20px;
+  }
+}
+.block-lectures-listing .box-wrapper .box .box-title {
+  font-size: 1.5rem;
+  line-height: 30px;
+  font-weight: 600;
+}
+.block-lectures-listing .box-wrapper .box .lecture-description {
+  margin-top: 15px;
+  font-size: 1rem;
+  line-height: 30px;
+}
+@media (max-width: 991.98px) {
+  .block-lectures-listing .box-wrapper .box .lecture-description {
+    font-size: 0.9375rem;
+    line-height: 25px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-lectures-listing .box-wrapper .box .lecture-description {
+    font-size: 0.875rem;
+  }
+}
+.block-lectures-listing .box-wrapper .box .info-tags {
+  margin: 30px -5px -5px;
+}
+@media (max-width: 1199.98px) {
+  .block-lectures-listing .box-wrapper .box .info-tags {
+    margin-top: 25px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-lectures-listing .box-wrapper .box .info-tags {
+    margin-top: 20px;
+  }
+}
+.block-lectures-listing .box-wrapper .box .info-tags .info-tag {
+  position: relative;
+  display: inline-block;
+  margin: 5px;
+  padding: 8px 16px 8px 11px;
+  border: 1px solid #E7EBF1;
+  border-radius: 4px;
+  background: #f6f9fc;
+  font-size: 0.875rem;
+  line-height: 20px;
+  color: #556173;
+}
+@media (max-width: 575.98px) {
+  .block-lectures-listing .box-wrapper .box .info-tags .info-tag {
+    font-size: 0.8125rem;
+    line-height: 18px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-lectures-listing .box-wrapper .box .info-tags .info-tag {
+    padding: 7px 7px 7px 9px;
+  }
+}
+.block-lectures-listing .box-wrapper .box .info-tags .info-tag.spacing-left {
+  padding-left: 39px;
+}
+@media (max-width: 575.98px) {
+  .block-lectures-listing .box-wrapper .box .info-tags .info-tag.spacing-left {
+    padding-left: 26px;
+  }
+}
+.block-lectures-listing .box-wrapper .box .info-tags .info-tag img, .block-lectures-listing .box-wrapper .box .info-tags .info-tag svg {
+  position: absolute;
+  top: 50%;
+  left: 11px;
+  transform: translateY(-50%);
+  width: 18px;
+  height: auto;
+  fill: #556173;
+}
+@media (max-width: 575.98px) {
+  .block-lectures-listing .box-wrapper .box .info-tags .info-tag img, .block-lectures-listing .box-wrapper .box .info-tags .info-tag svg {
+    left: 9px;
+    width: 10px;
+  }
+}
+.block-lectures-listing .box-wrapper .box:hover {
+  border-color: #3F82E2;
+  box-shadow: 0px 20px 40px -10px rgba(85, 97, 115, 0.1);
+  transform: translateY(-5px);
+}
+.block-lectures-listing .box-wrapper .box:hover .learn-more {
+  color: #3F82E2;
+}
+.block-lectures-listing .box-wrapper .box:hover .learn-more:after {
+  background-color: #3F82E2;
+}
+.block-lectures-listing .box-wrapper .box:active {
+  box-shadow: 0px 10px 20px -10px rgba(85, 97, 115, 0.15);
+  transform: none;
+}
+.block-lectures-listing .box-wrapper .learn-more {
+  position: relative;
+  text-align: right;
+  margin-top: 23px;
+  margin-right: -30px;
+  padding-right: 40px;
+  font-size: 0.875rem;
+  line-height: 14px;
+  font-weight: 600;
+  color: #21212C;
+  white-space: nowrap;
+  transition: 0.3s color ease-in-out;
+}
+@media (prefers-reduced-motion: reduce) {
+  .block-lectures-listing .box-wrapper .learn-more {
+    transition: none;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-lectures-listing .box-wrapper .learn-more {
+    margin-top: 18px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-lectures-listing .box-wrapper .learn-more {
+    margin-top: 14px;
+    margin-right: -20px;
+    padding-right: 30px;
+    font-size: 0.75rem;
+  }
+}
+.block-lectures-listing .box-wrapper .learn-more:after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 0;
+  width: 23px;
+  height: 2px;
+  transform: translateY(-50%);
+  background-color: #21212C;
+  transition: 0.3s background-color ease-in-out;
+}
+@media (prefers-reduced-motion: reduce) {
+  .block-lectures-listing .box-wrapper .learn-more:after {
+    transition: none;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-lectures-listing .box-wrapper .learn-more:after {
+    width: 20px;
+  }
+}
+.block-lectures-listing .black-box .box {
+  background-color: #21212C;
+  color: #f6f9fc;
+}
+.block-lectures-listing .black-box .box .learn-more:after {
+  background-color: #f6f9fc;
+}
+.block-lectures-listing .black-box .box .learn-more svg {
+  fill: #f6f9fc;
+}
+.block-lectures-listing .black-box .box:hover {
+  background-color: #373741;
+  transform: translateY(-5px);
+}
+.block-lectures-listing .black-box .box:active {
+  background-color: #09090F;
+  transform: none;
+}
+
+/*# sourceMappingURL=block-lectures-listing.css.map */

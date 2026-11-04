@@ -1,0 +1,35 @@
+{
+  "wpId": 134,
+  "title": "Jorge Vásquez",
+  "slug": "jorge-vasquez",
+  "path": "/contributor/jorge-vasquez/",
+  "date": "2020-01-01 00:02:30",
+  "modified": "2021-03-30 17:00:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Software Developer at Scalac",
+    "speaker_avatar": {
+      "id": 135,
+      "url": "/uploads/2021/03/Jorge_Vásquez-scaled.jpg",
+      "alt": "Jorge Vásquez",
+      "width": 2515,
+      "height": 2560
+    },
+    "speaker_surname": "Vásquez",
+    "speaker_twitter": "https://twitter.com/jorvasquez2301",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/jorge-vasquez-2301",
+    "speaker_gh": "https://github.com/jorge-vasquez-2301"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Software Developer focused on the backend. He had the chance to work with several technologies and programming languages across different industries, such as Telco, AdTech, and Online Education. </p>\n\n\n\n<p>He’s always looking to improve his skills, finding new and better ways to solve business problems. He loves functional programming, and he’s convinced it can help to make better software. Also, he’s excited about new libraries like ZIO that are making Scala FP more accessible to developers.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 389,
+  "title": "Maciej Lasyk",
+  "slug": "maciej-lasyk",
+  "path": "/contributor/maciej-lasyk/",
+  "date": "2020-01-01 00:01:13",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Benevolent Dictator, Cloud Operations at Tornimo.io",
+    "speaker_avatar": {
+      "id": 390,
+      "url": "/uploads/2021/03/Maciej_Lasyk.jpeg",
+      "alt": "Maciej Lasyk",
+      "width": 450,
+      "height": 450
+    },
+    "speaker_surname": "Lasyk",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/maciej-lasyk-04819942/?originalSubdomain=pl",
+    "speaker_gh": "https://github.com/docent-net"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Maciek is Cloud Operations (aka Cloud Acrobat) at Codewise. He's also open source contributor, enthusiast and evangelist supporting OWASP, Fedora Linux distro and a couple of containerization projects. </p>\n\n\n\n<p>Maciej believes in chaos engineering and automation - preferably achieved in a most pythonic way. He's a true Linux nerd and a Gopher. You can catch him on Twitter @docent_net and also see his work on github/@docent-net and his personal blog/maciej.lasyk.info. Besides Maciek runs sports blog and podcast/dlugodystansowy.pl</p>"
+    }
+  ],
+  "formReplaced": false
+}

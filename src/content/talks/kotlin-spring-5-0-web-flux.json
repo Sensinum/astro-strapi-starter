@@ -1,0 +1,48 @@
+{
+  "wpId": 598,
+  "title": "Kotlin + Spring 5.0 Web Flux",
+  "slug": "kotlin-spring-5-0-web-flux",
+  "path": "/watch/kotlin-spring-5-0-web-flux/",
+  "date": "2020-01-01 00:01:20",
+  "modified": "2023-03-20 14:28:54",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 111,
+        "slug": "kotlin",
+        "name": "Kotlin"
+      },
+      {
+        "id": 112,
+        "slug": "spring",
+        "name": "Spring"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=4rH4SAGhH10",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      551
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Almost nobody likes big changes. This includes management and developers. It is often very hard to convince people to try something new. Even if the old way is pathetic, leads to bugs and does not fit to a problem. If you do not believe in that try to convince any JavaEE/ Spring team to use something else. Even though both platforms are quite dated and do not really enable writing clean code. They are even worse if you try functional programming. </p>\n\n\n\n<p>The way I often do is to introduce only small improvements, to the extent that might get accepted by the team and managers. Such a trick is to use Kotlin as Java++ and Spring 5… as just a new version of Spring. After a while, it can appear that the “new Java” is written totally functional, with very little or none mutability. And the new Spring works without annotations and so-called beans. Eventually, we get a code that is more similar to Scala/Akka-HTTP stack… that would not be ever accepted.</p>"
+    }
+  ],
+  "formReplaced": false
+}

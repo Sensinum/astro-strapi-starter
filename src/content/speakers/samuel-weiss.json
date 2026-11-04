@@ -1,0 +1,35 @@
+{
+  "wpId": 1161,
+  "title": "Samuel Weiss",
+  "slug": "samuel-weiss",
+  "path": "/contributor/samuel-weiss/",
+  "date": "2021-05-31 14:44:24",
+  "modified": "2021-06-07 14:38:26",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Global Process and Application Management at DHL ",
+    "speaker_avatar": {
+      "id": 1203,
+      "url": "/uploads/2021/05/Samuel-Samuel-Weiss.jpg",
+      "alt": "Samuel Weiss",
+      "width": 1998,
+      "height": 1998
+    },
+    "speaker_surname": "Weiss",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/samuel-weiss-966b0715/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Samuel is part of the Global Process and Application Management organizing at DHL Global Forwarding, primarily focusing on strategic initiatives coming from the IT renewal roadmap. He’s an entrepreneur with over a decade of experience in Product, Service, and Business Performance Management started as a software developer 25 years ago. Samuel is passionate about contributing to the success of the company.</p>"
+    }
+  ],
+  "formReplaced": false
+}

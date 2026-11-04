@@ -1,0 +1,43 @@
+{
+  "wpId": 232,
+  "title": "Alex Lobera",
+  "slug": "alex-lobera",
+  "path": "/contributor/alex-lobera/",
+  "date": "2020-01-01 00:02:08",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Founder at LeanJS and React GraphQL Academy",
+    "speaker_avatar": {
+      "id": 233,
+      "url": "/uploads/2021/03/Alex_Lobera.jpeg",
+      "alt": "Alex Lobera",
+      "width": 225,
+      "height": 225
+    },
+    "speaker_surname": "Lobera",
+    "speaker_twitter": "https://twitter.com/alex_lobera",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/alexlobera/",
+    "speaker_gh": "https://github.com/alexlbr"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Experienced Full-stack developer passionate about JavaScript, React, and GraphQL. Alex has 15 years of experience in the software industry. He is an organizer of the JavaScript London Meetup and other popular meetups in the EU. Alex ran his first React workshop in early 2016 and hasn’t stopped since then. He holds a computer science degree and he is also a certified Spanish teacher. Last but not least, he is very passionate about teaching!</p>"
+    }
+  ],
+  "formReplaced": false
+}

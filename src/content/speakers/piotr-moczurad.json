@@ -1,0 +1,43 @@
+{
+  "wpId": 593,
+  "title": "Piotr Moczurad",
+  "slug": "piotr-moczurad",
+  "path": "/contributor/piotr-moczurad/",
+  "date": "2020-01-01 00:00:27",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Haskell Developer at Luna",
+    "speaker_avatar": {
+      "id": 594,
+      "url": "/uploads/2021/03/Piotr_Moczurad.jpg",
+      "alt": "Piotr Moczurad",
+      "width": 512,
+      "height": 512
+    },
+    "speaker_surname": "Moczurad",
+    "speaker_twitter": "https://twitter.com/PMoczurad",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/piotrmoczurad/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Haskell developer in the Luna language team, changing the way people think about software development and data processing. Functional programming enthusiast, especially Haskell and Scala. Doctoral candidate at the Faculty of Computer Science of AGH University of Science and Technology, working on seamlessly integrating serverless architecture with visual and functional programming.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 585,
+  "title": "Maciej Dąbrowski",
+  "slug": "maciej-dabrowski",
+  "path": "/contributor/maciej-dabrowski/",
+  "date": "2020-01-01 00:00:30",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Chief Data Scientist at Genesys",
+    "speaker_avatar": {
+      "id": 587,
+      "url": "/uploads/2021/03/Maciej_Dabrowski.jpg",
+      "alt": "Maciej Dąbrowski",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Dąbrowski",
+    "speaker_twitter": "https://twitter.com/macdab",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/macdab/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Maciej has built large-scale data analytics and AI products in both research and industry, previously at DERI/INSIGHT Galway, currently as Chief Data Scientist at Genesys. He is the founder of the Galway Data Meetup with over 250 members and received a number of awards for his work. He was shortlisted as one of the four finalists of the DatSci 2016 competition in the Data Scientist of the Year category.</p>"
+    }
+  ],
+  "formReplaced": false
+}

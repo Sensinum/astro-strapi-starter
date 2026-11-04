@@ -1,0 +1,47 @@
+{
+  "wpId": 5210,
+  "title": "Meet the Minds Behind the Mic | Platform Engineering Bonus Episode",
+  "slug": "meet-the-minds-behind-the-mic-platform-engineering-bonus-episode",
+  "path": "/podcast/meet-the-minds-behind-the-mic-platform-engineering-bonus-episode/",
+  "date": "2024-04-22 13:41:18",
+  "modified": "2024-04-22 13:41:18",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E03-thumbnail.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 188,
+        "slug": "domain",
+        "name": "Domain"
+      },
+      {
+        "id": 189,
+        "slug": "platform-engineering",
+        "name": "Platform Engineering"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      141
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "Watch on Youtube",
+      "url": "https://youtu.be/N1ILmUABJ7E",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>Get ready for our special bonus episode, where Peter Ratcliffe and Bartek Antoniak &#8211; Head od Cloud Engineering at VirtusLab share more about their journey and experiences. It&#8217;s your chance to know more about the people behind the mic!</p>\n",
+    "podcast_cover": {
+      "id": 5211,
+      "url": "/uploads/2024/04/S01E03-thumbnail.jpg",
+      "alt": "S01E03 thumbnail",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

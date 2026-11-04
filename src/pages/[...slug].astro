@@ -1,0 +1,367 @@
+---
+import { getCollection, getEntry, type CollectionEntry } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Blocks from '../components/Blocks.astro';
+import EventHeader from '../components/EventHeader.astro';
+import SpeakerCard from '../components/SpeakerCard.astro';
+import TalkCard from '../components/TalkCard.astro';
+import ResponsiveImage from '../components/ResponsiveImage.astro';
+import { siteData, terms } from '../data/site';
+import { htmlOf, loadLibrary, scrollMenu, talksWithVideo, type AnyEntry } from '../lib/content';
+import { plainText, youtubeId } from '../lib/format';
+
+type Kind = 'pages' | 'posts' | 'events' | 'eventSeries' | 'speakers' | 'talks' | 'podcasts' | 'blog-index';
+
+export async function getStaticPaths() {
+  const [pages, posts, events, series, speakers, talks, podcasts] = await Promise.all([
+    getCollection('pages'),
+    getCollection('posts'),
+    getCollection('events'),
+    getCollection('eventSeries'),
+    getCollection('speakers'),
+    getCollection('talks'),
+    getCollection('podcasts'),
+  ]);
+  const paths: { params: { slug: string }; props: { kind: Kind; id: string } }[] = [];
+  const add = (kind: Kind, entry: { id: string; data: { path: string } }) => {
+    const slug = decodeURIComponent(entry.data.path).replace(/^\/|\/$/g, '');
+    if (!slug) return;
+    paths.push({ params: { slug }, props: { kind, id: entry.id } });
+  };
+  pages.forEach((entry) => add('pages', entry));
+  posts.forEach((entry) => add('posts', entry));
+  events.forEach((entry) => add('events', entry));
+  series.forEach((entry) => add('eventSeries', entry));
+  speakers.forEach((entry) => add('speakers', entry));
+  talks.forEach((entry) => add('talks', entry));
+  podcasts.forEach((entry) => add('podcasts', entry));
+  paths.push({ params: { slug: 'blog' }, props: { kind: 'blog-index', id: 'blog' } });
+  return paths;
+}
+
+const { kind, id } = Astro.props;
+const library = await loadLibrary();
+const entry = kind === 'blog-index' ? null : await getEntry(kind, id);
+if (kind !== 'blog-index' && !entry) throw new Error(`Missing ${kind} ${id}`);
+
+const talks = talksWithVideo(library.talks);
+const talkCats = terms('talks_cat').filter((term) => talks.some((talk) => (talk.data.terms?.talks_cat || []).some((item) => item.id === term.id)));
+const talkTags = terms('talks_tags').filter((term) => talks.some((talk) => (talk.data.terms?.talks_tags || []).some((item) => item.id === term.id)));
+const speakerCats = terms('talks_cat').filter((term) => library.speakers.some((speaker) => (speaker.data.terms?.talks_cat || []).some((item) => item.id === term.id)));
+
+function speakersFor(talk: CollectionEntry<'talks'>) {
+  return (talk.data.acf?.talks_speakers || []).map((speakerId: number) => library.speakerById.get(Number(speakerId))).filter(Boolean) as CollectionEntry<'speakers'>[];
+}
+
+const bodyForPage = (template?: string | null) => {
+  if (template === 'page-dark-theme') return 'page-template-page-dark-theme';
+  if (template === 'page-events') return 'page-template-page-events';
+  if (template === 'page-podcasts') return 'page-template-page-podcasts';
+  if (template === 'page-talks-filters') return 'page-template-page-talks-filters';
+  if (template === 'page-speakers-filters') return 'page-template-page-speakers-filters';
+  if (template === 'page-form') return 'page-template-page-form';
+  return 'page';
+};
+
+const current = entry as AnyEntry | null;
+const podcastPeople = kind === 'podcasts' && current
+  ? ((current.data.acf?.podcast_contributors || []) as number[])
+      .map((speakerId) => library.speakerById.get(Number(speakerId)))
+      .filter((speaker): speaker is CollectionEntry<'speakers'> => Boolean(speaker))
+  : [];
+const description = current?.data.seo?.description || plainText(current?.data.excerpt || (current ? htmlOf(current) : ''), 40);
+const image = current?.data.seo?.ogImage || current?.data.featuredImage || current?.data.acf?.podcast_cover?.url || current?.data.acf?.speaker_avatar?.url || undefined;
+const pagePath = kind === 'blog-index' ? '/blog/' : `/${decodeURIComponent(current!.data.path).replace(/^\/|\/$/g, '')}/`;
+const scrollItems = current ? scrollMenu(current) : [];
+const navColor = kind === 'events' ? current?.data.acf?.event_font_color_value : undefined;
+---
+{kind === 'blog-index' && (
+  <Base title="Blog" description="Sphere.it blog" path="/blog/" bodyClass="blog">
+    <div class="container-fluid px-0 page-blogposts-listing">
+      <div class="container-flexible">
+        <div class="row">
+          <div class="col-12 col-md-8 offset-md-2 col-xl-6 offset-xl-3">
+            {library.posts.map((post) => (
+              <a class="blogpost-item-wrapper" href={post.data.path} title={post.data.title}>
+                {post.data.featuredImage && (
+                  <div class="bp-item-thumbnail-wrapper">
+                    <ResponsiveImage src={post.data.featuredImage} alt={post.data.title} wrap classes="bp-item-thumbnail" />
+                  </div>
+                )}
+                <div class="bp-item-date">{new Date(post.data.date).toLocaleDateString('en-GB')}</div>
+                <h2 class="heading-3 bp-item-title">{post.data.title}</h2>
+                <div class="bp-item-text">{plainText(htmlOf(post), 20)}</div>
+                <div class="read-more">Read more <i class="fas fa-arrow-right"></i></div>
+              </a>
+            ))}
+          </div>
+        </div>
+      </div>
+    </div>
+  </Base>
+)}
+
+{kind === 'pages' && current && (
+  <Base title={current.data.seo?.title || current.data.title} description={description} image={image} path={pagePath} bodyClass={bodyForPage(current.data.template)} podcastNav={current.data.template === 'page-podcasts'}>
+    {current.data.template === 'page-talks-filters' && (
+      <div class="container-fluid px-0 template-listing" data-filter-root>
+        <div class="container-flexible">
+          <div class="filters">
+            <div class="filters__input"><div class="filters__input-wrap"><input type="text" class="search" placeholder="Search talks" data-filter-search /><div class="filters__input-search"><i class="fas fa-search"></i></div></div></div>
+            <div class="filters__dropdown">
+              <div class="filters__dropdown-wrap">
+                <div class="filters__dropdown-label first">Area of interest <i class="fas fa-chevron-down"></i></div>
+                <div class="filters__dropdown-drop one-column">
+                  {talkCats.map((cat) => <div data-cat={cat.id} class="item category"><span>{cat.name}</span></div>)}
+                </div>
+              </div>
+              <div class="filters__dropdown-wrap">
+                <div class="filters__dropdown-label">Tags <i class="fas fa-chevron-down"></i></div>
+                <div class="filters__dropdown-drop three-columns">
+                  {talkTags.map((tag) => <div data-tag={tag.id} class="item tag"><span>{tag.name}</span></div>)}
+                </div>
+              </div>
+            </div>
+          </div>
+          <section>
+            <div class="pills">
+              <div class="pills__title" data-filter-title>
+                <span class="result"><span class="count" data-filter-count>{talks.length}</span> results</span>
+                <h1 class="all">All talks</h1>
+              </div>
+              <div class="pills__wrapper" data-filter-pills></div>
+            </div>
+            <div class="videos-listing"><div class="row">
+              {talks.map((talk) => <TalkCard talk={talk} speakers={speakersFor(talk)} />)}
+            </div></div>
+          </section>
+        </div>
+      </div>
+    )}
+    {current.data.template === 'page-speakers-filters' && (
+      <div class="container-fluid px-0 page-speakers" data-filter-root data-page-size="36">
+        <div class="container-flexible">
+          <div class="page-filter-stuff">
+            <div class="filters">
+              <div class="filters__input"><div class="filters__input-wrap"><input type="text" class="search" placeholder="Search speakers" data-filter-search /><div class="filters__input-search"><i class="fas fa-search"></i></div></div></div>
+              <div class="filters__dropdown">
+                <div class="filters__dropdown-wrap">
+                  <div class="filters__dropdown-label first">Area of interest <i class="fas fa-chevron-down"></i></div>
+                  <div class="filters__dropdown-drop one-column">
+                    {speakerCats.map((cat) => <div data-cat={cat.id} class="item category"><span>{cat.name}</span></div>)}
+                  </div>
+                </div>
+              </div>
+            </div>
+            {siteData.options.becomeSpeaker && (
+              <div class="speaker-other-pages">
+                <a class="icon-with-caption" href={siteData.options.becomeSpeaker.url} target="_blank" rel="noopener">
+                  <div class="round-icon gray-bg forty-forty"><i class="fas fa-microphone-alt"></i></div>
+                  <span>{siteData.options.becomeSpeaker.title}</span>
+                </a>
+              </div>
+            )}
+          </div>
+          <div class="pills">
+            <div class="pills__title" data-filter-title>
+              <span class="result"><span class="count" data-filter-count>{library.speakers.length}</span> results</span>
+              <h1 class="all">{current.data.title}</h1>
+            </div>
+            <div class="pills__wrapper" data-filter-pills></div>
+          </div>
+          <div class="speakers-listing">
+            <div class="row speakers-container">
+              {library.speakers.map((speaker) => <SpeakerCard speaker={speaker} />)}
+            </div>
+            <div class="pagination"><div class="pagination__wrapper" data-filter-pager></div></div>
+          </div>
+          <Blocks blocks={current.data.blocks} entry={current} library={library} />
+        </div>
+      </div>
+    )}
+    {current.data.template === 'page-form' && (
+      <div class="container-fluid px-0 page-form-content" style="background-color:#f6f9fc;color:#21212C;">
+        <div class="container-flexible">
+          <div class="form-component form-replacement">
+            <div class="row"><div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+              <h1 class="heading-2 form-label">{current.data.acf?.label || current.data.title}</h1>
+              <p>Speaker nominations are handled by VirtusLab. Use the contact form and mention Sphere.it in your message.</p>
+              <a class="cta-button filled-black" href={siteData.contactUrl} target="_blank" rel="noopener">Contact VirtusLab</a>
+            </div></div>
+          </div>
+        </div>
+      </div>
+    )}
+    {current.data.template === 'page-events' && <Blocks blocks={current.data.blocks} entry={current} library={library} context="events-page" />}
+    {current.data.template === 'page-podcasts' && <Blocks blocks={current.data.blocks} entry={current} library={library} />}
+    {current.data.template === 'page-dark-theme' && <Blocks blocks={current.data.blocks} entry={current} library={library} />}
+    {!current.data.template && (
+      <div class="container-fluid px-0 page-default">
+        <div class="container-flexible">
+          <div class="row"><div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+            <div class="page-content">
+              <h1 class="heading-single">{current.data.title}</h1>
+              <div class="wrap-post-content">
+                <Blocks blocks={current.data.blocks} entry={current} library={library} context="default-page" />
+              </div>
+            </div>
+          </div></div>
+        </div>
+      </div>
+    )}
+  </Base>
+)}
+
+{kind === 'talks' && current && (
+  <Base title={current.data.seo?.title || current.data.title} description={description} image={image} path={pagePath} bodyClass="single-talks">
+    <div class="container-fluid px-0 single-talk-page-content">
+      <div class="container-flexible position-relative">
+        <a href="/watch/" class="back-to-all"><i class="fas fa-arrow-left"></i> All videos</a>
+        <div class="row">
+          <div class="col-12 col-lg-7 col-xl-6 offset-xl-1 talk-content-wrapper">
+            {youtubeId(current.data.acf?.talk_video) && (
+              <div class="talk-watch-section">
+                <div class="cinema"><div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item" src={`https://www.youtube-nocookie.com/embed/${youtubeId(current.data.acf?.talk_video)}`} title={current.data.title} allowfullscreen></iframe>
+                </div></div>
+              </div>
+            )}
+            <div class="talk-content">
+              <h1 class="heading-single">{current.data.title}</h1>
+              {current.data.acf?.talk_date && <div class="talk-date">{current.data.acf.talk_date}</div>}
+              <div class="bodytext-content" set:html={htmlOf(current)} />
+              <div class="content-divider"></div>
+              {(current.data.terms?.talks_tags || []).length > 0 && (
+                <div class="post-tags">{current.data.terms?.talks_tags?.map((tag) => <span class="tag">#{tag.name}</span>)}</div>
+              )}
+              {speakersFor(current as CollectionEntry<'talks'>).length > 0 && (
+                <div class="talk-speakers">
+                  <h3 class="heading-4">About the speaker{speakersFor(current as CollectionEntry<'talks'>).length > 1 ? 's' : ''}</h3>
+                  {speakersFor(current as CollectionEntry<'talks'>).map((speaker) => (
+                    <a href={speaker.data.path} class="speaker-profile">
+                      <strong>{speaker.data.title}</strong>
+                      {speaker.data.acf?.speaker_position && <div>{speaker.data.acf.speaker_position}</div>}
+                      <p>{plainText(htmlOf(speaker), 25)}</p>
+                    </a>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
+          <div class="col-12 col-lg-5">
+            <h3 class="heading-4">More talks</h3>
+            <div class="row">
+              {talks.filter((talk) => talk.id !== current.id && (talk.data.terms?.talks_cat || []).some((cat) => (current.data.terms?.talks_cat || []).some((own) => own.id === cat.id))).slice(0, 4).map((talk) => (
+                <TalkCard talk={talk} speakers={speakersFor(talk)} />
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </Base>
+)}
+
+{kind === 'speakers' && current && (
+  <Base title={current.data.seo?.title || current.data.title} description={description} image={image} path={pagePath} bodyClass="single-speakers">
+    <div class="container-fluid px-0 single-speaker-page-content with-bg">
+      <div class="container-flexible position-relative">
+        <a href="/contributors/" class="back-to-all"><i class="fas fa-arrow-left"></i> All contributors</a>
+        <div class="row">
+          <div class="col-12 col-lg-7 col-xl-6 offset-xl-1 speaker-content-wrapper">
+            <div class="speaker-content">
+              <div class="speaker-main-profile">
+                <div class="speaker-avatar-wrap"><div class="speaker-avatar">
+                  <ResponsiveImage src={current.data.acf?.speaker_avatar?.url || '/theme/assets/img/person.png'} alt={current.data.title} wrap classes="speaker-av" />
+                </div></div>
+                <div class="profile-base">
+                  <h1 class="heading-single">{current.data.title}</h1>
+                  {current.data.acf?.speaker_position && <div class="speaker-position">{current.data.acf.speaker_position}</div>}
+                  <div class="speaker-socials-container">
+                    {current.data.acf?.speaker_twitter && <a class="speaker-social" href={current.data.acf.speaker_twitter} target="_blank" rel="noopener"><i class="fab fa-twitter"></i></a>}
+                    {current.data.acf?.speaker_linkedin && <a class="speaker-social" href={current.data.acf.speaker_linkedin} target="_blank" rel="noopener"><i class="fab fa-linkedin-in"></i></a>}
+                    {current.data.acf?.speaker_fb && <a class="speaker-social" href={current.data.acf.speaker_fb} target="_blank" rel="noopener"><i class="fab fa-facebook-square"></i></a>}
+                    {current.data.acf?.speaker_gh && <a class="speaker-social" href={current.data.acf.speaker_gh} target="_blank" rel="noopener"><i class="fab fa-github"></i></a>}
+                  </div>
+                </div>
+              </div>
+              <div class="bodytext-content" set:html={htmlOf(current)} />
+            </div>
+          </div>
+          <div class="col-12 col-lg-5">
+            <h3 class="heading-4">Talks</h3>
+            <div class="row">
+              {talks.filter((talk) => (talk.data.acf?.talks_speakers || []).map(Number).includes(current.data.wpId)).map((talk) => (
+                <TalkCard talk={talk} speakers={speakersFor(talk)} />
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </Base>
+)}
+
+{kind === 'podcasts' && current && (
+  <Base title={current.data.seo?.title || current.data.title} description={plainText(current.data.acf?.podcast_description, 40)} image={current.data.acf?.podcast_cover?.url} path={pagePath} bodyClass="page-template-page-podcasts" podcastNav>
+    <article class="container-fluid px-0 podcast-episode">
+      <div class="container-flexible">
+        <a href="/podcasts/" class="back-to-all"><i class="fas fa-arrow-left"></i> All episodes</a>
+        <div class="row">
+          <div class="col-12 col-lg-5">
+            {current.data.acf?.podcast_cover?.url && <img class="cover" src={current.data.acf.podcast_cover.url} alt={current.data.title} />}
+          </div>
+          <div class="col-12 col-lg-6 offset-lg-1">
+            <h1 class="header-inter">{current.data.title}</h1>
+            <div class="media-buttons">
+              {current.data.acf?.podcast_spotify?.url && <a class="primary-btn" href={current.data.acf.podcast_spotify.url} target="_blank" rel="noopener">{current.data.acf.podcast_spotify.title || 'Spotify'}</a>}
+              {current.data.acf?.podcast_yt?.url && <a class="primary-btn" href={current.data.acf.podcast_yt.url} target="_blank" rel="noopener">{current.data.acf.podcast_yt.title || 'YouTube'}</a>}
+            </div>
+            {youtubeId(current.data.acf?.podcast_yt?.url) && (
+              <div class="embed-responsive embed-responsive-16by9" style="margin-top:24px">
+                <iframe src={`https://www.youtube-nocookie.com/embed/${youtubeId(current.data.acf?.podcast_yt?.url)}`} title={current.data.title} allowfullscreen></iframe>
+              </div>
+            )}
+            <div class="font-inter size-18" set:html={current.data.acf?.podcast_description || ''} />
+            <div class="contributors">
+              {podcastPeople.map((speaker) => (
+                <a href={speaker.data.path}>{speaker.data.title}</a>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </article>
+  </Base>
+)}
+
+{kind === 'events' && current && (
+  <Base title={current.data.seo?.ogTitle || current.data.seo?.title || current.data.title} description={current.data.seo?.ogDescription || description} image={image} path={pagePath} bodyClass="single-event" scrollItems={scrollItems} navColor={navColor}>
+    <EventHeader event={current as CollectionEntry<'events'>} />
+    <Blocks blocks={current.data.blocks} entry={current} library={library} />
+  </Base>
+)}
+
+{kind === 'eventSeries' && current && (
+  <Base title={current.data.seo?.title || current.data.title} description={description} image={image} path={pagePath} bodyClass="single-event_series" scrollItems={scrollItems}>
+    <Blocks blocks={current.data.blocks} entry={current} library={library} context="series" />
+  </Base>
+)}
+
+{kind === 'posts' && current && (
+  <Base title={current.data.seo?.title || current.data.title} description={description} image={image} path={pagePath} bodyClass="single single-blog">
+    <div class="container-fluid px-0 single-post-page-content">
+      <div class="container-flexible position-relative">
+        <a href="/blog/" class="back-to-all"><i class="fas fa-arrow-left"></i> All posts</a>
+        <div class="row"><div class="col-12 col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+          <div class="text-container">
+            <h1 class="heading-single">{current.data.title}</h1>
+            <div class="blogpost-date">{new Date(current.data.date).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })}</div>
+          </div>
+          {current.data.featuredImage && <ResponsiveImage src={current.data.featuredImage} alt={current.data.title} wrap classes="blogpost-cover-wrapper" />}
+          <div class="text-container"><div class="wrap-post-content" set:html={htmlOf(current)} /></div>
+        </div></div>
+      </div>
+    </div>
+  </Base>
+)}

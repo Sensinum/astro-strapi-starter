@@ -1,0 +1,51 @@
+{
+  "wpId": 5065,
+  "title": "Is the Insurance Sector Lagging in Digital Adoption?",
+  "slug": "is-the-insurance-sector-lagging-in-digital-adoption",
+  "path": "/podcast/is-the-insurance-sector-lagging-in-digital-adoption/",
+  "date": "2024-03-19 10:08:09",
+  "modified": "2024-03-19 11:04:07",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/03/thumbnail_Is-the-Insurance-Sector-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5082
+    ],
+    "podcast_spotify": {
+      "title": "Listen on Spotify",
+      "url": "https://open.spotify.com/episode/0UtmNrHcxmPi7okV5B11b5?si=cTbZ6x9QQdunIxcF3GGm1w",
+      "target": "_blank"
+    },
+    "podcast_yt": {
+      "title": "Watch on YouTube",
+      "url": "https://www.youtube.com/watch?v=E3Y0MGqKCDs&t=3s",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>In this insightful episode, we dive into the complexities of the insurance sector&#8217;s digital landscape. Join us as we explore whether the industry is keeping pace with the rapid advancements in technology. Our expert guest, Dan Fiehn, shed light on the challenges and opportunities that define the digital adoption journey in insurance. Tune in to gain valuable insights into the digital transformation of one of the oldest industries and understand the strategies that can propel it into the future.</p>\n<p>The podcast series is a collaborative venture with VirtusLab, a leading company dedicated to developing innovative technologies and delivering high-performance solutions to clients.</p>\n",
+    "podcast_cover": {
+      "id": 5066,
+      "url": "/uploads/2024/03/plansza-video-otwierajAcy-episode-3-scaled.jpg",
+      "alt": "The Digital Revolution's Effect on the Insurance Industry | Dan Fiehn | Sphere.it Podcast",
+      "width": 2560,
+      "height": 1440
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

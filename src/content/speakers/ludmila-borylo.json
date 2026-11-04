@@ -1,0 +1,35 @@
+{
+  "wpId": 4885,
+  "title": "Ludmiła Boryło",
+  "slug": "ludmila-borylo",
+  "path": "/contributor/ludmila-borylo/",
+  "date": "2024-02-06 18:19:59",
+  "modified": "2024-02-21 10:28:17",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Agile Chapter Lead at HEINEKEN",
+    "speaker_avatar": {
+      "id": 4886,
+      "url": "/uploads/2024/02/Ludmila-Borylo-.jpeg",
+      "alt": "Ludmiła Boryło",
+      "width": 800,
+      "height": 800
+    },
+    "speaker_surname": "Boryło",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/ludmila-borylo-0325326/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Ludmiła has 11 years of experience as a Scrum Master and Team Agile Coach. Currently, she's leading a team of Scrum Masters in a large international company. Ludmiła is passionate about nurturing growth, leveraging cultural diversity, and measuring impact over mere output. Inspired by the system thinking approach from “The Fifth Discipline” by Peter Senge. She was mentor in Tech Leaders and Scrumdzielnia. Outside work, she enjoys trekking, climbing, and MTB cycling. 🚴‍♂️🏔️</p>"
+    }
+  ],
+  "formReplaced": false
+}

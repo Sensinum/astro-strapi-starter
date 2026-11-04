@@ -1,0 +1,43 @@
+{
+  "wpId": 364,
+  "title": "Tomasz Sęk",
+  "slug": "tomasz-sek",
+  "path": "/contributor/tomasz-sek/",
+  "date": "2020-01-01 00:01:22",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at VirtusLab",
+    "speaker_avatar": {
+      "id": 366,
+      "url": "/uploads/2021/03/Tomasz_Sęk.jpg",
+      "alt": "Tomasz Sęk",
+      "width": 960,
+      "height": 960
+    },
+    "speaker_surname": "Sęk",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/tomasz-s%C4%99k-330104194/",
+    "speaker_gh": "https://github.com/tomaszsek"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Software Engineer at VirtusLab particularly interested in distributed computing and security. After few years of writing middleware code in Java he moved on to DevOps and Kubernetes. </p>\n\n\n\n<p>Maintainer of internal custom Kubernetes distribution on AWS. Skilled Golang coder. Responsible for Azure AKS golden standard in a large corporation. He usually dreams of software automation and containers. Seriously addicted to karaoke and football.</p>"
+    }
+  ],
+  "formReplaced": false
+}

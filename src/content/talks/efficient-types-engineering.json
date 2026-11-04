@@ -1,0 +1,43 @@
+{
+  "wpId": 495,
+  "title": "Efficient Types Engineering",
+  "slug": "efficient-types-engineering",
+  "path": "/watch/efficient-types-engineering/",
+  "date": "2020-01-01 00:02:12",
+  "modified": "2023-03-20 15:06:00",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 60,
+        "slug": "typescript",
+        "name": "TypeScript"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=dGqI6G4TN28",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      382
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>How to not over-engineer things is the most common problem and topic in every large scale project. Especially in the TypeScript &amp; HOC world if we're using (what is more than sure) 3rd party components as a core of our fancy &amp; powerful features. In 15 minutes you'll be involved into fast walkthrough of the best practices and useful utility types which can help to avoid over-doing your stuff.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,28 @@
+{
+  "wpId": 5382,
+  "title": "From Delivery Outputs to Inputs: DORA, DevEx, and Beyond",
+  "slug": "from-delivery-outputs-to-inputs-dora-devex-and-beyond",
+  "path": "/watch/from-delivery-outputs-to-inputs-dora-devex-and-beyond/",
+  "date": "2024-12-03 10:37:19",
+  "modified": "2024-12-11 11:39:04",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "February 4, 2025",
+    "talks_speakers": [
+      5380
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I’ll explore how leading tech organizations are redefining developer productivity by moving beyond traditional output metrics to focus on the day-to-day factors that shape developer experience and influence delivery speed, ease, and quality. Drawing from conversations with industry leaders, I will share actionable insights and real-world examples that highlight strategies for improving team clarity, reducing friction, and boosting efficiency in today’s dynamic engineering landscape.</p>"
+    }
+  ],
+  "formReplaced": false
+}

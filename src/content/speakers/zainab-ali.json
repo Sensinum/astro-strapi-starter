@@ -1,0 +1,43 @@
+{
+  "wpId": 324,
+  "title": "Zainab Ali",
+  "slug": "zainab-ali",
+  "path": "/contributor/zainab-ali/",
+  "date": "2020-01-01 00:01:40",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Developer at Blackboard",
+    "speaker_avatar": {
+      "id": 325,
+      "url": "/uploads/2021/03/Zainab_Ali.jpeg",
+      "alt": "Zainab Ali",
+      "width": 200,
+      "height": 200
+    },
+    "speaker_surname": "Ali",
+    "speaker_twitter": "https://twitter.com/_zainabali_",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/zainab-ali-78809b7b/?originalSubdomain=uk",
+    "speaker_gh": "https://github.com/zainab-ali"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Zainab is a proud user of Metals with Emacs and keeps a keen eye on the Scala tooling ecosystem. She loves challenging problems, and may actually solve one if she wasn't constantly distracted by new and exciting ones. If she isn't hacking on her latest coding project, she's probably rock climbing.</p>"
+    }
+  ],
+  "formReplaced": false
+}

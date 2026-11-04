@@ -1,0 +1,43 @@
+{
+  "wpId": 220,
+  "title": "Maciej Treder",
+  "slug": "maciej-treder",
+  "path": "/contributor/maciej-treder/",
+  "date": "2020-01-01 00:02:13",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Software Development Engineer at Akamai Technologies",
+    "speaker_avatar": {
+      "id": 221,
+      "url": "/uploads/2021/03/maciej_treder-min.jpg",
+      "alt": "Maciej Treder",
+      "width": 480,
+      "height": 480
+    },
+    "speaker_surname": "Treder",
+    "speaker_twitter": "https://twitter.com/MaciejTreder",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/maciej-treder/",
+    "speaker_gh": "https://github.com/maciejtreder"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Enthusiast of web technologies especially Single Page Apps, Progressive Web Apps, micro services, and Internet of Things. Author of articles about JavaScript, NodeJS, and Angular. Open Source contributor – creator of a @ng-toolkit open source project – set of tools for expanding existing Angular applications.</p>"
+    }
+  ],
+  "formReplaced": false
+}

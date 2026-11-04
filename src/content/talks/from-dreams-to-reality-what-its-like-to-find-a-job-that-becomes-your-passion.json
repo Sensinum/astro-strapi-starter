@@ -1,0 +1,38 @@
+{
+  "wpId": 2076,
+  "title": "From dreams to reality - what it's like to find a job that becomes your passion",
+  "slug": "from-dreams-to-reality-what-its-like-to-find-a-job-that-becomes-your-passion",
+  "path": "/watch/from-dreams-to-reality-what-its-like-to-find-a-job-that-becomes-your-passion/",
+  "date": "2021-10-20 15:35:54",
+  "modified": "2023-03-21 12:29:58",
+  "template": null,
+  "excerpt": "Jak to się wszystko zaczęło, czyli jak od wbijania gwoździ i pytania “jak to działa?” można dojść do kodowania. W mojej prezentacji opowiem o pierwszych poważnych decyzjach dotyczących mojej ścieżki zawodowej, dlaczego brak oddzielnych środowisk dedykowanych pod konkretną pracę jest poważnym zagrożeniem dla produkcji (zwłaszcza w rękach juniora), i jak komunikacja i praca zespołowa może uratować nawet w najczarniejszej, w naszych oczach, sytuacji. Dowiecie się także co skłoniło mnie do spędzenia tak długiego czasu w jednej firmie, jakie przyniosło mi to korzyści, a jakie są tego minusy.",
+  "featuredImage": "/uploads/2021/10/IC_title_en.png",
+  "seo": {
+    "ogImage": "/uploads/2021/10/iwona_from.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=m2HthdAg2Y0",
+    "video_thumbnail": false,
+    "talk_date": "August 23, 2021",
+    "talks_speakers": [
+      1544
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>(PL) </p>\n\n\n\n<p>Jak to się wszystko zaczęło, czyli jak od wbijania gwoździ i pytania “jak to działa?” można dojść do kodowania. W mojej prezentacji opowiem o pierwszych poważnych decyzjach dotyczących mojej ścieżki zawodowej, dlaczego brak oddzielnych środowisk dedykowanych pod konkretną pracę jest poważnym zagrożeniem dla produkcji (zwłaszcza w rękach juniora), i jak komunikacja i praca zespołowa może uratować nawet w najczarniejszej, w naszych oczach, sytuacji. Dowiecie się także co skłoniło mnie do spędzenia tak długiego czasu w jednej firmie, jakie przyniosło mi to korzyści, a jakie są tego minusy. </p>"
+    }
+  ],
+  "formReplaced": false
+}

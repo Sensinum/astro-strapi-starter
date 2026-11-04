@@ -1,0 +1,43 @@
+{
+  "wpId": 2591,
+  "title": "Michał Pałka",
+  "slug": "michal-palka",
+  "path": "/contributor/michal-palka/",
+  "date": "2022-02-10 08:02:02",
+  "modified": "2023-03-17 14:01:13",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Scala Developer at Scala Tooling, VirtusLab",
+    "speaker_avatar": {
+      "id": 4240,
+      "url": "/uploads/2022/02/Michal_Palka.jpg",
+      "alt": "Michal Pałka",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Pałka",
+    "speaker_twitter": "https://twitter.com/mchlpalka",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": "https://github.com/prolativ"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Michał is a Senior Scala Tooling Developer @ VirtusLab with more than 6 years of commercial experience in writing Scala applications. For the last year, he's been a part of the core team responsible for the development of the official Scala 3 compiler in close collaboration with Martin Odersky, EPFL, and Scala Center.</p>"
+    }
+  ],
+  "formReplaced": false
+}

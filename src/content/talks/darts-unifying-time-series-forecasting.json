@@ -1,0 +1,75 @@
+{
+  "wpId": 3230,
+  "title": "DARTS - Unifying time series forecasting",
+  "slug": "darts-unifying-time-series-forecasting",
+  "path": "/watch/darts-unifying-time-series-forecasting/",
+  "date": "2022-08-10 09:43:37",
+  "modified": "2023-03-21 11:37:04",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/08/weronika_dranka_thumbnails_sphereconf-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 156,
+        "slug": "darts",
+        "name": "Darts"
+      },
+      {
+        "id": 42,
+        "slug": "data-science",
+        "name": "Data Science"
+      },
+      {
+        "id": 158,
+        "slug": "deeplearning",
+        "name": "Deeplearning"
+      },
+      {
+        "id": 44,
+        "slug": "machine-learning",
+        "name": "Machine Learning"
+      },
+      {
+        "id": 157,
+        "slug": "prediction",
+        "name": "Prediction"
+      },
+      {
+        "id": 90,
+        "slug": "python",
+        "name": "Python"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      },
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=LEfr7n0fTbY",
+    "video_thumbnail": false,
+    "talk_date": "September 21, 2022",
+    "talks_speakers": [
+      372
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Time series are everywhere in science and business, and the ability to forecast them accurately and efficiently can provide decisive advantages. Darts is an open-source Python library that provides a wide variety of forecasting models and tools under a single and user-friendly API. It emphasizes reducing the experiment cycle duration and improving the ease of using, comparing, and combining different models, from ARIMA to deep learning models.<br>This talk will give a tour of Darts and some of its main features, such as quick creation and comparison of forecasting models, backtesting, and ML-based models applied to time series forecasting. We will review a few toy examples and see how to address them in a few lines of code.</p>"
+    }
+  ],
+  "formReplaced": false
+}

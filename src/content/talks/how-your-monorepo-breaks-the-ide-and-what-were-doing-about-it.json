@@ -1,0 +1,56 @@
+{
+  "wpId": 3233,
+  "title": "How your Monorepo breaks the IDE. And what we're doing about it.",
+  "slug": "how-your-monorepo-breaks-the-ide-and-what-were-doing-about-it",
+  "path": "/watch/how-your-monorepo-breaks-the-ide-and-what-were-doing-about-it/",
+  "date": "2022-08-10 09:54:43",
+  "modified": "2023-03-21 11:37:40",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "description": "Justin Kaeser, Team Lead at Jet Brains presenting his topic at the Sphere.it conf 2022 in September.",
+    "ogImage": "/uploads/2022/08/thumbnails_spherekonf_justin-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 159,
+        "slug": "bazel",
+        "name": "Bazel"
+      },
+      {
+        "id": 161,
+        "slug": "intellij-idea",
+        "name": "IntelliJ IDEA"
+      },
+      {
+        "id": 160,
+        "slug": "monorepo",
+        "name": "Monorepo"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=kbP40Xd_sR8",
+    "video_thumbnail": false,
+    "talk_date": "September 20, 2022",
+    "talks_speakers": [
+      269
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Dumping all your code into a single shared monorepository is all the rage. But our tooling is only catching up with the new paradigm. We'll go over how large repositories and common patterns in them are breaking long-standing assumptions in IntelliJ IDEA in terms of the project model, performance, and user experience. Then we will take a look at our current ideas and approaches to solving these problems in a monorepo world.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,307 @@
+{
+  "wpId": 2251,
+  "title": "BUGinnings in IT #3",
+  "slug": "buginnings-in-it-3",
+  "path": "/event/buginnings-in-it-3/",
+  "date": "2021-12-07 16:19:31",
+  "modified": "2023-03-08 14:07:56",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/12/share-bug3.png"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 137,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "event_series_label": "",
+    "event_date": "20.01.2022",
+    "type_of_event": "18:00",
+    "event_entry": "HEVRE KRAKÓW",
+    "event_artwork": {
+      "id": 2289,
+      "url": "/uploads/2021/12/bug3-theme-min.png",
+      "alt": "BUGinnings in IT #3",
+      "width": 2160,
+      "height": 2160
+    },
+    "event_register": {
+      "title": "Rejestracja",
+      "url": "https://app.evenea.pl/event/buginnings3/",
+      "target": "_blank"
+    },
+    "event_background_color": "#08bd6c",
+    "event_font_color": true,
+    "event_font_color_value": "#0b151e",
+    "reduce_font_size": "1",
+    "event_scroll_button": "about",
+    "event_agenda": [
+      {
+        "item_type": "custom",
+        "item_time": "18:00",
+        "talk_id": false,
+        "custom_title": "Rozpoczęcie wydarzenia",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "18:15",
+        "talk_id": 2386,
+        "custom_title": "Co wiedzieć aby zdobyć pierwszą pracę w UX i podołać jej wyzwaniom",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "18:50",
+        "talk_id": 2387,
+        "custom_title": "Umiejętności miękkie na rozmowie kwalifikacyjnej – o co chodzi i jak się przygotować?",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "19:30",
+        "talk_id": 2388,
+        "custom_title": "Waga backendu w projektowaniu UX. Jak nauczyłem się, że na doświadczenia użytkownika wpływa nie tylko Design",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "custom",
+        "item_time": "20:00",
+        "talk_id": false,
+        "custom_title": "Networking",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      }
+    ],
+    "header_background_image": false,
+    "buttons_background_color": "",
+    "buttons_font_color": "",
+    "alt_dynamic_menu": false,
+    "event_alt_title": "",
+    "event_date_hidden": false,
+    "event_artwork_listing": false,
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "about",
+      "data": {
+        "block_description": "<img style=\"width: 60px;\" src=\"/uploads/2021/12/celeb-min.png\" alt=\"save-the-date\" />\r\n<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; text-align: left;\">Już 20. stycznia spotkajmy się na pierwszym w nowym roku wydarzeniu organizowanym przez Sphere.it - BUGinnings in IT #3.</p>\r\n<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; text-align: left;\">Kolejny raz zapraszamy do wysłuchania prezentacji o początkach w IT i wyzwaniach jakie ze sobą niosą.</p>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2276,
+          "url": "/uploads/2021/12/bug2-min.jpg",
+          "alt": "BUGinnings in IT #3 &#8211; image from prev event",
+          "width": 2400,
+          "height": 1600
+        },
+        "switch_text_side": true,
+        "block_background_color": "#e8f4ee",
+        "block_font_color": "#0b151e",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-6407427f7ab09",
+      "data": {
+        "block_title": "Prelegenci",
+        "automatic_selection": false,
+        "speaker_groups": [
+          {
+            "group_label": null,
+            "speakers": [
+              2220,
+              1919,
+              2223,
+              2364
+            ]
+          }
+        ],
+        "block_background_color": "#0b151e",
+        "block_font_color": "#e8f4ee",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-6407427f7ab31",
+      "data": {
+        "block_description": "<img style=\"width: 80px;\" src=\"/uploads/2021/12/bugs-min.png\" alt=\"bugs-logo\" />\r\n<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; font-weight: 500; text-align: left;\">BUGinnnings in IT to seria spotkań poświęcona historiom o pierwszych krokach w IT, opowiedzianym przez ekspertów z wieloletnim stażem w branży.</p>\r\n<p class=\"font-montserrat\" style=\"font-size: 140%; line-height: 160%; font-weight: 500; text-align: left;\">Zaproszeni przez nas goście dzielą się wskazówkami jak odnaleźć się w tej wymagającej, a zarazem satysfakcjonującej dziedzinie, na podstawie własnych doświadczeń.</p>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2275,
+          "url": "/uploads/2021/12/bug1-min.jpg",
+          "alt": "BUGinnings in IT #3 &#8211; image from prev event",
+          "width": 2400,
+          "height": 1600
+        },
+        "switch_text_side": false,
+        "block_background_color": "#08bd6c",
+        "block_font_color": "#0b151e",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-event-agenda",
+      "anchor": "acf-block-6407427f7ab51",
+      "data": {
+        "block_title": "Agenda",
+        "block_background_color": "#0b151e",
+        "block_font_color": "#e8f4ee",
+        "block_accent_font_color": "#0acc75",
+        "smaller_paddings": true,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-6407427f7ab6c",
+      "data": {
+        "block_description": "<p class=\"heading-3\" style=\"font-size: 140%; line-height: 140%; text-align: left;\">Wydarzenie odbędzie się stacjonarnie w klimatycznym Hevre na krakowskim Kazimierzu.</p>\r\nJeśli tak jak my tęsknicie za rozmową przy butelce pysznego piwa i chętnie zrobicie sobie przerwę od ekranów monitorów, zgarnijcie bilet i spędzicie kolejny wieczór z BUGinnings in IT!",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2284,
+          "url": "/uploads/2021/12/hevhev.jpg",
+          "alt": "BUGinnings in IT #3 &#8211; Hevre",
+          "width": 2400,
+          "height": 1600
+        },
+        "switch_text_side": true,
+        "block_background_color": "#08bd6c",
+        "block_font_color": "#0b151e",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-6407427f7ab91",
+      "data": {
+        "block_title": null,
+        "block_description": "<h2 style=\"margin-bottom: 20px;\">Spotkajmy się na żywo!</h2>\r\n<h3 class=\"heading-4\" style=\"margin-bottom: 30px;\">20.01.2022 | 18:00 | HEVRE KRAKÓW</h3>\r\n<span style=\"opacity: 0.85; font-size: 110%;\">Równowartość biletu będzie do odbioru przy barze w dniu wydarzenia.</span>",
+        "block_button": {
+          "title": "Rejestracja",
+          "url": "https://app.evenea.pl/event/buginnings3/",
+          "target": "_blank"
+        },
+        "cta_background_color": "#0b151e",
+        "cta_font_color": "#ffffff",
+        "cta_border_radius": 32,
+        "block_background_image": null,
+        "block_background_color": "#e8f4ee",
+        "block_font_color": "#0b151e",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-sponsors",
+      "anchor": "acf-block-6407427f7ae6c",
+      "data": {
+        "logotypes_alignment": true,
+        "sponsor_groups": [
+          {
+            "label": "Sponsors",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2672,
+                  "url": "/uploads/2022/02/vl.png",
+                  "alt": "VirtusLab logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://virtuslab.com/"
+              }
+            ]
+          },
+          {
+            "label": "Community Partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2706,
+                  "url": "/uploads/2022/02/tryit.png",
+                  "alt": "Fundacja Try IT logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.tryit.org.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2984,
+                  "url": "/uploads/2022/04/jdd.png",
+                  "alt": "JDD logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://jdd.org.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2985,
+                  "url": "/uploads/2022/04/hackyeah.png",
+                  "alt": "HackYeah logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://hackyeah.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2449,
+                  "url": "/uploads/2021/12/og_logo.png",
+                  "alt": "Junior Jobs Only logotype",
+                  "width": 800,
+                  "height": 533
+                },
+                "url": "https://www.juniorjobsonly.com/"
+              }
+            ]
+          }
+        ],
+        "block_background_color": null,
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

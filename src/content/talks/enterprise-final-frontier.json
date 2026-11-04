@@ -1,0 +1,49 @@
+{
+  "wpId": 4301,
+  "title": "Enterprise Final Frontier - is it possible to change the corporate ways in product development?",
+  "slug": "enterprise-final-frontier",
+  "path": "/watch/enterprise-final-frontier/",
+  "date": "2023-04-28 17:27:10",
+  "modified": "2024-01-12 10:31:12",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "description": "A tale of the biggest challenges and adventures of developing a vast digital product in a cross-team enterprise environment."
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      },
+      {
+        "id": 136,
+        "slug": "ui-ux",
+        "name": "UI/UX"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=YcahCZ1Zm7g",
+    "video_thumbnail": {
+      "id": 4767,
+      "url": "/uploads/2023/04/maxresdefault-5.jpg",
+      "alt": "Monika Soja",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "September 28, 2023",
+    "talks_speakers": [
+      1919
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>What can go sideways while building a multi-purpose, micro front-end-based platform comprising 30 applications? How can 5 front-end teams, 2 design teams, and 30 product managers work together to transform a vast information environment to deliver the best experience for 2,6 M users daily?<br>On the enterprise level of product development, we encounter problems that fit in on a whole new scale of ‘troublesome.’ The smallest thing may escalate quickly and affect the entire ecosystem. We’re always to consider the bigger picture. See the real-life case of how we’re transforming the everyday work frame and project strategy and find out why a Design Lead is telling this story.</p>"
+    }
+  ],
+  "formReplaced": false
+}

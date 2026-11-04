@@ -1,0 +1,18 @@
+{
+  "wpId": 45,
+  "title": "Watch",
+  "slug": "watch",
+  "path": "/watch/",
+  "date": "2021-03-03 15:15:04",
+  "modified": "2023-11-14 14:28:49",
+  "template": "page-talks-filters",
+  "excerpt": "",
+  "featuredImage": "/uploads/2022/10/share_sphere_general_3.jpg",
+  "seo": {
+    "ogImage": "/uploads/2022/10/share_sphere_general_3-1024x538.jpg"
+  },
+  "terms": {},
+  "acf": {},
+  "blocks": [],
+  "formReplaced": false
+}

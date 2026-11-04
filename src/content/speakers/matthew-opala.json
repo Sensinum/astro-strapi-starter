@@ -1,0 +1,43 @@
+{
+  "wpId": 346,
+  "title": "Matthew Opala",
+  "slug": "matthew-opala",
+  "path": "/contributor/matthew-opala/",
+  "date": "2020-01-01 00:01:30",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Machine Learning Tech Lead at Netguru",
+    "speaker_avatar": {
+      "id": 347,
+      "url": "/uploads/2021/03/Matthew_Opala.jpg",
+      "alt": "Matthew Opala",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Opala",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/matthewopala/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Matthew is an entrepreneur, software engineer and machine learning practitioner. He's been working as a machine learning engineer since graduation from AGH University of Science and Technology. </p>\n\n\n\n<p>Before he moved to Netguru, he worked at Siemens Corporate Research in Princeton and machine learning software house Craftinity, where he led development of various machine learning projects including Deep Learning based solutions for image recognition and Natural Language Processing. Now he's responsible for building and managing the whole Machine Learning department at Netguru.</p>"
+    }
+  ],
+  "formReplaced": false
+}

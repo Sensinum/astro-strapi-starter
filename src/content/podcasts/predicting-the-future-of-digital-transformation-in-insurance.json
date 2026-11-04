@@ -1,0 +1,51 @@
+{
+  "wpId": 5068,
+  "title": "Predicting the Future of Digital Transformation in Insurance",
+  "slug": "predicting-the-future-of-digital-transformation-in-insurance",
+  "path": "/podcast/predicting-the-future-of-digital-transformation-in-insurance/",
+  "date": "2024-03-19 10:08:15",
+  "modified": "2024-03-19 11:04:12",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/03/thumbnail_Predicting-the-Future-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5082
+    ],
+    "podcast_spotify": {
+      "title": "Listen on Spotify",
+      "url": "https://open.spotify.com/episode/67LMCpmDDaxvZnXY8UgIlV?si=TXTJFqhZRcCPOeLxfMvqTQ",
+      "target": "_blank"
+    },
+    "podcast_yt": {
+      "title": "Watch on YouTube",
+      "url": "https://www.youtube.com/watch?v=EpK7MyHTR2c&t=10s",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>Dive into the future of digital transformation in the insurance industry with our latest Sphere.it Podcast episode featuring the insightful perspectives of Dan Fiehn. Join us as we explore the evolving landscape of insurance and how digital transformation is shaping its future.</p>\n<p>The podcast series is a collaborative venture with VirtusLab, a leading company dedicated to developing innovative technologies and delivering high-performance solutions to clients.</p>\n",
+    "podcast_cover": {
+      "id": 5069,
+      "url": "/uploads/2024/03/plansza-video-otwierajAca-episode-4-scaled.jpg",
+      "alt": "Predicting the Future of Digital Transformation in Insurance | Dan Fiehn | Sphere.it Podcast",
+      "width": 2560,
+      "height": 1440
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

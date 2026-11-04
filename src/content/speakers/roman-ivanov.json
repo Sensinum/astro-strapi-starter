@@ -1,0 +1,43 @@
+{
+  "wpId": 567,
+  "title": "Roman Ivanov",
+  "slug": "roman-ivanov",
+  "path": "/contributor/roman-ivanov/",
+  "date": "2020-01-01 00:00:37",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Solutions Architect at XITE",
+    "speaker_avatar": {
+      "id": 568,
+      "url": "/uploads/2021/03/Roman_Ivanov.jpg",
+      "alt": "Roman Ivanov",
+      "width": 1714,
+      "height": 1800
+    },
+    "speaker_surname": "Ivanov",
+    "speaker_twitter": "https://twitter.com/ivanovro",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/ivanovro",
+    "speaker_gh": "https://github.com/ivanovro"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Roman is a Solutions Architect with strong Scala background now focusing on Data and Machine Learning systems with a goal to bring scalability, efficiency and speed.</p>"
+    }
+  ],
+  "formReplaced": false
+}

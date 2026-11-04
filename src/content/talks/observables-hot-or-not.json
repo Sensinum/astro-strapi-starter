@@ -1,0 +1,36 @@
+{
+  "wpId": 519,
+  "title": "Observables - hot or not?",
+  "slug": "observables-hot-or-not",
+  "path": "/watch/observables-hot-or-not/",
+  "date": "2020-01-01 00:01:53",
+  "modified": "2023-03-20 15:04:12",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=jnfOS1gonh4",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      397
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Observables are yet another way to handle asynchronicity in JS.<br>You can think of them as Promises on steroids but there’s more to them than just that.<br>You can think of them as arrays whose items arrive asynchronously over time.<br>What can you do next with them? Let’s find out.</p>"
+    }
+  ],
+  "formReplaced": false
+}

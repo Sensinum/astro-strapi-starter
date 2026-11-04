@@ -1,0 +1,36 @@
+{
+  "wpId": 4800,
+  "title": "Paulina Kozub-Chwastek",
+  "slug": "paulina-kozub-chwastek",
+  "path": "/contributor/paulina-kozub-chwastek/",
+  "date": "2024-01-19 14:51:55",
+  "modified": "2024-02-29 23:00:21",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Intercultural trainer, IT Marketing and Partnerships professional",
+    "speaker_avatar": {
+      "id": 4801,
+      "url": "/uploads/2024/01/DSC02684.jpg",
+      "alt": "DSC02684",
+      "width": 1609,
+      "height": 1609
+    },
+    "speaker_surname": "Kozub-Chwastek",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/%F0%9F%8C%8F-paulina-kozub-chwastek-45375010b/",
+    "speaker_gh": "",
+    "speaker_add_info": "The Software House"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Indologist. Orientalist with a South Asia Studies diploma (Hindi language specialization) and an International Relations Master's Degree graduate. Business Trainer with a strong focus on intercultural communication with India, leading cross-cultural trainings and consulting for big corporations, IT companies, start-ups, manufacturers, international agencies, and other organizations that work on an international level. IT Marketing and Partnerships professional. Focused on getting in-depth knowledge of CTOs’ (and other tech leaders’) perspectives.</p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

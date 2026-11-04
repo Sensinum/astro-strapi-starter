@@ -1,0 +1,28 @@
+{
+  "wpId": 5384,
+  "title": "How to save 1 million dollars yearly, introducing DevEx?",
+  "slug": "how-to-save-1-million-dollars-yearly-introducing-devex",
+  "path": "/watch/how-to-save-1-million-dollars-yearly-introducing-devex/",
+  "date": "2024-12-03 10:38:10",
+  "modified": "2025-01-15 15:22:06",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "February 4, 2025",
+    "talks_speakers": [
+      5412
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>DevEx is a technical topic, or a topic how to make developers happy? Not even close! It’s more about business than you may imagine. How to approach Platform Engineering, so it is beneficial from the financial perspective? How to do it right, and how much money can be saved with DevEx done right? I will provide you with answers!</p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

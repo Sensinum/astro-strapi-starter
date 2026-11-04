@@ -1,0 +1,37 @@
+{
+  "wpId": 558,
+  "title": "Jacek Kunicki",
+  "slug": "jacek-kunicki",
+  "path": "/contributor/jacek-kunicki/",
+  "date": "2020-01-01 00:00:42",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at SoftwareMill",
+    "speaker_avatar": false,
+    "speaker_surname": "Kunicki",
+    "speaker_twitter": "https://twitter.com/rucek",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/jacekkunicki/",
+    "speaker_gh": "https://github.com/rucek"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I’m a passionate software engineer living in the JVM land – mainly, but not limited to. I also tend to play with electronics and hardware. When sharing my knowlegde, I always keep in mind that a working example is worth a thousand words.</p>"
+    }
+  ],
+  "formReplaced": false
+}

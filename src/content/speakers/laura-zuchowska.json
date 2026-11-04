@@ -1,0 +1,37 @@
+{
+  "wpId": 5462,
+  "title": "Laura Żuchowska",
+  "slug": "laura-zuchowska",
+  "path": "/contributor/laura-zuchowska/",
+  "date": "2025-06-12 10:34:52",
+  "modified": "2025-06-12 10:35:49",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5463,
+      "url": "/uploads/2025/06/Laura-Zuchowska.jpeg",
+      "alt": "Laura Żuchowska",
+      "width": 800,
+      "height": 800
+    },
+    "speaker_position": "Data Engineer at VirtusLab",
+    "speaker_add_info": "",
+    "speaker_surname": "",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/laura-%C5%BCuchowska/",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Laura is a data engineer with over five years of experience in various domains. She started in academia, where she was researching affective computing as part of GEIST (Group for Engineering of Intelligent Systems and Technologies) Research Group. She co-wrote an article that ended up published in Nature Research. She’s currently working for clients who require an engineer with strong data insights and understanding.</p>"
+    }
+  ],
+  "formReplaced": false
+}

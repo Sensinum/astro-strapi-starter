@@ -1,0 +1,48 @@
+{
+  "wpId": 500,
+  "title": "On Track with Apache Kafka",
+  "slug": "on-track-with-apache-kafka",
+  "path": "/watch/on-track-with-apache-kafka/",
+  "date": "2020-01-01 00:02:07",
+  "modified": "2023-03-20 14:59:24",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 96,
+        "slug": "apache-kafka",
+        "name": "Apache Kafka"
+      },
+      {
+        "id": 97,
+        "slug": "ksql",
+        "name": "KSQL"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=WoP8p7oDe84&t=45s",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      209
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Want to know what you can REALLY do with Apache Kafka once you get going? This talk will show off lots of integration and stream processing techniques. What started out as a fun project integrating live streams of updates of UK rail data turned into a full-blown data platform, with integration from ActiveMQ and S3, through KSQL and stream processing for joins and decoding, into various targets including analytics on S3, Elasticsearch, PostgreSQL, and graph analysis on Neo4j. </p>\n\n\n\n<p>Also using Kafka compacted topics to demonstrate the theory of stream/table to store configuration to drive real-time alerts delivered through Telegram. This talk will be a curated walk-through of the specifics of how I built the system, and code samples of the salient integration points in KSQL and Kafka Connect. The data may be domain-specific but the challenges of handling batch and stream data to drive both applications and analytics are encountered by many, and this talk will give people lots of concrete examples on how to do it.</p>"
+    }
+  ],
+  "formReplaced": false
+}

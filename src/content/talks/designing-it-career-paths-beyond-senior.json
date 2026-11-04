@@ -1,0 +1,38 @@
+{
+  "wpId": 4446,
+  "title": "Designing IT Career Paths Beyond Senior",
+  "slug": "designing-it-career-paths-beyond-senior",
+  "path": "/watch/designing-it-career-paths-beyond-senior/",
+  "date": "2023-07-10 09:44:38",
+  "modified": "2024-02-13 10:33:31",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "description": "Sphere.it Conf 2023 workshop by Anna Żakowska. The workshop aims to provide you with the tools necessary to contribute actively to developing your career path."
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "September 27, 2023",
+    "talks_speakers": [
+      4420
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Instead of conforming to a predefined competence matrix, why not design a career path tailored to your unique needs, goals, and talents? This workshop empowers you to actively shape your future role by combining your perspective with the organization's expectations.</p>\n\n\n\n<p>The workshop aims to provide you with the tools necessary to contribute actively to developing your career path. Throughout the session, you will:</p>\n\n\n\n<ul>\n<li>Map your professional journey, identifying both pain points and areas of growth.</li>\n\n\n\n<li>Explore your needs, motivations, and frustrations while considering the company's expectations.</li>\n\n\n\n<li>Define a problem statement that captures your career's key challenges and aspirations.</li>\n\n\n\n<li>Generate innovative solutions that address the identified problem statement.</li>\n\n\n\n<li>Learn how to prototype and test various career options that align with your preferences.</li>\n\n\n\n<li>Embrace an iterative approach, testing and refining your career path based on feedback and learnings.</li>\n</ul>\n\n\n\n<p>In a rapidly changing IT landscape, this approach encourages you to work on your career path in short iterations, creating rapid prototypes, testing them, and learning from setbacks. Say goodbye to the traditional waterfall approach and welcome a more agile and adaptable approach to building your IT career.</p>"
+    }
+  ],
+  "formReplaced": false
+}

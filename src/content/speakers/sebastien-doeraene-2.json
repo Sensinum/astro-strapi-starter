@@ -1,0 +1,43 @@
+{
+  "wpId": 989,
+  "title": "Sébastien Doeraene",
+  "slug": "sebastien-doeraene-2",
+  "path": "/contributor/sebastien-doeraene-2/",
+  "date": "2021-04-28 14:02:37",
+  "modified": "2021-04-28 14:02:39",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Technical Director at Scala Center",
+    "speaker_avatar": {
+      "id": 990,
+      "url": "/uploads/2021/04/Sébastien_Doeraene.png",
+      "alt": "Sébastien Doeraene",
+      "width": 512,
+      "height": 512
+    },
+    "speaker_surname": "Doeraene",
+    "speaker_twitter": "https://twitter.com/sjrdoeraene",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": "https://docs.google.com/spreadsheets/d/1M8blCoVixZrXbLFa_wUc1VGHXS_JpzcVemG6P9_2kp8/edit#gid=949634124"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Sébastien Doeraene is a compiler/runtime systems hacker, and the author of Scala.js. He is a Ph.D. student at EPFL in the programming methods laboratory (LAMP), also known as the Scala team. He holds bachelor and master degrees in computer science engineering from Université Catholique de Louvain in Belgium. When he is not busy coding, he sings in choirs and a cappella groups, or rides around on a unicycle.</p>"
+    }
+  ],
+  "formReplaced": false
+}

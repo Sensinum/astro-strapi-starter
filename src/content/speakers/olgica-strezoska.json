@@ -1,0 +1,36 @@
+{
+  "wpId": 4728,
+  "title": "Olgica Strezoska",
+  "slug": "olgica-strezoska",
+  "path": "/contributor/olgica-strezoska/",
+  "date": "2024-01-10 10:51:02",
+  "modified": "2024-02-29 22:48:47",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Principal Product Owner at Damilah",
+    "speaker_avatar": {
+      "id": 4729,
+      "url": "/uploads/2024/01/temp_image_20231207_231051_3bd81b0e-56a6-4a5f-8b5e-3218e6cfe87c-copy.png",
+      "alt": "temp_image_20231207_231051_3bd81b0e-56a6-4a5f-8b5e-3218e6cfe87c copy",
+      "width": 678,
+      "height": 678
+    },
+    "speaker_surname": "Strezoska",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/olgicastrezoska/",
+    "speaker_gh": "",
+    "speaker_add_info": "Damilah"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>From a young banker to a respected IT professional, Olgica's journey showcases that with self-belief, you can learn anything and achieve everything. She kicked off her career at 19, exploring various industries and gaining a diverse set of skills along the way.<br>Today, Olgica is the Principal Product Owner at Damilah, a British company. She also serves as a Mentor and Instructor at a Macedonian Academy for Project and Product Management. </p>\n\n\n\n<p>With over 9 years in the IT industry, Olgica places a strong emphasis on understanding the needs of customers, team members, and students. She believes empathy is key to creating successful products and ensuring students are content. As a certified Agile professional and Design Thinking practitioner, Olgica actively incorporates creative and user-centric methods to drive innovation and develop satisfying solutions. Beyond her success in IT, she is committed to sharing her expertise and knowledge with younger colleagues and those transitioning from different industries, understanding the importance of mentorship in guiding others towards their professional goals.</p>"
+    }
+  ],
+  "formReplaced": false
+}

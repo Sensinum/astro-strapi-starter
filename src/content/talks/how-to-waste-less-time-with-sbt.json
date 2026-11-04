@@ -1,0 +1,43 @@
+{
+  "wpId": 513,
+  "title": "How to waste less time with Sbt",
+  "slug": "how-to-waste-less-time-with-sbt",
+  "path": "/watch/how-to-waste-less-time-with-sbt/",
+  "date": "2020-01-01 00:01:59",
+  "modified": "2023-03-21 09:52:54",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 81,
+        "slug": "sbt",
+        "name": "SBT"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=qkQoKWBlWok&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      362
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>As Scala developers we are used to hear (and agree without questioning) that “the Scala compiler is slow”, but how much of the time we spend building our projects is really due to the compiler? We’ll take a look under the hood of the most popular build tool for Scala, Sbt, and try to find where and why we spend so much time waiting.</p>"
+    }
+  ],
+  "formReplaced": false
+}

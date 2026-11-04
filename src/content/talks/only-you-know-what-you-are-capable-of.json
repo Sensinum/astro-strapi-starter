@@ -1,0 +1,28 @@
+{
+  "wpId": 4137,
+  "title": "Only YOU know what you are capable of",
+  "slug": "only-you-know-what-you-are-capable-of",
+  "path": "/watch/only-you-know-what-you-are-capable-of/",
+  "date": "2023-02-21 11:50:10",
+  "modified": "2023-02-21 11:50:12",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2023",
+    "talks_speakers": [
+      4133
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I graduated in Computer Science, even though my teachers said it might be too difficult for me. At the end of my studies, I was the best in class out of 400 students! While going to school full-time, I also got a job as an Administrator. I was quickly promoted to a Department Manager role. As my career progressed, I changed roles and employers but stayed in the field of tech. I’ve faced many challenges on my journey, but I’ve also met wonderful people from whom I’ve learned so much. I am proof that women can not only exist in the world of IT but that they can succeed.    </p>"
+    }
+  ],
+  "formReplaced": false
+}

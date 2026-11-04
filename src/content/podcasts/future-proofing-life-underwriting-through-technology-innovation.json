@@ -1,0 +1,47 @@
+{
+  "wpId": 5183,
+  "title": "Future-proofing life underwriting through technology innovation",
+  "slug": "future-proofing-life-underwriting-through-technology-innovation",
+  "path": "/podcast/future-proofing-life-underwriting-through-technology-innovation/",
+  "date": "2024-04-19 13:53:04",
+  "modified": "2024-04-19 13:53:04",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E13_thumbnail_Luanna_Eroles_Interview-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5181
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "Watch on Youtube",
+      "url": "https://www.youtube.com/watch?v=sWJDblAxFR8&list=PLl9Aulxh1VePW1MCtgpOqCRDPjYWn9Zy2&index=19",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>One of the many interviews with Insurance Experts that we recorded at the Insurtech Insights 2024 in London. Interviewing Luanna Eroles, Insurtech | Product Owner | Innovator &#8211; samplemed</p>\n",
+    "podcast_cover": {
+      "id": 5184,
+      "url": "/uploads/2024/04/S01E13_thumbnail_Luanna_Eroles_Interview-min.jpg",
+      "alt": "S01E13_thumbnail_Luanna_Eroles_Interview-min",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

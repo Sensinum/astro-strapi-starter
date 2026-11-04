@@ -1,0 +1,44 @@
+{
+  "wpId": 4459,
+  "title": "The Path to Technical Leadership - Story About the Missing Gap ",
+  "slug": "the-path-to-technical-leadership",
+  "path": "/watch/the-path-to-technical-leadership/",
+  "date": "2023-07-10 10:56:02",
+  "modified": "2024-01-12 10:25:42",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 177,
+        "slug": "technical-leadership",
+        "name": "technical leadership"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "September 27, 2023",
+    "talks_speakers": [
+      4448,
+      4487
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<blockquote class=\"wp-block-quote\">\n<p>Are you feeling stuck on your journey to seniority, wondering what's holding you back? Gain clarity and direction as you navigate the challenges of leadership. Join us for \"The Path to Technical Leadership - Story About the Missing Gap\" workshop and uncover the commonly overlooked gap that may be hindering your progress. This interactive workshop is specifically tailored for aspiring leaders in technical roles. </p>\n\n\n\n<p>Discover how to bridge the gap and unlock your leadership potential, earn practical strategies to propel yourself to the next level as well as actionable insights for success in your field.</p>\n</blockquote>"
+    }
+  ],
+  "formReplaced": false
+}

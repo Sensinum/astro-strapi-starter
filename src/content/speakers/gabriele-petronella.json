@@ -1,0 +1,43 @@
+{
+  "wpId": 415,
+  "title": "Gabriele Petronella",
+  "slug": "gabriele-petronella",
+  "path": "/contributor/gabriele-petronella/",
+  "date": "2020-01-01 00:01:01",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Co-founder of buildo",
+    "speaker_avatar": {
+      "id": 416,
+      "url": "/uploads/2021/03/Gabriele_Petronella.jpeg",
+      "alt": "Gabriele Petronella",
+      "width": 1327,
+      "height": 1276
+    },
+    "speaker_surname": "Petronella",
+    "speaker_twitter": "https://twitter.com/gabro27",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/gpetronella/",
+    "speaker_gh": "https://github.com/gabro"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Gabriele is co-founder of buildo, where he’s a software engineer, working with Scala, JavaScript and Swift. He founded the Scala User Group in Milan and he’s an organizer of Scala Italy, the Italian conference on Scala. In the – rare – free time, you’ll find him on a plane or at the basketball court.</p>"
+    }
+  ],
+  "formReplaced": false
+}

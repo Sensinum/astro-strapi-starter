@@ -1,0 +1,48 @@
+{
+  "wpId": 173,
+  "title": "Countdown to Scala 3",
+  "slug": "countdown-to-scala-3",
+  "path": "/watch/countdown-to-scala-3/",
+  "date": "2020-01-01 00:03:14",
+  "modified": "2021-03-31 14:43:08",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 28,
+        "slug": "dotty",
+        "name": "Dotty"
+      },
+      {
+        "id": 30,
+        "slug": "scala-3",
+        "name": "Scala 3"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=n9LPwOPACj4&t=19s",
+    "video_thumbnail": false,
+    "talk_date": "September 15, 2020",
+    "talks_speakers": [
+      129
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I give a quick status report where we are with Scala 3.</p>\n\n\n\n<p>What is the current status? What remains to be done? Who is contributing to the effort?</p>\n\n\n\n<p>I'll also give some initial thoughts about how Scala will evolve after 3.0 is out.</p>"
+    }
+  ],
+  "formReplaced": false
+}

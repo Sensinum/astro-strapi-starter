@@ -1,0 +1,43 @@
+{
+  "wpId": 407,
+  "title": "Aleksander Boruch-Gruszecki",
+  "slug": "aleksander-boruch-gruszecki",
+  "path": "/contributor/aleksander-boruch-gruszecki/",
+  "date": "2020-01-01 00:01:05",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "PHD Student at EPFL",
+    "speaker_avatar": {
+      "id": 408,
+      "url": "/uploads/2021/03/Aleksander_Boruch-Gruszecki.jpeg",
+      "alt": "Aleksander Boruch-Gruszecki",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Boruch-Gruszecki",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/aleksander-boruch-gruszecki-81b424b2/?locale=en_US",
+    "speaker_gh": "https://github.com/abgruszecki"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I’m Martin Odersky’s newest PhD student, interested in GADTs, typelevel programming and effect systems. Before coming to EPFL, I spent four years working in the industry on back- and front-ends of web applications and dealing with the abomination known as TeamSite. Also, I drink frankly absurd amounts of coffee.\"</p>"
+    }
+  ],
+  "formReplaced": false
+}

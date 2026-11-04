@@ -1,0 +1,32 @@
+{
+  "wpId": 5313,
+  "title": "Adam Wawrzyński",
+  "slug": "adam-wawrzynski",
+  "path": "/contributor/adam-wawrzynski/",
+  "date": "2024-09-12 12:47:48",
+  "modified": "2024-09-12 12:47:48",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5314,
+      "url": "/uploads/2024/09/i5mqv8c9bxbnemy.png",
+      "alt": "i5mqv8c9bxbnemy",
+      "width": 1080,
+      "height": 1080
+    },
+    "speaker_position": "Senior Machine Learning Engineer at SoftwareMill",
+    "speaker_add_info": "",
+    "speaker_surname": "Wawrzyński",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/adam-wawrzynski/",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [],
+  "formReplaced": false
+}

@@ -1,0 +1,70 @@
+{
+  "wpId": 3201,
+  "title": "Clouds are not Free: Guide to Observability - Driven Efficiency Optimizations",
+  "slug": "clouds-are-not-free-guide-to-observability-driven-efficiency-optimizations",
+  "path": "/watch/clouds-are-not-free-guide-to-observability-driven-efficiency-optimizations/",
+  "date": "2022-08-04 16:18:59",
+  "modified": "2023-03-21 11:34:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/08/bartek_plotka_thumbnails_sphereconf-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 26,
+        "slug": "cloud",
+        "name": "Cloud"
+      },
+      {
+        "id": 147,
+        "slug": "efficency",
+        "name": "Efficency"
+      },
+      {
+        "id": 145,
+        "slug": "golang",
+        "name": "Golang"
+      },
+      {
+        "id": 130,
+        "slug": "observability",
+        "name": "Observability"
+      },
+      {
+        "id": 146,
+        "slug": "performance",
+        "name": "Performance"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      },
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=yk1f9PL7d7Y",
+    "video_thumbnail": false,
+    "talk_date": "September 21, 2022",
+    "talks_speakers": [
+      1788
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Over the recent decade, cloud computing and cloud-native platforms emerged and promised lower costs, less effort and more flexibility. Unfortunately, in practice, it is not so easy. Knowledge short gaps, pitfalls, the complexity of using cloud APIs, and misunderstanding of services and systems cause companies to lose millions of dollars annually. On top of that, the big data world demands more and more software and computing power daily. </p>\n\n\n\n<p>Fortunately, there is a method to that madness! Whether you build your own software or use open source or paid systems, there are many efficiency gains that will save tons of money! Sometimes it’s a code optimization, sometimes algorithm adjustment, sometimes system-level operation! </p>\n\n\n\n<p>In this talk, Bartek, an open-source maintainer of observability projects like Prometheus and Thanos, author of “Efficient Go” book, and the CNCF TAG Observability Tech Lead, will explain how to notice and uncover efficiency problems effectively thanks to the power of modern cloud-native observability and tooling. The audience will learn pragmatic practices they can do to ensure effective and sustainable optimizations and how to avoid regressions in the future. All to increase the business operational margin and enable more opportunities with more efficient software and systems.</p>"
+    }
+  ],
+  "formReplaced": false
+}

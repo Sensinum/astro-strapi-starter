@@ -1,0 +1,43 @@
+{
+  "wpId": 360,
+  "title": "Gabriel Asman",
+  "slug": "gabriel-asman",
+  "path": "/contributor/gabriel-asman/",
+  "date": "2020-01-01 00:01:24",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Developer for OVO Energy",
+    "speaker_avatar": {
+      "id": 361,
+      "url": "/uploads/2021/03/Gabriel-Asman-500x500-1.jpg",
+      "alt": "Gabriel Asman",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Asman",
+    "speaker_twitter": "https://twitter.com/gabriel_asman",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": "https://github.com/Qthunder"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Gabriel is a Software Developer for OVO Energy. As part of the core team, he works on integration with smart-meters and payment providers, that help other teams deliver a seamless service to our customers.</p>"
+    }
+  ],
+  "formReplaced": false
+}

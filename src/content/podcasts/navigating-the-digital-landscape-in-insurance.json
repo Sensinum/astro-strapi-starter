@@ -1,0 +1,51 @@
+{
+  "wpId": 5062,
+  "title": "Navigating the Digital Landscape in Insurance",
+  "slug": "navigating-the-digital-landscape-in-insurance",
+  "path": "/podcast/navigating-the-digital-landscape-in-insurance/",
+  "date": "2024-03-19 10:08:02",
+  "modified": "2024-03-19 11:46:09",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/03/thumbnail_Navigating-the-Digital-Landscape-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5082
+    ],
+    "podcast_spotify": {
+      "title": "Listen on Spotify",
+      "url": "https://open.spotify.com/episode/1oD69CwP1VLllt8sUnpril?si=UZfoYCQqRY6GIcaAFHjTug",
+      "target": "_blank"
+    },
+    "podcast_yt": {
+      "title": "Watch on YouTube",
+      "url": "https://www.youtube.com/watch?v=Mr7FXeByz9A&t=13s",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>Tune in to discover yet another insightful episode delving into the challenges of transformation in the insurance industry. This podcast is about an exploration of the transformative journey at the edge of existing paradigms within across industry. It conveys the idea of being on the forefront of change, where traditional approaches meet the evolving digital transformation landscape. The podcast delves into discussions, insights, and interviews that shed light on the challenges, opportunities, and strategies for navigating this paradigm shift and embracing the digital transformation within the given sector.</p>\n<p>The podcast series is a collaborative venture with VirtusLab, a leading company dedicated to developing innovative technologies and delivering high-performance solutions to clients.</p>\n",
+    "podcast_cover": {
+      "id": 5063,
+      "url": "/uploads/2024/03/plansza-video-otwierajAca-episode-2-scaled.jpg",
+      "alt": "Navigating the Digital Landscape in Insurance | Dan Fiehn | Sphere.it Podcast",
+      "width": 2560,
+      "height": 1440
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

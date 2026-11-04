@@ -1,0 +1,30 @@
+{
+  "wpId": 5259,
+  "title": "My PoC project is a success, what now?",
+  "slug": "my-poc-project-is-a-success-what-now",
+  "path": "/watch/my-poc-project-is-a-success-what-now/",
+  "date": "2024-09-11 11:01:08",
+  "modified": "2024-09-12 14:39:37",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "October 24, 2024",
+    "talks_speakers": [
+      5311,
+      5313,
+      5315
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>This workshop will allow you to learn the tools for successfully transitioning from a PoC project to a fully-functional productionized environment.</p>\n\n\n\n<p><strong>Dedicated to: </strong>Data Scientists who want to learn best engineering practices for the productionization of ML model deployment</p>\n\n\n\n<p>Places are limited - first come, first served. </p>"
+    }
+  ],
+  "formReplaced": false
+}

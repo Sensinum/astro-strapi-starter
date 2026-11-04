@@ -1,0 +1,37 @@
+{
+  "wpId": 5161,
+  "title": "Antonio Santolaya",
+  "slug": "antonio-santolaya",
+  "path": "/contributor/antonio-santolaya/",
+  "date": "2024-04-19 13:15:10",
+  "modified": "2024-04-19 13:15:11",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5162,
+      "url": "/uploads/2024/04/1581354420732.jpeg",
+      "alt": "1581354420732",
+      "width": 324,
+      "height": 324
+    },
+    "speaker_position": "Co-founder Pluginsurance & Aictuari.com",
+    "speaker_add_info": "",
+    "speaker_surname": "Santolaya",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/antoniosantolaya/",
+    "speaker_gh": "",
+    "desc_episodes": "20+ years developing online insurance projects"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Co-founder Pluginsurance &amp; Aictuari.com</p>"
+    }
+  ],
+  "formReplaced": false
+}

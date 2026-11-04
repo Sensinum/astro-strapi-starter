@@ -1,0 +1,43 @@
+{
+  "wpId": 240,
+  "title": "Gautier Di Folco",
+  "slug": "gautier-di-folco",
+  "path": "/contributor/gautier-di-folco/",
+  "date": "2020-01-01 00:02:06",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Tech Lead at Linagora",
+    "speaker_avatar": {
+      "id": 241,
+      "url": "/uploads/2021/03/Gautier_Di_Folco.jpeg",
+      "alt": "Gautier Di Folco",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Folco",
+    "speaker_twitter": "https://twitter.com/gautier_difolco",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/gautier-di-folco/?originalSubdomain=fr",
+    "speaker_gh": "https://github.com/blackheaven"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>After working 3 years in the embedded and security software development, Gautier now works for Linagora, on Apache James, an Open Source mail server. His main tasks are to improve robustness, scalability, and security. He is also an occasional Haskell teacher.<br>His interests are functional programming, distributed systems, and security.</p>"
+    }
+  ],
+  "formReplaced": false
+}

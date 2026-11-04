@@ -1,0 +1,35 @@
+{
+  "wpId": 332,
+  "title": "Michael Clifford",
+  "slug": "michael-clifford",
+  "path": "/contributor/michael-clifford/",
+  "date": "2020-01-01 00:01:36",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Data Scientist - R&D Artificial Intelligence at Red Hat",
+    "speaker_avatar": {
+      "id": 333,
+      "url": "/uploads/2021/03/Michael_Clifford-Michael-Clifford.jpeg",
+      "alt": "Michael Clifford",
+      "width": 460,
+      "height": 460
+    },
+    "speaker_surname": "Clifford",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/jamesmichaelclifford/",
+    "speaker_gh": "https://github.com/MichaelClifford"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Michael Clifford is a Data Scientist at Red Hat working in the AI Center of Excellence (AI CoE) within the Office of the CTO. His current area of focus is on solving problems in the AI Ops space, developing NLP and unsupervised learning solutions for intelligent applications built for the cloud.</p>"
+    }
+  ],
+  "formReplaced": false
+}

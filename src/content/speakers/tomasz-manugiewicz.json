@@ -1,0 +1,35 @@
+{
+  "wpId": 2081,
+  "title": "Tomasz Manugiewicz",
+  "slug": "tomasz-manugiewicz",
+  "path": "/contributor/tomasz-manugiewicz/",
+  "date": "2021-11-02 14:51:41",
+  "modified": "2021-11-02 14:51:43",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": " General Manager at Grand Parade Poland",
+    "speaker_avatar": {
+      "id": 2082,
+      "url": "/uploads/2021/11/1622638369234.jpeg",
+      "alt": "Tomasz Manugiewicz",
+      "width": 542,
+      "height": 529
+    },
+    "speaker_surname": "Manugiewicz",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/tomaszmanugiewicz/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Tomek is an Agile enthusiast and Coach, Engineer at heart. Former Engineering Manager, Scrum Master and Software Developer. Tomek conducted his first Agile Transformation in 2009. He worked for various international IT companies and lived in Vienna, Toronto, and the Isle of Man. Passionate about how people relations influence Software Development. He uses his empathy, connectedness, and restorative talents (based on Gallup's taxonomy) to help development teams boost their productivity and individual well-being. </p>\n\n\n\n<p>He is known for giving others a sense of comfort and stability in the face of uncertainty. His ability to link together the facts and dots gives him a feeling that he would have been a good doctor or detective - he is happy that he decided to study Computer Science though. Tomek loves skiing, biking, and sailing. Recently he has started his journey as a lecturer at AGH University of Science and Technology leading courses he designed for future engineers.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,235 @@
+.block-vived-promo {
+  padding: 100px 0;
+  background-color: #0D111A;
+}
+@media (max-width: 991.98px) {
+  .block-vived-promo {
+    padding: 50px 0;
+  }
+}
+@media (min-width: 992px) {
+  .block-vived-promo .block-title {
+    margin-bottom: 135px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-vived-promo .block-title {
+    overflow-wrap: break-word;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-vived-promo .block-description,
+.block-vived-promo .promo-box,
+.block-vived-promo .video-wrapper {
+    margin-top: 80px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-vived-promo .block-description,
+.block-vived-promo .promo-box,
+.block-vived-promo .video-wrapper {
+    margin-top: 65px;
+  }
+}
+.block-vived-promo .promo-box,
+.block-vived-promo .video-wrapper {
+  max-width: 100%;
+}
+@media (max-width: 991.98px) {
+  .block-vived-promo .promo-box,
+.block-vived-promo .video-wrapper {
+    width: 344px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-vived-promo .promo-box,
+.block-vived-promo .video-wrapper {
+    width: 100%;
+    max-width: 295px;
+  }
+}
+@media (min-width: 992px) {
+  .block-vived-promo .block-description {
+    margin-bottom: 30px;
+    padding-right: 15%;
+  }
+}
+.block-vived-promo .block-description a {
+  color: #A1EF8B;
+}
+.block-vived-promo .block-description p:last-child, .block-vived-promo .block-description ul:last-child {
+  margin-bottom: 0;
+}
+@media (min-width: 992px) {
+  .block-vived-promo .promo-box-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding-bottom: 40px;
+  }
+}
+.block-vived-promo .promo-box-col .promo-box {
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: 1.5px solid transparent;
+}
+@media (min-width: 992px) {
+  .block-vived-promo .promo-box-col .promo-box {
+    min-width: 446px;
+    max-width: 446px;
+    padding: 44.5px 55.5px;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-vived-promo .promo-box-col .promo-box {
+    flex-direction: column;
+    text-align: center;
+    padding: 30px 50px;
+  }
+}
+.block-vived-promo .promo-box-col .promo-box .text-info {
+  display: flex;
+  flex-direction: column;
+}
+@media (min-width: 992px) {
+  .block-vived-promo .promo-box-col .promo-box .text-info {
+    height: 150px;
+    margin-right: 45px;
+    justify-content: space-between;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-vived-promo .promo-box-col .promo-box .text-info {
+    align-items: center;
+  }
+}
+.block-vived-promo .promo-box-col .promo-box .text-info:before, .block-vived-promo .promo-box-col .promo-box .text-info:after {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: -1.5px;
+  border-top: 1.5px solid #A1EF8B;
+}
+.block-vived-promo .promo-box-col .promo-box .text-info:before {
+  left: -1.5px;
+  border-left: 1.5px solid #A1EF8B;
+}
+.block-vived-promo .promo-box-col .promo-box .text-info:after {
+  right: -1.5px;
+  border-right: 1.5px solid #A1EF8B;
+}
+.block-vived-promo .promo-box-col .promo-box .text-info .vived-logo {
+  width: 104px;
+  height: auto;
+}
+@media (max-width: 991.98px) {
+  .block-vived-promo .promo-box-col .promo-box .text-info .vived-logo {
+    margin: 13px 0;
+  }
+}
+.block-vived-promo .promo-box-col .promo-box .link-vived {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.block-vived-promo .promo-box-col .promo-box .link-vived:before, .block-vived-promo .promo-box-col .promo-box .link-vived:after {
+  content: "";
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  bottom: -1.5px;
+  border-bottom: 1.5px solid #A1EF8B;
+}
+.block-vived-promo .promo-box-col .promo-box .link-vived:before {
+  left: -1.5px;
+  border-left: 1.5px solid #A1EF8B;
+}
+.block-vived-promo .promo-box-col .promo-box .link-vived:after {
+  right: -1.5px;
+  border-right: 1.5px solid #A1EF8B;
+}
+.block-vived-promo .promo-box-col .promo-box .link-vived .qr-code {
+  width: 150px;
+}
+@media (max-width: 991.98px) {
+  .block-vived-promo .promo-box-col .promo-box .link-vived .qr-code {
+    margin-top: 40px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-vived-promo .promo-box-col .promo-box .link-vived .qr-code {
+    margin-top: 30px;
+  }
+}
+.block-vived-promo .promo-box-col .promo-box .link-vived .vived-ios,
+.block-vived-promo .promo-box-col .promo-box .link-vived .vived-android {
+  display: none;
+  width: 150px;
+}
+@media (max-width: 991.98px) {
+  .block-vived-promo .promo-box-col .promo-box .link-vived .vived-ios,
+.block-vived-promo .promo-box-col .promo-box .link-vived .vived-android {
+    margin-top: 65px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-vived-promo .promo-box-col .promo-box .link-vived .vived-ios,
+.block-vived-promo .promo-box-col .promo-box .link-vived .vived-android {
+    margin-top: 50px;
+  }
+}
+.block-vived-promo .promo-box-col .promo-box .link-vived .vived-ios img,
+.block-vived-promo .promo-box-col .promo-box .link-vived .vived-android img {
+  max-width: 100%;
+  height: auto;
+}
+@media (max-width: 991.98px) {
+  .block-vived-promo .promo-box-col .promo-box .link-vived.ios .vived-ios {
+    display: block;
+  }
+  .block-vived-promo .promo-box-col .promo-box .link-vived.ios .qr-code {
+    display: none;
+  }
+  .block-vived-promo .promo-box-col .promo-box .link-vived.android .vived-android {
+    display: block;
+  }
+  .block-vived-promo .promo-box-col .promo-box .link-vived.android .qr-code {
+    display: none;
+  }
+}
+.block-vived-promo .video-wrapper {
+  position: relative;
+  border: 8px solid #363B45;
+  border-radius: 30px;
+  overflow: hidden;
+}
+@media (min-width: 992px) {
+  .block-vived-promo .video-wrapper {
+    width: 344px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+.block-vived-promo .video-wrapper img {
+  max-width: 100%;
+  height: auto;
+}
+.block-vived-promo .video-wrapper .embed-responsive.mobile-aspect-ratio:before {
+  padding-top: 216.2162162162%;
+}
+.block-vived-promo .video-wrapper .video-placeholder {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("/theme/assets/img/sphere_placeholder_dark.png");
+  background-size: cover;
+  background-position: center;
+}
+
+/*# sourceMappingURL=block-vived-promo.css.map */

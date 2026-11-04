@@ -1,0 +1,43 @@
+{
+  "wpId": 537,
+  "title": "Spark with Ammonite and coursier",
+  "slug": "spark-with-ammonite-and-coursier",
+  "path": "/watch/spark-with-ammonite-and-coursier/",
+  "date": "2020-01-01 00:01:36",
+  "modified": "2023-03-20 12:02:04",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 86,
+        "slug": "spark",
+        "name": "Spark"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=sGexGhtrCq0",
+    "video_thumbnail": false,
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      420
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>With spark support about to land in Ammonite, we can now resort to both Ammonite and coursier to handle everything spark, in a more lightweight and reproducible fashion. This talk will discuss the subtleties of the spark support in both tools. We’ll see how they can be used to handle and run spark jobs, and the benefits of doing so.</p>"
+    }
+  ],
+  "formReplaced": false
+}

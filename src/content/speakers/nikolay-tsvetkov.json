@@ -1,0 +1,43 @@
+{
+  "wpId": 350,
+  "title": "Nikolay Tsvetkov",
+  "slug": "nikolay-tsvetkov",
+  "path": "/contributor/nikolay-tsvetkov/",
+  "date": "2020-01-01 00:01:29",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Big Data Software Engineer at CERN",
+    "speaker_avatar": {
+      "id": 351,
+      "url": "/uploads/2021/03/Nikolay_Tsvetkov.jpeg",
+      "alt": "Nikolay Tsvetkov",
+      "width": 200,
+      "height": 200
+    },
+    "speaker_surname": "Tsvetkov",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/nikolay-tsvetkov-96235521/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Nikolay is a Senior Software Engineer at CERN where he is currently working on the Monitoring infrastructure for the computer centre and IT services.</p>\n\n\n\n<p>Dealing with variety of heterogeneous data sources his main goal is providing common infrastructure to serve metrics and logs at scale.</p>\n\n\n\n<p>He has previously taken part in the design of the Next CERN Accelerators Logging Service that is a large scale system meant to store technical accelerators data.</p>\n\n\n\n<p>Passionate about Big Data and distributed computing technologies Nikolay places Apache Spark and Kafka on top of his preference list.</p>"
+    }
+  ],
+  "formReplaced": false
+}

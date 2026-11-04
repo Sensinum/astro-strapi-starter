@@ -1,0 +1,98 @@
+{
+  "wpId": 58,
+  "title": "FAQ",
+  "slug": "faq",
+  "path": "/faq/",
+  "date": "2021-03-03 15:16:41",
+  "modified": "2023-12-08 10:28:37",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {},
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Discover answers to commonly asked questions about Sphere.it Platform and initiatives. If you have any additional inquiries, feel free to reach out to our team.</p>\n\n\n\n<p></p>"
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-faq-accordion",
+      "anchor": "acf-block-64abfbf755a96",
+      "data": {
+        "block_title": null,
+        "block_faq": [
+          {
+            "question": "What is the Sphere.it Platform?",
+            "answer": "The Sphere.it Platform is a tech-centric online hub designed to foster knowledge sharing, networking, and collaboration within the tech community. It encompasses various sections, including a library of recorded talks, webinars, a video podcast series, curated reading content, and details about upcoming events we host and empower."
+          },
+          {
+            "question": "What's available in the \"Explore\" section?",
+            "answer": "Dive into your gateway to an extensive repository of tech talks, discussions, and insightful content from our YouTube channel. It's your go-to source for staying informed and inspired by the latest in tech trends and knowledge."
+          },
+          {
+            "question": "Tell me more about the video podcast by sphere.it. What's it all about?",
+            "answer": "Our video podcast series, Sphere.IT Podcast, features in-depth conversations with tech experts and influencers. It explores a wide range of tech-related topics, offering valuable insights and expert opinions."
+          },
+          {
+            "question": "What's available in the \"Vived\" section?",
+            "answer": "The \"Vived\" section provides curated written and recored content, including articles, blog posts, and tech-related resources [podcast, event coverages, webinars] . It's your go-to place for thought-provoking tech pieces. "
+          },
+          {
+            "question": "How do I find details about upcoming tech events?",
+            "answer": "You can access information about upcoming tech events, including Sphere.it conferences and community gatherings, in the \"Let’s meet\" section. Keep an eye on this section for announcements and registration details."
+          },
+          {
+            "question": "How can I become a guest on the Sphere.IT Podcast?",
+            "answer": "If you're interested in being a guest on our podcast, please reach out to us via the contact form on our website. Share your expertise and proposed topics, and our team will get in touch with you."
+          },
+          {
+            "question": "I have valuable tech content to contribute. How can I become an editor or author for the platform?",
+            "answer": "We welcome contributors who can provide high-quality tech content. If you're interested in becoming an editor or author, please send us a sample of your work and a brief introduction via our contact form."
+          },
+          {
+            "question": " I'd like to speak at a Sphere.it conference and/ or other sphere.it events. How can I apply?",
+            "answer": "To become a conference speaker, submit your proposal through our designated application process. We review all submissions and select speakers based on the relevance and quality of their proposed talks."
+          },
+          {
+            "question": "Do I need to create an account to access content on the Sphere.it Platform?",
+            "answer": "No, you can access most content on the platform without creating an account. However, certain features accessible via Vived require registration."
+          },
+          {
+            "question": "Can I download talks or podcast episodes for offline access?",
+            "answer": "Currently, we do not offer the option to download content for offline access. You can, however, stream and enjoy all content directly on the platform."
+          },
+          {
+            "question": " Is there a mobile app for the Sphere.it Platform?",
+            "answer": "Please use Vived App. It's our go-to place for thought-provoking tech content."
+          },
+          {
+            "question": " How can I stay updated on new content and events?",
+            "answer": "To stay updated on the latest content releases and event announcements, subscribe to our newsletter or follow us on our social media channels. We regularly share updates and news there. "
+          },
+          {
+            "question": "How can I provide feedback or report issues with the platform?",
+            "answer": "We appreciate your feedback. You can reach out to us through the contact form on our website to report issues, suggest improvements, or provide general feedback.\r\n"
+          },
+          {
+            "question": "Do you have a Code of Conduct?",
+            "answer": "Yes, you can find our Code of Conduct at /code-of-conduct/. Adhering to the Code of Conduct is necessary to be part of the Sphere.it community. If you observe any violations, please report them to team@sphere.it.\r\n"
+          },
+          {
+            "question": "Have more questions?",
+            "answer": "If you have any further questions about the Sphere.it or the Sphere.it initiatives, please reach out to our team at team@sphere.it. We're here to help!"
+          }
+        ],
+        "block_background_color": null,
+        "block_font_color": null,
+        "menu_label": "FAQ"
+      }
+    },
+    {
+      "kind": "html",
+      "html": "<p class=\"has-medium-font-size\"></p>\n\n\n\n<p class=\"has-medium-font-size\"></p>\n\n\n\n<p class=\"has-medium-font-size\"></p>"
+    }
+  ],
+  "formReplaced": false
+}

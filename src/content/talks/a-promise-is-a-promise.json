@@ -1,0 +1,36 @@
+{
+  "wpId": 494,
+  "title": "A Promise is a Promise",
+  "slug": "a-promise-is-a-promise",
+  "path": "/watch/a-promise-is-a-promise/",
+  "date": "2020-01-01 00:02:13",
+  "modified": "2023-03-20 15:06:05",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=S1BkbcHn-l8&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      380
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Let’s talk about promises. We all know them, we all use them, we all know how they work… right? This short talk will dynamically go over several aspects of working with promises and give an overview of how are they aligned with other solutions. I’ll try to have some surprises on the topic for everyone ;)</p>"
+    }
+  ],
+  "formReplaced": false
+}

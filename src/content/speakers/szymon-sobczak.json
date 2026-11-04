@@ -1,0 +1,43 @@
+{
+  "wpId": 2223,
+  "title": "Szymon Sobczak",
+  "slug": "szymon-sobczak",
+  "path": "/contributor/szymon-sobczak/",
+  "date": "2021-12-03 10:07:29",
+  "modified": "2021-12-10 13:19:45",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Founder & CTO at Solvbot",
+    "speaker_avatar": {
+      "id": 2303,
+      "url": "/uploads/2021/12/profilowe_2021-Szymon-Sobczak.jpg",
+      "alt": "Szymon Sobczak",
+      "width": 600,
+      "height": 600
+    },
+    "speaker_surname": "Sobczak",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/szymonsobczak/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Założyciel i CTO w Solvbot - firmie wytwarzającej oprogramowanie z dziedziny LegalTech. Spędził kilka lat w Dolinie Krzemowej, pracując m. in. w Google. Wcześniej architekt systemów Big Data, teraz zajmuje się tematyką startupów, zarządzania produktem i budowania zespołu. Studiował informatykę, biochemię i zarządzanie. </p>\n\n\n\n<p>Zaczął programować zawodowo w 2007 i w swojej karierze pisał kod produkcyjny w języku PHP, C++, C (embedded), Go, Ruby, R, JavaScript i Python. Hobbystycznie kolarz, fotograf i memolog.</p>"
+    }
+  ],
+  "formReplaced": false
+}

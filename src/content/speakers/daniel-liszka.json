@@ -1,0 +1,43 @@
+{
+  "wpId": 403,
+  "title": "Daniel Liszka",
+  "slug": "daniel-liszka",
+  "path": "/contributor/daniel-liszka/",
+  "date": "2020-01-01 00:01:07",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Business Development Manager at VMware",
+    "speaker_avatar": {
+      "id": 404,
+      "url": "/uploads/2021/03/Daniel_Liszka.png",
+      "alt": "Daniel Liszka",
+      "width": 512,
+      "height": 512
+    },
+    "speaker_surname": "Liszka",
+    "speaker_twitter": "https://twitter.com/daniel_liszka",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/dliszka/",
+    "speaker_gh": "https://github.com/danoo"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Sr. Business Development Manager at VMware, working with the world's leading cloud providers including Microsoft, Google, and Oracle. He was building Bitnami for many years before the acquisition by VMware. </p>\n\n\n\n<p>Worked in software and with Open Source for over 15+ years as a developer, team leader, architect, building Web Applications, SaaS and Cloud Computing automation. Most of his professional career in startup, helping to scale from a few to a hundred. Digital nomad, more than 10+ years of working remotely.</p>"
+    }
+  ],
+  "formReplaced": false
+}

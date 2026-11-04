@@ -1,0 +1,53 @@
+{
+  "wpId": 512,
+  "title": "AI, Big Data and the new social order",
+  "slug": "ai-big-data-and-the-new-social-order-2",
+  "path": "/watch/ai-big-data-and-the-new-social-order-2/",
+  "date": "2020-01-01 00:02:00",
+  "modified": "2023-03-21 09:46:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 46,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 66,
+        "slug": "big-data",
+        "name": "Big Data"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=W-azDIf-EOw&t=2s",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      266
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>New developments in the area of Artificial Intelligence and Big Data processing enable many global organizations to acquire unprecedented level of control over many civic organization. Data are becoming a fundamental tool both in enlarging the mentioned control as well as in the defense of civic organizations, public agencies and governments. In the nowadays world, there are essentially three models of governance based on Big Data and AI. The first is European with the GDPR. </p>\n\n\n\n<p>The second is coming from the US which essentially relies on big corporation. The third is Chinese, which mimics the tools of totalitarian state in the new Big Data/AI ecosystem. In the presentation, I will show possibilities that NGOs, civic organizations can use to protect their rights. I will also discuss fundamental questions regarding the new social order that needs to be constructed for the digital world.</p>"
+    }
+  ],
+  "formReplaced": false
+}

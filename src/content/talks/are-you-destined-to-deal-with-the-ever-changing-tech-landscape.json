@@ -1,0 +1,48 @@
+{
+  "wpId": 4006,
+  "title": "Are you destined to deal with the ever-changing tech landscape?",
+  "slug": "are-you-destined-to-deal-with-the-ever-changing-tech-landscape",
+  "path": "/watch/are-you-destined-to-deal-with-the-ever-changing-tech-landscape/",
+  "date": "2023-01-18 16:20:37",
+  "modified": "2023-11-09 12:13:36",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/11/thumbnail_video_adam-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      },
+      {
+        "id": 143,
+        "slug": "career-stories",
+        "name": "Career stories"
+      },
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "February 21, 2023",
+    "talks_speakers": [
+      141
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>We often question whether our career stays on track or current skills are good enough to sustain us in the job market. How to transition from one technology field to the other? What are the ultimate skills despite the fact of an ever-changing technological landscape?</p>\n\n\n\n<p>In this presentation, I will share my career path and key lessons that helped me adapt to the new role and move forward. The content should be relevant both for individual contributors and aspiring managers.</p>"
+    }
+  ],
+  "formReplaced": false
+}

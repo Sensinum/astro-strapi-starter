@@ -1,0 +1,43 @@
+{
+  "wpId": 510,
+  "title": "Revisiting Implicits",
+  "slug": "revisiting-implicits",
+  "path": "/watch/revisiting-implicits/",
+  "date": "2020-01-01 00:02:01",
+  "modified": "2023-03-21 09:53:04",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 30,
+        "slug": "scala-3",
+        "name": "Scala 3"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=h4dS5WRGJtE&t=19s",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      129
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I'll talk about the history of Scala's implicits: how they evolved, some mistakes we could have avoided in hindsight, as well as aspects I believe we got right. I then present the revised implicit design of Scala 3 and explain how it addresses the problems mentioned earlier.</p>"
+    }
+  ],
+  "formReplaced": false
+}

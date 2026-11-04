@@ -1,0 +1,28 @@
+{
+  "wpId": 5476,
+  "title": "AI Alignment is More Fragile Than You Think (And Shaggoth is Lurking)",
+  "slug": "ai-alignment-is-more-fragile-than-you-think-and-shaggoth-is-lurking",
+  "path": "/watch/ai-alignment-is-more-fragile-than-you-think-and-shaggoth-is-lurking/",
+  "date": "2025-07-30 15:48:29",
+  "modified": "2025-08-14 12:38:17",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "September 30, 2025",
+    "talks_speakers": [
+      5471
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>One of the fundamental features of LLMs is their ability to provide responses aligned with human ethical principles and intentions. In his talk, Przemek will explore what LLMs truly \"know\" about morals, discuss how models are being trained for AI Alignment, and reveal how (surprisingly) easy it is to break. He'll show experimental results, in which a small set of harmful examples could derail alignment. A live demo and open discussion on what it all means for us will follow.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 397,
+  "title": "Chris Trześniewski",
+  "slug": "chris-trzesniewski",
+  "path": "/contributor/chris-trzesniewski/",
+  "date": "2020-01-01 00:01:09",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Chris is a Senior Frontend Developer at Scalac",
+    "speaker_avatar": {
+      "id": 399,
+      "url": "/uploads/2021/03/Chris_Trześniewski-1.jpeg",
+      "alt": "Chris Trześniewski",
+      "width": 339,
+      "height": 387
+    },
+    "speaker_surname": "Trześniewski",
+    "speaker_twitter": "https://twitter.com/ktrz__",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/ktrzesniewski/?locale=pl_PL",
+    "speaker_gh": "https://github.com/ktrz"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Chris is a Senior Frontend Developer at Scalac. He is passionate about functional programming in JavaScript and loves working with RxJS. In his free time, he likes to go jogging.</p>"
+    }
+  ],
+  "formReplaced": false
+}

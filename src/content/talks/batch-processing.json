@@ -1,0 +1,28 @@
+{
+  "wpId": 5464,
+  "title": "Data Issues in Batch Processing ",
+  "slug": "batch-processing",
+  "path": "/watch/batch-processing/",
+  "date": "2025-06-12 10:37:43",
+  "modified": "2025-06-12 13:24:20",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "September 30, 2025",
+    "talks_speakers": [
+      5462
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>For all its convenience, batch processing is far from a perfect solution. In this lightning talk we'll highlight the major, most common data issues when working with classic batch processing and ETLs, while providing insight on how to resolve them with stream processing.</p>"
+    }
+  ],
+  "formReplaced": false
+}

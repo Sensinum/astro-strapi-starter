@@ -1,0 +1,36 @@
+{
+  "wpId": 644,
+  "title": "Stream processing in telco – case study based on Apache Flink & TouK Nussknacker",
+  "slug": "stream-processing-in-telco-case-study-based-on-apache-flink-touk-nussknacker",
+  "path": "/watch/stream-processing-in-telco-case-study-based-on-apache-flink-touk-nussknacker/",
+  "date": "2020-01-01 00:00:52",
+  "modified": "2023-03-20 14:13:22",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=1OkPfnoaMeI",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      603
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Stream processing is one of hypes of last two years. Apache Flink, Spark Streaming and the likes conquer the world. We can hear about quite a few interesting use cases but most come from startups/technology companies – Netflix, Uber or Alibaba are good examples. I’d like to talk about case which is a bit different. Two years ago we helped to introduce Apache Flink in one of the largest mobile operators in Poland – at first to help with real-time marketing. The data used included information from billing and signalling systems. We wanted to enable analysts and semi-technical people to create and monitor processes and that’s how Nussknacker – our open source GUI for Flink was born. </p>\n\n\n\n<p>Today, many steaming jobs are created by analysts, without the need of developers assistance. I’ll tell about this journey – what features of stream processing are important for telco business, what barriers do we see in Flink adoption in enterprise and what we consider to be it’s main selling points. We have learnt that common data model can be reused for different purposes – the most important one is real-time fraud detection. Today we’re processing billions of events daily from more than dozen of sources with &gt; 40 processes running in production. I’ll also talk about our current architecture, where it seems applicable and what are our plans for the future. The target audience of this talk are developers/analysts and architects who consider introducing stream processing in their organizations.</p>"
+    }
+  ],
+  "formReplaced": false
+}

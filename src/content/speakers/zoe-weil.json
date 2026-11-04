@@ -1,0 +1,48 @@
+{
+  "wpId": 391,
+  "title": "Zoë Weil",
+  "slug": "zoe-weil",
+  "path": "/contributor/zoe-weil/",
+  "date": "2020-01-01 00:01:12",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Chief Scientist — Artificial Intelligence at Risalto Health",
+    "speaker_avatar": {
+      "id": 392,
+      "url": "/uploads/2021/03/Zoë_Weil.jpeg",
+      "alt": "Zoë Weil",
+      "width": 460,
+      "height": 460
+    },
+    "speaker_surname": "Weil",
+    "speaker_twitter": "https://twitter.com/wanderlustzoe",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/zo%C3%ABfrancesweil/",
+    "speaker_gh": "https://github.com/wanderlustzoe"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Zoe Weil serves as the Chief Scientist of Artificial Intelligence at Risalto Health Inc. , focusing creating end-to-end learning systems to optimize outcomes and value for patients in the musculoskeletal space. Prior to joining Risalto Health, she led and scaled ML/AI teams at Hooklogic (acquired by Criteo), and KATE, before working on semantic tooling at DRESR (acquired by Google). </p>\n\n\n\n<p>She's very interested in the intersection of software programming and NLP. To that end, she co-founded an AI company, Mindful Machines, in 2016 collaborating with other companies and institutions to build AI tooling to help engineers write higher quality code and better collaborate with product and business teams. . Besides coding and teaching machines to write code, Zoe enjoys watercolor painting, and traveling to remote places around the globe!</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 420,
+  "title": "Alexandre Archambault",
+  "slug": "alexandre-archambault",
+  "path": "/contributor/alexandre-archambault/",
+  "date": "2020-01-01 00:00:59",
+  "modified": "2021-05-17 11:29:22",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at VirtusLab",
+    "speaker_avatar": {
+      "id": 421,
+      "url": "/uploads/2021/03/Alexandre_Archambault-.jpeg",
+      "alt": "Alexandre Archambault",
+      "width": 322,
+      "height": 347
+    },
+    "speaker_surname": "Archambault",
+    "speaker_twitter": "https://twitter.com/alxarchambault",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/alexandrearchambault/",
+    "speaker_gh": "https://github.com/alexarchambault"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Original author of coursier. shapeless and Ammonite contributor.</p>"
+    }
+  ],
+  "formReplaced": false
+}

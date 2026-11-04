@@ -1,0 +1,28 @@
+{
+  "wpId": 5421,
+  "title": "Developer Tooling: The Universal Foundation of Productivity",
+  "slug": "developer-productivity-as-a-foundation-for-dx",
+  "path": "/watch/developer-productivity-as-a-foundation-for-dx/",
+  "date": "2025-01-20 15:51:10",
+  "modified": "2025-01-21 12:48:19",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "February 4, 2025",
+    "talks_speakers": [
+      328
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<blockquote class=\"wp-block-quote\">\n<blockquote class=\"wp-block-quote\">\n<p>Improving development productivity is a challenge shaped by diverse contexts, yet some principles remain universal—whether from the perspective of a human developer or an AI agent. In this talk, I will explore the core elements that enable productive workflows, transcending team structures and technological boundaries.</p>\n</blockquote>\n</blockquote>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

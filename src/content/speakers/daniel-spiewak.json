@@ -1,0 +1,50 @@
+{
+  "wpId": 983,
+  "title": "Daniel Spiewak",
+  "slug": "daniel-spiewak",
+  "path": "/contributor/daniel-spiewak/",
+  "date": "2021-04-28 13:40:34",
+  "modified": "2023-03-21 12:52:58",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "description": "Daniel Spiewak, Principal Engineer at Disney Streaming, speaking at Sphere.it conf 2022 in Krakow, Poland. Topic: Threads at Scale."
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      },
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Principal Engineer at Disney Streaming",
+    "speaker_avatar": {
+      "id": 984,
+      "url": "/uploads/2021/04/Daniel_Spiewak.jpg",
+      "alt": "Daniel Spiewak",
+      "width": 1587,
+      "height": 1587
+    },
+    "speaker_surname": "Spiewak",
+    "speaker_twitter": "https://twitter.com/djspiewak",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/djspiewak/",
+    "speaker_gh": "https://github.com/djspiewak"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Daniel Spiewak is a Software Developer based out of Boulder, CO. Over the years, he has worked with <strong>Scala</strong>, <strong>Java</strong>, <strong>Ruby</strong>, <strong>Haskell</strong>, <strong>C/C++</strong>, <strong>SML</strong>, <strong>Clojure</strong>, and countless other languages. He currently spends most of his time maintaining the Cats Effect project and continuing to push the boundaries of what is possible at the intersection of mathematical laws and highly scalable production implementations.</p>"
+    }
+  ],
+  "formReplaced": false
+}

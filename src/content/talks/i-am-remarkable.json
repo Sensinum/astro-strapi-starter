@@ -1,0 +1,28 @@
+{
+  "wpId": 4933,
+  "title": "#IAmRemarkable",
+  "slug": "i-am-remarkable",
+  "path": "/watch/i-am-remarkable/",
+  "date": "2024-02-13 09:52:59",
+  "modified": "2024-02-20 08:48:17",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2024",
+    "talks_speakers": [
+      4835
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Have you ever been in a situation — in a job interview, meeting, or even a social situation — where you had to talk about your achievements? It’s not easy, is it? Why so many gifted women find it hard to talk openly about their accomplishments? Imposter syndrome. Stereotypes. Culture. For many reasons, lots of us feel uncomfortable sharing our achievements.</p>\n\n\n\n<p>#IAmRemarkable is a global movement that empowers everyone to celebrate their achievements in the workplace and beyond. While it was originally only offered to Google employees, soon there were many requests from customers, agencies, universities, and all sorts of other places. </p>\n\n\n\n<p>Today, #IAmRemarkable is a 90-minute workshop open to everyone, ideal for those who struggle with:</p>\n\n\n\n<ul>\n<li>Making themselves visible,</li>\n\n\n\n<li>Knowing their value,</li>\n\n\n\n<li>Feeling confident,</li>\n</ul>\n\n\n\n<p>During the #IAmRemarkable workshop, you will:</p>\n\n\n\n<ul>\n<li>Learn about the importance of self-promotion in your personal and professional life,</li>\n\n\n\n<li>Discover amplifying stories and research on the transformative power of self-promotion,</li>\n\n\n\n<li>Learn how to embrace and effectively communicate your achievements,</li>\n\n\n\n<li>Gain tools to develop the skill of celebrating their remarkable achievements.</li>\n</ul>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,37 @@
+{
+  "wpId": 5136,
+  "title": "John Walker",
+  "slug": "john-walker",
+  "path": "/contributor/john-walker/",
+  "date": "2024-04-19 12:26:49",
+  "modified": "2024-04-19 12:26:49",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5137,
+      "url": "/uploads/2024/04/1659541578472.jpeg",
+      "alt": "1659541578472",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_position": "Head of Data Science and Engineering at MS Amlin",
+    "speaker_add_info": "",
+    "speaker_surname": "Walker",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/john-walker-5b184240/",
+    "speaker_gh": "",
+    "desc_episodes": "Head of Data Science and Engineering at Mitsui Sumitomo Insurance Group"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Head of Data Science and Engineering at Mitsui Sumitomo Insurance Group</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,47 @@
+{
+  "wpId": 5203,
+  "title": "Managing climate change Risk and an AI use case",
+  "slug": "managing-climate-change-risk-and-an-ai-use-case",
+  "path": "/podcast/managing-climate-change-risk-and-an-ai-use-case/",
+  "date": "2024-04-19 14:14:35",
+  "modified": "2024-04-19 14:14:35",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E18_thumbnail_Federico_daAlbenzio_Interview-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5201
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "watch on YouTube",
+      "url": "https://www.youtube.com/watch?v=y7UY8fq5SDs&list=PLl9Aulxh1VePW1MCtgpOqCRDPjYWn9Zy2&index=23",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>One of the many interviews with Insurance Experts that we recorded at the Insurtech Insights 2024 in London. Interviewing Federico d’Albenzio, Business Developer at Eoliann</p>\n",
+    "podcast_cover": {
+      "id": 5204,
+      "url": "/uploads/2024/04/S01E18_thumbnail_Federico_daAlbenzio_Interview-min.jpg",
+      "alt": "S01E18_thumbnail_Federico_dâAlbenzio_Interview-min",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

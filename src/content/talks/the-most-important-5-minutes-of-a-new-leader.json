@@ -1,0 +1,49 @@
+{
+  "wpId": 4379,
+  "title": "The most important 5 minutes of a new leader",
+  "slug": "the-most-important-5-minutes-of-a-new-leader",
+  "path": "/watch/the-most-important-5-minutes-of-a-new-leader/",
+  "date": "2023-06-28 14:33:19",
+  "modified": "2024-01-12 10:39:14",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "description": "Unlock Leadership Success: Master the First 5 Minutes. Just landed that promotion or transitioned into management? Explore the pivotal meeting that shapes your leadership journey. Join our transformative presentation for valuable insights and proven strategies to thrive in those critical moments. Elevate your leadership prowess for long-term success. Don't miss out on this game-changing opportunity."
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 182,
+        "slug": "beyond-senior",
+        "name": "Beyond Senior"
+      },
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=jLkHnlO0LTk",
+    "video_thumbnail": {
+      "id": 4774,
+      "url": "/uploads/2023/06/maxresdefault-10.jpg",
+      "alt": "Dawid Ostręga",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "September 28, 2023",
+    "talks_speakers": [
+      4377
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>So you got that long-awaited promotion, or you finally made the jump into people management, what now? This presentation will walk you through the most important meeting you will have at the start of your tenure as a leader.</p>"
+    }
+  ],
+  "formReplaced": false
+}

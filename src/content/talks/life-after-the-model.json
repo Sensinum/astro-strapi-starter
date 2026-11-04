@@ -1,0 +1,36 @@
+{
+  "wpId": 638,
+  "title": "Life after the model",
+  "slug": "life-after-the-model",
+  "path": "/watch/life-after-the-model/",
+  "date": "2020-01-01 00:00:58",
+  "modified": "2023-03-20 14:16:16",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=1PImEPRa7BQ",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      290
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Convolutional neural network is ready, F1 score calculated and ROC curve drawn. So you have a model. This tale is about what happens next: when and how to cleanse the model, how do push it into production and what defines quality for the model. I will show it using one of the projects we deployed here at AirHelp. I will also try to show a few tips &amp; tricks that helps me manage Machine Learning projects.</p>"
+    }
+  ],
+  "formReplaced": false
+}

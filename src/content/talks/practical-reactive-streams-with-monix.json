@@ -1,0 +1,43 @@
+{
+  "wpId": 612,
+  "title": "Practical Reactive Streams with Monix",
+  "slug": "practical-reactive-streams-with-monix",
+  "path": "/watch/practical-reactive-streams-with-monix/",
+  "date": "2020-01-01 00:01:15",
+  "modified": "2023-03-20 14:27:07",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 104,
+        "slug": "monix",
+        "name": "Monix"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=eV709ToPYSU",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      558
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Stream processing is a hot topic today and it’s easy to get lost among all the possibilities. In this live coding session we will explore the Reactive Streams approach used by the Monix project – one of the Scala implementations of the Reactive Streams concepts. On an almost real-life example we’re going to walk through both the basics and some more advanced usages of the library.</p>"
+    }
+  ],
+  "formReplaced": false
+}

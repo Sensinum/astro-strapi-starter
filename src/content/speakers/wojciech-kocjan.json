@@ -1,0 +1,43 @@
+{
+  "wpId": 405,
+  "title": "Wojciech Kocjan",
+  "slug": "wojciech-kocjan",
+  "path": "/contributor/wojciech-kocjan/",
+  "date": "2020-01-01 00:01:06",
+  "modified": "2022-03-04 14:09:37",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Platform Engineer at InfluxData",
+    "speaker_avatar": {
+      "id": 406,
+      "url": "/uploads/2021/03/Wojciech_Kocjan.jpeg",
+      "alt": "Wojciech Kocjan",
+      "width": 240,
+      "height": 240
+    },
+    "speaker_surname": "Kocjan",
+    "speaker_twitter": "https://twitter.com/wojciechka",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/wkocjan/",
+    "speaker_gh": "https://github.com/wojciechka"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Wojciech currently works at InfluxData, where he deals with DevOps - CI / CD, process automation for InfluxDB Cloud in various public clouds and many regions and volatile test environments. 10 years of experience in building solutions based on public clouds. He has worked with Open Source software for over 10 years as a developer, team leader and architect. Most of his career focuses on startups, where he helps with automation, CI / CD, and automation.</p>"
+    }
+  ],
+  "formReplaced": false
+}

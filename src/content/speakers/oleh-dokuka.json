@@ -1,0 +1,43 @@
+{
+  "wpId": 249,
+  "title": "Oleh Dokuka",
+  "slug": "oleh-dokuka",
+  "path": "/contributor/oleh-dokuka/",
+  "date": "2020-01-01 00:02:03",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Principal Software Developer/Developer Advocate at Netifi",
+    "speaker_avatar": {
+      "id": 250,
+      "url": "/uploads/2021/03/Oleh_Dokuka.jpeg",
+      "alt": "Oleh Dokuka",
+      "width": 460,
+      "height": 460
+    },
+    "speaker_surname": "Dokuka",
+    "speaker_twitter": "https://twitter.com/olehdokuka",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/olegdokuka/?originalSubdomain=ua",
+    "speaker_gh": "https://github.com/OlegDokuka"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Mainly Java Software Engineer / Consultant focused on distributed systems development adopting ReactiveManifesto and ReactiveProgramming techniques. Open Source geek, the active contributor of ProjectReactor/RSocket/Reactive-GRPC. Along with that, Public speaker and author of the book \"Reactive Programming is Spring 5.0\"</p>"
+    }
+  ],
+  "formReplaced": false
+}

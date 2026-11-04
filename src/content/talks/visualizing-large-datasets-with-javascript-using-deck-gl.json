@@ -1,0 +1,55 @@
+{
+  "wpId": 449,
+  "title": "Visualizing large datasets with JavaScript using deck.gl",
+  "slug": "visualizing-large-datasets-with-javascript-using-deck-gl",
+  "path": "/watch/visualizing-large-datasets-with-javascript-using-deck-gl/",
+  "date": "2020-01-01 00:02:54",
+  "modified": "2023-03-20 15:08:54",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2020/01/marko-frontend.png"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 57,
+        "slug": "angular",
+        "name": "Angular"
+      },
+      {
+        "id": 58,
+        "slug": "react",
+        "name": "React"
+      },
+      {
+        "id": 64,
+        "slug": "webgl",
+        "name": "WebGL"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=nV5Ump16wxo&t=3s",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      97
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>When talking about data visualization and JavaScript your mind usually goes to D3.js. But if our data has a location-based representation, we are faced with a limited choice. The main topic of this talk is to introduce the audience with deck.gl, an open-source WebGL-powered library developed by Uber that allows us to create beautiful data visualizations of large datasets and raise the level of interactivity for the user on a whole new level. A short introduction to the library and it’s API will be demonstrated along with practical use-cases, live-code examples and it’s integration with popular frameworks such as Angular and React.</p>"
+    }
+  ],
+  "formReplaced": false
+}

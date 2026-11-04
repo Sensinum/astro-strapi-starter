@@ -1,0 +1,46 @@
+{
+  "wpId": 2388,
+  "title": "The importance of backend in the UX Design",
+  "slug": "the-importance-of-backend-in-the-ux-design",
+  "path": "/watch/the-importance-of-backend-in-the-ux-design/",
+  "date": "2021-12-27 16:31:11",
+  "modified": "2023-03-21 10:17:05",
+  "template": null,
+  "excerpt": "Połączenie User Experience i frontend developmentu jest zupełnie naturalną i logiczną sprawą. Często wymaga się od projektantów znajomości podstaw technologii frontendowych, a mówiąc o komunikacji UX’a z developerami, ma się na myśli oczywiście frontów. Jak doszło do tego, że 3/4 czasu z devami spędzam na backendzie? Jakie projekty doprowadziły mnie do wytworzenia takiego modelu pracy? Dlaczego UX powinien być w kontakcie także z backendem? Opowiem o nauce, ciągłej chęci rozwoju i innym spojrzeniu na budowanie swojej ścieżki zawodowej.",
+  "featuredImage": "/uploads/2021/12/szymon-barabasz.png",
+  "seo": {
+    "description": "The combination of User Experience and Frontend Development is a completely natural and logical matter. Designers are often required to know the basics of frontend technologies, and when talking about UX communication with developers, we mean - of course - the fronts. How did I spend 3/4 of my time with devs on the backend? What projects led me to create such a model of work? Why should UX also be in touch with the backend? Learn about science, constant willingness to develop, and a different perspective on building your professional path.",
+    "ogTitle": "The importance of backend in the UX Design",
+    "ogDescription": "The combination of User Experience and Frontend Development is a completely natural and logical matter. Designers are often required to know the basics of frontend technologies, and when talking about UX communication with developers, we mean - of course - the fronts. How did I spend 3/4 of my time with devs on the backend? What projects led me to create such a model of work? Why should UX also be in touch with the backend? Learn about science, constant willingness to develop, and a different perspective on building your professional path.",
+    "ogImage": "/uploads/2021/12/szymon-barabasz.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      },
+      {
+        "id": 136,
+        "slug": "ui-ux",
+        "name": "UI/UX"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=-KTxm7Ssry4",
+    "video_thumbnail": false,
+    "talk_date": "January 20, 2022",
+    "talks_speakers": [
+      2364
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>[ENG] </p>\n\n\n\n<p>The combination of User Experience and Frontend Development is a completely natural and logical matter. Designers are often required to know the basics of frontend technologies, and when talking about UX communication with developers, we mean - of course - the fronts. How did I spend 3/4 of my time with devs on the backend? What projects led me to create such a model of work? Why should UX also be in touch with the backend? Learn about science, constant willingness to develop, and a different perspective on building your professional path. </p>\n\n\n\n<p>[PL] </p>\n\n\n\n<p>Waga backendu w projektowaniu UX. Jak nauczyłem się, że na doświadczenia użytkownika wpływa nie tylko Design</p>\n\n\n\n<p>Połączenie User Experience i frontend developmentu jest zupełnie naturalną i logiczną sprawą. Często wymaga się od projektantów znajomości podstaw technologii frontendowych, a mówiąc o komunikacji UX’a z developerami, ma się na myśli oczywiście frontów. Jak doszło do tego, że 3/4 czasu z devami spędzam na backendzie? Jakie projekty doprowadziły mnie do wytworzenia takiego modelu pracy? Dlaczego UX powinien być w kontakcie także z backendem? Opowiem o nauce, ciągłej chęci rozwoju i innym spojrzeniu na budowanie swojej ścieżki zawodowej.</p>"
+    }
+  ],
+  "formReplaced": false
+}

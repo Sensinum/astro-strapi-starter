@@ -1,0 +1,43 @@
+{
+  "wpId": 356,
+  "title": "Greg Herlein",
+  "slug": "greg-herlein",
+  "path": "/contributor/greg-herlein/",
+  "date": "2020-01-01 00:01:26",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Director, Site Reliability Engineering, Customer Experience at Cisco",
+    "speaker_avatar": {
+      "id": 357,
+      "url": "/uploads/2021/03/greg-copy-Greg-Herlein.jpg",
+      "alt": "Greg Herlein",
+      "width": 1536,
+      "height": 2048
+    },
+    "speaker_surname": "Herlein",
+    "speaker_twitter": "https://twitter.com/gherlein",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/gherlein/",
+    "speaker_gh": "https://github.com/gherlein"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Currently Director, Site Reliability Engineering at Cisco Customer Experience. Linux user and contributor since 1994. Operations first. Robotics enthusiast.</p>"
+    }
+  ],
+  "formReplaced": false
+}

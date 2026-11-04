@@ -1,0 +1,36 @@
+{
+  "wpId": 630,
+  "title": "How we built a Shiny App for 700 users?",
+  "slug": "how-we-built-a-shiny-app-for-700-users",
+  "path": "/watch/how-we-built-a-shiny-app-for-700-users/",
+  "date": "2020-01-01 00:01:05",
+  "modified": "2023-03-20 14:20:15",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=6kkgUYFkPyo",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      582
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Shiny has proved itself a great tool for communicating data science teams’ results. However, developing a Shiny app for a large scope project that will be used commercially by more than dozens of users is not easy. The first challenge is User Interface (UI): the expectations are that the app should not vary from modern web pages. Secondly, performance directly impacts user experience (UX), and it’s difficult to maintain efficiency with growing requirements and user base. </p>\n\n\n\n<p>In this talk, we will share our experience from a real-life case study of building an app used daily by 700 users where our data science team tackled all these problems. This, to our knowledge, was one of the biggest production deployments of a Shiny App. We will show an innovative approach to building a beautiful and flexible Shiny UI using <strong>shiny.semantic</strong> package (an alternative to standard Bootstrap). Furthermore, we will talk about the non-standard optimization tricks we implemented to gain performance. Then we will discuss challenges regarding complex reactivity and offer solutions. We will go through implementation and deployment process of the app using a load balancer. Finally, we will present the application and give details on how this benefited our client. Senior Data Scientist at Appsilon Data Science</p>"
+    }
+  ],
+  "formReplaced": false
+}

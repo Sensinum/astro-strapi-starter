@@ -1,0 +1,43 @@
+{
+  "wpId": 330,
+  "title": "Maciej Olesiński",
+  "slug": "maciej-olesinski",
+  "path": "/contributor/maciej-olesinski/",
+  "date": "2020-01-01 00:01:37",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at VirtusLab",
+    "speaker_avatar": {
+      "id": 331,
+      "url": "/uploads/2021/03/Maciej_Olesinski.jpeg",
+      "alt": "Maciej Olesiński",
+      "width": 1432,
+      "height": 1475
+    },
+    "speaker_surname": "Olesiński",
+    "speaker_twitter": "https://twitter.com/molesinski",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/maciej-olesi%C5%84ski-890b74b9/?originalSubdomain=pl",
+    "speaker_gh": "https://github.com/placydo"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Software Engineer at VirtusLab who out of necessity aims to become a Cloud Engineer. Experienced with both AWS and Kubernetes, spending most of his time introducing automation to clients infrastructure lately. Formerly Java, now Golang developer.</p>"
+    }
+  ],
+  "formReplaced": false
+}

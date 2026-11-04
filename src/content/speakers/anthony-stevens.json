@@ -1,0 +1,43 @@
+{
+  "wpId": 570,
+  "title": "Anthony Stevens",
+  "slug": "anthony-stevens",
+  "path": "/contributor/anthony-stevens/",
+  "date": "2020-01-01 00:00:35",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "IBM",
+    "speaker_avatar": {
+      "id": 571,
+      "url": "/uploads/2021/03/Anthony_Stevens.jpg",
+      "alt": "Anthony Stevens",
+      "width": 154,
+      "height": 181
+    },
+    "speaker_surname": "Stevens",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/anthonystevens/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Anthony Stevens directs offering strategy for Watson Deep Learning where he collaborates across IBM Watson Research and Development to identify then integrate AI into IBM’s cloud offering. This allows him to collaborate among IBM’s numerous partners and customers to transform theory into practice for deep learning solutions based on IBM Watson technologies. Prior to joining the IBM Watson product team, Anthony was a senior solution architect within the Watson Ecosystem where he gained insights into the challenges confronting AI implementation through working with over 50 customers including partners, engineering, and research teams.<br>Anthony is an expert in transforming complex problems and datasets into leading AI, mobile, web, and cloud solutions. He has done this for life science, health, consumer, and multimedia companies by bringing deep expertise in both software development and product management. He has led the process to design, architect, build, and launch products for startups and Fortune 500 corporations.</p>"
+    }
+  ],
+  "formReplaced": false
+}

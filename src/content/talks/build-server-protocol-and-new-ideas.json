@@ -1,0 +1,37 @@
+{
+  "wpId": 533,
+  "title": "Build Server Protocol and new IDEAs",
+  "slug": "build-server-protocol-and-new-ideas",
+  "path": "/watch/build-server-protocol-and-new-ideas/",
+  "date": "2020-01-01 00:01:40",
+  "modified": "2023-03-20 12:09:35",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=Ppj0EFns59M",
+    "video_thumbnail": false,
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      269,
+      413
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>LSP has gained significant traction with implementation for over 25 languages and most major editors. However, LSP does not specify how language servers communicate with build tools. Currently, every IDE and language server must implement custom integrations for multiple build tools in order to extract compilation information such as classpaths and source directories. </p>\n\n\n\n<p>The Build Server Protocol is an attempt to formalize the communication between language servers and build tools in order to provide a seamless workflow when importing a project in your IDE or editor. In this talk, we explain the motivation behind BSP and its current implementations in both clients (IDEs) and servers (build tools). We zoom on in how BSP is being implemented in Intellij, what's its state of the art and how it can simplify its integrations with JVM-based build tools like sbt, bloop, CBT, Maven or Gradle.</p>"
+    }
+  ],
+  "formReplaced": false
+}

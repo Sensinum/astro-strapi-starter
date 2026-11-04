@@ -1,0 +1,37 @@
+{
+  "wpId": 5201,
+  "title": "Federico d’Albenzio",
+  "slug": "federico-dalbenzio",
+  "path": "/contributor/federico-dalbenzio/",
+  "date": "2024-04-19 14:13:06",
+  "modified": "2024-04-19 14:13:07",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5202,
+      "url": "/uploads/2024/04/1563313569331.jpeg",
+      "alt": "1563313569331",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_position": "Business Developer at Eoliann; CEO at Pin Vision",
+    "speaker_add_info": "",
+    "speaker_surname": "Federico d’Albenzio",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/federico-d’albenzio-a33356183/",
+    "speaker_gh": "",
+    "desc_episodes": "Master’s Degree in Management Engineering at Politecnico di Torino. Really passionate about entrepreneurship, innovation and sustainable development.\r\nTeam worker, great communicator, propositive and proactive. "
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Business Developer at Eoliann; CEO at Pin Vision</p>"
+    }
+  ],
+  "formReplaced": false
+}

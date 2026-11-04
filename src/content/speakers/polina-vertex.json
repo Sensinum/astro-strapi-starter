@@ -1,0 +1,37 @@
+{
+  "wpId": 5196,
+  "title": "Polina Vertex",
+  "slug": "polina-vertex",
+  "path": "/contributor/polina-vertex/",
+  "date": "2024-04-19 14:09:50",
+  "modified": "2024-04-19 14:09:50",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5197,
+      "url": "/uploads/2024/04/1712765980473.jpeg",
+      "alt": "1712765980473",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_position": "Data & Research Analyst, Web3 Consultant, Co-Founder – Syntagma Labs",
+    "speaker_add_info": "",
+    "speaker_surname": "",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/pvertex/",
+    "speaker_gh": "",
+    "desc_episodes": "• I conducted research for the UN, the Economist, Cambridge University, Inter-American Development Bank and Microsoft before turning 27 yo;\r\n• Two quantitative Master's degrees;\r\n• I'm passionate about decentralization and democratization of the web and beyond. For more detail, read Syntagma's vision here: https://syntagmalabs.medium.com/launching-syntagma-a1b632c6e964 ;\r\n• I'm committed to promoting equal gender participation in high-tech and emerging industries. I'm a dedicated coordinator for the \"Syntagma Ladies Club,\" a support program for female entrepreneurs https://syntagmalabs.com/ladiesclub, and I'm an active member of the Women in data, the Association for Women in Crypto, The Bigger Pie, and others."
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Data &amp; Research Analyst, Web3 Consultant, Co-Founder – Syntagma Labs</p>"
+    }
+  ],
+  "formReplaced": false
+}

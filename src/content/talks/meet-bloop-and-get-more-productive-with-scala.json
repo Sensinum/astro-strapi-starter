@@ -1,0 +1,36 @@
+{
+  "wpId": 580,
+  "title": "Meet bloop and get more productive with Scala",
+  "slug": "meet-bloop-and-get-more-productive-with-scala",
+  "path": "/watch/meet-bloop-and-get-more-productive-with-scala/",
+  "date": "2020-01-01 00:01:29",
+  "modified": "2023-03-20 12:03:49",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=CED1N0Evgqk",
+    "video_thumbnail": false,
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      426
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Bloop is a command-line tool for fast edit/compile/test workflows with a focus on making you a more productive Scala developer. In this talk, I explain how developers can be faster at writing Scala code no matter what build tool they use (sbt, Maven, Gradle, Bazel), and how different instances of both build tools and IDEs alike can reuse bloop and benefit from a performance boost. Next, we’ll dive into several use cases and explain other Scala-related productivity tricks.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,48 @@
+{
+  "wpId": 451,
+  "title": "IDEs and compilers: an ever closer union",
+  "slug": "ides-and-compilers-an-ever-closer-union",
+  "path": "/watch/ides-and-compilers-an-ever-closer-union/",
+  "date": "2020-01-01 00:02:52",
+  "modified": "2021-03-31 15:02:47",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 28,
+        "slug": "dotty",
+        "name": "Dotty"
+      },
+      {
+        "id": 29,
+        "slug": "metals",
+        "name": "Metals"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=1oZLZxttY8c",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      257
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>With the development of both the Dotty Language Server and Metals, Scala is now well on its way towards providing great compiler-backed IDE support. But even though we're now using our compilers more interactively, there is still a lot of knowledge about our code that we never get to interact with directly: how type inference makes decisions, how implicit search proceeds, how macros get expanded, etc. How different would programming be if the compiler could act as a true assistant to the developer? The possibilities are vast and we should start exploring them! In this talk, I'll present some early experiments in this area and hope to inspire others to start doing their own experiments too.</p>"
+    }
+  ],
+  "formReplaced": false
+}

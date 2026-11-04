@@ -1,0 +1,48 @@
+{
+  "wpId": 1090,
+  "title": "Q&A session with Martin Odersky and Scala 3 team",
+  "slug": "qa-session-with-martin-odersky-and-scala-3-team",
+  "path": "/watch/qa-session-with-martin-odersky-and-scala-3-team/",
+  "date": "2021-05-17 14:32:31",
+  "modified": "2021-07-01 10:04:58",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 30,
+        "slug": "scala-3",
+        "name": "Scala 3"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=7QmD7Y8DLHw",
+    "video_thumbnail": false,
+    "talk_date": "April 23, 2021",
+    "talks_speakers": [
+      129,
+      374,
+      328,
+      991,
+      257,
+      987
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Scala 3 is here! Watch a Q&amp;A session with Martin Odersky and the team working on the latest version of this language from Scala 3 Release Party (23.04.2021). </p>\n\n\n\n<p><strong>Here’s a list of the questions that guests were asked during the session: </strong></p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=785s\">13:05</a> → Question from Tomek Godzik: What new tooling feature would you love to see implemented in Scala 3, but that did not exist in Scala 2? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=1288s\">21:28</a> → Question from Daniela Sfregola: Where can people learn about Scala 3? What are the resources/courses we have out there that can help us learn more about this new, powerful Scala language? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=1822s\">30:22</a> → Question from Wiem Zine Elabidine: Is there a plan to enable SAM to a trait that has a polymorphic function? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=1866s\">31:06</a> → Question from Daniel Spiewak: What features of Scala 3 are you most excited to see the community adapt? What are the things you expect will give rise to a whole new class of expressiveness, safety, and comprehensibility that never could have happened on Scala 2? What are the features that you believe will benefit the ecosystem most? </p>\n\n\n\n<p><strong>Questions from the audience: </strong></p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=2615s\">43:35</a> → General question on the roadmap for Scala 3.1, onward changes, and SIP process. The SIP process was put somewhat on hold going on from Scala 2 to 3. Will this change back to \"normal\"? When? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=2957s\">49:17</a> → What's being done to ensure that the main projects in the ecosystem (Play, Spark) support Scala 3? What's the outlook for Akka for Scala 3? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=3094s\">51:34</a> → Is there a possibility for functional effects to be part of the language feature in future? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=3167s\">52:47</a> → With GraalVM gaining traction, does it change anything for Scala native? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=3358s\">55:58</a> → Scala 3's Macro system is really amazing but it means a huge rewrite effort for all metaprogramming libraries. Can we expect that five years from now, when Scala 4 happens there won't be this kind of radical change? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=3535s\">58:55</a> → Are there plans to bring back macro annotations? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=3636s\">1:00:36</a> → Will Scala 3 contain the `Not` type? I didn't find it in RC2. </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=3672s\">1:01:12</a> → I see Scala.js working nicely with Scala 3 code, could it be extended to transpile Jjava source code too (mixed in the same project)? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=3868s\">1:04:28</a> → Martin, what is your casual working day? How much time you spent on coding, on management, on leading, etc..? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=3976s\">1:06:16</a> → How fast is the new compiler compared to the Scala 2 compiler? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=4148s\">1:09:08</a> → Metals: Will its features be used in IntelliJj Idea? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=4244s\">1:10:44</a> → Are there some plans to improve for-comprehension in Scala 3. In particular, to make it work like F#'s computation expressions? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=4390s\">1:13:10</a> → How to convince people that Scala 3 is a better vehicle for teaching programming than Python? </p>\n\n\n\n<p><a href=\"https://www.youtube.com/watch?v=7QmD7Y8DLHw&amp;t=4579s\">1:16:19</a> → What new programming patterns were invented in Scala 3, that are absent in Scala 2? </p>\n\n\n\n<p></p>\n\n\n\n<p>For more info about Scala 3 Release Party check out <a href=\"https://bit.ly/Scala3Party\">this article</a>.  </p>"
+    }
+  ],
+  "formReplaced": false
+}

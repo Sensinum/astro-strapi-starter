@@ -1,0 +1,43 @@
+{
+  "wpId": 574,
+  "title": "Tomasz Wesołowski",
+  "slug": "tomasz-wesolowski",
+  "path": "/contributor/tomasz-wesolowski/",
+  "date": "2020-01-01 00:00:33",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Co-founder and CEO of 2040.io",
+    "speaker_avatar": {
+      "id": 577,
+      "url": "/uploads/2021/03/Tomasz_Wesolowski.jpg",
+      "alt": "Tomasz Wesołowski",
+      "width": 480,
+      "height": 480
+    },
+    "speaker_surname": "Wesołowski",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/tomaszwesolowski/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>He spent last 15 years in the internet-industry as a entrepreneur, advisor, and board member of several companies. Founder and managing director of one of the biggest polish software houses (grown from 2 to 200 employees). After M&amp;A process he made an exit with selling his shares, and now he is involved in creating an intelligent assistant <a rel=\"noreferrer noopener\" href=\"http://www.edward.ai/\" target=\"_blank\">Edward</a>, as a co-founder and CEO of <a rel=\"noreferrer noopener\" href=\"http://www.2040.io/\" target=\"_blank\">2040.io</a>.<br>Co-founder of Krakow Artificial Intelligence Meetup Group, interested in modern user interfaces, and social aspects of artificial intelligence.<br>He was also a co-founder and board member of PROFEO – the community for professionals (Polish Linkedin competitor), founder of Techcamp – biggest Polish technological barcamp meetings and co-founder of Ecommerce director’s club.</p>"
+    }
+  ],
+  "formReplaced": false
+}

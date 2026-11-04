@@ -1,0 +1,183 @@
+{
+  "wpId": 2091,
+  "title": "Runtime Safety of Akka & Trust Driven Development",
+  "slug": "sphere-tech-talks-five",
+  "path": "/event/sphere-tech-talks-five/",
+  "date": "2021-11-03 14:34:43",
+  "modified": "2022-07-06 13:21:49",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/11/runtime-safety-share-min.png"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 138,
+        "slug": "sphere-it-tech-talks",
+        "name": "Sphere.it Tech Talks"
+      }
+    ]
+  },
+  "acf": {
+    "event_date": "23.11.2021",
+    "type_of_event": "Start 6:00 PM CET",
+    "event_entry": "",
+    "event_artwork": {
+      "id": 2117,
+      "url": "/uploads/2021/11/techtalks-5-min.png",
+      "alt": "Runtime Safety of Akka & Trust Driven Development",
+      "width": 1080,
+      "height": 1080
+    },
+    "event_register": {
+      "title": "Register now",
+      "url": "https://www.airmeet.com/e/a2c10640-3cbc-11ec-814b-7ff8bae06dc0",
+      "target": "_blank"
+    },
+    "event_background_color": "#2d7d8d",
+    "event_font_color": false,
+    "event_font_color_value": "#ffffff",
+    "reduce_font_size": "2",
+    "event_scroll_button": "about-event",
+    "event_series_label": "Sphere.it Tech Talks #5",
+    "event_agenda": [
+      {
+        "item_type": "talk",
+        "item_time": "6:00 PM",
+        "talk_id": 2207,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "#1d4456",
+        "font_color": "#e9fdff",
+        "accent_font_color": "#ebd9b2"
+      },
+      {
+        "item_type": "talk",
+        "item_time": "6:30 PM",
+        "talk_id": 2209,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "#204f60",
+        "font_color": "#e9fdff",
+        "accent_font_color": "#ebd9b2"
+      }
+    ],
+    "header_background_image": false,
+    "buttons_background_color": "",
+    "buttons_font_color": "",
+    "alt_dynamic_menu": false,
+    "event_alt_title": "",
+    "event_date_hidden": false,
+    "event_artwork_listing": false,
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-about-text",
+      "anchor": "about-event",
+      "data": {
+        "block_title": null,
+        "block_description": "&nbsp;\r\n<h3 style=\"text-align: center; line-height: 125%;\"><img class=\"aligncenter\" style=\"height: 40%; width: 40%; margin: 0 auto; text-align: center;\" src=\"/uploads/2021/11/sphere-tt5-logo-min.png\" alt=\"sphereit tech talks\" /></h3>\r\n&nbsp;\r\n<p style=\"text-align: center;\"><span style=\"font-weight: 400;\">In the November edition of our Tech Talks series, we’ll host experts from Grand Parade and VirtusLab. The first topic will be all about the runtime safety of </span><b>#Akka</b><span style=\"font-weight: 400;\"> &amp; the serialization toolbox for Akka messages. The latter will focus on optimizing lead time for your changes via </span><b>Trust Driven Development</b><span style=\"font-weight: 400;\">. </span></p></br>",
+        "block_background_color": null,
+        "block_font_color": "#193648",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "data": {
+        "block_description": "<h3 style=\"color: #ffffff; margin-bottom: 15px; line-height:1.25;\">The event will take place on the 23rd of November, 2021, starting at 6:00 PM.</h3>\r\n<span style=\"font-weight: 400; opacity:0.9;\">Don’t miss your chance and save a spot!</span>",
+        "block_button": {
+          "title": "Register for free",
+          "url": "https://www.airmeet.com/e/a2c10640-3cbc-11ec-814b-7ff8bae06dc0",
+          "target": "_blank"
+        },
+        "cta_background_color": "#ffffff",
+        "cta_font_color": "#000000",
+        "cta_border_radius": 6,
+        "block_background_image": {
+          "id": 2106,
+          "url": "/uploads/2021/11/event_plan-min.png",
+          "alt": "Runtime Safety of Akka &#038; Trust Driven Development &#8211; event plan",
+          "width": 2400,
+          "height": 1600
+        },
+        "switch_text_side": true,
+        "block_background_color": "#193648",
+        "block_font_color": "#e9fdff",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-event-agenda",
+      "data": {
+        "block_title": null,
+        "block_background_color": null,
+        "block_font_color": null,
+        "block_accent_font_color": null,
+        "smaller_paddings": false,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "data": {
+        "block_description": "<h4 style=\"color: #ebd9b2; margin-bottom: 15px;\">7:00 PM</h4>\r\n<h3 style=\"margin-bottom: 40px;\">Q&amp;A</h3>\r\n<h4 style=\"color: #ebd9b2; margin-bottom: 15px;\">7:30 PM</h4>\r\n<h3 style=\"margin-bottom:0;\">Networking on Airmeet</h3>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2107,
+          "url": "/uploads/2021/10/andmore-min.png",
+          "alt": "Runtime Safety of Akka &#038; Trust Driven Development &#8211; and more",
+          "width": 2400,
+          "height": 1600
+        },
+        "switch_text_side": false,
+        "block_background_color": "#23596a",
+        "block_font_color": null,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "data": {
+        "block_title": "Our all-star guests",
+        "automatic_selection": true,
+        "speaker_groups": [],
+        "block_background_color": "#ffffff",
+        "block_font_color": "#193648",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "data": {
+        "block_title": null,
+        "block_description": "<h2 style=\"color: #ffffff; margin-bottom: 15px; line-height:1.25;\">Join us at Sphere.it Tech Talks</h2>\r\n<h3 class=\"heading-4\" style=\"margin-bottom: 30px;\">23.11 | START 6:00 PM CET | VIRTUAL EVENT</h3>",
+        "block_button": {
+          "title": "Register for free",
+          "url": "https://www.airmeet.com/e/a2c10640-3cbc-11ec-814b-7ff8bae06dc0",
+          "target": "_blank"
+        },
+        "cta_background_color": "#ffffff",
+        "cta_font_color": "#193648",
+        "cta_border_radius": 32,
+        "block_background_image": null,
+        "block_background_color": "#193648",
+        "block_font_color": "#e9fdff",
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

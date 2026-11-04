@@ -1,0 +1,36 @@
+{
+  "wpId": 4008,
+  "title": "How to make the Internet accessible to everyone",
+  "slug": "how-to-make-the-internet-accessible-to-everyone",
+  "path": "/watch/how-to-make-the-internet-accessible-to-everyone/",
+  "date": "2023-01-18 16:23:35",
+  "modified": "2023-11-09 12:12:38",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "February 21, 2023",
+    "talks_speakers": [
+      3994
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The Internet is an awesome place where everyone can find interesting materials. Unfortunately, sometimes we forget some people cannot use it the same way as most of us - e.g. people with vision, motion, or cognitive disabilities. Why is accessibility so unpopular among developers? I believe it's not because of bad will - we often don't understand our users' problems. It's why I want to show some tricks to better understand users with disabilities, talk about the most popular mistakes (and fixes for them), and discuss improvements you can include in your development process to avoid accessibility problems in the future.</p>"
+    }
+  ],
+  "formReplaced": false
+}

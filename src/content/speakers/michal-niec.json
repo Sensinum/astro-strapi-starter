@@ -1,0 +1,35 @@
+{
+  "wpId": 2640,
+  "title": "Michał Nieć",
+  "slug": "michal-niec",
+  "path": "/contributor/michal-niec/",
+  "date": "2022-02-14 08:31:56",
+  "modified": "2022-02-14 08:31:58",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "CEO at Appliscale",
+    "speaker_avatar": {
+      "id": 2641,
+      "url": "/uploads/2022/02/Michal-photo-profile-small-round-Michal-Nieć.png",
+      "alt": "Michał Nieć",
+      "width": 300,
+      "height": 300
+    },
+    "speaker_surname": "Nieć",
+    "speaker_twitter": "https://twitter.com/skamander",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/michal-niec/",
+    "speaker_gh": "https://github.com/mniec"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Michal graduated with a Master's in Computer Science from Krakow's AGH University. Artificial intelligence and adaptive systems have interested Michal since his college days, and he still finds the time to scratch that itch. Michal has consulting experience in a wide range of industries including enterprise-grade messaging with MongooseIM, digital advertising, and online gaming. </p>\n\n\n\n<p>As the CEO of Appliscale Michal is developing a technology consulting firm that partners with top US and EU tech companies helping them to develop cutting-edge products and technologies. Michal is a big advocate of agile, lean, and transparent organizations where the focus is on self-management and knowledge growth.</p>"
+    }
+  ],
+  "formReplaced": false
+}

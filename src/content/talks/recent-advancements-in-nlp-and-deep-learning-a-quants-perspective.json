@@ -1,0 +1,36 @@
+{
+  "wpId": 631,
+  "title": "Recent advancements in NLP and deep learning: a quant’s perspective",
+  "slug": "recent-advancements-in-nlp-and-deep-learning-a-quants-perspective",
+  "path": "/watch/recent-advancements-in-nlp-and-deep-learning-a-quants-perspective/",
+  "date": "2020-01-01 00:01:04",
+  "modified": "2023-03-20 14:20:00",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=MdjH700kJPM",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      259
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>There is a gold-rush among hedge-funds for text mining algorithms to quantify textual data and generate trading signals. Harnessing the power of alternative data sources became crucial to find novel ways of enhancing trading strategies.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,48 @@
+{
+  "wpId": 144,
+  "title": "Andrzej Ratajczak",
+  "slug": "andrzej-ratajczak",
+  "path": "/contributor/andrzej-ratajczak/",
+  "date": "2020-01-01 00:02:27",
+  "modified": "2022-02-10 07:15:05",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      },
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Scala Developer at VirtusLab",
+    "speaker_avatar": {
+      "id": 145,
+      "url": "/uploads/2021/03/Andrzej_Ratajczak.jpeg",
+      "alt": "Andrzej Ratajczak",
+      "width": 460,
+      "height": 460
+    },
+    "speaker_surname": "Ratajczak",
+    "speaker_twitter": "https://twitter.com/aj_ratajczak",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/barkingbad/",
+    "speaker_gh": "https://github.com/BarkingBad"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>A Computer Science faculty student at the AGH University. Proud open-source tooling contributor to dokka (Kotlin doctool) and Scala3doc (Scala3 doctool) as Scala Developer at VirtusLab.</p>"
+    }
+  ],
+  "formReplaced": false
+}

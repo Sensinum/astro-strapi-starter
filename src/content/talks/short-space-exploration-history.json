@@ -1,0 +1,28 @@
+{
+  "wpId": 4925,
+  "title": "Short space exploration history",
+  "slug": "short-space-exploration-history",
+  "path": "/watch/short-space-exploration-history/",
+  "date": "2024-02-13 09:46:27",
+  "modified": "2024-02-13 09:46:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2024",
+    "talks_speakers": [
+      4911
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>During short space exploration history, we will explore how women shaped the history of space, what role one can play in the space industry, and how to start own exploration and space journey.</p>"
+    }
+  ],
+  "formReplaced": false
+}

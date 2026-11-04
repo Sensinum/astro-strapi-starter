@@ -1,0 +1,35 @@
+{
+  "wpId": 2761,
+  "title": "Dominika Glazer ",
+  "slug": "dominika-glazer",
+  "path": "/contributor/dominika-glazer/",
+  "date": "2022-02-24 15:02:27",
+  "modified": "2023-01-18 12:48:55",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Head of Product at VirtusLab",
+    "speaker_avatar": {
+      "id": 2757,
+      "url": "/uploads/2022/02/96E7B770-427D-4946-B575-4102ACF3F14D-min.jpg",
+      "alt": "Dominika Glazer",
+      "width": 2107,
+      "height": 2206
+    },
+    "speaker_surname": "Glazer",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/dominikaglazer/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>A historian by education and passion, professionally - a manager. In the IT industry since 2016, she has managed projects, products, and teams. Currently, as Senior Product Manager @ VirtusLab, Dominika coordinates the work of the product team and develops a vision of a product based on one of the fuels driving modern business systems, which is data.</p>"
+    }
+  ],
+  "formReplaced": false
+}

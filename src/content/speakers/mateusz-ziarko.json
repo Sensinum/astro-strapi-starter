@@ -1,0 +1,43 @@
+{
+  "wpId": 382,
+  "title": "Mateusz Ziarko",
+  "slug": "mateusz-ziarko",
+  "path": "/contributor/mateusz-ziarko/",
+  "date": "2020-01-01 00:01:16",
+  "modified": "2022-02-25 13:57:50",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Head of Frontend Engineering at VirtusLab",
+    "speaker_avatar": {
+      "id": 383,
+      "url": "/uploads/2021/03/mateusz-ziarko_04.jpg",
+      "alt": "Mateusz Ziarko",
+      "width": 2212,
+      "height": 2214
+    },
+    "speaker_surname": "Ziarko",
+    "speaker_twitter": "https://twitter.com/cyp3r",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/mateuszziarko/",
+    "speaker_gh": "https://github.com/cyp3rius"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Front-End development One Man Army by origin, currently Head of Frontend Engineering at VirtusLab where he is defining new standards &amp; quality of projects delivery, in parallel with applying all in a real client environment. All of this, together with his great teams. Speaker of meet.js &amp; last edition of <a href=\"/\" target=\"_blank\" rel=\"noreferrer noopener\">Sphere.it</a>. The organizer of Krakow TypeScript User Group, for whose work time never ends up after 8 hours.</p>"
+    }
+  ],
+  "formReplaced": false
+}

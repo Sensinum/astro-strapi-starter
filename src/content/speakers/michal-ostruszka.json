@@ -1,0 +1,35 @@
+{
+  "wpId": 4407,
+  "title": "Michał Ostruszka",
+  "slug": "michal-ostruszka",
+  "path": "/contributor/michal-ostruszka/",
+  "date": "2023-07-05 15:24:04",
+  "modified": "2023-07-05 15:24:05",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Software Engineer at SoftwareMill",
+    "speaker_avatar": {
+      "id": 4409,
+      "url": "/uploads/2023/07/L1004911.jpeg",
+      "alt": "L1004911",
+      "width": 1000,
+      "height": 1000
+    },
+    "speaker_surname": "Ostruszka",
+    "speaker_twitter": "https://twitter.com/mostruszka",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/michalostruszka/",
+    "speaker_gh": "https://github.com/mostr"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Seasoned software engineer, working on distributed, event-sourced and event driven systems. Fan of DDD, good architecture and \"beyond writing code\" aspects of IT systems and teams. Constant learner on a quest to always expand my professional toolbox</p>"
+    }
+  ],
+  "formReplaced": false
+}

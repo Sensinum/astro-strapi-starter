@@ -1,0 +1,54 @@
+{
+  "wpId": 1376,
+  "title": "Panel discussion on Reactive Systems",
+  "slug": "panel-discussion-on-reactive-systems",
+  "path": "/watch/panel-discussion-on-reactive-systems/",
+  "date": "2021-06-23 11:31:28",
+  "modified": "2021-07-30 13:37:38",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2021/06/share-1.png",
+  "seo": {
+    "ogImage": "/uploads/2021/06/share-1.png"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 124,
+        "slug": "reactive-architecture",
+        "name": "Reactive Architecture"
+      },
+      {
+        "id": 123,
+        "slug": "reactive-systems",
+        "name": "Reactive Systems"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=Nft-rcB9Bu4",
+    "video_thumbnail": false,
+    "talk_date": "June 14, 2021",
+    "talks_speakers": [
+      1161,
+      1156,
+      393,
+      1159,
+      552
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>From the introduction to reactive systems through problems &amp; challenges to business use cases - with experts and field practitioners </p>\n\n\n\n<p><strong>Panelists: </strong></p>\n\n\n\n<p>Samuel Weiss, Trevor Burton-McCreadie, Alan Klikić, Łukasz Biały, Pawel Dolega - host </p>\n\n\n\n<p><strong>Discussion agenda: </strong></p>\n\n\n\n<p>🗨️ What are reactive systems? </p>\n\n\n\n<p>🗨️ Business cases/requirements tailored for reactive architecture </p>\n\n\n\n<p>🗨️ Tools &amp; practices </p>\n\n\n\n<p>🗨️ Beyond the hype: real-world challenges </p>\n\n\n\n<p>🗨️ Evolution of reactive systems</p>"
+    }
+  ],
+  "formReplaced": false
+}

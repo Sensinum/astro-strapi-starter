@@ -1,0 +1,43 @@
+{
+  "wpId": 409,
+  "title": "Stu Hood",
+  "slug": "stu-hood",
+  "path": "/contributor/stu-hood/",
+  "date": "2020-01-01 00:01:04",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at Twitter",
+    "speaker_avatar": {
+      "id": 410,
+      "url": "/uploads/2021/03/Stu_Hood.jpeg",
+      "alt": "Stu Hood",
+      "width": 460,
+      "height": 460
+    },
+    "speaker_surname": "Hood",
+    "speaker_twitter": "https://twitter.com/stuhood",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/stu-hood-6b65633/",
+    "speaker_gh": "https://github.com/stuhood"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Stu Hood has been involved with the Scala ecosystem for about 8 years, and has been contributing to the Pants build system for 3 of those. He helps the engineers at Twitter build, grow, and prune many millions of lines of Scala code, but will happily proselytize Rust if you let him.</p>"
+    }
+  ],
+  "formReplaced": false
+}

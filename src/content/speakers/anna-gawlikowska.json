@@ -1,0 +1,36 @@
+{
+  "wpId": 4994,
+  "title": "Anna Gawlikowska",
+  "slug": "anna-gawlikowska",
+  "path": "/contributor/anna-gawlikowska/",
+  "date": "2024-02-21 13:28:53",
+  "modified": "2024-02-29 22:40:43",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Head of Delivery at Leaders Island",
+    "speaker_avatar": {
+      "id": 4995,
+      "url": "/uploads/2024/02/IMG_3859.jpg",
+      "alt": "IMG_3859",
+      "width": 1128,
+      "height": 1132
+    },
+    "speaker_surname": "Gawlikowska",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/annagawlikowska/",
+    "speaker_gh": "",
+    "speaker_add_info": "Leaders Island"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Currently, Anna is a mentor at Leaders Island conducting trainings for leaders and workshops for IT companies. Ex-Head of Delivery ~200 people at Miquido a software house that is a technology partner of companies in the Fintech, music &amp; entertainment and other industries.</p>\n\n\n\n<p>She manages a portfolio of IT projects (mobile, web, backend, devops, UX/UI, AI, approximately ~40 projects max.). She also deals with arranging and improving processes to optimize IT companies through, among others: increasing the efficiency and billability of teams, improving the quality of software for end customers and introducing a \"data-driven\" approach in the spirit of humanism and the \"people first\" approach. She develops and implements change management strategies in organizations.</p>\n\n\n\n<p>On a daily basis, she works with leaders, project managers and C-lvl on their development, but also of their companies, in the spirit of Agile. She also trains young leaders on how to build self-awareness, lead teams and projects, and develop people.</p>\n\n\n\n<p>The departments she manages (Delivery and HR) employ 180 people<br>She created about 20 courses and workshops from scratch<br>So far, she has devoted over 1,000 hours to developing the leadership skills of people in IT<br>She has spent 10 years of her life teaching<br>She is an amateur climber.</p>"
+    }
+  ],
+  "formReplaced": false
+}

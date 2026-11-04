@@ -1,0 +1,37 @@
+{
+  "wpId": 5346,
+  "title": "Michał Bryś",
+  "slug": "michal-brys",
+  "path": "/contributor/michal-brys/",
+  "date": "2024-10-15 09:17:37",
+  "modified": "2024-10-16 14:12:44",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5347,
+      "url": "/uploads/2024/10/1584093067755.jpeg",
+      "alt": "1584093067755",
+      "width": 576,
+      "height": 576
+    },
+    "speaker_position": "AI Architect at IBM",
+    "speaker_add_info": "IBM",
+    "speaker_surname": "Bryś",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/michalbrys/",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Michal is a professional Machine Learning Engineer with 13+ years of experience in developing and implementing cutting-edge ML solutions. With a deep understanding of machine learning algorithms, distributed systems, and DevOps practices, Michal has successfully led numerous projects across a wide range of industries (e-commerce, adtech, online publishing, and marketing tech). Michal is also an experienced speaker and thought leader, having presented at various conferences and events on the topic of ML and MLOps. He is passionate about sharing his knowledge and experience with others, and is committed to helping organizations implement effective machine learning solutions that drive business value. In addition to his work as a Machine Learning Engineer, Michal is also actively involved in the technology community, mentoring and advising startups and entrepreneurs on the technical aspects of their business. He is committed to making machine learning accessible to all, and believes in using technology to solve real-world problems.</p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

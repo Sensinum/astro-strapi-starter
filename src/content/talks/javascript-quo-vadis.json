@@ -1,0 +1,43 @@
+{
+  "wpId": 435,
+  "title": "JavaScript - Quo Vadis",
+  "slug": "javascript-quo-vadis",
+  "path": "/watch/javascript-quo-vadis/",
+  "date": "2020-01-01 00:03:07",
+  "modified": "2021-03-31 14:52:47",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 18,
+        "slug": "javascript",
+        "name": "JavaScript"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=JCuutNlrlGI&t=2s",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      93
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>JavaScript, where are you going? During the past decade, the usage of JavaScript has exploded. The real question is, where does all this lead to? In this lightning talk, I will give you some FUD for thought and challenge you to think what the future of JavaScript might look like.</p>"
+    }
+  ],
+  "formReplaced": false
+}

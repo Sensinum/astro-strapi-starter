@@ -1,0 +1,37 @@
+{
+  "wpId": 5181,
+  "title": "Luanna Eroles",
+  "slug": "luanna-eroles",
+  "path": "/contributor/luanna-eroles/",
+  "date": "2024-04-19 13:44:08",
+  "modified": "2024-04-19 13:44:09",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5182,
+      "url": "/uploads/2024/04/1686833285966.jpeg",
+      "alt": "1686833285966",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_position": "Insurtech | Product Owner | Innovator",
+    "speaker_add_info": "",
+    "speaker_surname": "Eroles",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/luannaeroles/",
+    "speaker_gh": "",
+    "desc_episodes": "Passionate about Life and Technology, I was given the opportunity to drive global growth through innovative strategies in North America and Europe, Specialize in expanding market reach, I devise robust marketing strategies, and forging impactful partnerships across insurance and reinsurance markets."
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Insurtech | Product Owner | Innovator</p>"
+    }
+  ],
+  "formReplaced": false
+}

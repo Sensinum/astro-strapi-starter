@@ -1,0 +1,64 @@
+{
+  "wpId": 178,
+  "title": "Inkuire - Using types as search keys in Kotlin libraries",
+  "slug": "inkuire-using-types-as-search-keys-in-kotlin-libraries",
+  "path": "/watch/inkuire-using-types-as-search-keys-in-kotlin-libraries/",
+  "date": "2020-01-01 00:03:10",
+  "modified": "2021-03-31 14:48:49",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 7,
+        "slug": "dokka",
+        "name": "Dokka"
+      },
+      {
+        "id": 8,
+        "slug": "hoogle",
+        "name": "Hoogle"
+      },
+      {
+        "id": 9,
+        "slug": "inkuire",
+        "name": "Inkuire"
+      },
+      {
+        "id": 27,
+        "slug": "scala",
+        "name": "Scala"
+      },
+      {
+        "id": 10,
+        "slug": "scalajs",
+        "name": "ScalaJS"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=hPsowDgJDFo&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "February 10, 2021",
+    "talks_speakers": [
+      144,
+      146
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Programmers tend to use strongly typed languages for the safety in the runtime and their own comfort while developing applications. While using new dependency, they often have to browse the documentation by symbolic names of classes and functions. Oftentimes, they don’t know the function name, but are convinced there must be a function somewhere that fits given type transformation.</p>\n\n\n\n<p>In this talk, we will focus on a prototype tool that lets you browse the docs using types as search keys in Kotlin.</p>"
+    }
+  ],
+  "formReplaced": false
+}

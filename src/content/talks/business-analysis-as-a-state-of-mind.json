@@ -1,0 +1,54 @@
+{
+  "wpId": 4483,
+  "title": "Business Analysis as a state of mind",
+  "slug": "business-analysis-as-a-state-of-mind",
+  "path": "/watch/business-analysis-as-a-state-of-mind/",
+  "date": "2023-07-11 16:03:11",
+  "modified": "2024-01-12 10:29:08",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 181,
+        "slug": "inspiring-women-in-it",
+        "name": "Inspiring Women in IT"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 182,
+        "slug": "beyond-senior",
+        "name": "Beyond Senior"
+      },
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=6ImmSkQX05k",
+    "video_thumbnail": {
+      "id": 4765,
+      "url": "/uploads/2023/07/maxresdefault-3.jpg",
+      "alt": "Business Analysis as a state of mind by Wiktoria Gromowa-Cieślik",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "September 27, 2023",
+    "talks_speakers": [
+      4481
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Conducting our daily work we most probably don't think about the genesis of outputs we get. I caught myself (being at the point, when quick and thoughtful decision required) saying: \"ok, let me now do my usual business analysis work and I will get back with the proposition\". And that was happening, when I was already on leadership positions. </p>\n\n\n\n<p>So, what was so different between output I was getting without business analysis work done and with it? During my presentation I will share my observations about special thinking used to provide good analysis, examples from real life and business world. I will try to answer the question, why business analysis mindset might be something, we would desire the most to possess in future?</p>"
+    }
+  ],
+  "formReplaced": false
+}

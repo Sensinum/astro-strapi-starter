@@ -1,0 +1,55 @@
+{
+  "wpId": 3202,
+  "title": "A software engineer in the land of data scientists",
+  "slug": "a-software-engineer-in-the-land-of-data-scientists",
+  "path": "/watch/a-software-engineer-in-the-land-of-data-scientists/",
+  "date": "2022-08-04 16:20:10",
+  "modified": "2023-03-21 11:35:21",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/08/rory_graves_thumbnails_sphereconf-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 46,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 42,
+        "slug": "data-science",
+        "name": "Data Science"
+      },
+      {
+        "id": 44,
+        "slug": "machine-learning",
+        "name": "Machine Learning"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=d1h8GamD3ZE",
+    "video_thumbnail": false,
+    "talk_date": "September 21, 2022",
+    "talks_speakers": [
+      204
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I have recently moved from working in a traditional software development team to being the only software engineer in a research team. Our AI lab is filled with data scientists doing cutting-edge AI research. My role is to support these data scientists by handling their technology needs. The role varies from recommending and applying better engineering practices (vs the world of random unversioned Jupyter notebooks) to exploring how to create graph databases at an internet-scale (10bn+ nodes). </p>\n\n\n\n<p>This talk will explore my exciting adventure, my experiences, and my learnings of working in a truly cross-functional team where the other members both speak a different language and think about the world in a fundamentally different way.</p>"
+    }
+  ],
+  "formReplaced": false
+}

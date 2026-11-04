@@ -1,0 +1,61 @@
+---
+import type { EventEntry } from '../lib/content';
+interface Props { event: EventEntry }
+const { event } = Astro.props;
+const acf = event.data.acf || {};
+const title = acf.event_alt_title || event.data.title;
+const preTitle = acf.event_series_label;
+const date = acf.event_date_hidden ? '' : acf.event_date;
+const artwork = acf.event_artwork?.url;
+const bgImage = acf.header_background_image?.url;
+const bg = acf.event_background_color || '#ffffff';
+const font = acf.event_font_color_value || '#21212c';
+const darkFont = Boolean(acf.event_font_color);
+const btnBg = acf.buttons_background_color || (darkFont ? '#21212C' : '#f6f9fc');
+const btnFont = acf.buttons_font_color || (darkFont ? '#ffffff' : '#21212C');
+const cta1 = acf.event_register;
+const cta2 = acf.header_cta_2;
+const size = acf.reduce_font_size || '1';
+---
+<header class="container-fluid px-0 header-event">
+  {bgImage && (
+    <div class="responsive-bg-image lazy-background visible">
+      <div class="responsive-bg-image__wrapper" style={`background-image:url('${bgImage}')`}></div>
+    </div>
+  )}
+  <div class="header-inside" style={`color:${font};${bgImage ? '' : `background-color:${bg};`}`}>
+    <div class="container-flexible">
+      <div class="header-content">
+        {artwork ? (
+          <div class="artwork-wrap"><div class="artwork-fill" style={`background-image:url('${artwork}')`}></div></div>
+        ) : (
+          <div class="fill-artwork-space"></div>
+        )}
+        {preTitle && <div class="event-pre-title">{preTitle}</div>}
+        {title && <h1 class={`event-title heading-${size}`}>{title}</h1>}
+        <div class="event-info">
+          {date && <div class="event-info__part">{date}</div>}
+          {acf.type_of_event && <div class="event-info__part">{acf.type_of_event}</div>}
+          {acf.event_entry && <div class="event-info__part">{acf.event_entry}</div>}
+        </div>
+        {cta1?.url && (
+          <a class="cta-button reset-hover" href={cta1.url} target={cta1.target || undefined} style={`background-color:${btnBg};border-color:${btnBg};color:${btnFont};`}>
+            {cta1.title}
+          </a>
+        )}
+        {cta2?.url && (
+          <a class="cta-button outline-button reset-hover with-spacer" href={cta2.url} target={cta2.target || undefined} style={`background-color:${btnFont};border-color:${btnBg};color:${btnBg};`}>
+            {cta2.title}
+          </a>
+        )}
+      </div>
+    </div>
+    {acf.event_scroll_button && (
+      <div class="scroll-button-wrapper">
+        <a class="round-nav-button" href={`#${acf.event_scroll_button}`} title="Scroll down" style={`background-color:${btnBg};border-color:${btnBg};`}>
+          <i class="fas fa-arrow-down" style={`color:${btnFont};`}></i>
+        </a>
+      </div>
+    )}
+  </div>
+</header>

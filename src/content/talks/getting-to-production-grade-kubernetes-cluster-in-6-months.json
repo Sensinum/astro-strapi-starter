@@ -1,0 +1,43 @@
+{
+  "wpId": 474,
+  "title": "Getting to production grade Kubernetes cluster in 6 months",
+  "slug": "getting-to-production-grade-kubernetes-cluster-in-6-months",
+  "path": "/watch/getting-to-production-grade-kubernetes-cluster-in-6-months/",
+  "date": "2020-01-01 00:02:32",
+  "modified": "2021-03-31 15:16:47",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 37,
+        "slug": "kubernetes",
+        "name": "Kubernetes"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=QDmi9KReon4&t=14s",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      330
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Internet is flooded with tutorials promising working Kubernetes cluster in 5-10 minutes. But having secure, monitored and robust cluster that is ready for your production traffic is yet another story.In this talk, we will go through multiple steps of building such cluster. Starting with high availability requirements, network architecture, threat modelling, access control, integration with external identity providers for both users and workloads. Additionally, we will cover observability, deployment strategies and incident management. All that will make us ready to serve real traffic.</p>"
+    }
+  ],
+  "formReplaced": false
+}

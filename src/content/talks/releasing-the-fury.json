@@ -1,0 +1,41 @@
+{
+  "wpId": 524,
+  "title": "Releasing the Fury!",
+  "slug": "releasing-the-fury",
+  "path": "/watch/releasing-the-fury/",
+  "date": "2020-01-01 00:01:48",
+  "modified": "2023-03-20 14:56:59",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 100,
+        "slug": "fury",
+        "name": "Fury"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=HICkoZMDG_o&t=181s",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": false
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>After over a year of tempestuous development, a new build tool for Scala is approaching a stable release! Fury has aspirations to shake up the entire software development process for Scala, and this will be your opportunity to see for yourselves what a source-based future with Fury could look like.</p>\n\n\n\n<p>This talk will be a livecoding tour of Fury. You will get to see what it's like to use Fury for everyday tasks like compiling and testing, as well as occasional tasks like resolving dependencies, and infrequent actions like bundling and publishing.</p>"
+    }
+  ],
+  "formReplaced": false
+}

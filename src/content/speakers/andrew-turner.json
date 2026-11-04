@@ -1,0 +1,37 @@
+{
+  "wpId": 5120,
+  "title": "Andrew Turner",
+  "slug": "andrew-turner",
+  "path": "/contributor/andrew-turner/",
+  "date": "2024-04-19 11:54:40",
+  "modified": "2024-04-19 12:00:21",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/03/1659132866818.jpeg",
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5121,
+      "url": "/uploads/2024/04/AndrewJTurner_Headshot_BW.jpg",
+      "alt": "AndrewJTurner_Headshot_BW",
+      "width": 251,
+      "height": 248
+    },
+    "speaker_position": "Board Advisor | Operational Leader | Investor | Founder | Co-Founder | Community | Podcaster & upcoming Author",
+    "speaker_add_info": "",
+    "speaker_surname": "Turner",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/iamandrewjturner/?originalSubdomain=uk",
+    "speaker_gh": "",
+    "desc_episodes": "As GM, Praxi Data, I lead the expansion and operations of the only automated data platform pre-trained by experts, serving clients in healthcare, insurance, banking, life sciences, and defence. With over 25 years of experience in the tech industry, I have a proven track record of delivering strategic planning, proposition development, marketing, sales, and account management for large multinationals, global software authors, and consulting organisations.\r\n"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>As GM, Praxi Data, I lead the expansion and operations of the only automated data platform pre-trained by experts, serving clients in healthcare, insurance, banking, life sciences, and defence.</p>"
+    }
+  ],
+  "formReplaced": false
+}

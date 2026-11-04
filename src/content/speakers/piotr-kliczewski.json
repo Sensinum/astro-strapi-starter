@@ -1,0 +1,43 @@
+{
+  "wpId": 344,
+  "title": "Piotr Kliczewski",
+  "slug": "piotr-kliczewski",
+  "path": "/contributor/piotr-kliczewski/",
+  "date": "2020-01-01 00:01:31",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Principal Software Engineer at Red Hat",
+    "speaker_avatar": {
+      "id": 345,
+      "url": "/uploads/2021/03/20180730_1116302-Piotr-Kliczewski-scaled.jpg",
+      "alt": "Piotr Kliczewski",
+      "width": 1691,
+      "height": 2560
+    },
+    "speaker_surname": "Kliczewski",
+    "speaker_twitter": "https://twitter.com/pkliczewski",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/piotr-kliczewski-29504b2/",
+    "speaker_gh": "https://github.com/pkliczewski"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Piotr Kliczewski – Principal software engineer at Red Hat. He is building virtualization / cloud-based solutions for over a decade. He enjoys speaking about different way of solving the same issues.</p>"
+    }
+  ],
+  "formReplaced": false
+}

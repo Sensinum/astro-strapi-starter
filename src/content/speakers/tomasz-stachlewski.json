@@ -1,0 +1,43 @@
+{
+  "wpId": 217,
+  "title": "Tomasz Stachlewski",
+  "slug": "tomasz-stachlewski",
+  "path": "/contributor/tomasz-stachlewski/",
+  "date": "2020-01-01 00:02:14",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Principal Solutions Architect at Amazon Web Services",
+    "speaker_avatar": {
+      "id": 218,
+      "url": "/uploads/2021/03/tomasz_stachlewski-min.jpg",
+      "alt": "Tomasz Stachlewski",
+      "width": 480,
+      "height": 480
+    },
+    "speaker_surname": "Stachlewski",
+    "speaker_twitter": "https://twitter.com/TStachlewski",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/tstachlewski/",
+    "speaker_gh": "https://github.com/tstachlewski"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Tomasz Stachlewski is a Principal Solutions Architect at Amazon Web Services, where he helps companies of all sizes (from startups to enterprises) in their Cloud journey. He provides guidelines for creating cloud solutions that deliver the most value to his customers, and help take their IT to the next level. </p>\n\n\n\n<p>He is a big believer in innovative technology such as serverless architecture, which allows organizations to accelerate their digital transformation. Before joining Amazon, he worked at LOT Polish Airlines, where he architected their first cloud projects, IBM and at Accenture.</p>"
+    }
+  ],
+  "formReplaced": false
+}

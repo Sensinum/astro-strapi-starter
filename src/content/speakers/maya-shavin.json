@@ -1,0 +1,43 @@
+{
+  "wpId": 1914,
+  "title": "Maya Shavin",
+  "slug": "maya-shavin",
+  "path": "/contributor/maya-shavin/",
+  "date": "2021-10-01 15:13:14",
+  "modified": "2021-10-05 10:33:11",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Software Engineer at Microsoft",
+    "speaker_avatar": {
+      "id": 1915,
+      "url": "/uploads/2021/10/Maya_new-Maya-Shavin.jpeg",
+      "alt": "Maya Shavin",
+      "width": 1200,
+      "height": 800
+    },
+    "speaker_surname": "Shavin",
+    "speaker_twitter": "https://twitter.com/MayaShavin",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/mayashavin",
+    "speaker_gh": "https://github.com/mayashavin"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Maya is Senior Software Engineer at Microsoft, MDE, GDE on Web performance, Nuxtjs Ambassador, founder of VueJS Israel, core maintainer of StorefrontUI, and a writer on JavaScript good practices. She likes working with ReactJS but always has a Vue in her heart.</p>\n\n\n\n<p>She loves to learn and experiment with new frameworks while believing that strong Vanilla JavaScript knowledge is necessary for being a good web developer. When not coding, she enjoys traveling, reading manga, and sketching.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,47 @@
+{
+  "wpId": 5198,
+  "title": "Data Science maturity gap and the reality of making AI work",
+  "slug": "data-science-maturity-gap-and-the-reality-of-making-ai-work",
+  "path": "/podcast/data-science-maturity-gap-and-the-reality-of-making-ai-work/",
+  "date": "2024-04-19 14:11:14",
+  "modified": "2024-04-19 14:11:14",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E17_thumbnail_Polina_Vertex_Interview-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5196
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "watch on YouTube ",
+      "url": "https://www.youtube.com/watch?v=ryY5SmqY7NM&list=PLl9Aulxh1VePW1MCtgpOqCRDPjYWn9Zy2&index=22",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>One of the many interviews with Insurance Experts that we recorded at the Insurtech Insights 2024 in London. Interviewing Polina Vertex &#8211; Co-Founder, CBDO &amp; Head of Research Co-Founder, CBDO &amp; Head of Research Syntagma Labs</p>\n",
+    "podcast_cover": {
+      "id": 5199,
+      "url": "/uploads/2024/04/S01E17_thumbnail_Polina_Vertex_Interview-min.jpg",
+      "alt": "S01E17_thumbnail_Polina_Vertex_Interview-min",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

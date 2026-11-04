@@ -1,0 +1,47 @@
+{
+  "wpId": 4300,
+  "title": "Handling Uncertainty",
+  "slug": "handling-uncertainty",
+  "path": "/watch/handling-uncertainty/",
+  "date": "2023-04-28 17:26:39",
+  "modified": "2024-01-12 10:39:38",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 182,
+        "slug": "beyond-senior",
+        "name": "Beyond Senior"
+      },
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=OkwzmBbpMtA",
+    "video_thumbnail": {
+      "id": 4776,
+      "url": "/uploads/2023/04/maxresdefault-12.jpg",
+      "alt": "Rory Graves",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "September 28, 2023",
+    "talks_speakers": [
+      204
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>When you begin your software career there is little uncertainty. What you need to do is well defined, 'fix this bug', 'add this button'. Each step on your career ladder leads to higher and higher levels of uncertainly - from 'how are we going to implement this', to 'is this the right thing to implement', all the way through to CTO level 'is this the right strategic direction for the company?'. The decisions become multi-faceted with no simple answers.</p>\n\n\n\n<p>In this talk we are will explore uncertainly and its friend complexity. We will provide some concrete insights into how to address wrangle uncertainly to address problems and push your career to new heights.</p>"
+    }
+  ],
+  "formReplaced": false
+}

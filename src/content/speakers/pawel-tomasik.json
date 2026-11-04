@@ -1,0 +1,43 @@
+{
+  "wpId": 280,
+  "title": "Paweł Tomasik",
+  "slug": "pawel-tomasik",
+  "path": "/contributor/pawel-tomasik/",
+  "date": "2020-01-01 00:01:50",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 53,
+        "slug": "quantum-computing",
+        "name": "Quantum Computing"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Technical Lead in Motorola Solutions",
+    "speaker_avatar": {
+      "id": 281,
+      "url": "/uploads/2021/03/Pawel_Tomasik.jpeg",
+      "alt": "Paweł Tomasik",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Tomasik",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In private life husband and father of two children in continuous effort to strike the right balance between professional and family engagement.</p>\n\n\n\n<p>Everyday work focused on joining business and technical perspectives for 'good software' definition. Willing to share the knowledge by leading workshops and talks. Concentrated on promotion the holistic perception on application product as a combination of code, platform, marketing and business and customer relations.</p>\n\n\n\n<p>Before starting a professional career, passionate about physics and member of national representation for IPhO. Later on pivoted to \"higher levels\" of engineering: electronics, robotics, and finally Java and .NET.</p>\n\n\n\n<p>This background makes quantum computing technology close as it joins elementary physics world with modern programming.</p>"
+    }
+  ],
+  "formReplaced": false
+}

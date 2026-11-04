@@ -1,0 +1,28 @@
+{
+  "wpId": 636,
+  "title": "Make Your Data FABulous",
+  "slug": "make-your-data-fabulous",
+  "path": "/watch/make-your-data-fabulous/",
+  "date": "2020-01-01 00:01:00",
+  "modified": "2023-03-20 14:16:57",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=jsHOx5xjYBY",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      271
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The CAP theorem is widely known for distributed systems, but it’s not the only tradeoff you should be aware of. For datastores there is also the FAB theory and just like with the CAP theorem you can only pick two: Fast: Results are fast enough so that people can have a seamless interaction. Accurate: Answers are accurate and don’t have a margin of error. Big: Dozens or hundreds of systems are involved in calculating the result. Most SQL databases are in the FA space whereas Hadoop and related systems are generally AB systems. A system optimized for FB is Elasticsearch for example. While Fast and Big are relatively easy to understand, Accurate is a bit harder to picture. This talk shows some concrete examples of accuracy tradeoffs Elasticsearch has taken and how to optimize them for your usecase.</p>"
+    }
+  ],
+  "formReplaced": false
+}

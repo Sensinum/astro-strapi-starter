@@ -1,0 +1,36 @@
+{
+  "wpId": 503,
+  "title": "The algo magic: from big to small data",
+  "slug": "the-algo-magic-from-big-to-small-data",
+  "path": "/watch/the-algo-magic-from-big-to-small-data/",
+  "date": "2020-01-01 00:02:05",
+  "modified": "2023-03-21 09:46:59",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=pIbJkTJBuCA",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      338
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The big data world by definition has enough bigness&nbsp;in it to appreciate optimized algorithms. During the presentation I will illustrate this point by analyzing a geo-spatial problem from the domain of delivery routing. I will present a practical experiment using the OpenStreetMap road graph data for the Malopolska region in Poland. A few solutions with varying time complexities will show that the bigness of data might sometimes indeed be relative.</p>"
+    }
+  ],
+  "formReplaced": false
+}

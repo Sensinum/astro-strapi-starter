@@ -1,0 +1,59 @@
+{
+  "wpId": 621,
+  "title": "Anomaly detection of monitoring data in Scala ecosystem",
+  "slug": "anomaly-detection-of-monitoring-data-in-scala-ecosystem",
+  "path": "/watch/anomaly-detection-of-monitoring-data-in-scala-ecosystem/",
+  "date": "2020-01-01 00:01:12",
+  "modified": "2023-03-20 14:26:11",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 32,
+        "slug": "akka",
+        "name": "Akka"
+      },
+      {
+        "id": 26,
+        "slug": "cloud",
+        "name": "Cloud"
+      },
+      {
+        "id": 65,
+        "slug": "kafka",
+        "name": "Kafka"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      },
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=VsVeuqeXEGs",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      562,
+      564
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Machine learning for programmers could be a tricky subject. We’d like to present a system that predicts the potential user over charging problem by detecting anomalies in the monitoring data. It wouldn’t be a data scientist talk, rather a one focused on implementation details using tools from Scala ecosystem. What’s difficult in the billing system for the shared cloud infrastructure? Noisy neighbour is an effect of monopolisation of bandwidth, disk I/O, CPU and other resources. </p>\n\n\n\n<p>Virtual machines and applications that share the infrastructure suffer from uneven cloud network performance. In such environment, without proper analysis of real-time monitoring data, it’s not easy to distinguish valid complaints from ungrounded grumbles. Akka Streams with Kafka, Spark and Cloudant is a nice mixture of tools that can help you build a robust streaming solution without a lot of effort in both the development and maintenance phase. The presentation is dedicated to software developers, system architects and data scientists who would like to learn the quick and painless way of building reactive systems.</p>"
+    }
+  ],
+  "formReplaced": false
+}

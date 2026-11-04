@@ -1,0 +1,37 @@
+{
+  "wpId": 5412,
+  "title": "Krzysztof Hałasa",
+  "slug": "krzysztof-halasa",
+  "path": "/contributor/krzysztof-halasa/",
+  "date": "2025-01-15 15:19:46",
+  "modified": "2025-01-20 16:31:11",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5413,
+      "url": "/uploads/2025/01/DSC_0405-copy.png",
+      "alt": "Krzysztof Hałasa",
+      "width": 715,
+      "height": 715
+    },
+    "speaker_position": "Platform Engineering & IT Operating Models Consultant ",
+    "speaker_add_info": "Exerizon",
+    "speaker_surname": "Hałasa",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/krzysztof-ha%C5%82asa-khalasa-com/",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Krzysztof is a Software Engineer &amp; Management Consultant, specializing in Platform Engineering &amp; IT Operating Models. Team Topologies Advocate, Platform Engineering Ambassador, PJATK academic lecturer &amp; military history enthusiast, who treats IT as one of his greatest hobbies. Commercially in IT since 2013 in various roles (developer, analyst, manager - now consultant), professionally associated with Exerizon as Principal Platforms Architect. \"Platform Engineering for Managers\" course author, blogger (<a href=\"http://khalasa.com/\" target=\"_blank\" rel=\"noreferrer noopener\">khalasa.com</a>) &amp; junior YouTuber (@khalasa-com). <br></p>"
+    }
+  ],
+  "formReplaced": false
+}

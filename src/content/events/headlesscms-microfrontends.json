@@ -1,0 +1,160 @@
+{
+  "wpId": 1204,
+  "title": "HeadlessCMS & MicroFrontends",
+  "slug": "headlesscms-microfrontends",
+  "path": "/event/headlesscms-microfrontends/",
+  "date": "2021-06-04 13:22:22",
+  "modified": "2023-03-06 12:48:08",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2021/06/share.png",
+  "seo": {
+    "ogTitle": "Sphere.it Tech Talks #1 - HeadlessCMS & MicroFrontends",
+    "ogDescription": "First event from our new series - Sphere.it Tech Talks is just around the corner - on July 24th, join us to talk about #HeadlessCMS and #MicroFrontends",
+    "ogImage": "/uploads/2021/06/share.png"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 138,
+        "slug": "sphere-it-tech-talks",
+        "name": "Sphere.it Tech Talks"
+      }
+    ]
+  },
+  "acf": {
+    "event_date": "24.06.2021",
+    "type_of_event": "Start 6:00 PM CEST",
+    "event_entry": "",
+    "event_artwork": {
+      "id": 1410,
+      "url": "/uploads/2021/06/frontend_web.png",
+      "alt": "HeadlessCMS & MicroFrontends",
+      "width": 960,
+      "height": 960
+    },
+    "event_register": {
+      "title": "Register now",
+      "url": "https://www.airmeet.com/e/1c47ec80-cd9c-11eb-945b-1510560bf1c0",
+      "target": "_blank"
+    },
+    "event_background_color": "#f89b38",
+    "event_font_color": true,
+    "event_font_color_value": "#422632",
+    "reduce_font_size": "1",
+    "event_scroll_button": "when-where",
+    "event_series_label": "Sphere.it Tech Talks #1",
+    "event_agenda": [
+      {
+        "item_type": "talk",
+        "item_time": "",
+        "talk_id": 1433,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "",
+        "talk_id": 1435,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "",
+        "talk_id": 1436,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      }
+    ],
+    "header_background_image": false,
+    "buttons_background_color": "",
+    "buttons_font_color": "",
+    "alt_dynamic_menu": false,
+    "event_alt_title": "",
+    "event_date_hidden": false,
+    "event_artwork_listing": false,
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-about-text",
+      "anchor": "acf-block-6405d2f7b65b5",
+      "data": {
+        "block_title": null,
+        "block_description": "<h3 style=\"text-align: center; line-height: 125%;\"><img class=\"aligncenter\" style=\"height: 50%; width: 50%; margin: 0 auto; text-align: center;\" src=\"/uploads/2021/06/sphere_tech_talks.png\" alt=\"sphere.it tech talks\" /></br>\r\nThe first event from our new series – <a class=\"c-link\" href=\"/\" target=\"_blank\" rel=\"noopener noreferrer\" data-stringify-link=\"http://Sphere.it\" data-sk=\"tooltip_parent\">Sphere.it</a> Tech Talks – is just around the corner! On July 24th, join us to talk about <strong>#HeadlessCMS</strong> and <strong>#MicroFrontends</strong></h3>",
+        "block_background_color": "#422632",
+        "block_font_color": "#f89b38",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "when-where",
+      "data": {
+        "block_description": "<h4><span style=\"color: #fff;\">6:05 PM</span> Why you should go Headless - by Daniel Medalitso Phiri</h4>\r\n<h4><span style=\"color: #fff;\">6:25 PM</span> Consuming headless in the omnichannel networks - by Mateusz Strąg</h4>\r\n<h4><span style=\"color: #fff;\">6:45 PM</span> Code Reusage and Shared Components in Micro Frontends - by Vanessa Böhner</h4>\r\n<h4><span style=\"color: #fff;\">7:15 PM</span> Q&amp;A</h4>\r\n<h4><span style=\"color: #fff;\">8:00 PM</span> Networking on Airmeet</h4>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 1292,
+          "url": "/uploads/2021/06/event_plan-min.png",
+          "alt": "HeadlessCMS &#038; MicroFrontends &#8211; event plan",
+          "width": 1200,
+          "height": 800
+        },
+        "switch_text_side": true,
+        "block_background_color": "#1f130c",
+        "block_font_color": "#f89b38",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-6405d2f7b664f",
+      "data": {
+        "block_title": "Our all-star guests",
+        "automatic_selection": true,
+        "speaker_groups": [],
+        "block_background_color": "#ffffff",
+        "block_font_color": "#1f130c",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-6405d2f7b666f",
+      "data": {
+        "block_title": "Join us at Sphere.it Tech Talks",
+        "block_description": "<span style=\"font-weight: 400;\">24.06.2021 | START 6:00 PM CEST | VIRTUAL EVENT</span>",
+        "block_button": {
+          "title": "Register for free",
+          "url": "https://www.airmeet.com/e/1c47ec80-cd9c-11eb-945b-1510560bf1c0",
+          "target": "_blank"
+        },
+        "cta_background_color": "#f89b38",
+        "cta_font_color": "#422632",
+        "cta_border_radius": 32,
+        "block_background_image": null,
+        "block_background_color": "#422632",
+        "block_font_color": "#ffffff",
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

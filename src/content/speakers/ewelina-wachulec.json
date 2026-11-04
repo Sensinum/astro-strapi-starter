@@ -1,0 +1,37 @@
+{
+  "wpId": 5039,
+  "title": "Ewelina Wachulec",
+  "slug": "ewelina-wachulec",
+  "path": "/contributor/ewelina-wachulec/",
+  "date": "2024-03-07 16:12:20",
+  "modified": "2024-03-15 13:20:20",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5056,
+      "url": "/uploads/2024/03/25f222df-9a63-4a2d-9cbd-4999d5f31126.jpg",
+      "alt": "25f222df-9a63-4a2d-9cbd-4999d5f31126",
+      "width": 742,
+      "height": 742
+    },
+    "speaker_position": "Senior Software Engineering Manager at Dell Technologies",
+    "speaker_add_info": "Dell Technologies",
+    "speaker_surname": "Wachulec",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/ewachulec/",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Hey there! I'm Ewelina, and my whole career in tech (18 years!) is about building innovative solutions with great teams. Currently, I lead a global CI/CD unit, with DevOps engineers across three continents, working with ObjectScale, a cutting-edge technology designed to handle massive amounts of object data. Alongside that, I serve as the Site Lead for Dell USS Group in Poland and contribute as a member of the Senior Leadership Team at the R&amp;D Center in Poland. Before, I delivered global programs &amp; innovative solutions in the area of Industrial Internet of Things, Supply Chain, Customer Service &amp; E-commerce.</p>\n\n\n\n<p>My goal? Making the tech world a better place. I focus on creating environments where engineering teams can collaborate, innovate, and bring new ideas to life. I am also dedicated to mentoring others and empowering them to reach their full potential. Always on a mission to attract more women to the tech industry.</p>\n\n\n\n<p>Off the clock, I'm a proud mom of two kids and a dog, an avid reader, a SUP enthusiast, and a seasoned traveler with nearly 50 countries explored, many with my kids.</p>"
+    }
+  ],
+  "formReplaced": false
+}

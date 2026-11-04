@@ -1,0 +1,36 @@
+{
+  "wpId": 996,
+  "title": "My Take on Scala 3 by Daniela Sfregola",
+  "slug": "my-take-on-scala-3-by-daniela-sfregola",
+  "path": "/watch/my-take-on-scala-3-by-daniela-sfregola/",
+  "date": "2021-04-28 14:46:54",
+  "modified": "2021-04-28 15:39:11",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=DI2LqcLx1no",
+    "video_thumbnail": false,
+    "talk_date": "April 24, 2021",
+    "talks_speakers": [
+      980
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In this brief talk Daniela shares her Top 5 Cool Things about Scala 3 that are not enums. </p>"
+    }
+  ],
+  "formReplaced": false
+}

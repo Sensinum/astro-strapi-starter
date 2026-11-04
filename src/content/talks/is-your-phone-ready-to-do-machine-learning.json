@@ -1,0 +1,43 @@
+{
+  "wpId": 482,
+  "title": "Is your phone ready to do machine learning?",
+  "slug": "is-your-phone-ready-to-do-machine-learning",
+  "path": "/watch/is-your-phone-ready-to-do-machine-learning/",
+  "date": "2020-01-01 00:02:25",
+  "modified": "2021-03-31 15:21:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 44,
+        "slug": "machine-learning",
+        "name": "Machine Learning"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=n-z7Pm0mx6Y",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      352
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Is your phone ready to do machine learning? Yes, yes it is. It's a case closed then? No, not really. The question right now is how to do it, and why it's crucial to do it on a mobile device. In my talk I'll make a brief introduction to Tensorflow Lite, I'll show you what do we use it for at Edward.ai, what problems we faced, and how we approached them. I'll finish up with a summary of what's currently going on in the field of mobile machine learning and what we can expect to happen in the near future.</p>"
+    }
+  ],
+  "formReplaced": false
+}

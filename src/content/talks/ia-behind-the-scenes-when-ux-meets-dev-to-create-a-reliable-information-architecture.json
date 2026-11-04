@@ -1,0 +1,46 @@
+{
+  "wpId": 2127,
+  "title": "IA behind the scenes – when UX meets Dev to create a reliable Information Architecture",
+  "slug": "ia-behind-the-scenes-when-ux-meets-dev-to-create-a-reliable-information-architecture",
+  "path": "/watch/ia-behind-the-scenes-when-ux-meets-dev-to-create-a-reliable-information-architecture/",
+  "date": "2021-11-10 10:55:36",
+  "modified": "2023-03-21 11:06:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/11/monika_tomasz_ia_alt.png"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 131,
+        "slug": "information-architecture",
+        "name": "Information Architecture"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=DFlPEWzd-iE",
+    "video_thumbnail": false,
+    "talk_date": "October 28, 2021",
+    "talks_speakers": [
+      1919,
+      1916
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>We hope to entice you to dive into the Information Architecture world with us! You’ll find out what the IA is, why it should be a vital part of every project, and how to use it most efficiently.</p>\n\n\n\n<p>We’re going to tell you about the two sides of an IA’s coin - UX and Dev,&nbsp; what benefits it brings, and how challenging it is to create an automated IA map structure.</p>"
+    }
+  ],
+  "formReplaced": false
+}

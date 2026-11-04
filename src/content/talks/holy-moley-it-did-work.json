@@ -1,0 +1,38 @@
+{
+  "wpId": 3031,
+  "title": "Holy Moley - it did work!",
+  "slug": "holy-moley-it-did-work",
+  "path": "/watch/holy-moley-it-did-work/",
+  "date": "2022-06-01 20:11:27",
+  "modified": "2023-03-21 11:29:00",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/06/dominika_thumb-1024x576.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 174,
+        "slug": "inspiring-women-in-it",
+        "name": "Inspiring Women in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=oOFVX7JQorI&t=922s",
+    "video_thumbnail": false,
+    "talk_date": "March 16, 2022",
+    "talks_speakers": [
+      2761
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>(PL) </p>\n\n\n\n<p>Krótka historia o tym jak wykorzystałam szanse i możliwości by rozwinąć swoją karierę w IT, oraz dlaczego warto wierzyć w siebie i kształtować poczucie własnej skuteczności, mimo paraliżującego strachu przed \"nowym\" i \"nieznanym\". </p>\n\n\n\n<p>(ENG) </p>\n\n\n\n<p>A short story about how I used the opportunities I encountered to develop my career in IT and why it is worth believing in yourself and shaping a sense of self-efficacy, despite the paralyzing fear of the \"new\" and \"unknown\".</p>"
+    }
+  ],
+  "formReplaced": false
+}

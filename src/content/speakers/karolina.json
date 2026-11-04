@@ -1,0 +1,36 @@
+{
+  "wpId": 4881,
+  "title": "Karolina Łagodzka-Dubikowska",
+  "slug": "karolina",
+  "path": "/contributor/karolina/",
+  "date": "2024-02-06 16:55:57",
+  "modified": "2024-02-29 22:46:20",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "People Senior Partner at VirtusLab",
+    "speaker_avatar": {
+      "id": 4883,
+      "url": "/uploads/2024/02/Foto-Press_2749_Easy-Resize.com_1-1.jpg",
+      "alt": "Foto-Press_2749_Easy-Resize.com_1",
+      "width": 923,
+      "height": 923
+    },
+    "speaker_surname": "Łagodzka-Dubikowska",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/karolinalagodzka/",
+    "speaker_gh": "",
+    "speaker_add_info": "VirtusLab"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Karolina Łagodzka-Dubikowska has over 6 years of professional experience. She is a People Senior Partner at VirtusLab and a cognitive behavioural psychotherapist. With a rich background in both domains and Master's Degrees in Psychology and Social Change Management, she possesses a unique perspective on human aspects in business settings and a deep understanding of the psychological aspects influencing professional growth. In my free time, I find joy in sailing and dancing.</p>"
+    }
+  ],
+  "formReplaced": false
+}

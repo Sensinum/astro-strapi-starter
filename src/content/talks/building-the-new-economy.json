@@ -1,0 +1,55 @@
+{
+  "wpId": 3287,
+  "title": "Building the new economy",
+  "slug": "building-the-new-economy",
+  "path": "/watch/building-the-new-economy/",
+  "date": "2022-08-23 11:06:14",
+  "modified": "2023-11-09 12:10:37",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/08/aga_szostek_thumbnails_sphereconf-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 171,
+        "slug": "change-management",
+        "name": "Change Management"
+      },
+      {
+        "id": 169,
+        "slug": "economic-progress",
+        "name": "Economic Progress"
+      },
+      {
+        "id": 170,
+        "slug": "experience-design",
+        "name": "Experience Design"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=nBWob3cxxIg",
+    "video_thumbnail": false,
+    "talk_date": "September 20, 2022",
+    "talks_speakers": [
+      3276
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The Economic Progression Model proposed by Joseph Pine and James Gilmore depicts the economic development in the Western world as it is happening in front of our eyes. From one stance, you can say that the final stage: transformational experience is the natural end of the proposed progression. </p>\n\n\n\n<p>From another stance, though, we may consider it an end to a certain phase of economic progress and an opening to a new perspective—delivering value. Such value goes beyond the monetary gain and encapsulates the broad range of change we want to see in the world. Through my presentation, I would like to invite you to a discussion on how experience design could elevate transformative change through contributions that positively impact the world in the direction we hope for.</p>"
+    }
+  ],
+  "formReplaced": false
+}

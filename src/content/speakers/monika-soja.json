@@ -1,0 +1,48 @@
+{
+  "wpId": 1919,
+  "title": "Monika Soja",
+  "slug": "monika-soja",
+  "path": "/contributor/monika-soja/",
+  "date": "2021-10-05 10:34:49",
+  "modified": "2023-07-19 16:33:16",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      },
+      {
+        "id": 136,
+        "slug": "ui-ux",
+        "name": "UI/UX"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "UX/UI Design Lead at VirtusLab",
+    "speaker_avatar": {
+      "id": 4375,
+      "url": "/uploads/2021/10/selfportrait4-2-scaled.jpg",
+      "alt": "selfportrait4 (2)",
+      "width": 2560,
+      "height": 2551
+    },
+    "speaker_surname": "Soja",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/monika-soja-9b490b196/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I believe that UX is all about the people and that a great user experience creates a powerful bond between the user and the product.<br>I am a Senior UX/UI Designer &amp; Information Architect, usually optimizing vast, complex information systems at the enterprise level. I am passionate about solving problems, asking the right questions, and taking a holistic view of a project. All to create solutions tailored to user needs, business requirements, and technical affordances. I enjoy making things simpler and easier or just better and more fun. I adore dogs, naps, travel, and cooking. During recent years I’ve been wearing a hat of a team leader, design lead, and recently, a mentor. I’m a big fan of Witcher Books and LOTR :)</p>"
+    }
+  ],
+  "formReplaced": false
+}

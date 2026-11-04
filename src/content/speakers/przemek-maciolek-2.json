@@ -1,0 +1,37 @@
+{
+  "wpId": 5471,
+  "title": "Przemek Maciolek",
+  "slug": "przemek-maciolek-2",
+  "path": "/contributor/przemek-maciolek-2/",
+  "date": "2025-07-30 15:41:59",
+  "modified": "2025-08-14 12:41:37",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5473,
+      "url": "/uploads/2025/07/480712315_10161472032759332_4975531418110958622_n-1.jpg",
+      "alt": "Przemek Maciolek",
+      "width": 960,
+      "height": 960
+    },
+    "speaker_position": "Staff Software Engineer",
+    "speaker_add_info": "",
+    "speaker_surname": "",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>By day, working on Data Engineering at a major Home-sharing Platform. In past lives, worked for numerous startups, where he was a founding engineer, principal architect, VP and scientist (PhD in ML/NLP). He's built bulletproof systems that laugh in the face of downtime and once improved a query engine by a 10x factor, presumably just for fun. His superpower is turning a \"what if\" sketch on a napkin into a scalable, revolutionary product.</p>"
+    }
+  ],
+  "formReplaced": false
+}

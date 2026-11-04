@@ -1,0 +1,43 @@
+{
+  "wpId": 418,
+  "title": "Pavel Fatin",
+  "slug": "pavel-fatin",
+  "path": "/contributor/pavel-fatin/",
+  "date": "2020-01-01 00:01:00",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Software Developer at JetBrains",
+    "speaker_avatar": {
+      "id": 419,
+      "url": "/uploads/2021/03/Pavel_Fatin.jpeg",
+      "alt": "Pavel Fatin",
+      "width": 225,
+      "height": 225
+    },
+    "speaker_surname": "Fatin ",
+    "speaker_twitter": "https://twitter.com/pavelfatin/",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/pavelfatin",
+    "speaker_gh": "https://github.com/pavelfatin"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Programming enthusiast, technology advocate. IntelliJ Scala plugin developer at JetBrains. You can check out his GitHub <a rel=\"noreferrer noopener\" href=\"https://github.com/pavelfatin\" target=\"_blank\">here</a>.</p>"
+    }
+  ],
+  "formReplaced": false
+}

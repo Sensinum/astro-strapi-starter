@@ -1,0 +1,35 @@
+{
+  "wpId": 3276,
+  "title": "Aga Szóstek",
+  "slug": "aga-szostek",
+  "path": "/contributor/aga-szostek/",
+  "date": "2022-08-23 11:02:54",
+  "modified": "2022-10-13 14:09:06",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Strategic Experience Designer, author of \"The Umami Strategy\" & \"Leadership by Design\"",
+    "speaker_avatar": {
+      "id": 3286,
+      "url": "/uploads/2022/08/1601208354641.jpeg",
+      "alt": "Aga Szóstek",
+      "width": 800,
+      "height": 800
+    },
+    "speaker_surname": "Szóstek",
+    "speaker_twitter": "https://twitter.com/malka6",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/aga-sz%C3%B3stek-5aa2321/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Aga Szóstek, Ph.D. is a strategic designer and author of the books \"The Umami Strategy\" and \"Leadership by Design\". For the last two decades, she has worked with leading companies combining design, technology, and business. She also mentors leaders and management in the field of strategic change. </p>\n\n\n\n<p>In addition to consulting, Aga designs tools to support the delivery of unique experiences as well as undergoing personal and professional transformations and co-hosts a leadership podcast: <a href=\"https://catchingthenextwavepodcast.com/\">Catching The Next Wave</a>. She is also the founding partner of the World Experience Organization.</p>"
+    }
+  ],
+  "formReplaced": false
+}

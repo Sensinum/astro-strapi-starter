@@ -1,0 +1,84 @@
+{
+  "wpId": 457,
+  "title": "RSocket - Future Reactive Protocol",
+  "slug": "rsocket-future-reactive-protocol",
+  "path": "/watch/rsocket-future-reactive-protocol/",
+  "date": "2020-01-01 00:02:48",
+  "modified": "2021-05-27 12:43:53",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 73,
+        "slug": "c",
+        "name": "C#"
+      },
+      {
+        "id": 74,
+        "slug": "c-2",
+        "name": "C++"
+      },
+      {
+        "id": 72,
+        "slug": "java",
+        "name": "Java"
+      },
+      {
+        "id": 18,
+        "slug": "javascript",
+        "name": "JavaScript"
+      },
+      {
+        "id": 68,
+        "slug": "rest",
+        "name": "REST"
+      },
+      {
+        "id": 75,
+        "slug": "rpc",
+        "name": "RPC"
+      },
+      {
+        "id": 71,
+        "slug": "rsocket",
+        "name": "RSocket"
+      },
+      {
+        "id": 70,
+        "slug": "websocket",
+        "name": "WebSocket"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=QJ3xw0MF-3U&t=402s",
+    "video_thumbnail": {
+      "id": 1142,
+      "url": "/uploads/2020/01/Screenshot-2021-05-27-at-12.42.23.png",
+      "alt": "RSocket - Future Reactive Protocol",
+      "width": 2880,
+      "height": 1800
+    },
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      249
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Are you making microservices/cloud-native applications? Are you frustrated by slow REST? Tired of unreliable gRPC? Do you need faster client-server communication, but don’t want to invent your own WebSocket-protocol? RSocket is a new application-level protocol capable of reactive streaming that can be used to simplify the way enterprises build and operate cloud-native applications. It enables traditional enterprise developers to build sophisticated, cloud-native, distributed applications.</p>\n\n\n\n<p>RSocket is transport agnostic and can be used on top of any transport protocol like TCP/Aeron or even on top of HTTP/2 or WebSocket. RSocket has various interaction models so it can satisfy the needs of today applications. The protocol is agnostic when it comes to programming languages, message formats, and API architecture. Any developer can use RSocket to meet all business requirements. RSocket simplifies life for any startup or enterprise, whether it is used in a protocol implementation like Java, C#, C++, JavaScript or deployed in an RPC framework.</p>\n\n\n\n<p>In this presentation, we are going to cover all these cases and concepts and answer why, when and how you can start using RSocket today and how high traffic giants like Facebook, Netflix and others have adopted RSocket.</p>"
+    }
+  ],
+  "formReplaced": false
+}

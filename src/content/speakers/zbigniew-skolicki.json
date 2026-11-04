@@ -1,0 +1,32 @@
+{
+  "wpId": 5329,
+  "title": "Zbigniew Skolicki",
+  "slug": "zbigniew-skolicki",
+  "path": "/contributor/zbigniew-skolicki/",
+  "date": "2024-09-19 16:05:18",
+  "modified": "2024-10-16 14:14:49",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5330,
+      "url": "/uploads/2024/09/1608559483483.jpeg",
+      "alt": "1608559483483",
+      "width": 800,
+      "height": 800
+    },
+    "speaker_position": "Principal AI Engineer at VirtusLab",
+    "speaker_add_info": "VirtusLab",
+    "speaker_surname": "Skolicki",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/zbigniewskolicki/?originalSubdomain=pl",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [],
+  "formReplaced": false
+}

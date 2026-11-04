@@ -1,0 +1,43 @@
+{
+  "wpId": 334,
+  "title": "Mateusz Owczarek",
+  "slug": "mateusz-owczarek",
+  "path": "/contributor/mateusz-owczarek/",
+  "date": "2020-01-01 00:01:35",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Scala Developer at AVSystem",
+    "speaker_avatar": {
+      "id": 335,
+      "url": "/uploads/2021/03/Mateusz_Owczarek.jpeg",
+      "alt": "Mateusz Owczarek",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Owczarek",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Mateusz is Scala developers at AVSystem with 4 years of experience in commercial software development. Mateusz is a Kafka enthusiast, currently working on a generic monitoring engine project.</p>"
+    }
+  ],
+  "formReplaced": false
+}

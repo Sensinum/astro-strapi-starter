@@ -1,0 +1,43 @@
+{
+  "wpId": 1109,
+  "title": "Roman Janusz",
+  "slug": "roman-janusz",
+  "path": "/contributor/roman-janusz/",
+  "date": "2021-05-19 14:15:26",
+  "modified": "2021-05-19 14:15:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at AV System",
+    "speaker_avatar": {
+      "id": 1110,
+      "url": "/uploads/2021/05/roman_janusz-min.jpeg",
+      "alt": "Roman Janusz",
+      "width": 480,
+      "height": 480
+    },
+    "speaker_surname": "Janusz",
+    "speaker_twitter": "https://twitter.com/rjghik",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/roman-janusz-3aa64163/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Roman is a Scala enthusiast interested mostly in type systems, metaprogramming, functional programming, and distributed systems. He's been writing and teaching Scala at AVSystem for over 5 years now. He’s also done some open source work: silencer plugin for scalac, HOCON plugin for IntelliJ, and their own company’s open-source projects, Udash Framework among them.</p>"
+    }
+  ],
+  "formReplaced": false
+}

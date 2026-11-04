@@ -1,0 +1,110 @@
+.block-podcast {
+  padding: 100px 0;
+  background-color: #0D111A;
+}
+@media (max-width: 991.98px) {
+  .block-podcast {
+    padding: 50px 0;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-podcast {
+    padding: 40px 0;
+  }
+}
+.block-podcast .accent-line-wrapper {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  height: 420px;
+  transform: translateX(-50%);
+}
+@media (max-width: 991.98px) {
+  .block-podcast .accent-line-wrapper {
+    height: 220px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-podcast .accent-line-wrapper {
+    height: 150px;
+  }
+}
+.block-podcast .main-col {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-top: 35px;
+  margin-bottom: -100px;
+}
+@media (max-width: 991.98px) {
+  .block-podcast .main-col {
+    margin-top: -20px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-podcast .main-col {
+    margin-top: -35px;
+  }
+}
+.block-podcast .main-col .col-wrap {
+  position: relative;
+}
+@media (max-width: 575.98px) {
+  .block-podcast .main-col .col-wrap {
+    width: 180%;
+    margin-left: -40%;
+    margin-right: -40%;
+  }
+}
+.block-podcast .main-col .col-wrap:after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  transform: translate(-50%, -50%);
+  background-color: #000000;
+  opacity: 0.3;
+}
+.block-podcast .main-col .col-wrap .video-placeholder {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("/theme/assets/img/sphere_placeholder_dark.png");
+  background-size: cover;
+  background-position: center;
+}
+.block-podcast .main-col .col-wrap .primary-btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+}
+.block-podcast .lower-col {
+  margin-top: 60px;
+  min-height: 420px;
+}
+@media (max-width: 991.98px) {
+  .block-podcast .lower-col {
+    margin-top: 40px;
+    min-height: initial;
+    padding-bottom: 260px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-podcast .lower-col {
+    margin-top: 35px;
+    padding-bottom: 185px;
+  }
+}
+.block-podcast .lower-col .block-description a {
+  color: #A1EF8B;
+}
+.block-podcast .lower-col .block-description p:last-child, .block-podcast .lower-col .block-description ul:last-child {
+  margin-bottom: 0;
+}
+
+/*# sourceMappingURL=block-podcast.css.map */

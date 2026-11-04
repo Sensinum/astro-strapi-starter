@@ -1,0 +1,51 @@
+{
+  "wpId": 5071,
+  "title": "Meet the Minds Behind the Mic | Bonus Episode",
+  "slug": "meet-the-minds-behind-the-mic-bonus-episode",
+  "path": "/podcast/meet-the-minds-behind-the-mic-bonus-episode/",
+  "date": "2024-03-19 10:08:20",
+  "modified": "2024-03-19 11:04:22",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/03/thumbnail_Meet-the-Minds-Behind-the-Mic-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5082
+    ],
+    "podcast_spotify": {
+      "title": "Listen on Spotify",
+      "url": "https://open.spotify.com/episode/1FEDfXqWk35iK4Isax4JMg?si=tIzd5od7S9-FJ8FxpEDp7Q",
+      "target": "_blank"
+    },
+    "podcast_yt": {
+      "title": "Watch on YouTube",
+      "url": "https://www.youtube.com/watch?v=YRfKQJI-yHY&t=57s",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>Get ready for our special bonus episode, where Peter Ratcliffe and Dan Fiehn share more about their journey and experiences. It&#8217;s your chance to know more about the people behind the mic!</p>\n",
+    "podcast_cover": {
+      "id": 5073,
+      "url": "/uploads/2024/03/plansza-video-otwierajAca-bonus-episode-scaled.jpg",
+      "alt": "Meet the Minds Behind the Mic | Bonus Episode | Sphere.it Podcast",
+      "width": 2560,
+      "height": 1440
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

@@ -1,0 +1,48 @@
+{
+  "wpId": 618,
+  "title": "Alpakka – a new world of Connectors for Reactive Enterprise Integration",
+  "slug": "alpakka-a-new-world-of-connectors-for-reactive-enterprise-integration",
+  "path": "/watch/alpakka-a-new-world-of-connectors-for-reactive-enterprise-integration/",
+  "date": "2020-01-01 00:01:13",
+  "modified": "2023-03-20 14:26:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 32,
+        "slug": "akka",
+        "name": "Akka"
+      },
+      {
+        "id": 106,
+        "slug": "alpakka",
+        "name": "Alpakka"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=EcNZ2mJZmCk&t=13s",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      430
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Connecting your programs with various upstream and downstream systems is a frequent problem. Until recently if one wanted to integrate an Akka Streams application with the world outside, the tool of choice would be the Akka Camel module. However, this frequently resulted in non-intuitive, complex and hard to test implementations. With the recent advent of Alpakka library, you can integrate in a reactive, backpressure-preserving way. In this talk we will: – introduce the Alpakka library – do a short walk through sample modules – show how to write your own integration (and make it a part of Alpakka).</p>"
+    }
+  ],
+  "formReplaced": false
+}

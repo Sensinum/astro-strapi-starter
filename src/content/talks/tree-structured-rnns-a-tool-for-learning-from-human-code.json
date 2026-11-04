@@ -1,0 +1,38 @@
+{
+  "wpId": 520,
+  "title": "Tree-Structured RNNs: a Tool for Learning from Human Code",
+  "slug": "tree-structured-rnns-a-tool-for-learning-from-human-code",
+  "path": "/watch/tree-structured-rnns-a-tool-for-learning-from-human-code/",
+  "date": "2020-01-01 00:01:52",
+  "modified": "2023-03-20 15:42:01",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2020/01/zoe-scala.png",
+  "seo": {
+    "ogImage": "/uploads/2020/01/zoe-scala.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=2Q3jnQxZyqU",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      391
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>One of the most often overlooked components of software development and coding in general is the human element. Over time, codebases evolve organically as they are touched by many developers. The frameworks and libraries they depend on, change too; sometimes in unpredictable ways. </p>\n\n\n\n<p>This organic, human change sits at the crux of the issues related to understanding code. In this talk, we will introduce the Lincoln Library, which aims to learn from this human component over time, helping us better understand both code syntax and semantics without static rules. Specifically, we employ deep recursive neural networks to build tree-structured autoencoders and take advantage of lossless scalameta ASTs to learn vector representation of trees and improve code reconstruction.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,47 @@
+{
+  "wpId": 5143,
+  "title": "Innovative Investments: Exploring Opportunities in the Insurance Industry",
+  "slug": "innovative-investments-exploring-opportunities-in-the-insurance-industry",
+  "path": "/podcast/innovative-investments-exploring-opportunities-in-the-insurance-industry/",
+  "date": "2024-04-19 12:33:06",
+  "modified": "2024-04-19 12:33:06",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E08_thumbnail_Kagabo_Ngiruwonsanga_Interview-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5141
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "Watch on YouTube",
+      "url": "https://www.youtube.com/watch?v=lHTzBKK8W3A&list=PLl9Aulxh1VePW1MCtgpOqCRDPjYWn9Zy2&index=11",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>One of the many interviews with Insurance Experts that we recorded at the Insurtech Insights 2024 in London. Interviewing Kagabo Ngiruwonsanga, Head of Innovations Underwriting at Greenlight Re</p>\n",
+    "podcast_cover": {
+      "id": 5144,
+      "url": "/uploads/2024/04/S01E08_thumbnail_Kagabo_Ngiruwonsanga_Interview-min.jpg",
+      "alt": "S01E08_thumbnail_Kagabo_Ngiruwonsanga_Interview-min",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

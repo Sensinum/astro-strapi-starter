@@ -1,0 +1,90 @@
+.block-speaker-cta {
+  background-color: #f6f9fc;
+  padding: 80px 0;
+}
+@media (max-width: 1199.98px) {
+  .block-speaker-cta {
+    padding: 70px 0;
+  }
+}
+@media (max-width: 767.98px) {
+  .block-speaker-cta {
+    padding: 60px 0;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-speaker-cta {
+    padding: 50px 0;
+  }
+}
+.block-speaker-cta .block-content .heading-3, .block-speaker-cta .block-content h3 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.block-speaker-cta .block-content .block-description {
+  margin-bottom: 50px;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.1875rem;
+  line-height: 32px;
+  font-weight: 400;
+  color: #556173;
+}
+@media (max-width: 1199.98px) {
+  .block-speaker-cta .block-content .block-description {
+    margin-bottom: 30px;
+    font-size: 1rem;
+    line-height: 26px;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-speaker-cta .block-content .block-description {
+    font-size: 0.9375rem;
+    line-height: 25px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-speaker-cta .block-content .block-description {
+    font-size: 0.875rem;
+    line-height: 24px;
+  }
+}
+.block-speaker-cta .block-content .block-description p {
+  margin-bottom: 0;
+}
+.block-speaker-cta .block-content .block-description a {
+  text-decoration: underline;
+}
+.block-speaker-cta .block-content .cta-btns-group {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+@media (max-width: 575.98px) {
+  .block-speaker-cta .block-content .cta-btns-group {
+    flex-direction: column;
+  }
+}
+.block-speaker-cta .block-content .cta-btns-group .cta-button {
+  padding: 15px 30px;
+}
+@media (max-width: 767.98px) {
+  .block-speaker-cta .block-content .cta-btns-group .cta-button {
+    padding: 14px 28px;
+  }
+}
+.block-speaker-cta .block-content .cta-btns-group .cta-button:not(:last-child) {
+  margin-right: 30px;
+}
+@media (max-width: 767.98px) {
+  .block-speaker-cta .block-content .cta-btns-group .cta-button:not(:last-child) {
+    margin-right: 20px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-speaker-cta .block-content .cta-btns-group .cta-button:not(:last-child) {
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+}
+
+/*# sourceMappingURL=block-speaker-cta.css.map */

@@ -1,0 +1,150 @@
+.block-logo-with-text {
+  position: relative;
+  background-color: #0D111A;
+  padding: 100px 0;
+}
+@media (max-width: 575.98px) {
+  .block-logo-with-text {
+    padding: 50px 0;
+  }
+}
+.block-logo-with-text .banner-box .row {
+  position: relative;
+  padding: 80px 0;
+}
+@media (max-width: 991.98px) {
+  .block-logo-with-text .banner-box .row {
+    padding: 60px 0;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-logo-with-text .banner-box .row {
+    padding: 40px 0;
+  }
+}
+.block-logo-with-text .banner-box .row:before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: calc(83.3333333333% - 30px);
+  height: 100%;
+  background-color: #101521;
+  transform: translate(-50%, -50%);
+}
+@media (max-width: 991.98px) {
+  .block-logo-with-text .banner-box .row:before {
+    width: calc(100% + 10px);
+  }
+}
+@media (min-width: 576px) {
+  .block-logo-with-text .banner-box img {
+    position: absolute;
+    right: 15px;
+    width: calc(100% - 30px);
+  }
+}
+@media (min-width: 992px) {
+  .block-logo-with-text .banner-box img {
+    min-width: 170px;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-logo-with-text .banner-box img {
+    max-width: 170px;
+  }
+}
+@media (max-width: 767.98px) {
+  .block-logo-with-text .banner-box img {
+    max-width: 139px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-logo-with-text .banner-box img {
+    max-width: 101px;
+    margin-bottom: 35px;
+  }
+}
+.block-logo-with-text .banner-box .cta-link {
+  display: inline-block;
+  margin-top: 50px;
+  letter-spacing: 1.26px;
+  text-wrap: balance;
+  outline: none;
+  transition: 0.2s color ease-out;
+}
+@media (max-width: 991.98px) {
+  .block-logo-with-text .banner-box .cta-link {
+    margin-top: 40px;
+    letter-spacing: 0.96px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-logo-with-text .banner-box .cta-link {
+    margin-top: 35px;
+    letter-spacing: 0.84px;
+  }
+}
+.block-logo-with-text .banner-box .cta-link i, .block-logo-with-text .banner-box .cta-link svg {
+  margin-left: 2px;
+}
+.block-logo-with-text .banner-box .cta-link i.fa-solid.fa-arrow-right, .block-logo-with-text .banner-box .cta-link svg.fa-solid.fa-arrow-right {
+  color: #196AFC;
+  transform: rotate(-45deg);
+  transition: 0.2s transform ease-out;
+}
+.block-logo-with-text .banner-box .cta-link:hover, .block-logo-with-text .banner-box .cta-link:active, .block-logo-with-text .banner-box .cta-link:focus {
+  color: #196AFC;
+}
+.block-logo-with-text .banner-box .cta-link:hover i.fa-solid.fa-arrow-right, .block-logo-with-text .banner-box .cta-link:hover svg.fa-solid.fa-arrow-right, .block-logo-with-text .banner-box .cta-link:active i.fa-solid.fa-arrow-right, .block-logo-with-text .banner-box .cta-link:active svg.fa-solid.fa-arrow-right, .block-logo-with-text .banner-box .cta-link:focus i.fa-solid.fa-arrow-right, .block-logo-with-text .banner-box .cta-link:focus svg.fa-solid.fa-arrow-right {
+  transform: rotate(-45deg) translate(3px, -3px);
+}
+.block-logo-with-text .banner-box .line-wrapper {
+  position: absolute;
+  bottom: 40px;
+}
+@media (max-width: 991.98px) {
+  .block-logo-with-text .banner-box .line-wrapper {
+    bottom: -54px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-logo-with-text .banner-box .line-wrapper {
+    bottom: -50px;
+  }
+}
+.block-logo-with-text .banner-box .line-wrapper .line-box {
+  position: relative;
+  padding-bottom: 38%;
+}
+@media (max-width: 991.98px) {
+  .block-logo-with-text .banner-box .line-wrapper .line-box {
+    padding-bottom: 73%;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-logo-with-text .banner-box .line-wrapper .line-box {
+    padding-bottom: 0;
+  }
+}
+.block-logo-with-text .banner-box .line-wrapper .line-box .accent-line.horizontal {
+  position: absolute;
+  transform-origin: left;
+  bottom: 0;
+}
+@media (max-width: 575.98px) {
+  .block-logo-with-text .banner-box .line-wrapper .line-box .accent-line.horizontal {
+    transform-origin: center;
+  }
+}
+.block-logo-with-text .banner-box .line-wrapper .line-box .accent-line.vertical {
+  position: absolute;
+  transform-origin: bottom;
+}
+@media (max-width: 575.98px) {
+  .block-logo-with-text .banner-box .line-wrapper .line-box .accent-line.vertical {
+    display: none;
+  }
+}
+
+/*# sourceMappingURL=block-logo-with-text.css.map */

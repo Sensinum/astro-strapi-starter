@@ -1,0 +1,43 @@
+{
+  "wpId": 215,
+  "title": "Glenn Reyes",
+  "slug": "glenn-reyes",
+  "path": "/contributor/glenn-reyes/",
+  "date": "2020-01-01 00:02:15",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Independent Software Engineer",
+    "speaker_avatar": {
+      "id": 216,
+      "url": "/uploads/2021/03/glenn_reyes-min.jpg",
+      "alt": "Glenn Reyes",
+      "width": 480,
+      "height": 480
+    },
+    "speaker_surname": "Reyes",
+    "speaker_twitter": "https://twitter.com/glnnrys",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/glnnrys/",
+    "speaker_gh": "https://github.com/glennreyes"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Front-end Engineer. Enjoys building apps and user interfaces with React &amp; GraphQL, creator of Graphpack, co-organizer React Vienna meetups, John Mayer music enthusiast.</p>"
+    }
+  ],
+  "formReplaced": false
+}

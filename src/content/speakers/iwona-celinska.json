@@ -1,0 +1,43 @@
+{
+  "wpId": 1544,
+  "title": "Iwona Celińska",
+  "slug": "iwona-celinska",
+  "path": "/contributor/iwona-celinska/",
+  "date": "2021-07-27 11:54:05",
+  "modified": "2021-07-27 11:55:10",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Full Stack Developer at EQTek",
+    "speaker_avatar": {
+      "id": 1546,
+      "url": "/uploads/2021/07/IMG_0694s-1.jpg",
+      "alt": "Iwona Celińska",
+      "width": 572,
+      "height": 597
+    },
+    "speaker_surname": "Celińska",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/iwona-celinska/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Iwona is a programmer with 12 years of experience. She had the opportunity to get to know many sides of computer science. She had the possibility to learn domain administration, database management, as well as optimization, programming, development, and maintenance of CRM/ERP systems. Currently, she works as a C#/.Net Full Stack Developer at EQTek. </p>\n\n\n\n<p>She specializes in developing business applications. Iwona is a powerful force in the workplace and uses her positive attitude and tireless energy to make the work of her team easier. Her motto is \"Let's help each other, it will make our lives easier\". In her free time, Iwona likes to hike, climb, ride a bicycle, read books and spend time with her friends and family.</p>"
+    }
+  ],
+  "formReplaced": false
+}

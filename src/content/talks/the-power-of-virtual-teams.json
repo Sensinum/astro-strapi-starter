@@ -1,0 +1,47 @@
+{
+  "wpId": 4502,
+  "title": "The power of virtual teams",
+  "slug": "the-power-of-virtual-teams",
+  "path": "/watch/the-power-of-virtual-teams/",
+  "date": "2023-07-14 16:04:20",
+  "modified": "2024-01-12 10:28:58",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2023/07/maxresdefault-2.jpg",
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 182,
+        "slug": "beyond-senior",
+        "name": "Beyond Senior"
+      },
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=swyiXykw8QM",
+    "video_thumbnail": {
+      "id": 4762,
+      "url": "/uploads/2023/07/maxresdefault-2.jpg",
+      "alt": "the power of virtual teams by Katarzyna Mater",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "September 28, 2023",
+    "talks_speakers": [
+      4499
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The world has changed. So have the work conditions. More and more teams move to flexible or fully remote work modes. It is so common now to have team members spread across various countries and time zones. You no longer even need to have international team members to be spread out. Let’s look into some key learnings and takeaways from running remote or virtual teams. Pros and cons, challenges and opportunities. </p>\n\n\n\n<p>I have been working on/with virtual teams for over 12 years now. My current team is spread across 7 locations in 4 countries. It all can work, and can work quite well actually. However, like with everything else in life, success needs to be earned. Virtual teams already have a proven track record of cross-industry success and they will not vanish. Embrace it, or you will fall behind.</p>"
+    }
+  ],
+  "formReplaced": false
+}

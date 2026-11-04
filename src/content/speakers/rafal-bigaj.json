@@ -1,0 +1,43 @@
+{
+  "wpId": 562,
+  "title": "Rafał Bigaj",
+  "slug": "rafal-bigaj",
+  "path": "/contributor/rafal-bigaj/",
+  "date": "2020-01-01 00:00:40",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "System Architect at IBM",
+    "speaker_avatar": {
+      "id": 563,
+      "url": "/uploads/2021/03/Rafal_Bigaj.jpg",
+      "alt": "Rafał Bigaj",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_surname": "Bigaj",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/rbigaj/",
+    "speaker_gh": "https://github.com/rafalbigaj"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>System Architect with long successful record of building and leading teams. Skilled staff trainer and motivator. Additional experience in project management and the use of agile practices. Broad and practical knowledge in the area of the distributed systems, machine learning and web application development.</p>"
+    }
+  ],
+  "formReplaced": false
+}

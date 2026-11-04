@@ -1,0 +1,43 @@
+{
+  "wpId": 2579,
+  "title": "Maciek Gołaszewski",
+  "slug": "maciek-golaszewski",
+  "path": "/contributor/maciek-golaszewski/",
+  "date": "2022-02-10 07:34:08",
+  "modified": "2022-02-10 07:34:10",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Cloud Engineer at VirtusLab",
+    "speaker_avatar": {
+      "id": 2583,
+      "url": "/uploads/2022/02/1592918918103.jpeg",
+      "alt": "Maciek Gołaszewski",
+      "width": 800,
+      "height": 800
+    },
+    "speaker_surname": "Gołaszewski",
+    "speaker_twitter": "https://twitter.com/golaszewski_it",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/maciej-go%C5%82aszewski/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Maciek is a Cloud Engineer at VirtusLab with over five years of experience. He started out as a tester, maintaining the test environment at AWS. Later, he took the role of an administrator, managing company servers and resources in public clouds. Then he worked as a developer in a team creating tooling for ~ 1000 users, Currently, he is creating the IaaC platform on Azure.</p>"
+    }
+  ],
+  "formReplaced": false
+}

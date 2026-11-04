@@ -1,0 +1,48 @@
+{
+  "wpId": 3236,
+  "title": "Łukasz Wroński",
+  "slug": "lukasz-wronski",
+  "path": "/contributor/lukasz-wronski/",
+  "date": "2022-08-10 10:14:14",
+  "modified": "2022-10-13 14:03:16",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "CEO at Purple Deer Software Studio",
+    "speaker_avatar": {
+      "id": 3237,
+      "url": "/uploads/2022/08/li-min.jpeg",
+      "alt": "Łukasz Wroński",
+      "width": 1213,
+      "height": 1213
+    },
+    "speaker_surname": "Wroński",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/lukasz-wronski-pl/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>CEO, developer, hacker, father of two, bass player, internet troll, and meme enthusiast… 14 years in IT seems not to be enough time to lose the ability to get excited and surprised with new technologies!</p>"
+    }
+  ],
+  "formReplaced": false
+}

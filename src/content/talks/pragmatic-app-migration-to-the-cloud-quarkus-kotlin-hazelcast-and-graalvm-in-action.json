@@ -1,0 +1,53 @@
+{
+  "wpId": 177,
+  "title": "Pragmatic App Migration to the Cloud: Quarkus, Kotlin, Hazelcast and GraalVM in action",
+  "slug": "pragmatic-app-migration-to-the-cloud-quarkus-kotlin-hazelcast-and-graalvm-in-action",
+  "path": "/watch/pragmatic-app-migration-to-the-cloud-quarkus-kotlin-hazelcast-and-graalvm-in-action/",
+  "date": "2020-01-01 00:03:11",
+  "modified": "2021-05-28 10:01:31",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 26,
+        "slug": "cloud",
+        "name": "Cloud"
+      },
+      {
+        "id": 93,
+        "slug": "graalvm",
+        "name": "GraalVM"
+      },
+      {
+        "id": 50,
+        "slug": "quarkus",
+        "name": "Quarkus"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=w0b4OQQmhBI",
+    "video_thumbnail": false,
+    "talk_date": "February 10, 2021",
+    "talks_speakers": [
+      148
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>At a point in the past, it was forecast that Java would die, but the JVM platform would be its legacy. And in fact, for a long time, the JVM has been tremendously successful. Wikipedia itself lists a bunch of languages that run on it, some of them close to Java e.g. Kotlin, some of them very remote e.g. Clojure.</p>\n\n\n\n<p>But nowadays, the Cloud is becoming ubiquitous. Containerization is the way to go to alleviate some of the vendor lock-in issues. Kubernetes is a de facto platform. If a container needs to be killed for whatever reason (resource consumption, unhealthy, etc.), a new one needs to replace it as fast as possible. In that context, the JVM seems to be a dead-end: its startup time is huge in comparison to a native process. Likewise, it consumes a lot of memory that just increase the monthly bill.</p>\n\n\n\n<p>What does that mean for us developers? Has all the time spent in learning the JVM ecosystem been invested with no hope of return over investment? Shall we need to invest even more time in new languages, frameworks, libraries, etc.? That is one possibility for sure. But we can also leverage our existing knowledge, and embrace the Cloud and containers ways with the help of some tools.</p>\n\n\n\n<p>In this talk, I’ll create a simple URL shortener with a “standard” stack: Kotlin, JAX-RS and Hazelcast. Then, with the help of Quarkus and GraalVM, I’ll turn this application into a native executable with all Cloud/Container related work has been moved to the build process.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,38 @@
+{
+  "wpId": 442,
+  "title": "I got 99 problems but accessibility ain't one",
+  "slug": "i-got-99-problems-but-accessibility-aint-one",
+  "path": "/watch/i-got-99-problems-but-accessibility-aint-one/",
+  "date": "2020-01-01 00:03:00",
+  "modified": "2023-03-20 15:07:41",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2020/01/marjorie_front.png",
+  "seo": {
+    "ogImage": "/uploads/2020/01/marjorie_front.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=5fPU15fzDLA&t=87s",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      230
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Web accessibility is a topic that has come up more and more. With the surge of new frameworks, libraries and technologies we might forget about this or disregard it thinking that it's something only for a few people. But that's not how it should be and there are many things we can do on every step of the way to ensure that accessibility is present.</p>\n\n\n\n<p>We can improve and change things regardless of the technology or frameworks that we use and do our best to provide the best experiences to everyone!</p>"
+    }
+  ],
+  "formReplaced": false
+}

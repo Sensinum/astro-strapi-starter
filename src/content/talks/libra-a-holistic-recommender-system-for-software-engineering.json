@@ -1,0 +1,43 @@
+{
+  "wpId": 521,
+  "title": "Libra: A Holistic Recommender System for Software Engineering",
+  "slug": "libra-a-holistic-recommender-system-for-software-engineering",
+  "path": "/watch/libra-a-holistic-recommender-system-for-software-engineering/",
+  "date": "2020-01-01 00:01:51",
+  "modified": "2023-03-20 15:36:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 99,
+        "slug": "libra",
+        "name": "Libra"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=bA4XOilJwEg&t=1729s",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      401
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Developers often need additional knowledge to complete a programming task at hand. The web has become one of the most important sources of information in the modern developer’s daily life, providing a plethora of items like forums, tutorials, Q&amp;A websites, API documentation, and even video tutorials. Recommender Systems for Software Engineering (RSSE) provide developers with assistance to navigate the information space, automatically suggest useful items, and reduce the time required to locate the needed information. </p>\n\n\n\n<p>Current RSSEs consider development artifacts as containers of homogeneous information in form of pure text. However, text is a means to represent heterogeneous information provided by, for example, natural language, source code, interchange formats (e.g., XML, JSON), and stack traces. In this talk, we present Libra, a Holistic Recommender System for Software Engineering that goes beyond the textual interpretation of the information contained in development artifacts. Libra can model the contents of artifacts and establish connections among the different heterogeneous elements composing them. Libra can leverage this information to provide developers with an augmented user interface to improve their information seeking process on the web.</p>"
+    }
+  ],
+  "formReplaced": false
+}

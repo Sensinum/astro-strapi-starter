@@ -1,0 +1,35 @@
+{
+  "wpId": 4144,
+  "title": "Ewa Kuik",
+  "slug": "ewa-kuik",
+  "path": "/contributor/ewa-kuik/",
+  "date": "2023-02-28 13:42:17",
+  "modified": "2023-03-02 11:58:50",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Senior B2B Marketing Specialist at No Fluff Jobs",
+    "speaker_avatar": {
+      "id": 4145,
+      "url": "/uploads/2023/02/Ewa5.jpeg",
+      "alt": "Ewa Kuik",
+      "width": 1500,
+      "height": 1500
+    },
+    "speaker_surname": "Kuik",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/ewa-kuik/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>She started her marketing journey 10 years ago, starting in performance marketing, through comprehensive support for omnichannel campaigns, to communication strategy. She will undertake any implementation: from creating a creation to implementing simple codes. She likes to delve into data. Problems inspire her to find new solutions.<br>She is not a programmer, but IT has always been her way. She participated in many digital projects, also assisting IT with system or data migration. A fan of new solutions and the use of tools to improve teamwork.</p>"
+    }
+  ],
+  "formReplaced": false
+}

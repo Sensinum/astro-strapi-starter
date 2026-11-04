@@ -1,0 +1,38 @@
+{
+  "wpId": 1932,
+  "title": "When life gives you lemons, make lemon grenades",
+  "slug": "when-life-gives-you-lemons-make-lemon-grenades",
+  "path": "/watch/when-life-gives-you-lemons-make-lemon-grenades/",
+  "date": "2021-10-08 09:16:39",
+  "modified": "2023-03-21 12:37:35",
+  "template": null,
+  "excerpt": "Każdemu z nas zdarzają się potknięcia i z reguły nie są to przyjemne sytuacje. Jednak z drugiej strony nie ma skuteczniejszej metody nauki niż opieranie jej na własnych doświadczeniach. W moim wystąpieniu podzielę się z Wami kilkoma takimi sytuacjami, z których nie tylko udało mi się wyjść obronną ręką ale pozwoliły mi się rozwinąć i stały się kamieniami milowymi w mojej karierze.",
+  "featuredImage": "/uploads/2021/10/AG_title_en.png",
+  "seo": {
+    "ogImage": "/uploads/2021/10/adam_when.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=f2c2-BF5CZQ",
+    "video_thumbnail": false,
+    "talk_date": "August 23, 2021",
+    "talks_speakers": [
+      1550
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>[ENG]</p>\n\n\n\n<p></p>\n\n\n\n<p>We all get stumbled and, as a rule, these are not pleasant situations. However, on the other hand, there is no more effective method of learning than basing it on your own experiences. In my talk, I will share with you a few such situations, from which I not only managed to come out unscathed but they allowed me to develop and became milestones in my career.</p>\n\n\n\n<p></p>\n\n\n\n<p>[PL]</p>\n\n\n\n<p></p>\n\n\n\n<p>Każdemu z nas zdarzają się potknięcia i z reguły nie są to przyjemne sytuacje. Jednak z drugiej strony nie ma skuteczniejszej metody nauki niż opieranie jej na własnych doświadczeniach. W moim wystąpieniu podzielę się z Wami kilkoma takimi sytuacjami, z których nie tylko udało mi się wyjść obronną ręką ale pozwoliły mi się rozwinąć i stały się kamieniami milowymi w mojej karierze.</p>"
+    }
+  ],
+  "formReplaced": false
+}

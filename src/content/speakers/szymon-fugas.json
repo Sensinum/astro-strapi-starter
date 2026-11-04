@@ -1,0 +1,43 @@
+{
+  "wpId": 2585,
+  "title": "Szymon Fugas",
+  "slug": "szymon-fugas",
+  "path": "/contributor/szymon-fugas/",
+  "date": "2022-02-10 07:41:43",
+  "modified": "2022-02-24 15:05:06",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Junior Cloud Engineer at VirtusLab ",
+    "speaker_avatar": {
+      "id": 2586,
+      "url": "/uploads/2022/02/Szymon_Fugas.png",
+      "alt": "Szymon Fugas",
+      "width": 1640,
+      "height": 1640
+    },
+    "speaker_surname": "Fugas",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/sz-fugas/",
+    "speaker_gh": "https://github.com/Sig00rd"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Szymon graduated as an IT engineer at AGH University in Krakow. He's also a student of Japanese at the Jagiellonian University, a member of IAESTE AGH and the AI Lab science club. Szymon started his career developing products for monitoring servers and web applications, and later an application for scheduling nurses' work. He is currently working on Operator Service for Jenkins - a cloud-native solution that manages Jenkins on Kubernetes. Automation and open source enthusiast.</p>"
+    }
+  ],
+  "formReplaced": false
+}

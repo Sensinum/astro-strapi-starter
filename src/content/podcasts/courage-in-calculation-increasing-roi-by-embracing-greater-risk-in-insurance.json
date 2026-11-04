@@ -1,0 +1,47 @@
+{
+  "wpId": 5138,
+  "title": "Courage in Calculation: Increasing ROI by Embracing Greater Risk in Insurance",
+  "slug": "courage-in-calculation-increasing-roi-by-embracing-greater-risk-in-insurance",
+  "path": "/podcast/courage-in-calculation-increasing-roi-by-embracing-greater-risk-in-insurance/",
+  "date": "2024-04-19 12:29:31",
+  "modified": "2024-04-19 12:29:31",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E05_thumbnail_John_Walker_Interview-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5136
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "Watch on YouTube",
+      "url": "https://www.youtube.com/watch?v=SESh1yEe1XA&list=PLl9Aulxh1VePW1MCtgpOqCRDPjYWn9Zy2&index=10",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>One of the many interviews with Insurance Experts that we recorded at the Insurtech Insights 2024 in London. Interviewing John Walker, Head of Data Science and Engineering at Mitsui Sumitomo Insurance Group</p>\n",
+    "podcast_cover": {
+      "id": 5139,
+      "url": "/uploads/2024/04/S01E05_thumbnail_John_Walker_Interview-min.jpg",
+      "alt": "S01E05_thumbnail_John_Walker_Interview-min",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

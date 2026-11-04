@@ -1,0 +1,28 @@
+{
+  "wpId": 5042,
+  "title": "Leading in times of uncertainty: helping your team grow is the only answer",
+  "slug": "leading-in-times-of-uncertainty-helping-your-team-grow-is-the-only-answer-2",
+  "path": "/watch/leading-in-times-of-uncertainty-helping-your-team-grow-is-the-only-answer-2/",
+  "date": "2024-03-08 10:32:45",
+  "modified": "2024-03-08 10:32:45",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2024",
+    "talks_speakers": [
+      4994
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>If you are a team leader, you are experienced. You are smart and knowledgeable. You earn decent money for being an expert. But reality in IT is demanding. Projects and clients change, requirements change, vision for the company, yours and your team’s goals CHANGE. Uncertainty is all around you.</p>\n\n\n\n<p>Is there anything that can save you? Allow you reach your management’s expectations? Help you deliver? It is your team. And the answer to change is constant development. You embracing the role of a leader that helps people grow and adapt.</p>\n\n\n\n<p>During this talk, I will use my experience as a team leader and a former Head of Delivery of a ~200 people software house, to give you tips on how to work together with your team to achieve lasting change.</p>"
+    }
+  ],
+  "formReplaced": false
+}

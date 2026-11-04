@@ -1,0 +1,35 @@
+{
+  "wpId": 393,
+  "title": "Łukasz Biały",
+  "slug": "lukasz-bialy",
+  "path": "/contributor/lukasz-bialy/",
+  "date": "2020-01-01 00:01:11",
+  "modified": "2021-06-02 06:49:11",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Principal Software Engineer at VirtusLab",
+    "speaker_avatar": {
+      "id": 394,
+      "url": "/uploads/2021/03/Lukasz_Bialy.jpg",
+      "alt": "Łukasz Biały",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_surname": "Biały",
+    "speaker_twitter": "https://twitter.com/lukasz_bialy",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/%C5%82ukasz-bia%C5%82y-5b667472/",
+    "speaker_gh": "https://github.com/lbialy"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The polyglot full-stack developer currently employing his enthusiasm for functional programming and quality coding at VirtusLab. The permanent learner with a severe information dependency problem. Enjoys conversations about philosophy and all things related to the mind's inner workings. Loves mountains, biking and hiking.</p>"
+    }
+  ],
+  "formReplaced": false
+}

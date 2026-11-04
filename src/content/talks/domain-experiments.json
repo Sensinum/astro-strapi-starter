@@ -1,0 +1,61 @@
+{
+  "wpId": 3282,
+  "title": "Domain Experiments",
+  "slug": "domain-experiments",
+  "path": "/watch/domain-experiments/",
+  "date": "2022-08-23 10:24:31",
+  "modified": "2023-03-21 11:39:18",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "description": "Find out how you can use example mapping combined with business-oriented TDD to be able to run rapid experiments directly on the domain model without the need to rewrite the system again. Talk by Mike Wojtyna, presented at the Sphere.it conf 2022.",
+    "ogImage": "/uploads/2022/08/mike_wojtyna_thumbnails_sphereconf-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 79,
+        "slug": "ddd",
+        "name": "DDD"
+      },
+      {
+        "id": 173,
+        "slug": "example-mapping",
+        "name": "Example Mapping"
+      },
+      {
+        "id": 72,
+        "slug": "java",
+        "name": "Java"
+      },
+      {
+        "id": 172,
+        "slug": "tdd",
+        "name": "TDD"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=WhaG05C7qQI",
+    "video_thumbnail": false,
+    "talk_date": "September 21, 2022",
+    "talks_speakers": [
+      3277
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Our clients don't know what they need.<br>This happens because no one can foresee the future.<br>Requirements will evolve and change rapidly over the lifecycle of the project. That's why we need to refine systems constantly.<br>We can keep building and discarding prototypes, but it's extremely costly.<br>Often we can't afford to rewrite everything from scratch only because some new domain insights were discovered.</p>\n\n\n\n<p>This eventually leads to a mismatched model.<br>Is there another way?</p>\n\n\n\n<p>We can focus on domain only and refine our model through examples until we find the right conceptual contours (<a href=\"http://ddd.fed.wiki.org/view/welcome-visitors/view/conceptual-contours\" target=\"_blank\" rel=\"noreferrer noopener\">http://ddd.fed.wiki.org/view/welcome-visitors/view/conceptual-contours</a>).<br>Each such iteration of the model is a kind of experiment challenging the upfront decisions.</p>\n\n\n\n<p>During this presentation, I'm going to show how you can use example mapping combined with business-oriented TDD to be able to run rapid experiments directly on the domain model without the need to rewrite the system again.</p>"
+    }
+  ],
+  "formReplaced": false
+}

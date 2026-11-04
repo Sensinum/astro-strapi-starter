@@ -1,0 +1,38 @@
+{
+  "wpId": 2666,
+  "title": "Become a shadow and shed new light on your career!",
+  "slug": "become-a-shadow-and-shed-new-light-on-your-career",
+  "path": "/watch/become-a-shadow-and-shed-new-light-on-your-career/",
+  "date": "2022-02-16 10:47:53",
+  "modified": "2023-03-21 10:31:23",
+  "template": null,
+  "excerpt": "Pierwsza praca jednoznacznie kojarzy Ci się z nauką, uczysz się zazwyczaj od starszych stażem kolegów, obserwując ich typowy dzień pracy. Jednak job shadowing, śledzenie, bycie cieniem nie przydaje się tylko na początku kariery.\n\nJeżeli chociaż raz miałaś/miałeś ochotę zmienić projekt to z pewnością znasz to uczucie kiedy ogrom niewiadomych kurczowo trzyma Cię przy dobrze znanym środowisku. Nowe światło na pojawiające się niewiadome może przynieść cień, którym musisz stać się na krótką chwilę, żeby rozwiązać równanie z wieloma niewiadomymi.\n\nW trakcie prezentacji przejdziemy razem przez różne etapy kariery w IT, bazując na realnych przykładach, opowiem Ci, w jaki sposób bycie cieniem pomaga się rozwinąć inżynierom i zespołom developerskim.",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/02/kamila_gawronska_thumbnail_video-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=KRa3qahfsbs",
+    "video_thumbnail": false,
+    "talk_date": "June 23, 2022",
+    "talks_speakers": [
+      2667
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Your first job is clearly associated with learning. You usually learn from senior colleagues, observing their typical working day. However, job shadowing, tracking, and being a shadow is not only useful at the beginning of a career. </p>\n\n\n\n<p>If you ever wanted to change the project, you certainly know the feeling when the enormity of unknowns keeps you close to a well-known environment. New light on emerging unknowns can bring a shadow that you must become for a short while to solve an equation with many unknowns. </p>\n\n\n\n<p>During the presentation, we will go through various stages of a career in IT together. Based on real examples, I will tell you how being a shadow helps engineers and development teams to develop.</p>"
+    }
+  ],
+  "formReplaced": false
+}

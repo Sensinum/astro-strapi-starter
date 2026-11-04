@@ -1,0 +1,36 @@
+{
+  "wpId": 4875,
+  "title": "Aga Naplocha",
+  "slug": "aga-naplocha",
+  "path": "/contributor/aga-naplocha/",
+  "date": "2024-02-06 15:52:30",
+  "modified": "2024-02-29 22:53:21",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Co-CEO of Design Practice, Lead UX Consultant & Coder at Adobe",
+    "speaker_avatar": {
+      "id": 4877,
+      "url": "/uploads/2024/02/m-mt4lk0-1.jpeg",
+      "alt": "m-mt4lk0",
+      "width": 429,
+      "height": 428
+    },
+    "speaker_surname": "Naplocha",
+    "speaker_twitter": "https://twitter.com/aganaplocha",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/agnieszkanaplocha/",
+    "speaker_gh": "",
+    "speaker_add_info": "Design Practice"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Aga Naplocha is a co-founder of <a href=\"https://designpractice.so/\">Design Practice</a> – an initiative publishing online courses 💻 on digital design and gathering community of over 17k creatives (!) 🤘. ✏️ Her background is UX design and front-end dev. She’s also a popular teacher on Skillshare, teaching how to use coding in a creative way. In her free time, she cycles a lot and runs a newsletter called The Awwwesomes with over 9k subscribers 💌. Feel free to visit Aga on her <a href=\"https://instagram.com/theawwwesomes\">Instagram</a> and <a href=\"https://twitter.com/aganaplocha\">Twitter</a>.</p>"
+    }
+  ],
+  "formReplaced": false
+}

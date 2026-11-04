@@ -1,0 +1,38 @@
+{
+  "wpId": 2379,
+  "title": "A/B Testing Madness",
+  "slug": "a-b-testing-madness",
+  "path": "/watch/a-b-testing-madness/",
+  "date": "2021-12-27 14:38:01",
+  "modified": "2023-03-21 11:24:50",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/12/aleksandrs_thumb-1024x576.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=fjsqdD2DA8Y",
+    "video_thumbnail": false,
+    "talk_date": "January 27, 2022",
+    "talks_speakers": [
+      2218
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Many companies today use A/B testing to support and improve their decisions. A/B tests are studies when a target audience is split into several groups, each seeing a specific version of a product. The goal of the <meta charset=\"utf-8\">A/B  tests is simple - to decide what works better. There are many challenges with <meta charset=\"utf-8\">A/B  tests - mathematical, technological, and operational. </p>\n\n\n\n<p>Which statistical procedures to use for inferences? How to incorporate <meta charset=\"utf-8\">A/B  testing into technological procedures? How should businesses act on the results of the analyses? The talk will cover how the Data Science team addresses these issues at Product Madness - a mobile gaming company. The mobile gaming industry has plenty of data, a dynamic user base, and a fast-paced business, which makes <meta charset=\"utf-8\">A/B  testing exciting and challenging</p>"
+    }
+  ],
+  "formReplaced": false
+}

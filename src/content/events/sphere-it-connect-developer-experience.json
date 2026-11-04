@@ -1,0 +1,417 @@
+{
+  "wpId": 5366,
+  "title": "Sphere.it Connect #2: DX or Developer Productivity?",
+  "slug": "sphere-it-connect-developer-experience",
+  "path": "/event/sphere-it-connect-developer-experience/",
+  "date": "2024-12-03 11:13:08",
+  "modified": "2025-01-28 11:10:11",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/12/Sphere.it-Connect_1200x630_evenea.jpg",
+  "seo": {
+    "description": "Let's talk about our developers, their happiness, and productivity. What can we do to make their life easier and their work more efficient? Learn about practices, metrics and tools that make our developers’ lives better.",
+    "ogTitle": "Sphere.it Connect: DX or Developer Productivity? | 04.02.2025",
+    "ogDescription": "Let's talk about our developers, their happiness, and productivity. What can we do to make their life easier and their work more efficient? Learn about practices, metrics and tools that make our developers’ lives better.",
+    "ogImage": "/uploads/2024/12/Sphere.it-Connect_1200x630_evenea-1024x538.jpg"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 190,
+        "slug": "sphere-it-connect",
+        "name": "Sphere.it Connect"
+      }
+    ]
+  },
+  "acf": {
+    "event_agenda": false,
+    "event_series_label": "",
+    "event_date": "04.02.2025",
+    "type_of_event": "Forty Kleparz",
+    "event_entry": "Krakow",
+    "event_artwork": {
+      "id": 5375,
+      "url": "/uploads/2024/12/Logo_sphere.it_Connect_2_on_dark@2x-3.png",
+      "alt": "Logo_sphere.it_Connect_#2_on_dark@2x 3",
+      "width": 1303,
+      "height": 925
+    },
+    "header_background_image": {
+      "id": 5367,
+      "url": "/uploads/2024/12/Sphere.it-Connect_2560x1440_LP_header.jpg",
+      "alt": "Sphere.it Connect_2560x1440_LP_header",
+      "width": 2560,
+      "height": 1440
+    },
+    "event_background_color": "#000000",
+    "event_font_color": false,
+    "event_font_color_value": "#ffffff",
+    "reduce_font_size": "3",
+    "event_register": "",
+    "event_scroll_button": "",
+    "buttons_background_color": "#3b2e23",
+    "buttons_font_color": "#f6e6d7",
+    "alt_dynamic_menu": true,
+    "event_alt_title": "#2 DX or Developer Productivity?",
+    "event_date_hidden": false,
+    "event_artwork_listing": {
+      "id": 5370,
+      "url": "/uploads/2024/12/Sphere.it-Connect_1080x1080_v1.jpg",
+      "alt": "Sphere.it Connect_1080x1080_v1",
+      "width": 1080,
+      "height": 1080
+    },
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-63ce920e00205",
+      "data": {
+        "block_title": null,
+        "block_description": "<div class=\"font-montserrat content\">\r\n\r\nLet's talk about our developers, their happiness, and productivity. What can we do to make their life easier and their work more efficient?\r\n\r\n<span style=\"font-weight: 400;\">Join us for the evening of learning about practices, metrics and tools that make our developers’ lives better.</span>\r\n\r\n</div>",
+        "block_button": {
+          "title": "Save your seat",
+          "url": "https://app.evenea.pl/event/sphere-connect-developer-productivity/",
+          "target": "_blank"
+        },
+        "cta_background_color": "#fae4dc",
+        "cta_font_color": "#030303",
+        "cta_border_radius": 32,
+        "block_background_image": null,
+        "block_background_color": "#030303",
+        "block_font_color": "#ffffff",
+        "menu_label": "About"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-63ef85357f882",
+      "data": {
+        "block_description": "<div class=\"font-montserrat content\">\r\n\r\n<strong>Sphere.it Connect</strong> is a carefully crafted series of events tailored to foster meaningful interactions within the tech community.\r\n\r\nEach event is focused on a specific, high-impact theme, creating an intimate setting where <strong>experts</strong>, <strong>enthusiasts</strong>, and <strong>innovators</strong> can come together to exchange knowledge, share experiences, and discuss trends <strong>shaping the future of technology</strong>.\r\n\r\nFrom thought-provoking talks to collaborative sessions and vibrant networking opportunities, Sphere.it Connect is designed to deepen connections, strengthen the community, and inspire innovation.\r\n\r\n</div>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 5378,
+          "url": "/uploads/2024/12/TF6A9614.jpg",
+          "alt": "TF6A9614",
+          "width": 2048,
+          "height": 1365
+        },
+        "switch_text_side": true,
+        "block_background_color": "#030303",
+        "block_font_color": "#fae4dc",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-63ef85357f9e5",
+      "data": {
+        "block_title": "Meet Our Experts",
+        "automatic_selection": false,
+        "speaker_groups": [
+          {
+            "group_label": "Panelists",
+            "speakers": [
+              5380,
+              5388,
+              552
+            ]
+          },
+          {
+            "group_label": "Host",
+            "speakers": [
+              5329
+            ]
+          },
+          {
+            "group_label": "Speakers",
+            "speakers": [
+              5380,
+              5388,
+              5412,
+              328
+            ]
+          }
+        ],
+        "block_background_color": "#fae4dc",
+        "block_font_color": "#030303",
+        "menu_label": "Speakers"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-conf-2022-agenda",
+      "anchor": "acf-block-66e15f92c0bff",
+      "data": {
+        "block_title": null,
+        "block_agenda": [
+          {
+            "label": "Agenda",
+            "day_schedule": [
+              {
+                "item_type": "talk",
+                "start_time": "18:05:00",
+                "end_time": "18:35:00",
+                "selected_talk": 5382,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "18:35:00",
+                "end_time": "19:05:00",
+                "selected_talk": 5383,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "19:05:00",
+                "end_time": "19:20:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "15-minute break",
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "19:20:00",
+                "end_time": "19:50:00",
+                "selected_talk": 5384,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "19:50:00",
+                "end_time": "20:20:00",
+                "selected_talk": 5421,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "20:20:00",
+                "end_time": "20:30:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "10-minute break",
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "20:30:00",
+                "end_time": "21:10:00",
+                "selected_talk": 5418,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "21:10:00",
+                "end_time": "23:00:00",
+                "selected_talk": 5423,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              }
+            ],
+            "add_load_more_button": false,
+            "show_more_index": null
+          }
+        ],
+        "block_background_image": {
+          "id": 5367,
+          "url": "/uploads/2024/12/Sphere.it-Connect_2560x1440_LP_header.jpg",
+          "alt": "Sphere.it Connect_2560x1440_LP_header",
+          "width": 2560,
+          "height": 1440
+        },
+        "block_background_color": "#000000",
+        "block_font_color": "#fae4dc",
+        "menu_label": "Agenda"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-66e1f7b703837",
+      "data": {
+        "block_title": null,
+        "automatic_selection": true,
+        "speaker_groups": [],
+        "block_background_color": "#fae4dc",
+        "block_font_color": "#030303",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-66e29386577e8",
+      "data": {
+        "block_description": "<div class=\"font-montserrat content\">\r\n\r\nThe event will take place at <strong>Forty Kleparz Restobar </strong>(Kamienna 2, Krakow), a unique venue combining historical charm with a modern atmosphere, perfect for networking and relaxation.\r\n\r\n<strong>Your ticket for the evening event includes complimentary snacks and drinks.</strong>\r\n\r\n</div>",
+        "block_button": {
+          "title": "Get your ticket",
+          "url": "https://app.evenea.pl/event/sphere-connect-developer-productivity/",
+          "target": "_blank"
+        },
+        "cta_background_color": "#030303",
+        "cta_font_color": "#fae4dc",
+        "cta_border_radius": 32,
+        "block_background_image": {
+          "id": 5379,
+          "url": "/uploads/2024/12/TF6A9682.jpg",
+          "alt": "TF6A9682",
+          "width": 2048,
+          "height": 1365
+        },
+        "switch_text_side": true,
+        "block_background_color": "#fae4dc",
+        "block_font_color": "#030303",
+        "menu_label": "Venue"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-sponsors",
+      "anchor": "acf-block-63ce920e00337",
+      "data": {
+        "logotypes_alignment": true,
+        "sponsor_groups": [
+          {
+            "label": "Community Partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 5344,
+                  "url": "/uploads/2024/09/FUTURE_PURPLE.png",
+                  "alt": "FUTURE_PURPLE",
+                  "width": 1112,
+                  "height": 433
+                },
+                "url": "https://www.futureconf.tech/"
+              },
+              {
+                "logotype": {
+                  "id": 5292,
+                  "url": "/uploads/2024/09/datakrk-1.png",
+                  "alt": "datakrk (1)",
+                  "width": 2050,
+                  "height": 780
+                },
+                "url": "https://www.meetup.com/pl-PL/datakrk/?eventOrigin=event_home_page"
+              },
+              {
+                "logotype": {
+                  "id": 2984,
+                  "url": "/uploads/2022/04/jdd.png",
+                  "alt": "JDD logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://jdd.org.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2765,
+                  "url": "/uploads/2022/02/logo-ksi-basic.png",
+                  "alt": "Koło Studentów Informatyki UJ logotype",
+                  "width": 1181,
+                  "height": 1181
+                },
+                "url": "https://www.facebook.com/ksi.uj"
+              },
+              {
+                "logotype": {
+                  "id": 2988,
+                  "url": "/uploads/2022/04/cngk.png",
+                  "alt": "Krakow Cloud Native Group logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.meetup.com/krakow-cloud-native/?eventOrigin=your_groups"
+              },
+              {
+                "logotype": {
+                  "id": 2989,
+                  "url": "/uploads/2022/04/kjug.png",
+                  "alt": "Kielce Java User Group logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.meetup.com/Kielce-Java-User-Group/?eventOrigin=your_groups"
+              },
+              {
+                "logotype": {
+                  "id": 2991,
+                  "url": "/uploads/2022/04/ksug.png",
+                  "alt": "Kraków Scala User Group logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.meetup.com/Krakow-Scala-User-Group/?eventOrigin=your_groups"
+              },
+              {
+                "logotype": {
+                  "id": 5410,
+                  "url": "/uploads/2024/12/Logo-WOmen.png",
+                  "alt": "Logo WOmen",
+                  "width": 2000,
+                  "height": 1414
+                },
+                "url": "https://itgirls.org.pl/"
+              }
+            ]
+          },
+          {
+            "label": "Powered by",
+            "members": [
+              {
+                "logotype": {
+                  "id": 5025,
+                  "url": "/uploads/2024/03/VirtusLab_logo_horizontal_color@2x.png",
+                  "alt": "VirtusLab_logo_horizontal_color@2x",
+                  "width": 1249,
+                  "height": 601
+                },
+                "url": "https://careers.virtuslab.com/"
+              }
+            ]
+          }
+        ],
+        "block_background_color": null,
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

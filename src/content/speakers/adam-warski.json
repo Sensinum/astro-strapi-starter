@@ -1,0 +1,53 @@
+{
+  "wpId": 3895,
+  "title": "Adam Warski",
+  "slug": "adam-warski",
+  "path": "/contributor/adam-warski/",
+  "date": "2022-11-07 16:15:59",
+  "modified": "2022-11-10 14:50:59",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      },
+      {
+        "id": 143,
+        "slug": "career-stories",
+        "name": "Career stories"
+      },
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "CTO at SoftwareMill",
+    "speaker_avatar": {
+      "id": 3896,
+      "url": "/uploads/2022/11/morda9_sq_1024-Adam-Warski-min.jpg",
+      "alt": "Adam Warski",
+      "width": 1024,
+      "height": 1024
+    },
+    "speaker_surname": "Warski",
+    "speaker_twitter": "https://twitter.com/adamwarski",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/adamwarski/",
+    "speaker_gh": "https://github.com/adamw"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I am one of the co-founders of SoftwareMill, where I code mainly using Scala and other interesting technologies. I am involved in open-source projects, such as sttp, tapir,&nbsp;Quicklens, ElasticMQ, and others. I have been a speaker at major conferences, such as JavaOne, LambdaConf, Devoxx, and ScalaDays.</p>\n\n\n\n<p>Apart from writing closed- and open-source software, in my free time, I try to read the Internet on various (functional) programming-related subjects. Any ideas or insights usually end up in a <a href=\"https://softwaremill.com/blog\">blog</a>.</p>"
+    }
+  ],
+  "formReplaced": false
+}

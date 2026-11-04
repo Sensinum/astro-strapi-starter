@@ -1,0 +1,38 @@
+{
+  "wpId": 3029,
+  "title": "Mrs. Manager - Either perfectly or not at all ",
+  "slug": "mrs-manager-either-perfectly-or-not-at-all",
+  "path": "/watch/mrs-manager-either-perfectly-or-not-at-all/",
+  "date": "2022-06-01 20:05:20",
+  "modified": "2023-03-21 11:28:08",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/06/anita_warkiewicz_thumb-1024x576.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 174,
+        "slug": "inspiring-women-in-it",
+        "name": "Inspiring Women in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=s1o5C2z0gHM",
+    "video_thumbnail": false,
+    "talk_date": "March 16, 2022",
+    "talks_speakers": [
+      2762
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>(PL) </p>\n\n\n\n<p>Pani Managerka - albo perfekcyjnie, albo wcale - Anita Warkiewicz Perfekcjonizm jest jednym z wielu znanych i \"lubianych\" przez nas, Kobiety, przejawów zniekształceń poznawczych. Nie ma nic wspólnego z wysokimi standardami, a nawet bardzo często wprost im przeczy. Będąc managerką w branży IT, w której liczy się szybkość dostarczania nowych rozwiązań, błyskawiczna komunikacja i relacje, ciężko robić wszystko na 100%. A jednak spróbowałam. Opowiem Wam historię o tym gdzie mnie to zaprowadziło, jak sprytny bywa perfekcjonizm i czego nauczyć Was może Agile. </p>\n\n\n\n<p>(ENG) </p>\n\n\n\n<p>Mrs. Manager - Either perfectly or not at all - Anita Warkiewicz Perfectionism is one of the many manifestations of cognitive distortions known and \"liked\" by us Women. It has nothing to do with high standards, and even very often outright contradicts them. Being a manager in the IT industry, where the speed of delivering new solutions, instant communication and relationships counts, it's hard to do everything 100%. And yet I tried. I will tell you a story about where it got me, how clever perfectionism can be and what Agile can teach you.</p>"
+    }
+  ],
+  "formReplaced": false
+}

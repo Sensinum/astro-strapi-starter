@@ -1,0 +1,37 @@
+{
+  "wpId": 5263,
+  "title": "Piotr Leśniak",
+  "slug": "piotr-lesniak",
+  "path": "/contributor/piotr-lesniak/",
+  "date": "2024-09-11 11:09:43",
+  "modified": "2024-09-11 11:09:43",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5264,
+      "url": "/uploads/2024/09/piotr-lesniak.jpg",
+      "alt": "piotr-lesniak",
+      "width": 830,
+      "height": 830
+    },
+    "speaker_position": " Sr Staff Software Engineer at Google",
+    "speaker_add_info": "",
+    "speaker_surname": "Leśniak",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/piotr-le%C5%9Bniak-902b376a/",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Staff Software Engineer, ex-Akamai, ex-Qualtrics currently working in Google, experienced in distributed and microservice architecture. Focusing on scalability, operational excellence and high quality of delivered software regardless of programming language/technology stack.</p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

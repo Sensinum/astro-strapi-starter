@@ -1,0 +1,28 @@
+{
+  "wpId": 4934,
+  "title": "Elevate Your Product Leadership: Hot Seat Coaching",
+  "slug": "workshop-ii",
+  "path": "/watch/workshop-ii/",
+  "date": "2024-02-13 09:53:31",
+  "modified": "2024-02-29 11:15:18",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2024",
+    "talks_speakers": [
+      4726
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Join us for an exclusive workshop tailored for seasoned product leaders. Led by a distinguished product coach, this immersive experience empowers you to confront real-world product challenges alongside your peers who share your journey. Engage in dynamic discussions, collaborative problem-solving, and invaluable insights from both the coach and your fellow participants. Prepare to elevate your leadership skills and gain a firsthand glimpse into the transformative impact of having a product leadership coach. Come ready with your most pressing questions – the hot seat awaits!</p>"
+    }
+  ],
+  "formReplaced": false
+}

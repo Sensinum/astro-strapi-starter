@@ -1,0 +1,37 @@
+{
+  "wpId": 5146,
+  "title": "Chris Woodward",
+  "slug": "chris-woodward",
+  "path": "/contributor/chris-woodward/",
+  "date": "2024-04-19 12:58:12",
+  "modified": "2024-04-19 12:58:13",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5147,
+      "url": "/uploads/2024/04/1612540336221.jpeg",
+      "alt": "1612540336221",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_position": "Head of Data Engineering at Convex Insurance",
+    "speaker_add_info": "",
+    "speaker_surname": "Woodward",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/chris-woodward-5aa14b26/",
+    "speaker_gh": "",
+    "desc_episodes": "Head of Data Engineering at Convex Insurance"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Head of Data Engineering at Convex Insurance</p>"
+    }
+  ],
+  "formReplaced": false
+}

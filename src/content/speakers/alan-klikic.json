@@ -1,0 +1,35 @@
+{
+  "wpId": 1159,
+  "title": "Alan Klikić",
+  "slug": "alan-klikic",
+  "path": "/contributor/alan-klikic/",
+  "date": "2021-05-31 14:42:36",
+  "modified": "2021-05-31 14:45:34",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Senior Solution Architect at Lightbend",
+    "speaker_avatar": {
+      "id": 1160,
+      "url": "/uploads/2021/05/ak2-Alan-Klikić-scaled.jpg",
+      "alt": "Alan Klikić",
+      "width": 2369,
+      "height": 2560
+    },
+    "speaker_surname": "Klikić",
+    "speaker_twitter": "https://twitter.com/aklikic",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/alan-kliki%C4%87-5945855/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Alan Klikic is a Senior Solution Architect at Lightbend. He has 15+ years of experience in software development and is passionate about reactive and distributed systems. Prior to Lightbend, Alan was a co-owner and technical lead of Intenda Net, Croatian software company developing in-house software solutions using Lightbend products. Alan holds a Master’s degree in Computer Science from the University of Zagreb, Croatia and currently resides in the Netherlands with his wife and four children.</p>"
+    }
+  ],
+  "formReplaced": false
+}

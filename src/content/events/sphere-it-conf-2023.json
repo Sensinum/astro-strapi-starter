@@ -1,0 +1,751 @@
+{
+  "wpId": 4201,
+  "title": "Sphere.it Conf 2023",
+  "slug": "sphere-it-conf-2023",
+  "path": "/event/sphere-it-conf-2023/",
+  "date": "2023-03-09 12:05:51",
+  "modified": "2023-09-28 08:04:13",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2023/03/sphere_conf_2023_save_the_date-min.jpg",
+  "seo": {
+    "ogTitle": "Sphere.it conf 2023 - Going Beyond Senior",
+    "ogImage": "/uploads/2023/03/sphere_conf_2023_save_the_date-1024x536.jpg"
+  },
+  "terms": {},
+  "acf": {
+    "alt_dynamic_menu": true,
+    "event_alt_title": "Going Beyond Senior",
+    "reduce_font_size": "1",
+    "event_series_label": "",
+    "event_date": "28.09.2023",
+    "event_date_hidden": true,
+    "type_of_event": "27-28 SEPTEMBER ",
+    "event_entry": "Krakow Manggha Museum",
+    "event_artwork": {
+      "id": 4548,
+      "url": "/uploads/2023/03/sphere_see_you_gif-Recovered-min.gif",
+      "alt": "sphere_see_you_gif-Recovered-min",
+      "width": 1080,
+      "height": 1080
+    },
+    "event_artwork_listing": {
+      "id": 4213,
+      "url": "/uploads/2023/03/logo_sphereit_conf_2023_listing.png",
+      "alt": "Sphere.it conf 2023",
+      "width": 1080,
+      "height": 1080
+    },
+    "event_background_color": "#f8fcee",
+    "header_background_image": {
+      "id": 4257,
+      "url": "/uploads/2023/03/sphere_conf_2023_bg.jpg",
+      "alt": "[cover] Sphere.it conf 2023",
+      "width": 2560,
+      "height": 1440
+    },
+    "event_font_color": true,
+    "event_font_color_value": "#040c33",
+    "event_register": {
+      "title": "Buy tickets",
+      "url": "https://app.evenea.pl/event/sphereitconf2023/",
+      "target": ""
+    },
+    "header_cta_2": "",
+    "event_scroll_button": "about-conf",
+    "buttons_background_color": "#040c33",
+    "buttons_font_color": "#f8fcee",
+    "event_agenda": false
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "about-conf",
+      "data": {
+        "block_title": null,
+        "block_description": "<p class=\"font-montserrat mb-0\" style=\"font-size: 120%; line-height: 170%; font-weight: 400; text-align: left;\"><span data-preserver-spaces=\"true\">Sphere.it Conf isn’t just another software conference. It’s the place where software engineers and like-minded tech professionals come together to<strong> learn, share, and be part of a powerful developer community</strong> driving innovation in the software industry.</span></p>\r\n&nbsp;\r\n\r\n&nbsp;\r\n<h2 style=\"margin-bottom: 20px; text-align: left;\">Theme</h2>\r\n<p class=\"font-montserrat mb-0\" style=\"font-size: 120%; line-height: 170%; font-weight: 400; text-align: left;\">Explore with us the idea of pushing beyond the traditional definition of seniority in the world of IT. Our conference is tailored for both regular and seasoned IT professionals seeking to expand their knowledge on the latest development opportunities and navigate the challenges that come with an advanced career.</p>\r\n<p class=\"font-montserrat mb-0\" style=\"font-size: 120%; line-height: 170%; font-weight: 400; text-align: left;\">With a focus on management, teamwork, processes, and tools, we <strong>delve deeper into the multidimensional aspects of seniority</strong> and career progression. Come with us on a journey beyond the limits of traditional seniority to unlock the secrets to professional success in IT.</p>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": null,
+        "block_background_color": "#f8fcee",
+        "block_font_color": "#040c33",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-conf-2022-agenda",
+      "anchor": "acf-block-644be762309e9",
+      "data": {
+        "block_title": "Agenda",
+        "block_agenda": [
+          {
+            "label": "Worskhop Day | Wednesday | Sept 27",
+            "day_schedule": [
+              {
+                "item_type": "talk",
+                "start_time": "09:00:00",
+                "end_time": "13:00:00",
+                "selected_talk": 4446,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "10:00:00",
+                "end_time": "13:00:00",
+                "selected_talk": 4459,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "14:00:00",
+                "end_time": "17:00:00",
+                "selected_talk": 4519,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              }
+            ],
+            "add_load_more_button": false,
+            "show_more_index": null
+          },
+          {
+            "label": "Conference Day | Thursday | Sept 28",
+            "day_schedule": [
+              {
+                "item_type": "other",
+                "start_time": "08:00:00",
+                "end_time": "09:00:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Registration",
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "09:00:00",
+                "end_time": "09:15:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Event opening",
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "09:15:00",
+                "end_time": "09:45:00",
+                "selected_talk": 4300,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "09:45:00",
+                "end_time": "10:15:00",
+                "selected_talk": 4410,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "10:15:00",
+                "end_time": "10:45:00",
+                "selected_talk": 4483,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "10:45:00",
+                "end_time": "11:15:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Coffee Break",
+                "icon": {
+                  "id": 3206,
+                  "url": "/uploads/2022/04/icon_coffee.png",
+                  "alt": "Coffee icon",
+                  "width": 55,
+                  "height": 54
+                }
+              },
+              {
+                "item_type": "talk",
+                "start_time": "11:15:00",
+                "end_time": "11:45:00",
+                "selected_talk": 4330,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "11:45:00",
+                "end_time": "12:15:00",
+                "selected_talk": 4379,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "12:15:00",
+                "end_time": "12:45:00",
+                "selected_talk": 4299,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "12:45:00",
+                "end_time": "13:45:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Lunch Break",
+                "icon": {
+                  "id": 3209,
+                  "url": "/uploads/2022/04/icon_lunch.png",
+                  "alt": "Lunch icon",
+                  "width": 60,
+                  "height": 60
+                }
+              },
+              {
+                "item_type": "other",
+                "start_time": "13:45:00",
+                "end_time": "14:00:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Behind the curtain: Sphere.it platform unveiled",
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "14:00:00",
+                "end_time": "14:30:00",
+                "selected_talk": 4502,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "14:30:00",
+                "end_time": "15:00:00",
+                "selected_talk": 4515,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "15:00:00",
+                "end_time": "15:30:00",
+                "selected_talk": 4498,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "15:30:00",
+                "end_time": "16:00:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Coffee Break",
+                "icon": {
+                  "id": 3206,
+                  "url": "/uploads/2022/04/icon_coffee.png",
+                  "alt": "Coffee icon",
+                  "width": 55,
+                  "height": 54
+                }
+              },
+              {
+                "item_type": "talk",
+                "start_time": "16:00:00",
+                "end_time": "16:30:00",
+                "selected_talk": 4464,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "16:30:00",
+                "end_time": "17:00:00",
+                "selected_talk": 4301,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "17:00:00",
+                "end_time": "17:30:00",
+                "selected_talk": 4486,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "17:30:00",
+                "end_time": "17:45:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Closing Remarks",
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "19:30:00",
+                "end_time": null,
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Afterparty",
+                "icon": {
+                  "id": 3207,
+                  "url": "/uploads/2022/04/icon_glasses.png",
+                  "alt": "Glasses icon",
+                  "width": 60,
+                  "height": 74
+                }
+              }
+            ],
+            "add_load_more_button": true,
+            "show_more_index": 8
+          }
+        ],
+        "block_background_image": {
+          "id": 4451,
+          "url": "/uploads/2023/03/agenda_bg3.jpeg",
+          "alt": "agenda_bg3",
+          "width": 2560,
+          "height": 1440
+        },
+        "block_background_color": "#f8fcee",
+        "block_font_color": "#0C1F1A",
+        "menu_label": "Agenda"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-643571f32cded",
+      "data": {
+        "block_title": "Speakers & Trainers",
+        "automatic_selection": false,
+        "speaker_groups": [
+          {
+            "group_label": null,
+            "speakers": [
+              204,
+              4462,
+              4407,
+              4377,
+              4484,
+              4328,
+              4420,
+              4295,
+              4448,
+              4487,
+              1919,
+              4481,
+              4491,
+              4499,
+              4513,
+              4517,
+              4541
+            ]
+          },
+          {
+            "group_label": null,
+            "speakers": null
+          }
+        ],
+        "block_background_color": "#f8fcee",
+        "block_font_color": "#040c33",
+        "menu_label": "Speakers"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-649daf66a36d1",
+      "data": {
+        "block_description": "<h2 class=\"heading-3\">Attend Sphere.it Conf</h2>\r\nSecure your spot today and embark on a transformative experience that will empower you, ignite your passion, and take you beyond the limits of traditional seniority. Unlock the secrets to professional success in IT at the Sphere.it Conf 2023.\r\n\r\nLimited seats are available. We recommend registering for the conference as soon as possible to secure the best possible pricing, as ticket prices will increase over time.",
+        "block_button": {
+          "title": "Get your tickets",
+          "url": "https://evenea.pl/pl/wydarzenie/sphereitconf2023",
+          "target": "_blank"
+        },
+        "cta_background_color": "#040c33",
+        "cta_font_color": "#f8fcee",
+        "cta_border_radius": 6,
+        "block_background_image": {
+          "id": 4453,
+          "url": "/uploads/2023/03/sphere_conf_2023_tickets_bg.jpeg",
+          "alt": "sphere_conf_2023_tickets_bg",
+          "width": 1440,
+          "height": 960
+        },
+        "switch_text_side": true,
+        "block_background_color": "#6de3d7",
+        "block_font_color": "#040c33",
+        "menu_label": "Tickets"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-6409a2a30d4cf",
+      "data": {
+        "block_description": "<h2 class=\"heading-3\">Elevate your conference experience</h2>\r\nUpgrade to VIP for exclusive perks! Get VIP tickets, a special swag pack with sought-after extras like a branded hoodie and Stojo 16oz cup. Enjoy early workshop registration on September 27th and an invitation to the prestigious Speakers' Dinner Party.\r\n\r\nBe at the center of the action and uncover more exclusive opportunities. Make sure to check them out and grab your VIP Pack today.\r\n\r\n*Limited VIP Packs are available",
+        "block_button": {
+          "title": "Get your VIP pack",
+          "url": "https://evenea.pl/pl/wydarzenie/sphereitconf2023",
+          "target": "_blank"
+        },
+        "cta_background_color": null,
+        "cta_font_color": "#040c33",
+        "cta_border_radius": 6,
+        "block_background_image": {
+          "id": 4454,
+          "url": "/uploads/2023/03/sphere_conf_2023_vippacks_bg.jpeg",
+          "alt": "sphere_conf_2023_vippacks_bg",
+          "width": 1440,
+          "height": 960
+        },
+        "switch_text_side": false,
+        "block_background_color": "#4e3aae",
+        "block_font_color": "#eefcef",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-sponsors",
+      "anchor": "acf-block-6409a409e9aa2",
+      "data": {
+        "logotypes_alignment": true,
+        "sponsor_groups": [
+          {
+            "label": "Community Partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2991,
+                  "url": "/uploads/2022/04/ksug.png",
+                  "alt": "Kraków Scala User Group logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.meetup.com/pl-PL/krakow-scala-user-group/"
+              },
+              {
+                "logotype": {
+                  "id": 2988,
+                  "url": "/uploads/2022/04/cngk.png",
+                  "alt": "Krakow Cloud Native Group logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.meetup.com/pl-PL/krakow-cloud-native/"
+              },
+              {
+                "logotype": {
+                  "id": 2990,
+                  "url": "/uploads/2022/04/rjug.png",
+                  "alt": "Rzeszów Java User Group logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.meetup.com/pl-PL/rzeszow-java-user-group/"
+              },
+              {
+                "logotype": {
+                  "id": 2989,
+                  "url": "/uploads/2022/04/kjug.png",
+                  "alt": "Kielce Java User Group logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.meetup.com/pl-PL/kielce-java-user-group/"
+              },
+              {
+                "logotype": {
+                  "id": 4110,
+                  "url": "/uploads/2023/01/nofluffjobs_logo-1-1.png",
+                  "alt": "No Fluff Jobs logotype",
+                  "width": 2000,
+                  "height": 2000
+                },
+                "url": "https://nofluffjobs.com/pl"
+              },
+              {
+                "logotype": {
+                  "id": 4267,
+                  "url": "/uploads/2023/03/hack-codex-logo-black-1.png",
+                  "alt": "hack-codex-logo-black (1)",
+                  "width": 522,
+                  "height": 347
+                },
+                "url": "https://www.hackcodex.eu/"
+              },
+              {
+                "logotype": {
+                  "id": 3259,
+                  "url": "/uploads/2022/04/Jet_Brains.png",
+                  "alt": "JetBrains logotype",
+                  "width": 512,
+                  "height": 530
+                },
+                "url": "https://www.jetbrains.com/"
+              },
+              {
+                "logotype": {
+                  "id": 4291,
+                  "url": "/uploads/2023/03/logo-summit.png",
+                  "alt": "logo-summit",
+                  "width": 1200,
+                  "height": 1200
+                },
+                "url": "https://womenintechsummit.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 4319,
+                  "url": "/uploads/2023/03/HOC-LOGO-BLACK-1-1.png",
+                  "alt": "HOC LOGO BLACK (1) (1)",
+                  "width": 579,
+                  "height": 500
+                },
+                "url": "https://www.hackonchain.xyz/"
+              },
+              {
+                "logotype": {
+                  "id": 4525,
+                  "url": "/uploads/2023/03/Techies-Space-_logo.png",
+                  "alt": "Techie&#8217;s Space _logo",
+                  "width": 540,
+                  "height": 341
+                },
+                "url": "https://lp.codete.com/techies-space"
+              },
+              {
+                "logotype": {
+                  "id": 2706,
+                  "url": "/uploads/2022/02/tryit.png",
+                  "alt": "Fundacja Try IT logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.tryit.org.pl/pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2984,
+                  "url": "/uploads/2022/04/jdd.png",
+                  "alt": "JDD logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://jdd.org.pl"
+              },
+              {
+                "logotype": {
+                  "id": 2985,
+                  "url": "/uploads/2022/04/hackyeah.png",
+                  "alt": "HackYeah logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://hackyeah.pl"
+              },
+              {
+                "logotype": {
+                  "id": 4552,
+                  "url": "/uploads/2023/03/Horizontal-DevConf_Color-in-white-background.png",
+                  "alt": "Horizontal DevConf_Color in white background",
+                  "width": 792,
+                  "height": 281
+                },
+                "url": "https://devconf.pl"
+              },
+              {
+                "logotype": {
+                  "id": 2987,
+                  "url": "/uploads/2022/04/4dev.png",
+                  "alt": "4Developers logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://4developers.org.pl"
+              },
+              {
+                "logotype": {
+                  "id": 4564,
+                  "url": "/uploads/2023/03/e11b271bd0b9033c0f5f0bc359f37d51.png",
+                  "alt": "Scalar Conference",
+                  "width": 695,
+                  "height": 246
+                },
+                "url": "https://www.scalar-conf.com"
+              },
+              {
+                "logotype": {
+                  "id": 3301,
+                  "url": "/uploads/2022/04/avatar_2000-1.png",
+                  "alt": "Hackerspace Kraków logotype",
+                  "width": 2000,
+                  "height": 2000
+                },
+                "url": "https://hackerspace-krk.pl"
+              },
+              {
+                "logotype": {
+                  "id": 4576,
+                  "url": "/uploads/2023/03/logo.png",
+                  "alt": "future conf",
+                  "width": 1112,
+                  "height": 433
+                },
+                "url": "https://www.futureconf.tech"
+              }
+            ]
+          },
+          {
+            "label": "Media Partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 3152,
+                  "url": "/uploads/2022/04/logo_mono.png",
+                  "alt": "Vived logotype",
+                  "width": 2560,
+                  "height": 1051
+                },
+                "url": "https://vived.io/"
+              }
+            ]
+          },
+          {
+            "label": "Sponsors",
+            "members": [
+              {
+                "logotype": {
+                  "id": 4456,
+                  "url": "/uploads/2023/03/sml_mainlogo_vertical_rgb-1.png",
+                  "alt": "sml_mainlogo_vertical_rgb (1)",
+                  "width": 1181,
+                  "height": 570
+                },
+                "url": "https://softwaremill.com/"
+              },
+              {
+                "logotype": {
+                  "id": 4568,
+                  "url": "/uploads/2023/03/Strapi.full_.logo_.dark_.png",
+                  "alt": "Strapi.full.logo.dark",
+                  "width": 1751,
+                  "height": 424
+                },
+                "url": "https://strp.cc/40PGw3C"
+              },
+              {
+                "logotype": {
+                  "id": 4573,
+                  "url": "/uploads/2023/03/logo-main.png",
+                  "alt": "logo-main",
+                  "width": 3552,
+                  "height": 768
+                },
+                "url": "https://tetrisly.com"
+              }
+            ]
+          },
+          {
+            "label": "Hosted by",
+            "members": [
+              {
+                "logotype": {
+                  "id": 4578,
+                  "url": "/uploads/2023/03/logo-vl-updated.png",
+                  "alt": "logo-vl-updated",
+                  "width": 2560,
+                  "height": 1282
+                },
+                "url": "https://virtuslab.com"
+              }
+            ]
+          }
+        ],
+        "block_background_color": null,
+        "menu_label": "Partners"
+      }
+    },
+    {
+      "kind": "html",
+      "html": "<figure class=\"wp-block-gallery has-nested-images columns-default is-cropped\">\n<figure class=\"wp-block-image size-large\"><img src=\"/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-337-1024x683.jpg\" alt=\"\" class=\"wp-image-3702\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-346-1024x683.jpg\" alt=\"\" class=\"wp-image-3711\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-333-1024x683.jpg\" alt=\"\" class=\"wp-image-3698\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-317-1024x683.jpg\" alt=\"\" class=\"wp-image-3682\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-47-1024x683.jpg\" alt=\"\" class=\"wp-image-3414\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-277-1024x683.jpg\" alt=\"\" class=\"wp-image-3642\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-266-1024x683.jpg\" alt=\"\" class=\"wp-image-3631\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-256-1024x683.jpg\" alt=\"\" class=\"wp-image-3621\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-169-1024x683.jpg\" alt=\"\" class=\"wp-image-3536\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-38-1024x683.jpg\" alt=\"\" class=\"wp-image-3405\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-142-1024x683.jpg\" alt=\"\" class=\"wp-image-3509\"/></figure>\n\n\n\n<figure class=\"wp-block-image size-large\"><img src=\"/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-44-1024x683.jpg\" alt=\"\" class=\"wp-image-3411\"/></figure>\n</figure>\n\n\n\n<div class=\"wp-block-group\"></div>"
+    }
+  ],
+  "formReplaced": false
+}

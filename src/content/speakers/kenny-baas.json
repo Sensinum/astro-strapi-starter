@@ -1,0 +1,37 @@
+{
+  "wpId": 556,
+  "title": "Kenny Baas",
+  "slug": "kenny-baas",
+  "path": "/contributor/kenny-baas/",
+  "date": "2020-01-01 00:00:44",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer and Consultant at Xebia",
+    "speaker_avatar": false,
+    "speaker_surname": "Baas",
+    "speaker_twitter": "https://twitter.com/kenny_baas",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/kenny-baas",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Kenny Baas is a Software Engineer and Consultant focusing on software quality at Xebia. He mentors teams by using practices and techniques from Domain Driven Design, Behaviour Driven Development, Test Driven Development and Continuous Delivery.</p>\n\n\n\n<p>He is an advocate for collaborating in open spaces. By using techniques such as Example Mapping and Event Storming, to engineer requirements and design of software along with business- and stakeholders.</p>\n\n\n\n<p>With these methods, he aims to create a transparent collaborative domain space with constant and instant feedback of the software that is being built.</p>\n\n\n\n<p>Besides his daily work, he also organizes meetups for Behaviour Driven Development NL and Domain Driven Design NL.</p>"
+    }
+  ],
+  "formReplaced": false
+}

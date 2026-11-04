@@ -1,0 +1,43 @@
+{
+  "wpId": 253,
+  "title": "Eugene Yokota",
+  "slug": "eugene-yokota",
+  "path": "/contributor/eugene-yokota/",
+  "date": "2020-01-01 00:02:01",
+  "modified": "2023-03-17 14:26:52",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Principal Engineer at Lightbend",
+    "speaker_avatar": {
+      "id": 4244,
+      "url": "/uploads/2020/01/Eugene_Yokota.jpg",
+      "alt": "Eugene Yokota",
+      "width": 487,
+      "height": 487
+    },
+    "speaker_surname": "Yokota",
+    "speaker_twitter": "https://twitter.com/eed3si9n",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/eugeneyokota/",
+    "speaker_gh": "https://github.com/eed3si9n"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Eugene is a maintainer of sbt, and a compiler engineer at Lightbend Scala team. He enjoys long walks looking for Döner kebab, and functional programming.</p>"
+    }
+  ],
+  "formReplaced": false
+}

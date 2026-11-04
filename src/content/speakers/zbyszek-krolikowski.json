@@ -1,0 +1,43 @@
+{
+  "wpId": 2214,
+  "title": "Zbyszek Królikowski",
+  "slug": "zbyszek-krolikowski",
+  "path": "/contributor/zbyszek-krolikowski/",
+  "date": "2021-12-03 09:14:45",
+  "modified": "2021-12-03 09:14:47",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Machine Learning Engineer at VirtusLab",
+    "speaker_avatar": {
+      "id": 2215,
+      "url": "/uploads/2021/12/1553617498774.jpeg",
+      "alt": "Zbyszek Królikowski",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Królikowski",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/krolikowski-zbigniew/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Zbigniew is a Software Development Engineer at VirtusLab. He works on bringing ML recommendations and re-ranking models onto production, both in private and public clouds.</p>"
+    }
+  ],
+  "formReplaced": false
+}

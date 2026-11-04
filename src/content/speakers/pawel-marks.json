@@ -1,0 +1,48 @@
+{
+  "wpId": 326,
+  "title": "Paweł Marks",
+  "slug": "pawel-marks",
+  "path": "/contributor/pawel-marks/",
+  "date": "2020-01-01 00:01:39",
+  "modified": "2023-03-17 14:05:08",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      },
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": " Scala Compiler Engineer at Virtuslab",
+    "speaker_avatar": {
+      "id": 4241,
+      "url": "/uploads/2020/01/Pawel_Marks.jpg",
+      "alt": "Paweł Marks",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Marks",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/pawel-marks/?originalSubdomain=pl",
+    "speaker_gh": "https://github.com/Kordyjan"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Paweł Marks is Scala Compiler Engineer at Virtuslab, Kraków. He is also the main maintainer of Eclipse Kotlin Plugin and co-organizer of Kraków Kotlin User Group - the most active Kotlin community in Poland.<br>He loves to get to know new programming languages, compare them, and rant about them. Privately he is interested in linguistics, history and enjoys surreal memes.</p>"
+    }
+  ],
+  "formReplaced": false
+}

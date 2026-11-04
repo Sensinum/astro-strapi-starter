@@ -1,0 +1,43 @@
+{
+  "wpId": 119,
+  "title": "Zack Jackson",
+  "slug": "zack-jackson",
+  "path": "/contributor/zack-jackson/",
+  "date": "2020-01-01 00:02:35",
+  "modified": "2021-03-30 17:00:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Principal Engineer at Lululemon, Core maintainer of Webpack and creator of Module Federation",
+    "speaker_avatar": {
+      "id": 121,
+      "url": "/uploads/2021/03/Zack_Jackson-1.jpg",
+      "alt": "Zack Jackson",
+      "width": 241,
+      "height": 225
+    },
+    "speaker_surname": "Jackson",
+    "speaker_twitter": "https://twitter.com/ScriptedAlchemy",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": "https://github.com/ScriptedAlchemy"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Principal Engineer at Lululemon, Core maintainer of Webpack and creator of Module Federation. He specializes in distributed javascript orchestration at scale.</p>"
+    }
+  ],
+  "formReplaced": false
+}

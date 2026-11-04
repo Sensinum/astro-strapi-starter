@@ -1,0 +1,35 @@
+{
+  "wpId": 4871,
+  "title": "Ola Jacukowicz",
+  "slug": "ola-jacukowicz",
+  "path": "/contributor/ola-jacukowicz/",
+  "date": "2024-02-05 21:44:20",
+  "modified": "2024-02-05 21:44:20",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Talent & Capability Busines Partner",
+    "speaker_avatar": {
+      "id": 4872,
+      "url": "/uploads/2024/02/IMG_4798.jpg",
+      "alt": "IMG_4798",
+      "width": 2040,
+      "height": 2043
+    },
+    "speaker_surname": "Jacukowicz",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/aleksandra-jacukowicz",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Talent &amp; Capability Business Partner at 888 William Hill. A seasoned leadership development specialist with a background in organizational and health psychology. Coach, trainer, public speaker and skilled facilitator. Passionate about developing leaders and teaching them how to use the power of psychology to boost their resilience and confidence to build high-performing and engaged teams. For a couple of years, served as a leader and mentor in Toastmasters, a nonprofit educational organization dedicated to helping people learn and practice the art of public speaking and leadership. Prior to moving to the world of L&amp;D, worked as a researcher in the field of health and work psychology. In 2018, earned a PhD for her thesis on psychosocial risks in the workplace and their impact on health.</p>"
+    }
+  ],
+  "formReplaced": false
+}

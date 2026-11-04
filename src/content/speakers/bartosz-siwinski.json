@@ -1,0 +1,35 @@
+{
+  "wpId": 2502,
+  "title": "Bartosz Siwiński",
+  "slug": "bartosz-siwinski",
+  "path": "/contributor/bartosz-siwinski/",
+  "date": "2022-02-02 13:28:08",
+  "modified": "2022-02-15 10:29:34",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Data Engineer at VirtusLab",
+    "speaker_avatar": {
+      "id": 2503,
+      "url": "/uploads/2022/02/bartosz-siwinski.jpg",
+      "alt": "Bartosz Siwiński",
+      "width": 1080,
+      "height": 1080
+    },
+    "speaker_surname": "Siwiński",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/bartosz-siwi%C5%84ski-481341171/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Python developer on a continuous quest to learn new technologies. Previously, industrial controllers programmer and a test engineer in embedded. Passionate about Industrial Automation, Data Science and always on the lookout for process efficiencies. In private, family guy and boardgame enthusiast.</p>"
+    }
+  ],
+  "formReplaced": false
+}

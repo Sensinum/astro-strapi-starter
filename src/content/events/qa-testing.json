@@ -1,0 +1,175 @@
+{
+  "wpId": 2495,
+  "title": "QA & testing",
+  "slug": "qa-testing",
+  "path": "/event/qa-testing/",
+  "date": "2022-02-07 12:22:07",
+  "modified": "2022-07-06 12:57:36",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/02/tt7_share-min.jpg"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 138,
+        "slug": "sphere-it-tech-talks",
+        "name": "Sphere.it Tech Talks"
+      }
+    ]
+  },
+  "acf": {
+    "event_agenda": [
+      {
+        "item_type": "talk",
+        "item_time": "6:00 PM",
+        "talk_id": 2501,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "talk",
+        "item_time": "6:30 PM",
+        "talk_id": 2544,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      },
+      {
+        "item_type": "custom",
+        "item_time": "7:00 PM",
+        "talk_id": false,
+        "custom_title": "Q&A session with the speakers",
+        "item_content": "",
+        "background_color": "",
+        "font_color": "",
+        "accent_font_color": ""
+      }
+    ],
+    "event_series_label": "Sphere.it Tech Talks #7",
+    "event_date": "22.02.2022",
+    "type_of_event": "START 6:00 PM CET",
+    "event_entry": "VIRTUAL EVENT",
+    "event_artwork": {
+      "id": 2498,
+      "url": "/uploads/2022/02/qa_theme.png",
+      "alt": "QA & testing",
+      "width": 1080,
+      "height": 1080
+    },
+    "event_register": {
+      "title": "Register for free",
+      "url": "https://www.airmeet.com/e/8176f5e0-8342-11ec-ae85-69291be78cfb",
+      "target": "_blank"
+    },
+    "event_background_color": "#11152e",
+    "event_font_color": false,
+    "event_font_color_value": "#e6e1d1",
+    "reduce_font_size": "1",
+    "event_scroll_button": "",
+    "buttons_background_color": "#76d1c4",
+    "buttons_font_color": "#11152e",
+    "header_background_image": false,
+    "alt_dynamic_menu": false,
+    "event_alt_title": "",
+    "event_date_hidden": false,
+    "event_artwork_listing": false,
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "data": {
+        "block_description": "<p class=\"font-montserrat\" style=\"font-size: 175%; line-height: 150%; font-weight: 500; text-align: left;\">This month, during our Tech Talks session, experts from Sarna Technologies &amp; VirtusLab will share their expertise in the field of Software Quality.</p>\r\n<p class=\"font-montserrat\" style=\"font-size: 175%; line-height: 150%; font-weight: 500; text-align: left;\">Save your spot for a session devoted to sharing best practices in terms of Quality Assurance &amp; testing.</p>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2558,
+          "url": "/uploads/2022/02/qa_theme_bg-min.jpg",
+          "alt": "QA &#038; testing &#8211; sphere.it tech talks",
+          "width": 2400,
+          "height": 1600
+        },
+        "switch_text_side": true,
+        "block_background_color": "#253753",
+        "block_font_color": "#76d1c4",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "data": {
+        "block_title": null,
+        "block_description": "<p class=\"heading-3\" style=\"margin-bottom: 15px; margin-top: 40px; line-height: 1.25; text-align: center;\">The event will take place on the 22nd of February, 2022.</p>\r\n<p class=\"heading-3\" style=\"margin-bottom: 15px; margin-top: 40px; line-height: 1.25; text-align: center;\">We start at 6:00 PM.</p>",
+        "block_button": {
+          "title": "Save your spot",
+          "url": "https://www.airmeet.com/e/8176f5e0-8342-11ec-ae85-69291be78cfb",
+          "target": "_blank"
+        },
+        "cta_background_color": "#14162a",
+        "cta_font_color": "#76d1c4",
+        "cta_border_radius": 32,
+        "block_background_image": null,
+        "block_background_color": "#76d1c4",
+        "block_font_color": "#11152e",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-event-agenda",
+      "data": {
+        "block_title": "Agenda",
+        "block_background_color": "#14162a",
+        "block_font_color": "#e6e1d1",
+        "block_accent_font_color": "#76d1c4",
+        "smaller_paddings": true,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "data": {
+        "block_title": "Our all-star guests",
+        "automatic_selection": true,
+        "speaker_groups": [],
+        "block_background_color": "#253753",
+        "block_font_color": "#76d1c4",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "data": {
+        "block_title": null,
+        "block_description": "<h2 style=\"margin-bottom: 15px; line-height: 1.25;\">Join us at Sphere.it Tech Talks</h2>\r\n<h3 class=\"heading-4\" style=\"margin-bottom: 30px;\">22.02 | START 6:00 PM CET | VIRTUAL EVENT</h3>",
+        "block_button": {
+          "title": "Register for free",
+          "url": "https://www.airmeet.com/e/ae6fd510-540f-11ec-bc49-5f1b8874110a",
+          "target": "_blank"
+        },
+        "cta_background_color": "#14162a",
+        "cta_font_color": "#76d1c4",
+        "cta_border_radius": 32,
+        "block_background_image": null,
+        "block_background_color": "#76d1c4",
+        "block_font_color": "#14162a",
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

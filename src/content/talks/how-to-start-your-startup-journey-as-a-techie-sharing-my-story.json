@@ -1,0 +1,28 @@
+{
+  "wpId": 4932,
+  "title": "How to start your startup journey as a techie. Sharing my story.",
+  "slug": "how-to-start-your-startup-journey-as-a-techie-sharing-my-story",
+  "path": "/watch/how-to-start-your-startup-journey-as-a-techie-sharing-my-story/",
+  "date": "2024-02-13 09:52:03",
+  "modified": "2024-02-13 09:52:03",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2024",
+    "talks_speakers": [
+      4837
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>After over 15 years in different IT roles and mostly having corporate jobs I decided to build my own startup. Within a year I managed to go from \"zero support and no clear plan on how to get there\" to becoming a co-founder of a startup that successfully went through 3 acceleration programs and got initial investment. I'd love to share my journey and tips \"how to get there\" with anyone who wants to start their startup journey as a technical co-founder, especially women!</p>"
+    }
+  ],
+  "formReplaced": false
+}

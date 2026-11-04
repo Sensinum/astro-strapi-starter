@@ -1,0 +1,36 @@
+{
+  "wpId": 4790,
+  "title": "Hila Fish",
+  "slug": "hila-fish",
+  "path": "/contributor/hila-fish/",
+  "date": "2024-01-17 09:19:38",
+  "modified": "2024-02-29 22:48:09",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": " Senior DevOps Engineer at Wix.com",
+    "speaker_avatar": {
+      "id": 4791,
+      "url": "/uploads/2024/01/Hila-Fish.jpeg",
+      "alt": "Hila-Fish",
+      "width": 2359,
+      "height": 2350
+    },
+    "speaker_surname": "Fish",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/hila-fish/",
+    "speaker_gh": "",
+    "speaker_add_info": "Wix.com"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Hila Fish is a DevOps Tech Lead, with over 15 years of experience in the tech industry.AWS Community Builder, Hashicorp Ambassador, and an international public speaker who believes the DevOps culture is what drives a company to perform at its best and talks about that and other DevOps/Infrastructure topics at conferences. </p>\n\n\n\n<p>She carries the vision to enhance and drive business success by taking care of its infrastructure. In her spare time, Hila is a lead singer of a cover band, giving back to the community by co-organizing DevOps-related conferences (Inc. \"DevOpsDays TLV\" &amp; \"StatsCraft\" monitoring-focused event), providing mentorship and managing programs in “Baot” (The largest Israeli technical women’s community), and enjoys sharing her passion and knowledge wherever she can, including across diverse technology communities, initiatives and social media.</p>"
+    }
+  ],
+  "formReplaced": false
+}

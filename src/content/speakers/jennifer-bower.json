@@ -1,0 +1,35 @@
+{
+  "wpId": 4328,
+  "title": "Jennifer Bower",
+  "slug": "jennifer-bower",
+  "path": "/contributor/jennifer-bower/",
+  "date": "2023-05-25 17:07:24",
+  "modified": "2023-05-25 17:07:39",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Country Lead at Persistent Systems",
+    "speaker_avatar": {
+      "id": 4329,
+      "url": "/uploads/2023/05/AA14839B-7238-47FA-AEB6-28D51366297E.jpeg",
+      "alt": "AA14839B-7238-47FA-AEB6-28D51366297E",
+      "width": 2314,
+      "height": 2314
+    },
+    "speaker_surname": "Bower",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/jennifergbower/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Jennifer Bower is a delivery leader who embraces personal growth and professional development through failure. With a focus on nurturing relationships and leveraging diverse teams, she is passionate about building, and continuously developing, teams. </p>\n\n\n\n<p>As a Country Lead for Persistent Systems, Jennifer fosters a culture of continuous learning. Her unwavering belief in learning from failure has shaped her into a resilient and adaptable leader, inspiring teams to view setbacks as opportunities for growth. She encourages analysis of mistakes, extraction of lessons learned, and implementation of positive changes for continuous evolution and outstanding results.</p>"
+    }
+  ],
+  "formReplaced": false
+}

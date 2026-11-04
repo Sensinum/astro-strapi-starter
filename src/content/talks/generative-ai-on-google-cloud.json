@@ -1,0 +1,40 @@
+{
+  "wpId": 4519,
+  "title": "Generative AI on Google Cloud (hands-on technical workshop)",
+  "slug": "generative-ai-on-google-cloud",
+  "path": "/watch/generative-ai-on-google-cloud/",
+  "date": "2023-08-02 09:09:26",
+  "modified": "2023-11-09 12:07:01",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogTitle": "Generative AI on Google Cloud",
+    "ogImage": "/uploads/2023/03/sphere_conf_2023_save_the_date-1024x536.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 178,
+        "slug": "google-cloud",
+        "name": "Google Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "September 27, 2023",
+    "talks_speakers": [
+      4541,
+      4517
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>This workshop will let you learn on how to use generative AI on Google Cloud. Through the labs, you will learn about how to use the models in the Vertex AI PaLM API family. You will also learn about prompt design, best practices, and how it can be used for ideation, text classification, text extraction, text summarization, and more. You will also learn how to tune a foundation model by training it via Vertex AI custom training and deploy it to a Vertex AI endpoint.</p>\n\n\n\n<p>Who is the workshop for? </p>\n\n\n\n<p>Technical practitioners (App Developers, Software Developers, Data Analysts, Data Scientists, ML engineers, Technical Architects) and anyone else who wants to learn the hands-on skills in exciting Generative AI field</p>"
+    }
+  ],
+  "formReplaced": false
+}

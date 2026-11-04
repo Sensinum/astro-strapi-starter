@@ -1,0 +1,37 @@
+{
+  "wpId": 551,
+  "title": "Jarosław Ratajski",
+  "slug": "jaroslaw-ratajski",
+  "path": "/contributor/jaroslaw-ratajski/",
+  "date": "2020-01-01 00:00:49",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "JVM Developer at Engenius CH",
+    "speaker_avatar": false,
+    "speaker_surname": "Ratajski",
+    "speaker_twitter": "https://twitter.com/jarek000000",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>JVM Developer with quite functional heart</p>"
+    }
+  ],
+  "formReplaced": false
+}

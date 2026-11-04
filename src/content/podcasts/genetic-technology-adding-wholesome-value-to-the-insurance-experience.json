@@ -1,0 +1,47 @@
+{
+  "wpId": 5153,
+  "title": "Genetic Technology: Adding Wholesome Value to the Insurance Experience",
+  "slug": "genetic-technology-adding-wholesome-value-to-the-insurance-experience",
+  "path": "/podcast/genetic-technology-adding-wholesome-value-to-the-insurance-experience/",
+  "date": "2024-04-19 13:03:03",
+  "modified": "2024-04-19 13:03:03",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E07_thumbnail_MatjazI_PetrovicI_Interview-min.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      5151
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "Watch on YouTube",
+      "url": "https://www.youtube.com/watch?v=ii4pFe2qZK4&list=PLl9Aulxh1VePW1MCtgpOqCRDPjYWn9Zy2&index=13",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>One of the many interviews with Insurance Experts that we recorded at the Insurtech Insights 2024 in London. Interviewing Matjaž Petrovič, VP of Sales at GenePlanet</p>\n",
+    "podcast_cover": {
+      "id": 5154,
+      "url": "/uploads/2024/04/S01E07_thumbnail_MatjazI_PetrovicI_Interview-min.jpg",
+      "alt": "S01E07_thumbnail_MatjazÌ_PetrovicÌ_Interview-min",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

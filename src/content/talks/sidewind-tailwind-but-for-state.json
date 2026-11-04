@@ -1,0 +1,58 @@
+{
+  "wpId": 157,
+  "title": "Sidewind - Tailwind but for state",
+  "slug": "sidewind-tailwind-but-for-state",
+  "path": "/watch/sidewind-tailwind-but-for-state/",
+  "date": "2020-01-01 00:03:26",
+  "modified": "2021-03-31 14:37:08",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 21,
+        "slug": "html",
+        "name": "HTML"
+      },
+      {
+        "id": 18,
+        "slug": "javascript",
+        "name": "JavaScript"
+      },
+      {
+        "id": 22,
+        "slug": "sidewind",
+        "name": "Sidewind"
+      },
+      {
+        "id": 23,
+        "slug": "tailwind",
+        "name": "Tailwind"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=QFSDgddmhnU&t=128s",
+    "video_thumbnail": false,
+    "talk_date": "May 12, 2020",
+    "talks_speakers": [
+      93
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Historically we've dealt with state in different manners in the frontend. We've gone from vanilla JavaScript to jQuery to Backbone to Redux and other modern solutions. The question is, are we there yet still after all this work?</p>\n\n\n\n<p>In this talk, I'll discuss the new wave of disappearing frameworks that attack the problem from a different angle. The goal is to give similar development ergonomics and power as earlier while minimizing bundle size.</p>\n\n\n\n<p>In particular, I'll focus on a light solution I've developed based on my recent experiences with Tailwind.css. Tailwind is a utility-first approach to styling but it doesn't specify how to handle state. Usually, you combine it with a framework like React or Vue for this purpose. Due to the constraints set by my client, I wasn't able to go through my regular route, however.</p>\n\n\n\n<p>The tight constraints led to the birth of Sidewind. It's a light, disappearing state management approach that fits perfectly with Tailwind while providing just enough API to at least add interactivity to websites. By design, it follows the pattern of progressive enhancement while leveraging recent improvements to browsers in order to take state directly to HTML.</p>"
+    }
+  ],
+  "formReplaced": false
+}

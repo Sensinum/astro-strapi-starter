@@ -1,0 +1,43 @@
+{
+  "wpId": 2781,
+  "title": "Wojciech Mazur",
+  "slug": "wojciech-mazur",
+  "path": "/contributor/wojciech-mazur/",
+  "date": "2022-03-04 14:17:54",
+  "modified": "2022-03-04 14:19:59",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Scala Tooling Developer at VirtusLab",
+    "speaker_avatar": {
+      "id": 2783,
+      "url": "/uploads/2022/03/vl-102-min-2.jpg",
+      "alt": "Wojciech Mazur",
+      "width": 2159,
+      "height": 2211
+    },
+    "speaker_surname": "Mazur",
+    "speaker_twitter": "https://twitter.com/Wojciech_Maz",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/wojciech-mazur-3970a8121/",
+    "speaker_gh": "https://github.com/WojciechMazur"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Wojciech Mazur is a Scala Tooling Engineer at VirtusLab with many years of commercial experience in projects using Scala. For the last 2 years, he has been responsible for the maintenance and development of Scala Native - a compiler and runtime environment for Scala-based on LLVM, in close cooperation with Scala Center and EPFL.</p>"
+    }
+  ],
+  "formReplaced": false
+}

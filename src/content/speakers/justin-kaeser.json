@@ -1,0 +1,53 @@
+{
+  "wpId": 269,
+  "title": "Justin Kaeser",
+  "slug": "justin-kaeser",
+  "path": "/contributor/justin-kaeser/",
+  "date": "2020-01-01 00:01:55",
+  "modified": "2022-10-13 14:02:39",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 148,
+        "slug": "jvm",
+        "name": "JVM"
+      },
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      },
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Team Lead at Bazel, JetBrains",
+    "speaker_avatar": {
+      "id": 3222,
+      "url": "/uploads/2020/01/friedensengel-mauer-park-crop-min-1.jpeg",
+      "alt": "Justin Kaeser",
+      "width": 1059,
+      "height": 1286
+    },
+    "speaker_surname": "Kaeser",
+    "speaker_twitter": "https://twitter.com/ebenwert",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/justinkaeser/?originalSubdomain=de",
+    "speaker_gh": "https://github.com/jastice"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Justin believes in \"Tools before Rules\": automating the development toolchain to remove the friction of dealing with manual processes. He works on this goal as team lead for the Bazel support in IntelliJ IDEA and as customer success engineer at JetBrains.</p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

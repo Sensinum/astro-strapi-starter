@@ -1,0 +1,43 @@
+{
+  "wpId": 290,
+  "title": "Michał Jakóbczyk",
+  "slug": "michal-jakobczyk",
+  "path": "/contributor/michal-jakobczyk/",
+  "date": "2020-01-01 00:01:45",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineering Director at Airhelp",
+    "speaker_avatar": {
+      "id": 291,
+      "url": "/uploads/2021/03/Michal_Jakóbczyk.jpeg",
+      "alt": "Michał Jakóbczyk",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Jakóbczyk",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/jakobczy/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Primarily I'm a Software Engineer. For last fifteen years doing Big Data, data analysis, machine learning, product and project management.</p>\n\n\n\n<p>For last several years focused on building and leading engineering teams, growing people, maintaining relations with business partners and managing projects.<br>Here at AirHelp I'm leading AI Automation Efforts and successfully deployed several services for extracting content from travel itinerary emails with high precision, lawsuit eligibility classifier and multiple data analysis.</p>\n\n\n\n<p>Currently I'm working on signature identification, validation of the itinerary information using sequence labelling and checking compensation eligibility of the flight. Catch me on Linkedin if you want to learn some more about AI at AirHelp!</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 292,
+  "title": "Paweł Kamiński",
+  "slug": "pawel-kaminski",
+  "path": "/contributor/pawel-kaminski/",
+  "date": "2020-01-01 00:01:44",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer in Platform at Casumo",
+    "speaker_avatar": {
+      "id": 293,
+      "url": "/uploads/2021/03/Pawel_Kamiński.jpeg",
+      "alt": "Paweł Kamiński",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Kamiński",
+    "speaker_twitter": "https://twitter.com/pawelkaminski",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/kaminskipawel/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>For the last couple of years, I’ve been working on a real-time bidding platform which introduces many architectural, scale and performance-related problems. Even though I still try to stay passionate about what I’m doing and share my knowledge and learn from others at the same time.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 401,
+  "title": "Luca Ponzanelli",
+  "slug": "luca-ponzanelli",
+  "path": "/contributor/luca-ponzanelli/",
+  "date": "2020-01-01 00:01:08",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior R&D Engineer at CodeLounge",
+    "speaker_avatar": {
+      "id": 402,
+      "url": "/uploads/2021/03/Luca_Ponzanelli.jpg",
+      "alt": "Luca Ponzanelli",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_surname": "Ponzanelli",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Luca Ponzanelli is a Senior R&amp;D Engineer at CodeLounge, a center for software research &amp; development, part of the Software Institute at Università della Svizzera italiana (USI) in Lugano, Switzerland. Luca earned a PhD in Software Engineering in 2017 from Università della Svizzera italiana, and his research interests include mining software repositories, software maintenance, and recommender systems for software engineering. Luca is a passionate Scala developer with several years of experience. He loves using Scala for any type of application, from academic prototypes to scripts for daily life hacks.</p>"
+    }
+  ],
+  "formReplaced": false
+}

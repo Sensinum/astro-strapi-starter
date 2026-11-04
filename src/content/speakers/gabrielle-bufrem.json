@@ -1,0 +1,36 @@
+{
+  "wpId": 4726,
+  "title": "Gabrielle Bufrem",
+  "slug": "gabrielle-bufrem",
+  "path": "/contributor/gabrielle-bufrem/",
+  "date": "2024-01-10 10:45:10",
+  "modified": "2024-02-29 22:50:45",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Product Leadership Coach & Advisor",
+    "speaker_avatar": {
+      "id": 4727,
+      "url": "/uploads/2024/01/profile-photo.jpg",
+      "alt": "profile photo",
+      "width": 1080,
+      "height": 1080
+    },
+    "speaker_surname": "Bufrem",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/gabriellebufrem/",
+    "speaker_gh": "",
+    "speaker_add_info": "Gabrielle Bufrem Product Coaching"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Gabrielle Bufrem is a product leadership coach. She partners with product leaders and founders to build products and teams people love that drive real business results. She also runs a course on building impactful products. Gabrielle has trained hundreds of product managers, from startups to Fortune 500 companies, for over four years through Mind the Product. She is a speaker at conferences around the world, where she talks about product leadership, decision-making, and building impactful products. Previously, she was the head of product at Little Otter Health - a mental health for kids startup that raised over 22M. Before Little Otter, Gabrielle built products and product teams across 3 continents and 9 industries.  </p>\n\n\n\n<p><br>Gabrielle is originally from Brazil. She speaks four languages fluently (Portuguese, English, French, and Spanish) and has lived across South America, Europe, and Asia, and now lives in New York City. She loves advising startups, coaching product teams, giving keynotes, and writing about products. When she’s not building products, she loves to dance, cook, and travel the world, and she absolutely adores a good cup of coffee - flat whites are her favourite.</p>"
+    }
+  ],
+  "formReplaced": false
+}

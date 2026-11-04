@@ -1,0 +1,36 @@
+{
+  "wpId": 491,
+  "title": "Kotlin Multiplatform: a trip from JVM to JS",
+  "slug": "kotlin-multiplatform-a-trip-from-jvm-to-js",
+  "path": "/watch/kotlin-multiplatform-a-trip-from-jvm-to-js/",
+  "date": "2020-01-01 00:02:16",
+  "modified": "2023-03-21 09:43:32",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=q_DQcR5qtBM",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      288
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Kotlin is a programming language, which is widely known for the Android platform. Kotlin is also used for server-side development. Our team has been actively working on Kotlin multiplatform for a few years, which is mainly tooling for simple sharing code between different backends, including Kotlin/JS. In this talk I'll show you how to actually share some code between the existing JVM/Android codebase and the client code. </p>\n\n\n\n<p>Such code sharing is experimental stuff, so we would like to collect as much feedback as possible to implement what we lack in tooling perspective for such a promising technology. As a bonus, we will take a look at a simple full-stack application, which is completely written in Kotlin.</p>"
+    }
+  ],
+  "formReplaced": false
+}

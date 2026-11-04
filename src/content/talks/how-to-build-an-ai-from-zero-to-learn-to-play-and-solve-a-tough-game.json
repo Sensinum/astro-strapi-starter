@@ -1,0 +1,50 @@
+{
+  "wpId": 459,
+  "title": "How to build an AI from zero to learn to play and solve a tough game",
+  "slug": "how-to-build-an-ai-from-zero-to-learn-to-play-and-solve-a-tough-game",
+  "path": "/watch/how-to-build-an-ai-from-zero-to-learn-to-play-and-solve-a-tough-game/",
+  "date": "2020-01-01 00:02:46",
+  "modified": "2021-07-14 15:07:18",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2020/01/thumbshare_Juan_Garcia_fb_li.jpg",
+  "seo": {
+    "ogImage": "/uploads/2020/01/thumbshare_Juan_Garcia_fb_li.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 46,
+        "slug": "ai",
+        "name": "AI"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=mMXWGR-dWnY",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      275
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The process of building an AI looks like is so glamorous but is a long process, and at the end of the day, the tasks related to the AI model are just a 5% or less of the project.<br>We will see how to start an AI project from zero: defining the objectives, creating the architecture, building the game interfaces, massive data pipelines, defining model strategies, how to parallelize everything, etc.<br>The \"the abbey of crime\" is an adamant 8-bit game. This game is more complicated than Montezuma Revenge and is a perfect challenge for an AI. Its complexity is about 10^1000 legal moves to solve it.<br>As AI technology, we will use Reinforcement Learning using Deep Neural Networks and Monte Carlo Tree Search.<br>The takeaways of this talk will be: understanding all the process involved to create an AI and learning the basics of Reinforcement Learning.</p>"
+    }
+  ],
+  "formReplaced": false
+}

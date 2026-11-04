@@ -1,0 +1,43 @@
+{
+  "wpId": 247,
+  "title": "Jakub Janczyk",
+  "slug": "jakub-janczyk",
+  "path": "/contributor/jakub-janczyk/",
+  "date": "2020-01-01 00:02:04",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Full-Stack Developer at Pragmatists",
+    "speaker_avatar": {
+      "id": 248,
+      "url": "/uploads/2021/03/Jakub_Janczyk.jpeg",
+      "alt": "Jakub Janczyk",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Janczyk",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/jakub-janczyk-64206a102/?originalSubdomain=pl",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Full-Stack Developer fascinated about JavaScript and all its' ecosystem. Enthusiastic about Clean Code, Software Craftsmanship and especially ways of testing applications, including TDD and BDD techniques. Believes in efficient pair-programming. On a daily basis, tries to follow all the latest trends and tools available.</p>"
+    }
+  ],
+  "formReplaced": false
+}

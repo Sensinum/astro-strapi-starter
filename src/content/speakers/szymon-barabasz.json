@@ -1,0 +1,48 @@
+{
+  "wpId": 2364,
+  "title": "Szymon Barabasz",
+  "slug": "szymon-barabasz",
+  "path": "/contributor/szymon-barabasz/",
+  "date": "2021-12-24 09:52:34",
+  "modified": "2022-01-20 14:46:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      },
+      {
+        "id": 136,
+        "slug": "ui-ux",
+        "name": "UI/UX"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "UX Designer & Business Analyst at Industi",
+    "speaker_avatar": {
+      "id": 2365,
+      "url": "/uploads/2021/12/IMG_0071-Szymon-Barabasz-scaled.jpg",
+      "alt": "Szymon Barabasz",
+      "width": 1920,
+      "height": 2560
+    },
+    "speaker_surname": "Barabasz",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/barabaszs/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Szymon to UX designer i analityk w lubelskim Industi. Na codzień zajmuje się tworzeniem dedykowanych systemów IT. Jest z produktami od pierwszych koncepcji i pomaga klientom doprecyzować zakres i wymagania, po działające rozwijane rozwiązania. W pracy w software housie najbardziej ceni sobie różnorodność i poznawanie coraz to ciekawszych i bardziej wymagających projektów, często z nietypowych branż. Cyfryzował już urzędy, hale produkcyjne i magazynowe, szkoły i kościoły. W tak zmiennym środowisku, kluczowy jest rozwój, codziennie uczy się czegoś nowego i chętnie dzieli się swoją wiedzą.  </p>"
+    }
+  ],
+  "formReplaced": false
+}

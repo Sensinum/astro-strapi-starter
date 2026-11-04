@@ -1,0 +1,35 @@
+{
+  "wpId": 1156,
+  "title": "Trevor Burton-McCreadie",
+  "slug": "trevor-burton-mccreadie",
+  "path": "/contributor/trevor-burton-mccreadie/",
+  "date": "2021-05-31 14:35:57",
+  "modified": "2021-06-07 08:24:44",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Head of Software Development at Esports Entertainment Group",
+    "speaker_avatar": {
+      "id": 1157,
+      "url": "/uploads/2021/05/head-shot-Trevor-McCreadie.png",
+      "alt": "Trevor Burton-McCreadie",
+      "width": 447,
+      "height": 447
+    },
+    "speaker_surname": "Burton-McCreadie",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/trevorburton/",
+    "speaker_gh": "https://github.com/thinkmorestupidless"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>After a failed bid at rock stardom, Trevor found solace (and a regular paycheck) writing code. Beginning as a front-end and game developer working with Adobe Flash and Javascript and then moving over to backend development he gradually found himself working more and more on backend development. </p>\n\n\n\n<p>Trevor has built systems using Ruby, Python, and Java but now works almost exclusively with Scala and has focused for many years now on systems related to gambling. He lives in the North East of England with his wife, two children, a smart cat, and a stupid dog.</p>"
+    }
+  ],
+  "formReplaced": false
+}

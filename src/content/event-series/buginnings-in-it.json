@@ -1,0 +1,75 @@
+{
+  "wpId": 2441,
+  "title": "BUGinnings in IT",
+  "slug": "buginnings-in-it",
+  "path": "/event-series/buginnings-in-it/",
+  "date": "2022-01-13 10:43:30",
+  "modified": "2023-10-27 14:23:40",
+  "template": null,
+  "excerpt": "Beginnings can be difficult. Especially when it comes to a demanding IT career. During BUGinnings in IT - our series of stationary events, we meet with experts from the IT industry with years of experience and broad expertise.",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/10/share_sphere_general_3-1024x538.jpg"
+  },
+  "terms": {},
+  "acf": {
+    "series_logotype": {
+      "id": 2731,
+      "url": "/uploads/2022/01/bugs_series.png",
+      "alt": "[event series logo] Buginnings in IT",
+      "width": 960,
+      "height": 960
+    },
+    "event_series_tax": 137,
+    "alt_dynamic_menu": false
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-header-event-series",
+      "anchor": "acf-block-653babcc19e01",
+      "data": {
+        "block_title": null,
+        "header_description": "Beginnings can be difficult. Especially when it comes to a demanding IT career. During BUGinnings in IT - our series of stationary events, we meet with experts from the IT industry with years of experience and broad expertise.\r\n\r\nThey share their own career stories, setbacks &amp; lessons learned and advise about dos and don’ts related to the first big decisions in the IT profession.\r\n\r\nThe sessions can be a vast inspiration not only to the IT students, engineering interns, and specialists on the junior positions but also for those who’d think of moving to IT from another field.",
+        "cta_button_1": {
+          "title": "View previous events",
+          "url": "#buginnings-past-events",
+          "target": ""
+        },
+        "cta_button_2": null,
+        "header_image": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-series-talks-library",
+      "anchor": "acf-block-63495791e4832",
+      "data": {
+        "block_title": "Watch talks from BUGinnings in IT events",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-upcoming-events",
+      "anchor": "acf-block-63495791e4850",
+      "data": {
+        "block_title": "Upcoming events",
+        "selected_tax_upcoming": null,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-past-events",
+      "anchor": "buginnings-past-events",
+      "data": {
+        "block_title": null,
+        "selected_tax_past": null,
+        "sidebar_title": null,
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,35 @@
+{
+  "wpId": 105,
+  "title": "Yan Cui",
+  "slug": "yan-cui",
+  "path": "/contributor/yan-cui/",
+  "date": "2020-01-01 00:02:39",
+  "modified": "2021-03-30 17:00:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "AWS Serverless Hero and the author of Production-Ready Serverless",
+    "speaker_avatar": {
+      "id": 106,
+      "url": "/uploads/2021/03/Yan_Cui.jpg",
+      "alt": "Yan Cui",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_surname": "Cui",
+    "speaker_twitter": "https://twitter.com/theburningmonk",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://uk.linkedin.com/in/theburningmonk",
+    "speaker_gh": "https://github.com/theburningmonk"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Yan is an experienced engineer who has run production workload at scale in AWS for over 10 years. He has been an architect and principal engineer with a variety of industries ranging from banking, e-commerce, sports streaming to mobile gaming. He has worked extensively with AWS Lambda in production the last 4 years.</p>\n\n\n\n<p>Nowadays, he splits his time between advancing the state of serverless observability as a Developer Advocate at lumigo.io and helping companies around the world adopt serverless as an independent consultant.</p>\n\n\n\n<p>Yan is also an AWS Serverless Hero and a regular speaker at user groups and conferences internationally. He is also the author of Production-Ready Serverless and co-author of Serverless Architectures on AWS, 2nd Edition, both by Manning. And he keeps an active blog at https://theburningmonk.com and hosts a weekly podcast at https://realworldserverless.com.</p>"
+    }
+  ],
+  "formReplaced": false
+}

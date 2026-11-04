@@ -1,0 +1,43 @@
+{
+  "wpId": 3121,
+  "title": "Sebastian Kister",
+  "slug": "sebastian-kister",
+  "path": "/contributor/sebastian-kister/",
+  "date": "2022-07-05 11:28:52",
+  "modified": "2022-10-13 13:39:15",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Product Team Lead: Kubernetes Competence Center at Audi AG",
+    "speaker_avatar": {
+      "id": 3127,
+      "url": "/uploads/2022/07/Sebastian-Kister.jpg",
+      "alt": "Sebastian Kister",
+      "width": 960,
+      "height": 960
+    },
+    "speaker_surname": "Kister",
+    "speaker_twitter": "https://mobile.twitter.com/sebastiankister",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/sebastiankister/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Sebastian is Product Team Lead; Kubernetes Competence Center and Lead of CNCF Partnership at Audi AG. He is a digital transformation evangelist with a strong focus on culture and tech, successfully combining start-up and enterprise experience. He is dramatically result-driven, creating best-of-breed solutions to enable organizations and innovate holistically between people, processes and tools. Constantly challenging the status quo he always strives for the big picture to once again boldly go where no one has gone before.</p>\n\n\n\n<p></p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

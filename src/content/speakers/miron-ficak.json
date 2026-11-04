@@ -1,0 +1,43 @@
+{
+  "wpId": 336,
+  "title": "Miron Ficak",
+  "slug": "miron-ficak",
+  "path": "/contributor/miron-ficak/",
+  "date": "2020-01-01 00:01:34",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Scala Developer at AVSystem",
+    "speaker_avatar": {
+      "id": 337,
+      "url": "/uploads/2021/03/Miron_Ficak.jpeg",
+      "alt": "Miron Ficak",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Ficak",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/miron-ficak-27702410a/?originalSubdomain=pl",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>A Scala developer at AVSystem with 4 years of experience in commercial software development.</p>\n\n\n\n<p>Miron is a Linkyfi developer, creating data analytics services for stream processing system.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 295,
+  "title": "Daniel Jagielski",
+  "slug": "daniel-jagielski",
+  "path": "/contributor/daniel-jagielski/",
+  "date": "2020-01-01 00:01:43",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Development Manager in VirtusLab",
+    "speaker_avatar": {
+      "id": 296,
+      "url": "/uploads/2021/03/daniel-jagielski_03.jpg",
+      "alt": "Daniel Jagielski",
+      "width": 1931,
+      "height": 2088
+    },
+    "speaker_surname": "Jagielski",
+    "speaker_twitter": "https://twitter.com/danjagiel",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/yagiel/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Daniel is Software Engineer at Virtuslab, currently leading a team building identity management platform. Passionate about best practises in software design for distributed systems. Nowadays, focusing mainly on stream processing and event-driven reactive architectures using JVM based languages (Java, Kotlin), Kafka, RxJava and Kubernetes. </p>\n\n\n\n<p>Always strive to provide a tailor-made solution for given requirements and find the correct balance between \"do the right thing\" and \"do the thing right\" approaches, with the use of DDD techniques and the most appropriate tech stack. He believes that undertaking complex challenges of a different kind is the best motivation for self-development and growth. Spends his free time on researching new ideas, trends and approaches in different areas of IT - especially IOT and home automation, playing plenty of sports and FIFA on a gaming console.</p>"
+    }
+  ],
+  "formReplaced": false
+}

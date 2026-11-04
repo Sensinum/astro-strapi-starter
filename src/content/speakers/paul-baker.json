@@ -1,0 +1,37 @@
+{
+  "wpId": 5186,
+  "title": "Paul Baker",
+  "slug": "paul-baker",
+  "path": "/contributor/paul-baker/",
+  "date": "2024-04-19 13:56:24",
+  "modified": "2024-04-19 13:58:09",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5187,
+      "url": "/uploads/2024/04/1581425245429.jpeg",
+      "alt": "1581425245429",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_position": "Director @DiSRUPT Agency & Co-founder @Includability | Certified B Corporation®: Inclusive, Sustainable Talent Acquisition, RPO, Search and Business Advisory",
+    "speaker_add_info": "",
+    "speaker_surname": "Baker",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/paulbakerprojects/",
+    "speaker_gh": "",
+    "desc_episodes": "A Co-founder, Director and ESG Speaker driving cost effective and innovative purpose-driven talent solutions. As part of the leadership team for two certified B Corporations, I provide over 20 years of experience in delivering Inclusive/Sustainable Business Advisory, RPO, Change Management/Project Management Recruitment and Leadership Search (Interim & Permanent) services for amazing organisations. I work with SMEs, start-ups, innovators, and established brands across Insurtech, Fintech, Technology, Renewable Energy/Energy Efficiency, Property/Construction and Consumer Goods. I help business leaders attract and retain the best talent that aligns with their size, growth strategy, mission, vision, and values. "
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Director @DiSRUPT Agency &amp; Co-founder @Includability | Certified B Corporation®: Inclusive, Sustainable Talent Acquisition, RPO, Search and Business Advisory</p>"
+    }
+  ],
+  "formReplaced": false
+}

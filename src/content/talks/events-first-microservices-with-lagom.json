@@ -1,0 +1,49 @@
+{
+  "wpId": 609,
+  "title": "Events-first microservices with Lagom",
+  "slug": "events-first-microservices-with-lagom",
+  "path": "/watch/events-first-microservices-with-lagom/",
+  "date": "2020-01-01 00:01:17",
+  "modified": "2023-03-20 14:27:50",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 103,
+        "slug": "lagom",
+        "name": "Lagom"
+      },
+      {
+        "id": 83,
+        "slug": "microservices",
+        "name": "Microservices"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=z5fO0yKYpsI&t=129s",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      556,
+      555
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Even with microservices starting to become a commodity, a lot of implementations still fail as microliths. To ensure the autonomy of services and its development process, strong coupling between services should be limited as much as possible. The way to achieve this is to isolate the inner working of a service at cost and to switch from a commanding and synchronous to a promising and asynchronous way of communication between services. A route to success is to stop architectural design from a perspective of services with well-defined and canonical relationships and to switch to a model which is based on the production of immutable domain events. </p>\n\n\n\n<p>Not only does this way of architecting ensure a better match with the things that happen within your business. The focus on the timeline of facts over the structures producing them ensures far less coupling within your system. In this talk, I will share how Lagom embraces this way of thinking by pushing events-first development as a default. From the event-sourcing principles within aggregates to the message-broker functionality between services, I’ll give you the background of the elements which are in place to shift your system to an event-driven microservice architecture.</p>"
+    }
+  ],
+  "formReplaced": false
+}

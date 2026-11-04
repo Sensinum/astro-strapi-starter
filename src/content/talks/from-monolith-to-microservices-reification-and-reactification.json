@@ -1,0 +1,48 @@
+{
+  "wpId": 610,
+  "title": "From monolith to microservices – Reification and reactification",
+  "slug": "from-monolith-to-microservices-reification-and-reactification",
+  "path": "/watch/from-monolith-to-microservices-reification-and-reactification/",
+  "date": "2020-01-01 00:01:16",
+  "modified": "2023-03-20 14:27:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 83,
+        "slug": "microservices",
+        "name": "Microservices"
+      },
+      {
+        "id": 82,
+        "slug": "monolith",
+        "name": "Monolith"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=Uk2dGPOxFDk&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      557
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Migrating from a monolithic model to a microservices model can be challenging as we try to decouple implementation and wiring between different parts of the system. We’re going to take a look at how we can extract then encapsulate implementation and execution in an external service. From here we’ll explore different ways of communication and how we can test the whole system.</p>"
+    }
+  ],
+  "formReplaced": false
+}

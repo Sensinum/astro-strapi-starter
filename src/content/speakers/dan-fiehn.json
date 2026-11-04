@@ -1,0 +1,37 @@
+{
+  "wpId": 5082,
+  "title": "Dan Fiehn",
+  "slug": "dan-fiehn",
+  "path": "/contributor/dan-fiehn/",
+  "date": "2024-03-19 10:12:48",
+  "modified": "2024-03-19 10:31:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/03/1659132866818.jpeg",
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5083,
+      "url": "/uploads/2024/03/1659132866818.jpeg",
+      "alt": "Dan Fiehn",
+      "width": 304,
+      "height": 304
+    },
+    "speaker_position": "Business Technology Leader",
+    "speaker_add_info": "",
+    "speaker_surname": "Fiehn",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/danfiehn/",
+    "speaker_gh": "",
+    "desc_episodes": "As a seasoned business and technology leader with over 30 years of experience, Dan has a track record of driving growth in insurance companies. His expertise lies in operational delivery, spearheading innovation and digital agendas, and assisting C-Level leadership in new business development. Dan's technology leadership services are tailored to help businesses navigate digital transformation and achieve growth."
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>As a business and technology leader, I have over 30 years of experience driving growth in Insurance companies. I have a proven track record in operational delivery, leading innovation and digital agendas, and supporting C-Level leadership with new business development. My technology leadership services can help your business navigate digital transformation and growth.</p>"
+    }
+  ],
+  "formReplaced": false
+}

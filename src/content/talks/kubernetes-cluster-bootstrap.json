@@ -1,0 +1,43 @@
+{
+  "wpId": 649,
+  "title": "Kubernetes Cluster Bootstrap",
+  "slug": "kubernetes-cluster-bootstrap",
+  "path": "/watch/kubernetes-cluster-bootstrap/",
+  "date": "2020-01-01 00:00:47",
+  "modified": "2023-03-20 14:10:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 37,
+        "slug": "kubernetes",
+        "name": "Kubernetes"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=rAwtMozyIbQ&t=2s",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      141
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Have you ever wondered what's happening under the hood of kubernetes bootstrap process?</p>\n\n\n\n<p>During this talk we will take you on a journey through the steps of the Kubernetes cluster provisioning without focusing on any particular cloud providers or hardware virtualization.</p>\n\n\n\n<p>It will give you an overview how the various components fit and work together.</p>"
+    }
+  ],
+  "formReplaced": false
+}

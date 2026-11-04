@@ -1,0 +1,35 @@
+{
+  "wpId": 4481,
+  "title": "Wiktoria Gromowa-Cieślik",
+  "slug": "wiktoria-gromowa-cieslik",
+  "path": "/contributor/wiktoria-gromowa-cieslik/",
+  "date": "2023-07-11 16:02:00",
+  "modified": "2023-07-11 16:02:01",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "IT Manager",
+    "speaker_avatar": {
+      "id": 4482,
+      "url": "/uploads/2023/07/my-photo.jpg",
+      "alt": "my photo",
+      "width": 610,
+      "height": 610
+    },
+    "speaker_surname": "Gromowa-Cieślik",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/wiktoria-gromowa-cie%C5%9Blik-437a4146/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Wiktoria is a leader with more than 10 years' experience in IT within the banking area. Having a mathematical background, she worked in areas with automating mathematical and financial models, always hands-on lead and manager. Wiktoria is a devoted fan of technology and shares her passion in each place she is in by leading technology streams within and outside companies, gathering experts to develop innovative solutions and actively supports women in technology. She is open-minded, likes to learn and share her experience.</p>"
+    }
+  ],
+  "formReplaced": false
+}

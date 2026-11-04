@@ -1,0 +1,35 @@
+{
+  "wpId": 4295,
+  "title": "Wojciech Pituła",
+  "slug": "wojciech-pitula",
+  "path": "/contributor/wojciech-pitula/",
+  "date": "2023-04-28 11:54:40",
+  "modified": "2023-04-28 11:54:40",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Staff Software Engineer at SwissBorg",
+    "speaker_avatar": {
+      "id": 4296,
+      "url": "/uploads/2023/04/022-KarWojPLE.jpeg",
+      "alt": "022-KarWojPLE",
+      "width": 1243,
+      "height": 1242
+    },
+    "speaker_surname": "Pituła",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/krever/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Staff Engineer. Generalist. An absolute expert in faking expertise. Claimant to the title of The Laziest Person in Existence. Fighting an uneven battle with code and backlogs for the past 10 years.</p>"
+    }
+  ],
+  "formReplaced": false
+}

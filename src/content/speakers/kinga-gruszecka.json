@@ -1,0 +1,36 @@
+{
+  "wpId": 4911,
+  "title": "Kinga Gruszecka",
+  "slug": "kinga-gruszecka",
+  "path": "/contributor/kinga-gruszecka/",
+  "date": "2024-02-13 08:33:48",
+  "modified": "2024-02-29 22:44:36",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Chairwoman at PSPA (Polish Space Professionals Association)",
+    "speaker_avatar": {
+      "id": 4912,
+      "url": "/uploads/2024/02/1604574536292.jpeg",
+      "alt": "1604574536292",
+      "width": 800,
+      "height": 800
+    },
+    "speaker_surname": "Gruszecka",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/kinga-gruszecka-cosmos/",
+    "speaker_gh": "",
+    "speaker_add_info": "Polish Space Professionals Association"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Kinga Gruszecka serves as the President of the Polish Space Professionals Association (PSPA). With a rich background in supporting space technology development and education.</p>\n\n\n\n<p>During her tenure as the Director of Education at POLSA from 2019 to 2021, she focused on training and nurturing talent for the space industry. Her expertise spans satellite communications, Earth observation, and other critical aspects of space exploration. She has received numerous accolades, including the “Hope of the Polish Space Sector” award in the \"Konstelacje competition\" (2019) and recognition as one of the “TOP100 Space &amp; Aerospace Professionals to Follow on LinkedIn” (2023).</p>\n\n\n\n<p>Kinga Gruszecka holds a bachelor’s degree in international relations and cultural studies and a master’s degree in management. Her commitment to continuous learning led her to complete postgraduate studies in leadership and organizational culture at the Leon Koźmiński Academy (ALK). Notably, she also lectured in postgraduate programs focused on entrepreneurship in the space sector at ALK.</p>\n\n\n\n<p>In 2023, Dr. Gruszecka was honored with a fellowship from the U.S. Department of State and participated in the Distinguished Humphrey Fellowship Program. Her unwavering dedication to the space industry began in 2016, and she continues to be a driving force in advancing space exploration and innovation.</p>"
+    }
+  ],
+  "formReplaced": false
+}

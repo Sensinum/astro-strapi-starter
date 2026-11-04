@@ -1,0 +1,37 @@
+{
+  "wpId": 5131,
+  "title": "Johan Sundström",
+  "slug": "johan-sundstrom",
+  "path": "/contributor/johan-sundstrom/",
+  "date": "2024-04-19 12:19:42",
+  "modified": "2024-04-19 12:19:43",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5132,
+      "url": "/uploads/2024/04/1697638041875.jpeg",
+      "alt": "1697638041875",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_position": "Director of Sales - Financial Services at Trustly",
+    "speaker_add_info": "",
+    "speaker_surname": "Johan Sundström",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/johansundstrom/",
+    "speaker_gh": "",
+    "desc_episodes": "Sales/Business Development with focus on the Financial Service sector, helping companies send and receive payments fast, simple and secure. \r\n"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Director of Sales - Financial Services</p>"
+    }
+  ],
+  "formReplaced": false
+}

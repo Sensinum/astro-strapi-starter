@@ -1,0 +1,43 @@
+{
+  "wpId": 129,
+  "title": "Martin Odersky",
+  "slug": "martin-odersky",
+  "path": "/contributor/martin-odersky/",
+  "date": "2020-01-01 00:02:32",
+  "modified": "2021-03-30 17:00:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Lead designer of Scala",
+    "speaker_avatar": {
+      "id": 130,
+      "url": "/uploads/2021/03/martin_odersky-min.jpg",
+      "alt": "Martin Odersky",
+      "width": 480,
+      "height": 480
+    },
+    "speaker_surname": "Odersky",
+    "speaker_twitter": "https://twitter.com/odersky",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/martin-odersky-1b039613/",
+    "speaker_gh": "https://github.com/odersky"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Inventor of the Scala language, a professor at EPFL in Lausanne, Switzerland, and a founder of Lightbend. ACM fellow, co-designer of Java generics, and original author of the current javac reference Compiler.</p>"
+    }
+  ],
+  "formReplaced": false
+}

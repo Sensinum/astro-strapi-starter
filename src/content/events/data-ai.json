@@ -1,0 +1,190 @@
+{
+  "wpId": 1387,
+  "title": "Let's talk about Data & AI",
+  "slug": "data-ai",
+  "path": "/event/data-ai/",
+  "date": "2021-06-28 21:35:49",
+  "modified": "2023-03-06 12:47:12",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2021/06/data-ai_share.png",
+  "seo": {
+    "ogTitle": "Sphere.it Tech Talks #2 - Data & AI",
+    "ogDescription": "Join us on July 15th to hear two tech talks focused on #Data & #AI",
+    "ogImage": "/uploads/2021/06/data-ai_share.png"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 138,
+        "slug": "sphere-it-tech-talks",
+        "name": "Sphere.it Tech Talks"
+      }
+    ]
+  },
+  "acf": {
+    "event_date": "15.07.2021",
+    "type_of_event": "Start 6:00 PM CEST",
+    "event_entry": "",
+    "event_artwork": {
+      "id": 2374,
+      "url": "/uploads/2021/06/data-ai-min.png",
+      "alt": "Let's talk about Data & AI",
+      "width": 1080,
+      "height": 1080
+    },
+    "event_register": {
+      "title": "Register for free",
+      "url": "https://www.airmeet.com/e/3ca41af0-d8da-11eb-b989-19adb5e0b3b4",
+      "target": "_blank"
+    },
+    "event_background_color": "#14245f",
+    "event_font_color": false,
+    "event_font_color_value": "#b7e9fc",
+    "reduce_font_size": "1",
+    "event_scroll_button": "when-where",
+    "event_series_label": "Sphere.it Tech Talks #2",
+    "event_agenda": [
+      {
+        "item_type": "talk",
+        "item_time": "6:00 PM",
+        "talk_id": 1568,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "#cfeefc",
+        "font_color": "#14245f",
+        "accent_font_color": "#14245f"
+      },
+      {
+        "item_type": "talk",
+        "item_time": "6:30 PM",
+        "talk_id": 1566,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "#eaf6fc",
+        "font_color": "#14245f",
+        "accent_font_color": "#14245f"
+      }
+    ],
+    "header_background_image": false,
+    "buttons_background_color": "",
+    "buttons_font_color": "",
+    "alt_dynamic_menu": false,
+    "event_alt_title": "",
+    "event_date_hidden": false,
+    "event_artwork_listing": false,
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-about-text",
+      "anchor": "acf-block-6405d0e9900a9",
+      "data": {
+        "block_title": null,
+        "block_description": "&nbsp;\r\n<h3 style=\"text-align: center; line-height: 125%;\"><img class=\"aligncenter\" style=\"height: 50%; width: 50%; margin: 0 auto; text-align: center;\" src=\"/uploads/2021/06/techtalks_logo_02.png\" alt=\"sphere.it tech talks #2\" /></h3>\r\n&nbsp;\r\n\r\n<span style=\"font-size: 110%;\"><span style=\"font-weight: 400;\">Spend a wonderful evening with the Sphere.it community! This time we invite all </span><b>#Data</b><span style=\"font-weight: 400;\"> and </span><b>#AI</b><span style=\"font-weight: 400;\"> enthusiasts to listen to the tech talks prepared by our experts and to participate in the discussion. </span></span>",
+        "block_background_color": null,
+        "block_font_color": "#14245f",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "when-where",
+      "data": {
+        "block_description": "<h4 class=\"event-info__part\">The event will take place on the 15th of July, 2021, starting at 6:00 PM CEST.</h4>\r\n<div></div>\r\n<div>Don't miss your chance and save yourself a spot!</div>\r\n<div></div>\r\n<div></div>",
+        "block_button": {
+          "title": "Register here",
+          "url": "https://www.airmeet.com/e/3ca41af0-d8da-11eb-b989-19adb5e0b3b4",
+          "target": "_blank"
+        },
+        "cta_background_color": "#14245f",
+        "cta_font_color": "#ffffff",
+        "cta_border_radius": 6,
+        "block_background_image": {
+          "id": 1393,
+          "url": "/uploads/2021/06/plan_event.png",
+          "alt": "Let’s talk about Data &#038; AI &#8211; event plan",
+          "width": 1200,
+          "height": 800
+        },
+        "switch_text_side": false,
+        "block_background_color": "#b7e9fc",
+        "block_font_color": "#14245f",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-event-agenda",
+      "anchor": "acf-block-6405d0e990146",
+      "data": {
+        "block_title": null,
+        "block_background_color": null,
+        "block_font_color": null,
+        "block_accent_font_color": null,
+        "smaller_paddings": false,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-6405d0e990164",
+      "data": {
+        "block_description": "<span style=\"font-size: 110%;\"><b>7:00 PM</b>\r\nPanel Discussion</span>\r\n\r\n<span style=\"font-size: 110%;\"><b>7:45 PM</b>\r\nNetworking on Airmeet</span>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 1444,
+          "url": "/uploads/2021/06/what_4-min.png",
+          "alt": "Let’s talk about Data &#038; AI &#8211; there&#8217;s more",
+          "width": 1200,
+          "height": 800
+        },
+        "switch_text_side": false,
+        "block_background_color": "#ffffff",
+        "block_font_color": "#14245f",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-6405d0e99017e",
+      "data": {
+        "block_title": "Our all-star guests",
+        "automatic_selection": true,
+        "speaker_groups": [],
+        "block_background_color": "#ffffff",
+        "block_font_color": "#14245f",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-6405d0e99019a",
+      "data": {
+        "block_title": "Join us at Sphere.it Tech Talks",
+        "block_description": "15.07.2021 | START 6:00 PM CEST | VIRTUAL EVENT",
+        "block_button": {
+          "title": "Register for free",
+          "url": "https://www.airmeet.com/e/3ca41af0-d8da-11eb-b989-19adb5e0b3b4",
+          "target": "_blank"
+        },
+        "cta_background_color": "#ffffff",
+        "cta_font_color": "#14245f",
+        "cta_border_radius": 32,
+        "block_background_image": null,
+        "block_background_color": "#14245f",
+        "block_font_color": "#b7e9fc",
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

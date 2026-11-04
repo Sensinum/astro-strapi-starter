@@ -1,0 +1,47 @@
+{
+  "wpId": 602,
+  "title": "Beyond the hype: reactive vs traditional microservices",
+  "slug": "beyond-the-hype-reactive-vs-traditional-microservices",
+  "path": "/watch/beyond-the-hype-reactive-vs-traditional-microservices/",
+  "date": "2020-01-01 00:01:19",
+  "modified": "2023-03-20 14:28:39",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2020/01/hype_share.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 83,
+        "slug": "microservices",
+        "name": "Microservices"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=Hxoj1tcuAbo",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      553,
+      552,
+      393
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>For some time now IT media were sparkled with success stories of teams who went reactive and reaped benefits of paradigm change but in most cases, it was not an apples to apples comparison – just legacy stack vs new, shiny async-based technology. In this talk we want to deliver hard, cold numbers about pros, cons, benefits and pains of selecting reactive technologies for your company’s application stack compared to traditional sync webservices. Is reactive microservices approach really worth the effort or are we all drinking the kool-aid?</p>"
+    }
+  ],
+  "formReplaced": false
+}

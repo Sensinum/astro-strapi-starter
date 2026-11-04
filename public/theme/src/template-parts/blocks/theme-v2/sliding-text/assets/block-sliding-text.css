@@ -1,0 +1,55 @@
+.block-sliding-text {
+  position: relative;
+  background-color: #0D111A;
+  padding: 40px 0 60px;
+}
+@media (max-width: 991.98px) {
+  .block-sliding-text {
+    padding: 25px 0 35px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-sliding-text {
+    padding: 20px 0 30px;
+  }
+}
+.block-sliding-text .sliding-caption {
+  position: relative;
+  height: 110px;
+  overflow: hidden;
+}
+@media (max-width: 991.98px) {
+  .block-sliding-text .sliding-caption {
+    height: 80px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-sliding-text .sliding-caption {
+    height: 70px;
+  }
+}
+.block-sliding-text .sliding-caption .header-inter {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  white-space: nowrap;
+  min-width: 100%;
+  transform: translate(-50%, -50%); /* Animation start out of the screen */
+  /* Add the animation */
+  animation: move 25s linear infinite reverse;
+  -webkit-text-stroke-color: #363B45;
+}
+.block-sliding-text .sliding-caption a.header-inter {
+  cursor: pointer;
+  transition: 0.1s color ease-out, 0.1s -webkit-text-stroke-color ease-out;
+}
+@keyframes move {
+  0% {
+    transform: translate(-50%, -50%);
+  }
+  100% {
+    transform: translate(0%, -50%);
+  }
+}
+
+/*# sourceMappingURL=block-sliding-text.css.map */

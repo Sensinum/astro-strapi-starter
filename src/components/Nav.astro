@@ -1,0 +1,73 @@
+---
+import { readFileSync } from 'node:fs';
+import nodePath from 'node:path';
+import { siteData, type MenuItem } from '../data/site';
+
+interface Props {
+  path?: string;
+  podcast?: boolean;
+  menu?: MenuItem[];
+  scrollItems?: { label: string; href: string }[];
+  fontColor?: string;
+}
+const { path = '/', podcast = false, menu, scrollItems = [], fontColor } = Astro.props;
+const items = menu || (podcast ? siteData.menus.podcast.items : siteData.menus.main.items);
+const logo = readFileSync(nodePath.join(process.cwd(), 'public/theme/img/svg-sphere-logo.php'), 'utf8');
+const podcastLogo = readFileSync(nodePath.join(process.cwd(), 'public/theme/img/svg-sphere-podcast.php'), 'utf8');
+const logoHref = podcast ? '/podcasts/' : '/';
+function classList(item: MenuItem) {
+  const extra = Array.isArray(item.classes) ? item.classes.filter(Boolean) : String(item.classes || '').split(' ').filter(Boolean);
+  const current = item.url === path || item.url === path.replace(/\/$/, '');
+  return ['menu-item', ...extra, current && 'current-menu-item'].filter(Boolean);
+}
+---
+<nav id="nav-main" class="navigation">
+  <div class="container-flexible">
+    <div class="row justify-content-center">
+      <div class="col-12 navigation-wrapper">
+        <a href={logoHref} title="Sphere.it Home Page">
+          <div class="navigation-logo" set:html={podcast ? podcastLogo : logo} />
+        </a>
+        <div class="navigation-menus">
+          <div class="navigation-menus__wrapper">
+            {scrollItems.length > 0 ? (
+              <div class="nav-main-menu">
+                <ul class="menu">
+                  <span class="icon-scroll-up"><i class="fas fa-arrow-up"></i></span>
+                  {scrollItems.map((item) => (
+                    <li><a class="menu-link" href={item.href}>{item.label}</a></li>
+                  ))}
+                </ul>
+              </div>
+            ) : (
+              <div class="nav-main-menu">
+                <ul class="menu">
+                  {items.map((item) => {
+                    const classes = classList(item);
+                    const withIcon = classes.includes('with-icon');
+                    return (
+                      <li class:list={classes}>
+                        <a href={item.url} target={item.target || undefined} rel={item.target === '_blank' ? 'noopener' : undefined}>
+                          {item.title}
+                          {withIcon && <span><i class="fa-solid fa-arrow-right"></i></span>}
+                        </a>
+                      </li>
+                    );
+                  })}
+                </ul>
+              </div>
+            )}
+          </div>
+          <div class="navigation-menus__mobile-menu">
+            <div class="menu-toggler-icon__bars">
+              <div class="menu-toggler-icon__bars-bar"></div>
+            </div>
+          </div>
+        </div>
+        {fontColor && (
+          <style set:html={`.navigation-logo svg path{fill:${fontColor}} .navigation a{color:${fontColor} !important} .navigation-menus__mobile-menu .menu-toggler-icon__bars:before,.navigation-menus__mobile-menu .menu-toggler-icon__bars-bar,.navigation-menus__mobile-menu .menu-toggler-icon__bars:after{background-color:${fontColor}}`} />
+        )}
+      </div>
+    </div>
+  </div>
+</nav>

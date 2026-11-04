@@ -1,0 +1,26 @@
+{
+  "wpId": 5353,
+  "title": "Halloween Afterparty 🎃",
+  "slug": "halloween-afterparty",
+  "path": "/watch/halloween-afterparty/",
+  "date": "2024-10-16 14:06:44",
+  "modified": "2024-10-16 14:12:10",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "October 24, 2024",
+    "talks_speakers": false
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Get ready for networking with fellow community members in a relaxed atmosphere with snacks and drinks. It’s the perfect way to unwind and connect after a day of innovation and inspiring talks.  🥂</p>"
+    }
+  ],
+  "formReplaced": false
+}

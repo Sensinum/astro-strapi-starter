@@ -1,0 +1,43 @@
+{
+  "wpId": 204,
+  "title": "Rory Graves",
+  "slug": "rory-graves",
+  "path": "/contributor/rory-graves/",
+  "date": "2020-01-01 00:02:19",
+  "modified": "2023-04-11 16:45:20",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Staff Software Engineer at The Trade Desk",
+    "speaker_avatar": {
+      "id": 4271,
+      "url": "/uploads/2020/01/SphereIT22_gotowe_web_BPawlik-343.jpg",
+      "alt": "SphereIT22_gotowe_web_BPawlik-343",
+      "width": 1666,
+      "height": 1665
+    },
+    "speaker_surname": "Graves",
+    "speaker_twitter": "https://twitter.com/a_dev_musing",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/roryjgraves/",
+    "speaker_gh": "https://github.com/rorygraves"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>&nbsp;A software developer who has worked at every scale from tiny startups to global organisations. Rory has a passion for contribution and has contributed to many open-source projects. A passionate optimizer, known for drive by optimization of random OSS projects. Worked on performance optimization within the Scala compiler. Outside of IT, he has many interests including public speaking, windmills, and martial arts.</p>"
+    }
+  ],
+  "formReplaced": false
+}

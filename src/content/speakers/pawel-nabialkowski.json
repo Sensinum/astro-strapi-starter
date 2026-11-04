@@ -1,0 +1,35 @@
+{
+  "wpId": 4487,
+  "title": "Paweł Nabiałkowski",
+  "slug": "pawel-nabialkowski",
+  "path": "/contributor/pawel-nabialkowski/",
+  "date": "2023-07-11 16:25:45",
+  "modified": "2023-07-11 16:26:06",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Senior Manager, Cloud Engineering at Pegasystems",
+    "speaker_avatar": {
+      "id": 4488,
+      "url": "/uploads/2023/07/PawelN.png",
+      "alt": "PawelN",
+      "width": 720,
+      "height": 720
+    },
+    "speaker_surname": "Nabiałkowski",
+    "speaker_twitter": "https://twitter.com/Nabial23",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/pawel-nabialkowski/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>With 7 years of experience as an IT team manager, I have successfully led diverse teams across various IT domains, prioritising both team efficiency and individual growth. Throughout my career, I have cultivated a deep passion for optimising processes, fostering effective stakeholder collaboration, and ensuring the well-being of my teams, all of which have directly contributed to the delivery of high-quality products. My current mission is to empower and amplify leadership potential in others.</p>"
+    }
+  ],
+  "formReplaced": false
+}

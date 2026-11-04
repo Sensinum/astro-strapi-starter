@@ -1,0 +1,45 @@
+{
+  "wpId": 1436,
+  "title": "Code Reusage and Shared Components in Micro Frontends",
+  "slug": "code-reusage-and-shared-components-in-micro-frontends",
+  "path": "/watch/code-reusage-and-shared-components-in-micro-frontends/",
+  "date": "2021-07-01 10:10:57",
+  "modified": "2023-03-21 10:57:49",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/07/vanessa_code.png"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 128,
+        "slug": "micro-frontends",
+        "name": "Micro Frontends"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=NSd3ib8WbOA",
+    "video_thumbnail": false,
+    "talk_date": "June 24, 2021",
+    "talks_speakers": [
+      1260
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>One core idea behind Micro Frontends is to isolate Team Code. This enabled isolated builds. But we as developers, have learned to stay DRY. A common pitfall with Micro Frontends is to find out which components and logical functions can and should be shared between teams. Another question is how the different parts can communicate. In this talk, we'll focus on Code Sharing and Communication between Micro Frontends.</p>"
+    }
+  ],
+  "formReplaced": false
+}

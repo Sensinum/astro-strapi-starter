@@ -1,0 +1,58 @@
+{
+  "wpId": 161,
+  "title": "Tooling for Scala 3 - Dotty support in Metals",
+  "slug": "tooling-for-scala-3-dotty-support-in-metals",
+  "path": "/watch/tooling-for-scala-3-dotty-support-in-metals/",
+  "date": "2020-01-01 00:03:23",
+  "modified": "2021-03-31 14:39:16",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 28,
+        "slug": "dotty",
+        "name": "Dotty"
+      },
+      {
+        "id": 29,
+        "slug": "metals",
+        "name": "Metals"
+      },
+      {
+        "id": 30,
+        "slug": "scala-3",
+        "name": "Scala 3"
+      },
+      {
+        "id": 31,
+        "slug": "tooling",
+        "name": "Tooling"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=DRgZWyX3z8w&t=69s",
+    "video_thumbnail": false,
+    "talk_date": "June 16, 2020",
+    "talks_speakers": [
+      261
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Recently, with the release of Metals version 0.9.0 we added basic support for Scala 3. Though it already has a number of features implemented, it is still not one the same level as the support for Scala 2.</p>\n\n\n\n<p>In this talk you can learn about the current effort being made to fully support Dotty in Metals and the surrounding ecosystem. We will discuss current capabilities, what is still lacking, main challenges and the general roadmap for advancing the Scala 3 tooling ecosystem.</p>"
+    }
+  ],
+  "formReplaced": false
+}

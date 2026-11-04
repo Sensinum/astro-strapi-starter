@@ -1,0 +1,37 @@
+{
+  "wpId": 3997,
+  "title": "Wojtek Gawroński",
+  "slug": "wojtek-gawronski",
+  "path": "/contributor/wojtek-gawronski/",
+  "date": "2023-01-18 15:35:13",
+  "modified": "2023-03-17 13:22:58",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/10/share_sphere_general_3-1024x538.jpg"
+  },
+  "terms": {},
+  "acf": {
+    "speaker_position": "Senior Developer Advocate at AWS",
+    "speaker_avatar": {
+      "id": 4239,
+      "url": "/uploads/2023/01/Wojciech_Gawronski.jpg",
+      "alt": "Wojciech Gawronski",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Gawroński",
+    "speaker_twitter": "https://twitter.com/afronski",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/afronski",
+    "speaker_gh": "https://github.com/afronski"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Wojtek is a Senior Developer Advocate at AWS dedicated for Central and Eastern European (CEE) region. Working with Cloud Computing and Data Engineering since 2015 - in different roles: starting from IT Operations Engineer, Software Engineer and Cloud Architect. Functional programming and Serverless architecture aficionado. 9x Certified AWS Specialist. Speaker, lecturer, and content creator.</p>"
+    }
+  ],
+  "formReplaced": false
+}

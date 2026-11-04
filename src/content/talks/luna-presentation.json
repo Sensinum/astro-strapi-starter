@@ -1,0 +1,36 @@
+{
+  "wpId": 642,
+  "title": "Luna – presentation",
+  "slug": "luna-presentation",
+  "path": "/watch/luna-presentation/",
+  "date": "2020-01-01 00:00:54",
+  "modified": "2023-03-20 14:13:55",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=2ck-XuTxrLE&t=33s",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      593
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The talk is a presentation of Luna, the visual-textual programming language and environment for data processing. It showcases a novel paradigm for data processing and explains how strongly-typed, purely functional programming can be combined with visual representation to help people create pipelines that are more intuitive, easier to comprehend and less error-prone. We demonstrate interactive examples and discuss the possibilities of such paradigm to change the way the data is being processed across industries.</p>"
+    }
+  ],
+  "formReplaced": false
+}

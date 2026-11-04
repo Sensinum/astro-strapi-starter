@@ -1,0 +1,58 @@
+{
+  "wpId": 164,
+  "title": "Building a social network in under 4 weeks with Serverless and GraphQL",
+  "slug": "building-a-social-network-in-under-4-weeks-with-serverless-and-graphql",
+  "path": "/watch/building-a-social-network-in-under-4-weeks-with-serverless-and-graphql/",
+  "date": "2020-01-01 00:03:21",
+  "modified": "2021-03-31 14:40:22",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 39,
+        "slug": "appsync",
+        "name": "AppSync"
+      },
+      {
+        "id": 40,
+        "slug": "graphql",
+        "name": "GraphQL"
+      },
+      {
+        "id": 41,
+        "slug": "lambda",
+        "name": "Lambda"
+      },
+      {
+        "id": 38,
+        "slug": "serverless",
+        "name": "Serverless"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=k3UHqbM2NK4&t=9s",
+    "video_thumbnail": false,
+    "talk_date": "June 16, 2020",
+    "talks_speakers": [
+      105
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Serverless technologies drastically simplify the task of building modern, scalable APIs in the cloud, and GraphQL makes it easy for frontend teams to consume these APIs and to iterate quickly on your product idea. Together, they are a perfect combination for a product-focused, full-stack team to deliver customer values quickly.&nbsp;</p>\n\n\n\n<p>In this talk, see how we built a new social network mobile app in under 4 weeks using Lambda, AppSync, DynamoDB and Algolia. How we approached CI/CD, testing, authentication and lessons we learnt along the way.</p>"
+    }
+  ],
+  "formReplaced": false
+}

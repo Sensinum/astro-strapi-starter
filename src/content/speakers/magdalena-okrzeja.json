@@ -1,0 +1,36 @@
+{
+  "wpId": 4837,
+  "title": "Magdalena Okrzeja",
+  "slug": "magdalena-okrzeja",
+  "path": "/contributor/magdalena-okrzeja/",
+  "date": "2024-01-30 08:55:27",
+  "modified": "2024-02-29 22:47:14",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Co-founder & CPTO at Aimars",
+    "speaker_avatar": {
+      "id": 4838,
+      "url": "/uploads/2024/01/me_avatar.png",
+      "alt": "me_avatar",
+      "width": 512,
+      "height": 512
+    },
+    "speaker_surname": "Okrzeja",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/mokrzeja/",
+    "speaker_gh": "",
+    "speaker_add_info": "Aimars"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I’m a co-founder of an early-stage startup, responsible for Product and Engineering. Having 15+ years of experience in different IT roles from developer to engineering manager. Worked for companies like GE Healthcare and Qualtrics where I was building software development teams. I spent the first half of my career years in the data &amp; analytics field, then moved to building software and leading dev teams. Having overall experience in building analytical software gives me a good perspective on how to turn product vision into real software solutions. I’m also an MBA Candidate (grad 2025) at SGH Warsaw University where I’m trying to gain knowledge on the business side of things.</p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

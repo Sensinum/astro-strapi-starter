@@ -1,0 +1,43 @@
+{
+  "wpId": 991,
+  "title": "Darja Jovanovic",
+  "slug": "darja-jovanovic",
+  "path": "/contributor/darja-jovanovic/",
+  "date": "2021-04-28 14:10:56",
+  "modified": "2021-05-07 16:02:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Executive Director at Scala Center",
+    "speaker_avatar": {
+      "id": 1083,
+      "url": "/uploads/2021/04/darja-min.jpg",
+      "alt": "Darja Jovanovic",
+      "width": 307,
+      "height": 308
+    },
+    "speaker_surname": "Jovanovic",
+    "speaker_twitter": "https://twitter.com/darjutak",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/darjajovanovic/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Darja is the Executive Director of the Scala Center. She&nbsp;is known in the Scala community for leading the Scala Improvement Process, organizing educational events such as Scala sprees and ScalaBridge, managing the Scala Days program since 2017, and most recently she organized the 10th anniversary of the Scala Days conference in Lausanne.</p>\n\n\n\n<p>Darja’s main occupation (and passion) is everything non-technical that supports and surrounds the Scala technology.</p>"
+    }
+  ],
+  "formReplaced": false
+}

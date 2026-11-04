@@ -1,0 +1,48 @@
+{
+  "wpId": 597,
+  "title": "Stream Driven Development with Akka Streams",
+  "slug": "stream-driven-development-with-akka-streams",
+  "path": "/watch/stream-driven-development-with-akka-streams/",
+  "date": "2020-01-01 00:01:21",
+  "modified": "2023-03-20 14:29:08",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 32,
+        "slug": "akka",
+        "name": "Akka"
+      },
+      {
+        "id": 79,
+        "slug": "ddd",
+        "name": "DDD"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=i0oy6JO2JG8",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      550
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Akka Streams is a well-known Reactive Streams implementation that helps you build asynchronous, data-intensive apps with no predetermined data volumes. But how would you leverage its full power to design complex, Akka-backed reactive pipelines? At HomeAway we devised an approach to tackle this problem, combining elements of DDD with the abstraction power of the Akka Streams model. Here we’ll discuss useful patterns to – reason about your stream and identify its building blocks – type-drive the implementation – handle failure – instrument your application for logging and monitoring purposes.</p>"
+    }
+  ],
+  "formReplaced": false
+}

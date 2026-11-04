@@ -1,0 +1,1031 @@
+{
+  "url": "https://sphere.it",
+  "name": "Sphere.it",
+  "description": "a unique platform for the tech community",
+  "contactUrl": "https://virtuslab.com/contact",
+  "menus": {
+    "main": {
+      "name": "Main menu (new)",
+      "items": [
+        {
+          "id": 5049,
+          "parent": 0,
+          "title": "upcoming data event",
+          "url": "/event/sphere-it-connect-data-horizons/",
+          "object": "custom",
+          "object_id": 5049,
+          "classes": [
+            ""
+          ],
+          "target": ""
+        },
+        {
+          "id": 5112,
+          "parent": 0,
+          "title": "Podcasts",
+          "url": "/podcasts/",
+          "object": "page",
+          "object_id": 5031,
+          "classes": [
+            ""
+          ],
+          "target": ""
+        },
+        {
+          "id": 4599,
+          "parent": 0,
+          "title": "Become a partner",
+          "url": "https://virtuslab.com/contact",
+          "object": "custom",
+          "object_id": 4599,
+          "classes": [
+            "with-icon"
+          ],
+          "target": "_blank"
+        }
+      ]
+    },
+    "footer": {
+      "name": "Footer main pages",
+      "items": [
+        {
+          "id": 2446,
+          "parent": 0,
+          "title": "Events",
+          "url": "/events/",
+          "object": "page",
+          "object_id": 2181,
+          "classes": [
+            ""
+          ],
+          "target": ""
+        },
+        {
+          "id": 4562,
+          "parent": 0,
+          "title": "Blog",
+          "url": "/blog",
+          "object": "custom",
+          "object_id": 4562,
+          "classes": [
+            ""
+          ],
+          "target": ""
+        },
+        {
+          "id": 4656,
+          "parent": 0,
+          "title": "Watch",
+          "url": "/watch",
+          "object": "custom",
+          "object_id": 4656,
+          "classes": [
+            ""
+          ],
+          "target": ""
+        },
+        {
+          "id": 1005,
+          "parent": 0,
+          "title": "Contributors",
+          "url": "/contributors/",
+          "object": "page",
+          "object_id": 47,
+          "classes": [
+            ""
+          ],
+          "target": ""
+        },
+        {
+          "id": 4596,
+          "parent": 0,
+          "title": "Privacy Policy",
+          "url": "/privacy-policy/",
+          "object": "page",
+          "object_id": 3,
+          "classes": [
+            ""
+          ],
+          "target": ""
+        },
+        {
+          "id": 4597,
+          "parent": 0,
+          "title": "FAQ",
+          "url": "/faq/",
+          "object": "page",
+          "object_id": 58,
+          "classes": [
+            ""
+          ],
+          "target": ""
+        }
+      ]
+    },
+    "podcast": {
+      "name": "Podcast Menu",
+      "items": [
+        {
+          "id": 5095,
+          "parent": 0,
+          "title": "Home",
+          "url": "/",
+          "object": "page",
+          "object_id": 26,
+          "classes": [
+            ""
+          ],
+          "target": ""
+        },
+        {
+          "id": 5097,
+          "parent": 0,
+          "title": "Her conference",
+          "url": "/event-series/inspiring-women-in-it/",
+          "object": "event_series",
+          "object_id": 5045,
+          "classes": [
+            ""
+          ],
+          "target": ""
+        },
+        {
+          "id": 5096,
+          "parent": 0,
+          "title": "Become a partner",
+          "url": "https://virtuslab.com/contact",
+          "object": "custom",
+          "object_id": 5096,
+          "classes": [
+            ""
+          ],
+          "target": "_blank"
+        }
+      ]
+    }
+  },
+  "options": {
+    "allSpeakers": {
+      "title": "Contributors",
+      "url": "/contributors/",
+      "target": ""
+    },
+    "becomeSpeaker": {
+      "title": "Become a speaker",
+      "url": "https://virtuslab.com/contact",
+      "target": ""
+    },
+    "nominateSpeaker": null,
+    "eventsPage": {
+      "title": "Events",
+      "url": "/events/",
+      "target": ""
+    },
+    "talksPage": {
+      "title": "All talks",
+      "url": "/watch/",
+      "target": ""
+    }
+  },
+  "taxonomies": {
+    "category": [
+      {
+        "id": 1,
+        "slug": "bez-kategorii",
+        "name": "Bez kategorii",
+        "description": "",
+        "parent": 0
+      }
+    ],
+    "event_series_taxonomy": [
+      {
+        "id": 137,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT",
+        "description": "",
+        "parent": 0
+      },
+      {
+        "id": 180,
+        "slug": "inspiring-women-in-it",
+        "name": "Inspiring Women in IT",
+        "description": "",
+        "parent": 0
+      },
+      {
+        "id": 190,
+        "slug": "sphere-it-connect",
+        "name": "Sphere.it Connect",
+        "description": "",
+        "parent": 0
+      },
+      {
+        "id": 138,
+        "slug": "sphere-it-tech-talks",
+        "name": "Sphere.it Tech Talks",
+        "description": "",
+        "parent": 0
+      },
+      {
+        "id": 141,
+        "slug": "sphere-it-university",
+        "name": "Sphere.it University",
+        "description": "",
+        "parent": 0
+      }
+    ],
+    "podcasts_cat": [
+      {
+        "id": 188,
+        "slug": "domain",
+        "name": "Domain",
+        "description": "",
+        "parent": 0,
+        "color": "#59cd90"
+      },
+      {
+        "id": 186,
+        "slug": "industry",
+        "name": "Industry",
+        "description": "",
+        "parent": 0,
+        "color": "#196afc"
+      },
+      {
+        "id": 187,
+        "slug": "insurance-industry",
+        "name": "Insurance",
+        "description": "",
+        "parent": 186
+      },
+      {
+        "id": 189,
+        "slug": "platform-engineering",
+        "name": "Platform Engineering",
+        "description": "",
+        "parent": 188
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 182,
+        "slug": "beyond-senior",
+        "name": "Beyond Senior"
+      },
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      },
+      {
+        "id": 143,
+        "slug": "career-stories",
+        "name": "Career stories"
+      },
+      {
+        "id": 133,
+        "slug": "change-management",
+        "name": "Change management"
+      },
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      },
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      },
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      },
+      {
+        "id": 174,
+        "slug": "inspiring-women-in-it",
+        "name": "Inspiring Women in IT"
+      },
+      {
+        "id": 148,
+        "slug": "jvm",
+        "name": "JVM"
+      },
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      },
+      {
+        "id": 183,
+        "slug": "product",
+        "name": "Product"
+      },
+      {
+        "id": 53,
+        "slug": "quantum-computing",
+        "name": "Quantum Computing"
+      },
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      },
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      },
+      {
+        "id": 140,
+        "slug": "software-quality",
+        "name": "Software Quality"
+      },
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      },
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      },
+      {
+        "id": 136,
+        "slug": "ui-ux",
+        "name": "UI/UX"
+      }
+    ],
+    "talks_tags": [
+      {
+        "id": 46,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 32,
+        "slug": "akka",
+        "name": "Akka"
+      },
+      {
+        "id": 106,
+        "slug": "alpakka",
+        "name": "Alpakka"
+      },
+      {
+        "id": 57,
+        "slug": "angular",
+        "name": "Angular"
+      },
+      {
+        "id": 96,
+        "slug": "apache-kafka",
+        "name": "Apache Kafka"
+      },
+      {
+        "id": 39,
+        "slug": "appsync",
+        "name": "AppSync"
+      },
+      {
+        "id": 76,
+        "slug": "automl",
+        "name": "AutoML"
+      },
+      {
+        "id": 63,
+        "slug": "aws",
+        "name": "AWS"
+      },
+      {
+        "id": 135,
+        "slug": "azure",
+        "name": "Azure"
+      },
+      {
+        "id": 159,
+        "slug": "bazel",
+        "name": "Bazel"
+      },
+      {
+        "id": 66,
+        "slug": "big-data",
+        "name": "Big Data"
+      },
+      {
+        "id": 95,
+        "slug": "blockchain",
+        "name": "Blockchain"
+      },
+      {
+        "id": 73,
+        "slug": "c",
+        "name": "C#"
+      },
+      {
+        "id": 74,
+        "slug": "c-2",
+        "name": "C++"
+      },
+      {
+        "id": 171,
+        "slug": "change-management",
+        "name": "Change Management"
+      },
+      {
+        "id": 26,
+        "slug": "cloud",
+        "name": "Cloud"
+      },
+      {
+        "id": 33,
+        "slug": "cloudstate",
+        "name": "Cloudstate"
+      },
+      {
+        "id": 150,
+        "slug": "concurrency",
+        "name": "Concurrency"
+      },
+      {
+        "id": 24,
+        "slug": "css",
+        "name": "CSS"
+      },
+      {
+        "id": 156,
+        "slug": "darts",
+        "name": "Darts"
+      },
+      {
+        "id": 108,
+        "slug": "data-analytics",
+        "name": "Data Analytics"
+      },
+      {
+        "id": 42,
+        "slug": "data-science",
+        "name": "Data Science"
+      },
+      {
+        "id": 79,
+        "slug": "ddd",
+        "name": "DDD"
+      },
+      {
+        "id": 77,
+        "slug": "deep-learning",
+        "name": "Deep Learning"
+      },
+      {
+        "id": 158,
+        "slug": "deeplearning",
+        "name": "Deeplearning"
+      },
+      {
+        "id": 154,
+        "slug": "development-operations",
+        "name": "Development Operations"
+      },
+      {
+        "id": 94,
+        "slug": "devops",
+        "name": "DevOps"
+      },
+      {
+        "id": 56,
+        "slug": "dnns",
+        "name": "DNNs"
+      },
+      {
+        "id": 62,
+        "slug": "docker",
+        "name": "Docker"
+      },
+      {
+        "id": 7,
+        "slug": "dokka",
+        "name": "Dokka"
+      },
+      {
+        "id": 28,
+        "slug": "dotty",
+        "name": "Dotty"
+      },
+      {
+        "id": 169,
+        "slug": "economic-progress",
+        "name": "Economic Progress"
+      },
+      {
+        "id": 147,
+        "slug": "efficency",
+        "name": "Efficency"
+      },
+      {
+        "id": 88,
+        "slug": "elasticsearch",
+        "name": "Elasticsearch"
+      },
+      {
+        "id": 166,
+        "slug": "enterprise",
+        "name": "Enterprise"
+      },
+      {
+        "id": 105,
+        "slug": "event-sourcing",
+        "name": "Event Sourcing"
+      },
+      {
+        "id": 80,
+        "slug": "event-storming",
+        "name": "Event-storming"
+      },
+      {
+        "id": 173,
+        "slug": "example-mapping",
+        "name": "Example Mapping"
+      },
+      {
+        "id": 170,
+        "slug": "experience-design",
+        "name": "Experience Design"
+      },
+      {
+        "id": 34,
+        "slug": "faas",
+        "name": "FaaS"
+      },
+      {
+        "id": 107,
+        "slug": "fast-data",
+        "name": "Fast Data"
+      },
+      {
+        "id": 17,
+        "slug": "frontend",
+        "name": "Frontend"
+      },
+      {
+        "id": 100,
+        "slug": "fury",
+        "name": "Fury"
+      },
+      {
+        "id": 162,
+        "slug": "future-of-software",
+        "name": "Future of Software"
+      },
+      {
+        "id": 163,
+        "slug": "github-copilot",
+        "name": "Github Copilot"
+      },
+      {
+        "id": 145,
+        "slug": "golang",
+        "name": "Golang"
+      },
+      {
+        "id": 178,
+        "slug": "google-cloud",
+        "name": "Google Cloud"
+      },
+      {
+        "id": 93,
+        "slug": "graalvm",
+        "name": "GraalVM"
+      },
+      {
+        "id": 40,
+        "slug": "graphql",
+        "name": "GraphQL"
+      },
+      {
+        "id": 43,
+        "slug": "hadoop",
+        "name": "Hadoop"
+      },
+      {
+        "id": 125,
+        "slug": "headlesscms",
+        "name": "HeadlessCMS"
+      },
+      {
+        "id": 8,
+        "slug": "hoogle",
+        "name": "Hoogle"
+      },
+      {
+        "id": 21,
+        "slug": "html",
+        "name": "HTML"
+      },
+      {
+        "id": 98,
+        "slug": "ide",
+        "name": "IDE"
+      },
+      {
+        "id": 87,
+        "slug": "influxdb",
+        "name": "InfluxDB"
+      },
+      {
+        "id": 131,
+        "slug": "information-architecture",
+        "name": "Information Architecture"
+      },
+      {
+        "id": 48,
+        "slug": "infrastructure",
+        "name": "Infrastructure"
+      },
+      {
+        "id": 9,
+        "slug": "inkuire",
+        "name": "Inkuire"
+      },
+      {
+        "id": 181,
+        "slug": "inspiring-women-in-it",
+        "name": "Inspiring Women in IT"
+      },
+      {
+        "id": 161,
+        "slug": "intellij-idea",
+        "name": "IntelliJ IDEA"
+      },
+      {
+        "id": 72,
+        "slug": "java",
+        "name": "Java"
+      },
+      {
+        "id": 18,
+        "slug": "javascript",
+        "name": "JavaScript"
+      },
+      {
+        "id": 149,
+        "slug": "jvm",
+        "name": "JVM"
+      },
+      {
+        "id": 65,
+        "slug": "kafka",
+        "name": "Kafka"
+      },
+      {
+        "id": 36,
+        "slug": "knative",
+        "name": "Knative"
+      },
+      {
+        "id": 111,
+        "slug": "kotlin",
+        "name": "Kotlin"
+      },
+      {
+        "id": 97,
+        "slug": "ksql",
+        "name": "KSQL"
+      },
+      {
+        "id": 37,
+        "slug": "kubernetes",
+        "name": "Kubernetes"
+      },
+      {
+        "id": 103,
+        "slug": "lagom",
+        "name": "Lagom"
+      },
+      {
+        "id": 41,
+        "slug": "lambda",
+        "name": "Lambda"
+      },
+      {
+        "id": 47,
+        "slug": "lean",
+        "name": "Lean"
+      },
+      {
+        "id": 99,
+        "slug": "libra",
+        "name": "Libra"
+      },
+      {
+        "id": 44,
+        "slug": "machine-learning",
+        "name": "Machine Learning"
+      },
+      {
+        "id": 165,
+        "slug": "management",
+        "name": "Management"
+      },
+      {
+        "id": 29,
+        "slug": "metals",
+        "name": "Metals"
+      },
+      {
+        "id": 128,
+        "slug": "micro-frontends",
+        "name": "Micro Frontends"
+      },
+      {
+        "id": 83,
+        "slug": "microservices",
+        "name": "Microservices"
+      },
+      {
+        "id": 20,
+        "slug": "module-federation",
+        "name": "Module Federation"
+      },
+      {
+        "id": 104,
+        "slug": "monix",
+        "name": "Monix"
+      },
+      {
+        "id": 82,
+        "slug": "monolith",
+        "name": "Monolith"
+      },
+      {
+        "id": 160,
+        "slug": "monorepo",
+        "name": "Monorepo"
+      },
+      {
+        "id": 89,
+        "slug": "node-js",
+        "name": "Node.js"
+      },
+      {
+        "id": 130,
+        "slug": "observability",
+        "name": "Observability"
+      },
+      {
+        "id": 85,
+        "slug": "openshift",
+        "name": "OpenShift"
+      },
+      {
+        "id": 146,
+        "slug": "performance",
+        "name": "Performance"
+      },
+      {
+        "id": 157,
+        "slug": "prediction",
+        "name": "Prediction"
+      },
+      {
+        "id": 114,
+        "slug": "prometheus",
+        "name": "Prometheus"
+      },
+      {
+        "id": 61,
+        "slug": "pwa",
+        "name": "PWA"
+      },
+      {
+        "id": 90,
+        "slug": "python",
+        "name": "Python"
+      },
+      {
+        "id": 50,
+        "slug": "quarkus",
+        "name": "Quarkus"
+      },
+      {
+        "id": 92,
+        "slug": "r",
+        "name": "R"
+      },
+      {
+        "id": 58,
+        "slug": "react",
+        "name": "React"
+      },
+      {
+        "id": 59,
+        "slug": "reactive",
+        "name": "Reactive"
+      },
+      {
+        "id": 124,
+        "slug": "reactive-architecture",
+        "name": "Reactive Architecture"
+      },
+      {
+        "id": 123,
+        "slug": "reactive-systems",
+        "name": "Reactive Systems"
+      },
+      {
+        "id": 68,
+        "slug": "rest",
+        "name": "REST"
+      },
+      {
+        "id": 75,
+        "slug": "rpc",
+        "name": "RPC"
+      },
+      {
+        "id": 71,
+        "slug": "rsocket",
+        "name": "RSocket"
+      },
+      {
+        "id": 91,
+        "slug": "ruby",
+        "name": "Ruby"
+      },
+      {
+        "id": 81,
+        "slug": "sbt",
+        "name": "SBT"
+      },
+      {
+        "id": 27,
+        "slug": "scala",
+        "name": "Scala"
+      },
+      {
+        "id": 30,
+        "slug": "scala-3",
+        "name": "Scala 3"
+      },
+      {
+        "id": 84,
+        "slug": "scalac",
+        "name": "Scalac"
+      },
+      {
+        "id": 10,
+        "slug": "scalajs",
+        "name": "ScalaJS"
+      },
+      {
+        "id": 152,
+        "slug": "scaling",
+        "name": "Scaling"
+      },
+      {
+        "id": 155,
+        "slug": "security",
+        "name": "Security"
+      },
+      {
+        "id": 101,
+        "slug": "semanticdb",
+        "name": "SemanticDB"
+      },
+      {
+        "id": 38,
+        "slug": "serverless",
+        "name": "Serverless"
+      },
+      {
+        "id": 22,
+        "slug": "sidewind",
+        "name": "Sidewind"
+      },
+      {
+        "id": 86,
+        "slug": "spark",
+        "name": "Spark"
+      },
+      {
+        "id": 112,
+        "slug": "spring",
+        "name": "Spring"
+      },
+      {
+        "id": 126,
+        "slug": "strapi",
+        "name": "Strapi"
+      },
+      {
+        "id": 25,
+        "slug": "svg",
+        "name": "SVG"
+      },
+      {
+        "id": 23,
+        "slug": "tailwind",
+        "name": "Tailwind"
+      },
+      {
+        "id": 172,
+        "slug": "tdd",
+        "name": "TDD"
+      },
+      {
+        "id": 177,
+        "slug": "technical-leadership",
+        "name": "technical leadership"
+      },
+      {
+        "id": 151,
+        "slug": "threads",
+        "name": "Threads"
+      },
+      {
+        "id": 31,
+        "slug": "tooling",
+        "name": "Tooling"
+      },
+      {
+        "id": 153,
+        "slug": "tuning",
+        "name": "Tuning"
+      },
+      {
+        "id": 60,
+        "slug": "typescript",
+        "name": "TypeScript"
+      },
+      {
+        "id": 164,
+        "slug": "ux",
+        "name": "UX"
+      },
+      {
+        "id": 102,
+        "slug": "vert-x",
+        "name": "Vert.x"
+      },
+      {
+        "id": 45,
+        "slug": "web-services",
+        "name": "Web-Services"
+      },
+      {
+        "id": 64,
+        "slug": "webgl",
+        "name": "WebGL"
+      },
+      {
+        "id": 19,
+        "slug": "webpack",
+        "name": "WebPack"
+      },
+      {
+        "id": 70,
+        "slug": "websocket",
+        "name": "WebSocket"
+      },
+      {
+        "id": 67,
+        "slug": "zen-discovery",
+        "name": "Zen Discovery"
+      }
+    ]
+  },
+  "socials": [
+    {
+      "href": "https://www.facebook.com/sphereitconf/",
+      "title": "Sphere.it Facebook profile",
+      "icon": "fa-brands fa-facebook"
+    },
+    {
+      "href": "https://twitter.com/sphere_it_",
+      "title": "Sphere.it Twitter profile",
+      "icon": "fa-brands fa-x-twitter"
+    },
+    {
+      "href": "https://www.instagram.com/sphereit_/",
+      "title": "Sphere.it Instagram profile",
+      "icon": "fa-brands fa-instagram"
+    },
+    {
+      "href": "https://www.linkedin.com/company/sphereit",
+      "title": "Sphere.it LinkedIn profile",
+      "icon": "fa-brands fa-linkedin"
+    },
+    {
+      "href": "https://www.youtube.com/@sphere_it",
+      "title": "Sphere.it YouTube channel",
+      "icon": "fa-brands fa-youtube"
+    }
+  ]
+}

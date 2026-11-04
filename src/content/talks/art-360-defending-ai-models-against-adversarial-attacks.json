@@ -1,0 +1,53 @@
+{
+  "wpId": 436,
+  "title": "ART 360: Defending AI models against adversarial attacks",
+  "slug": "art-360-defending-ai-models-against-adversarial-attacks",
+  "path": "/watch/art-360-defending-ai-models-against-adversarial-attacks/",
+  "date": "2020-01-01 00:03:06",
+  "modified": "2021-03-31 14:53:11",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 46,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 56,
+        "slug": "dnns",
+        "name": "DNNs"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=f1d658QSmv4&t=70s",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      226
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Adversarial samples are inputs to Deep Neural Networks (DNNs) that an adversary has tampered with in order to cause misclassifications. It is surprisingly easy to create adversarial samples and surprisingly difficult to defend DNNs against them. In this talk, I will review the state-of-the-art and recent progress in better understanding adversarial samples and developing DNNs that are robust against them. I will then give a perspective on the potential threats that adversarial samples pose to security-critical applications of DNNs. Finally, I will show how researchers and developers can experiment with adversarial attacks and defences using the ART 360 open-source library https://github.com/IBM/adversarial-robustness-toolbox.</p>"
+    }
+  ],
+  "formReplaced": false
+}

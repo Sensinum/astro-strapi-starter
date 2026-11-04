@@ -1,0 +1,155 @@
+.block-event-agenda.reduce-spacings {
+  padding: 95px 0;
+}
+@media (min-width: 768px) and (max-width: 1199.98px) {
+  .block-event-agenda.reduce-spacings {
+    padding: 85px 0;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-event-agenda.reduce-spacings {
+    padding: 65px 0;
+  }
+}
+.block-event-agenda.reduce-spacings .agenda-item {
+  padding: 25px 0;
+}
+.block-event-agenda:not(.reduce-spacings) .block-title {
+  padding-top: 120px;
+  margin-bottom: -70px;
+}
+@media (min-width: 768px) and (max-width: 1199.98px) {
+  .block-event-agenda:not(.reduce-spacings) .block-title {
+    padding-top: 110px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-event-agenda:not(.reduce-spacings) .block-title {
+    padding-top: 90px;
+  }
+}
+.block-event-agenda .block-title {
+  margin-bottom: 25px;
+}
+.block-event-agenda .agenda-item {
+  padding: 120px 0;
+  background-color: #fff;
+  color: #000;
+}
+@media (min-width: 768px) and (max-width: 1199.98px) {
+  .block-event-agenda .agenda-item {
+    padding: 110px 0;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-event-agenda .agenda-item {
+    padding: 90px 0;
+  }
+}
+.block-event-agenda .agenda-item h4, .block-event-agenda .agenda-item .heading-4 {
+  margin-bottom: 15px;
+}
+.block-event-agenda .agenda-item a,
+.block-event-agenda .agenda-item a:hover {
+  color: inherit;
+}
+.block-event-agenda .agenda-item .item-title {
+  margin-bottom: 0;
+  line-height: 40px;
+}
+@media (max-width: 1199.98px) {
+  .block-event-agenda .agenda-item .item-title {
+    line-height: 34px;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-event-agenda .agenda-item .item-title {
+    line-height: 30px;
+  }
+}
+@media (max-width: 767.98px) {
+  .block-event-agenda .agenda-item .item-title {
+    font-size: 1.2rem;
+    line-height: 26px;
+  }
+}
+.block-event-agenda .agenda-item .item-description,
+.block-event-agenda .agenda-item .talk-speakers {
+  margin-top: 15px;
+}
+.block-event-agenda .agenda-item .item-description {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.1875rem;
+  line-height: 34px;
+  font-weight: 400;
+}
+@media (max-width: 1199.98px) {
+  .block-event-agenda .agenda-item .item-description {
+    font-size: 1.0625rem;
+    line-height: 30px;
+  }
+}
+@media (max-width: 991.98px) {
+  .block-event-agenda .agenda-item .item-description {
+    font-size: 1.125rem;
+    line-height: 32px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-event-agenda .agenda-item .item-description {
+    font-size: 1rem;
+    line-height: 25px;
+  }
+}
+.block-event-agenda .agenda-item .item-description p {
+  margin-bottom: 15px;
+}
+.block-event-agenda .agenda-item .item-description p:last-child {
+  margin-bottom: 0;
+}
+.block-event-agenda .agenda-item .item-description a {
+  text-decoration: underline;
+}
+.block-event-agenda .agenda-item .talk-speakers {
+  font-size: 1rem;
+  line-height: 34px;
+  font-weight: 700;
+}
+.block-event-agenda .agenda-item .talk-speakers a {
+  text-decoration: underline;
+}
+.block-event-agenda .agenda-item .block-button {
+  display: inline-block;
+  margin-top: 40px;
+  padding: 13px 28px;
+  border-radius: 6px;
+  background-color: #fff;
+  border: 2px solid #fff;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 0.875rem;
+  line-height: 14px;
+  font-weight: 700;
+  color: #000;
+  box-shadow: 0px 4px 4px rgba(33, 33, 44, 0.1), 0px 10px 15px -7px rgba(33, 33, 44, 0.25);
+  transition: 0.3s box-shadow ease-out, 0.3s background-color ease-out, 0.3s color ease-out, 0.3s border-color ease-out;
+}
+.block-event-agenda .agenda-item .block-button:active {
+  box-shadow: none;
+}
+@media (max-width: 1199.98px) {
+  .block-event-agenda .agenda-item .block-button {
+    margin-top: 30px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-event-agenda .agenda-item .block-button {
+    font-size: 0.75rem;
+    line-height: 12px;
+  }
+}
+.block-event-agenda .agenda-item .block-button i, .block-event-agenda .agenda-item .block-button svg {
+  margin-left: 7px;
+}
+
+/*# sourceMappingURL=block-event-agenda.css.map */

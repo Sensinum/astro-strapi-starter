@@ -1,0 +1,36 @@
+{
+  "wpId": 176,
+  "title": "A journey from OSS project to fully-fledged product on Azure Marketplace",
+  "slug": "a-journey-from-oss-project-to-fully-fledged-product-on-azure-marketplace",
+  "path": "/watch/a-journey-from-oss-project-to-fully-fledged-product-on-azure-marketplace/",
+  "date": "2020-01-01 00:03:12",
+  "modified": "2021-03-31 14:45:22",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=Lud9ElSbxDI&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "December 9, 2020",
+    "talks_speakers": [
+      141
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Hear the story behind Jenkins Operator Service, a cloud-native Jenkins platform for scalable and cost-effective continuous integration in public cloud. Starting from the the OSS project to partnership with Microsoft Azure, we will discuss the most relevant steps of this project: the community adoption, how we’ve managed to join the official Jenkins CI org, the road towards GA, as well as packaging everything on Azure Marketplace. We will walk through high-level steps, pain points to results - product overview and roadmap to future improvements.</p>"
+    }
+  ],
+  "formReplaced": false
+}

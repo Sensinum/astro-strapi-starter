@@ -1,0 +1,36 @@
+{
+  "wpId": 646,
+  "title": "Programmer 2.0",
+  "slug": "programmer-2-0",
+  "path": "/watch/programmer-2-0/",
+  "date": "2020-01-01 00:00:50",
+  "modified": "2023-03-20 14:12:44",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=-nW6YVnHzjw",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      606
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Do you know that the 4th industrial revolution is coming? Do you think that the talks about taking over work by robots concern only other professions and the programmer will still be needed? Partial is true, but on the other hand – there are really big changes going on over the next 5-10 years. Therefore, if you want to prepare for them, I recommend checking who the programmer 2.0 will be. </p>\n\n\n\n<p>It turns out that learning machine learning can be an interesting adventure (and doing a PhD is optional). I will show you examples of how relatively little effort you can do interesting and valuable things. The goal of the presentation is to inspire and break the barrier as to the complexity of the topic of machine learning. If you can program, you can do ML too!</p>"
+    }
+  ],
+  "formReplaced": false
+}

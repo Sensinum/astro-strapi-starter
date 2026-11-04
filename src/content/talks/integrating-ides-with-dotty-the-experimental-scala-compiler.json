@@ -1,0 +1,43 @@
+{
+  "wpId": 534,
+  "title": "Integrating IDEs with Dotty, the experimental Scala compiler",
+  "slug": "integrating-ides-with-dotty-the-experimental-scala-compiler",
+  "path": "/watch/integrating-ides-with-dotty-the-experimental-scala-compiler/",
+  "date": "2020-01-01 00:01:39",
+  "modified": "2023-03-20 12:08:39",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 28,
+        "slug": "dotty",
+        "name": "Dotty"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=Ppj0EFns59M",
+    "video_thumbnail": false,
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      257
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>A great programming language should provide a great developer experience! This is why Dotty comes built-in with IDE support that is designed to be easy to use, robust and extensible. In this talk I’ll describe the technologies used to implement this. I will also describe some of the planned future improvements: ultimately, we would like the compiler to become much better at helping you write correct programs instead of just complaining when you make mistakes.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,35 @@
+{
+  "wpId": 4491,
+  "title": "Waldek Woźny",
+  "slug": "waldek-wozny",
+  "path": "/contributor/waldek-wozny/",
+  "date": "2023-07-13 12:36:48",
+  "modified": "2023-07-13 12:37:31",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Solutions Architect, Architect's Chapter Leader at Kyndryl",
+    "speaker_avatar": {
+      "id": 4492,
+      "url": "/uploads/2023/07/Waldek_Wozny_12072023_2a-scaled.jpeg",
+      "alt": "Waldek_Wozny_12072023_2a",
+      "width": 2556,
+      "height": 2560
+    },
+    "speaker_surname": "Woźny",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/waldemar-wozny/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Waldek have almost 20 years of experience in IT starting from infrastructure and network technician through software support, application packaging, middleware technician up to system administrator, infrastructure architect to finally end up in current position as solutions architect.<br>Having work experience in various fields and technologies gave him great foundations to explore broader roles on an enterprise level and various leadership paths. Professional career is never ending journey which gives him continuous joy and development way outside of his technical expertise.</p>"
+    }
+  ],
+  "formReplaced": false
+}

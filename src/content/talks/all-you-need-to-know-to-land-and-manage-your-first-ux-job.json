@@ -1,0 +1,44 @@
+{
+  "wpId": 2386,
+  "title": "All you need to know to land and manage your first UX job",
+  "slug": "all-you-need-to-know-to-land-and-manage-your-first-ux-job",
+  "path": "/watch/all-you-need-to-know-to-land-and-manage-your-first-ux-job/",
+  "date": "2021-12-27 16:27:54",
+  "modified": "2023-03-21 10:16:09",
+  "template": null,
+  "excerpt": "<p>Dziś wejście na rynek pracy UX to nie lada wyzwanie dla juniorów. Każdego miesiąca bootcampowe giganty wypuszczają dziesiątki nowych designerów wypełnionych nadzieją na znalezienie pracy marzeń.  Samo aplikowanie i rozmowy rekrutacyjne są zwykle frustrującym doświadczeniem, a kiedy już w końcu, uda Ci się dostać posadę –  tu dopiero pojawiają się prawdziwe wyzwania!</p>\n\n<p>Dołącz do nas i posłuchaj o wszystkim co niezbędne aby zdobyć swoją pierwszą pracę w UX i podołać jej wyzwaniom. Podczas naszej prezentacji, dowiesz się jak pisać CV (a jak go nie pisać), oraz czego spodziewać się podczas rekrutacji. Postaramy się również przekazać kilka cennych tipów na temat tego jak rozmawiać z klientami, deweloperami, i osobami nietechnicznymi; jak radzić sobie z krytyką, planować swoją pracę i dużo, dużo więcej!</p>\n\n<p>Do zobaczenia na BUGinnings in IT!</p>",
+  "featuredImage": "/uploads/2021/12/monika-mira.png",
+  "seo": {
+    "ogImage": "/uploads/2021/12/monika-mira.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      },
+      {
+        "id": 136,
+        "slug": "ui-ux",
+        "name": "UI/UX"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=rENyK3YaKBM&t=2s",
+    "video_thumbnail": false,
+    "talk_date": "January 20, 2022",
+    "talks_speakers": [
+      1919,
+      2220
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>[ENG] </p>\n\n\n\n<p>It’s a jumpy road for rookies to become UX nowadays.&nbsp;Every month boosting boot-camps businesses release tens of new designers with high hopes for finding their dream jobs. Applying for a job and getting through the interviews can be frustrating and once you finally land the job - that’s where the real challenges appear! Watch our talk to learn all there is to know to land and manage your first design job. Find out how to write your CV (and how not to) and what to expect in your recruitment interview. See how to talk to clients, engineers, and non-designers, how to handle criticism, plan your work, and many, many more. </p>\n\n\n\n<p>[PL] </p>\n\n\n\n<p><strong>Co wiedzieć, aby zdobyć pierwszą pracę w UX i podołać jej wyzwaniom </strong></p>\n\n\n\n<p>Dziś wejście na rynek pracy UX to nie lada wyzwanie dla juniorów. Każdego miesiąca bootcampowe giganty wypuszczają dziesiątki nowych designerów wypełnionych nadzieją na znalezienie pracy marzeń. Samo aplikowanie i rozmowy rekrutacyjne są zwykle frustrującym doświadczeniem, a kiedy już w końcu, uda Ci się dostać posadę – tu dopiero pojawiają się prawdziwe wyzwania! Posłuchaj o wszystkim co niezbędne aby zdobyć swoją pierwszą pracę w UX i podołać jej wyzwaniom. Podczas naszej prezentacji, dowiesz się jak pisać CV (a jak go nie pisać), oraz czego spodziewać się podczas rekrutacji. Postaramy się również przekazać kilka cennych tipów na temat tego jak rozmawiać z klientami, deweloperami, i osobami nietechnicznymi; jak radzić sobie z krytyką, planować swoją pracę i dużo, dużo więcej!</p>"
+    }
+  ],
+  "formReplaced": false
+}

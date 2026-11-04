@@ -1,0 +1,43 @@
+{
+  "wpId": 132,
+  "title": "Paweł Prażak",
+  "slug": "pawel-prazak",
+  "path": "/contributor/pawel-prazak/",
+  "date": "2020-01-01 00:02:31",
+  "modified": "2021-03-30 17:00:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Cloud Architect at VirtusLab",
+    "speaker_avatar": {
+      "id": 133,
+      "url": "/uploads/2021/03/Pawel_Prażak.jpg",
+      "alt": "Paweł Prażak",
+      "width": 1720,
+      "height": 1859
+    },
+    "speaker_surname": "Prażak",
+    "speaker_twitter": "https://twitter.com/pawelprazak",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/pawelprazak/",
+    "speaker_gh": "https://github.com/pawelprazak"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Cloud Architect @ VirtusLab particularly interested in distributed computing and security. After years of writing backend, middleware software and infrastructure automation, his current focus is DevOpsSec and Cloud-Native platforms. He dreams of replacing himself with software. Addicted to Twitter and coffee.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,54 @@
+body:not(.page-template-page-dark-theme):not(.page-template-page-podcasts):not(.page-template-page-events) .navigation .navigation-logo svg path {
+  fill: #21212c;
+}
+
+.feature-image .responsive-image-wrapper.square,
+.speaker-avatar .responsive-image-wrapper {
+  padding-bottom: 100%;
+}
+
+.feature-image .responsive-image-wrapper img.responsive-image,
+.speaker-avatar .responsive-image-wrapper img.responsive-image {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover;
+}
+
+.speaker-profile-wrapper.is-hidden,
+.video-item.is-hidden,
+[data-event-row][hidden] {
+  display: none !important;
+}
+
+.page-template-page-form .form-replacement {
+  padding: 80px 0 120px;
+}
+
+.page-template-page-form .form-replacement .cta-button {
+  display: inline-block;
+  margin-top: 24px;
+}
+
+.podcast-episode {
+  padding: 48px 0 80px;
+}
+
+.podcast-episode .cover {
+  width: 100%;
+  border-radius: 12px;
+}
+
+.block-podcasts-slider .area-btn {
+  margin: 0 8px 8px 0;
+  border: 0;
+  cursor: pointer;
+}
+
+.block-podcasts-slider .podcast-slide {
+  display: none;
+  margin-bottom: 48px;
+}
+
+.block-podcasts-slider .podcast-slide.is-visible {
+  display: block;
+}

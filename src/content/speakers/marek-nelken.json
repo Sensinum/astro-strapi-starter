@@ -1,0 +1,37 @@
+{
+  "wpId": 5126,
+  "title": "Marek Nelken",
+  "slug": "marek-nelken",
+  "path": "/contributor/marek-nelken/",
+  "date": "2024-04-19 12:11:13",
+  "modified": "2024-04-19 12:11:14",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5127,
+      "url": "/uploads/2024/04/1517276984035.jpeg",
+      "alt": "1517276984035",
+      "width": 433,
+      "height": 433
+    },
+    "speaker_position": "CTO at Curotech Specialty",
+    "speaker_add_info": "",
+    "speaker_surname": "",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/mnelken/",
+    "speaker_gh": "",
+    "desc_episodes": "CTO at Curotech Specialty"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>CTO at Curotech Specialty</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,36 @@
+{
+  "wpId": 4976,
+  "title": "Anna Sroka",
+  "slug": "anna-sroka",
+  "path": "/contributor/anna-sroka/",
+  "date": "2024-02-19 10:18:06",
+  "modified": "2024-02-29 22:43:55",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "IT Manager, Founder of The Female Enterprise brand",
+    "speaker_avatar": {
+      "id": 4980,
+      "url": "/uploads/2024/02/MilkStudio3kopia-1.jpg",
+      "alt": "MilkStudio3kopia",
+      "width": 1001,
+      "height": 1003
+    },
+    "speaker_surname": "Sroka",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/anna-sroka/",
+    "speaker_gh": "",
+    "speaker_add_info": "Oerlikon, Kobiety Jutra"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>IT Service Management &amp; SAP expert, IT leader . Founder of The Female Enterprise brand, whose mission is to support women in building self-confidence. MBA graduate. Trainer, mentor, and conference speaker. Finalist of WomenTech Network Rising Star in STEM of the Year Award 2020. Member of the Expertki Razem Association, #KobietaKrakowa Inspiring Girls Poland Role Model</p>"
+    }
+  ],
+  "formReplaced": false
+}

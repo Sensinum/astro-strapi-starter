@@ -1,0 +1,47 @@
+{
+  "wpId": 5207,
+  "title": "Navigating The Platform Engineering Landscape",
+  "slug": "navigating-the-platform-engineering-landscape",
+  "path": "/podcast/navigating-the-platform-engineering-landscape/",
+  "date": "2024-04-22 13:39:51",
+  "modified": "2024-04-22 13:39:51",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2024/04/S01E02-thumbnail.jpg",
+  "seo": {},
+  "terms": {
+    "podcasts_cat": [
+      {
+        "id": 188,
+        "slug": "domain",
+        "name": "Domain"
+      },
+      {
+        "id": 189,
+        "slug": "platform-engineering",
+        "name": "Platform Engineering"
+      }
+    ]
+  },
+  "acf": {
+    "podcast_contributors": [
+      141
+    ],
+    "podcast_spotify": "",
+    "podcast_yt": {
+      "title": "Watch on Youtube",
+      "url": "https://youtu.be/mSsNCQvZ5SE",
+      "target": "_blank"
+    },
+    "podcast_description": "<p>Welcome to the SpHERe.it Podcast Series: Platform Engineering, where we explore the intricate world of building and managing developer platforms that drive innovation and growth in modern businesses. Whether you&#8217;re a seasoned platform engineer, a curious technologist, or a business leader looking to harness the power of developer platforms, join us as we embark on this enlightening journey into the heart of platform engineering.</p>\n<p>Starring Bartek Antoniak, Head of Cloud Engineering at VirtusLab.com. Check https://www.engineeringprimer.com</p>\n<p>In this episode, we delve into navigating the platform engineering landscape, the biggest challenges faced in platform engineering today, the impact of the adoption of cloud on the platform engineering, current trends.</p>\n",
+    "podcast_cover": {
+      "id": 5208,
+      "url": "/uploads/2024/04/S01E02-thumbnail.jpg",
+      "alt": "S01E02 thumbnail",
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "blocks": [],
+  "formReplaced": false
+}

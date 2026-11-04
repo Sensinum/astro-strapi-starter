@@ -1,0 +1,48 @@
+{
+  "wpId": 236,
+  "title": "Przemysław Maciołek",
+  "slug": "przemek-maciolek",
+  "path": "/contributor/przemek-maciolek/",
+  "date": "2020-01-01 00:02:07",
+  "modified": "2023-03-17 14:31:17",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      },
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Principal Engineer at Sumo Logic",
+    "speaker_avatar": {
+      "id": 4245,
+      "url": "/uploads/2020/01/Przemek_Maciolek.jpg",
+      "alt": "Przemysław Maciołek",
+      "width": 352,
+      "height": 352
+    },
+    "speaker_surname": "Maciołek",
+    "speaker_twitter": "https://twitter.com/przemur",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/pmaciolek/?originalSubdomain=pl",
+    "speaker_gh": "https://github.com/pmm-sumo"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Przemek is a Principal Engineer at Sumo Logic, where he helps with bringing the best observability practices on the market. Previously, he was leading the development of Collective Sense - a log and network monitoring platform (acquired) and before that implementing machine and deep learning into companies such as Toptal, Base (now ZenDesk Sell), and others. Przemek also holds a PhD in the field of Machine Learning in Natural Language Processing, which he earned in 2015.&nbsp;</p>"
+    }
+  ],
+  "formReplaced": false
+}

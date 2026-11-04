@@ -1,0 +1,43 @@
+{
+  "wpId": 554,
+  "title": "Tomasz Nurkiewicz",
+  "slug": "tomasz-nurkiewicz",
+  "path": "/contributor/tomasz-nurkiewicz/",
+  "date": "2020-01-01 00:00:46",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Allegro",
+    "speaker_avatar": {
+      "id": 722,
+      "url": "/uploads/2021/03/Tomasz_Nurkiewicz.jpeg",
+      "alt": "Tomasz Nurkiewicz",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Nurkiewicz",
+    "speaker_twitter": "https://twitter.com/tnurkiewicz",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/tomasz-nurkiewicz-80513b92",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Spent half of his life on programming, for the last decade professionally in Java land. Loves back-end and data visualization. Passionate about alternative JVM languages. Disappointed with the quality of software written these days (so often by himself!), hates long methods and hidden side effects. Interested in charting, data analysis and reporting. Believes that computers were invented so that developers can automate boring and repetitive tasks. Also their own.</p>\n\n\n\n<p>On a daily basis works in the e-commerce sector. Involved in open-source, DZone’s Most Valuable Blogger, used to be very active on StackOverflow. Author, trainer, conference speaker, technical reviewer, runner. Claims that code not tested automatically is not a feature but just a rumour. Wrote a book on RxJava for O’Reilly.</p>"
+    }
+  ],
+  "formReplaced": false
+}

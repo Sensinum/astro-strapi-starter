@@ -1,0 +1,46 @@
+{
+  "wpId": 2207,
+  "title": "Serialization toolbox for Akka messages, events and persistent state that helps achieve compile-time guarantee on serializability",
+  "slug": "serialization-toolbox-for-akka-messages-events-and-persistent-state-that-helps-achieve-compile-time-guarantee-on-serializability",
+  "path": "/watch/serialization-toolbox-for-akka-messages-events-and-persistent-state-that-helps-achieve-compile-time-guarantee-on-serializability/",
+  "date": "2021-12-02 18:31:50",
+  "modified": "2023-03-21 11:21:39",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2021/12/fb-in-tt-min.png",
+  "seo": {
+    "ogImage": "/uploads/2021/12/pawel_marcin_serialization_alt.png"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 32,
+        "slug": "akka",
+        "name": "Akka"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=78wq-hybxUI",
+    "video_thumbnail": false,
+    "talk_date": "November 23, 2021",
+    "talks_speakers": [
+      2085,
+      2083
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Every message leaving a JVM boundary in Akka needs to be serialized first. However, the existing solutions for serialization in Scala leave a lot of room for runtime failures that are NOT reported in compile time. We’re glad to introduce Akka Serialization Helper, a toolkit including a Circe-based, runtime-safe serializer and a set of Scala compiler plugins to counteract the common caveats when working with Akka serialization.</p>"
+    }
+  ],
+  "formReplaced": false
+}

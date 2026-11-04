@@ -1,0 +1,430 @@
+{
+  "wpId": 26,
+  "title": "Home",
+  "slug": "home",
+  "path": "/",
+  "date": "2021-03-02 09:12:43",
+  "modified": "2025-01-22 18:50:01",
+  "template": "page-dark-theme",
+  "excerpt": "",
+  "featuredImage": "/uploads/2023/10/Yoast-min.jpg",
+  "seo": {
+    "title": "Sphere.it | Unlocking Innovation and Learning Across Tech Domains",
+    "description": "Discover a world of cutting-edge technology insights, transformative learning, and vibrant community engagement at Sphere.it. Explore our platform for the latest in tech trends and industry advancements.",
+    "ogTitle": "Sphere.it - a unique platform for the tech community",
+    "ogDescription": "Here you can find videos, events and articles focused on state-of-the-art technologies and solutions to everyday devs’ challenges.",
+    "ogImage": "/uploads/2023/10/Yoast-min-1024x538.jpg"
+  },
+  "terms": {},
+  "acf": {},
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-header-home-v2",
+      "anchor": "acf-block-6514216f5853f",
+      "data": {
+        "block_title": [
+          {
+            "line": "COMMUNITY",
+            "image": null
+          },
+          {
+            "line": "PODCAST",
+            "image": null
+          },
+          {
+            "line": "CONFERENCES",
+            "image": null
+          },
+          {
+            "line": "GROWTH",
+            "image": null
+          }
+        ],
+        "block_description": "The go-to platform for IT professionals to grow their expertise and expand career horizons"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-slider-half-screen",
+      "anchor": "acf-block-65158c35dc100",
+      "data": {
+        "block_title": [
+          {
+            "line": "LET'S ",
+            "image": null
+          },
+          {
+            "line": "MEET",
+            "image": null
+          }
+        ],
+        "block_description": "Let's connect through an exciting lineup of community events powered by VirtusLab Group, the driving force behind the Sphere.it platform.",
+        "block_slider": [
+          {
+            "link": {
+              "title": "Sphere.it Connect #2: DX or Developer Productivity?",
+              "url": "/event/sphere-it-connect-developer-experience/",
+              "target": "_blank"
+            },
+            "image": {
+              "id": 5370,
+              "url": "/uploads/2024/12/Sphere.it-Connect_1080x1080_v1.jpg",
+              "alt": "Sphere.it Connect_1080x1080_v1",
+              "width": 1080,
+              "height": 1080
+            },
+            "description": "Let’s talk about our developers, their happiness, and productivity. What can we do to make their life easier and their work more efficient?\r\n\r\n​Join us for the evening of learning about practices, metrics and tools that make our developers’ lives better."
+          },
+          {
+            "link": {
+              "title": "WSUG #13 Scala Native and Nix &amp; Handling large datasets with Redis",
+              "url": "https://www.meetup.com/wroclaw-scala-user-group/events/304812056/?slug=wroclaw-scala-user-group&eventId=304812056",
+              "target": "_blank"
+            },
+            "image": {
+              "id": 5393,
+              "url": "/uploads/2024/12/WSUG_TEMPLATE-1.jpg",
+              "alt": "WSUG_13",
+              "width": 1440,
+              "height": 1440
+            },
+            "description": "It's getting colder, so it's a perfect time to join next iteration of Wrocław Scala User Group in the cozy Wędrówki Pub. The event will be again held in English.\r\n\r\nThe second talk will mostly concentrate on Redis, though the system is written in Scala, but we hope it will shed some light on what are the real live problems of Scala developers."
+          },
+          {
+            "link": {
+              "title": "Sphere.it Connect: ML Engineering + Halloween Party",
+              "url": "/event/sphere-it-connect-developer-experience/",
+              "target": ""
+            },
+            "image": {
+              "id": 5336,
+              "url": "/uploads/2024/09/Sphere.it-Connect_halloween_1080x1080.jpg",
+              "alt": "Sphere.it Connect_halloween_1080x1080",
+              "width": 1080,
+              "height": 1080
+            },
+            "description": null
+          }
+        ]
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-green-line-separator",
+      "anchor": "acf-block-65158c35dc123",
+      "data": {}
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-podcast",
+      "anchor": "acf-block-6514216f58814",
+      "data": {
+        "block_title": [
+          {
+            "line": "SPHERE.IT ",
+            "image": null
+          },
+          {
+            "line": "PODCAST",
+            "image": null
+          }
+        ],
+        "podcast_url": "https://vimeo.com/868650778",
+        "block_cta": {
+          "title": "Watch all episodes",
+          "url": "https://www.youtube.com/playlist?list=PLl9Aulxh1VeNxZOEceMTG1VOTNEKC3uLw",
+          "target": "_blank"
+        },
+        "block_description": "Dive into the world of technology, innovation and expertise.\r\n\r\nJoin us as we bring you insightful conversations and expert insights that shape the IT landscape."
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-slideshow-v2",
+      "anchor": "acf-block-6514216f586b6",
+      "data": {
+        "block_title_1": "YOUR",
+        "block_title_1_img": null,
+        "block_title_2": "JOURNEY",
+        "block_title_2_img": null,
+        "block_description": "to professional growth starts at your fingertips",
+        "block_gallery": [
+          {
+            "id": null,
+            "url": "/uploads/2023/09/2022-11-24_Virtuslab-buginnings_PDlugosz_011.jpg",
+            "alt": "2022-11-24_Virtuslab-buginnings_PDlugosz_011",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2023/09/2022-11-24_Virtuslab-buginnings_PDlugosz_024.jpg",
+            "alt": "2022-11-24_Virtuslab-buginnings_PDlugosz_024",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/02/01-min.jpg",
+            "alt": "BUGinnings in IT #4 &#8211; image from prev event",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2023/09/IMG_3477.png",
+            "alt": "IMG_3477",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2023/09/sphere-it-2048-1042.jpg",
+            "alt": "sphere-it-2048-1042",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2023/09/sphere-it-2048-1049-1.jpg",
+            "alt": "sphere-it-2048-1049 (1)",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2023/09/sphere-it-2048-1068-2.jpg",
+            "alt": "sphere-it-2048-1068 (2)",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-14.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-14",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-19.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-19",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-27.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-27",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-37.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-37",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-40.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-40",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-44.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-44",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-45.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-45",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-47.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-47",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-49.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-49",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-64.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-64",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-70.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-70",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-94.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-94",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-292.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-292",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-337.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-337",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-338.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-338",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-349.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-349",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-403.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-403",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2022/10/SphereIT22_gotowe_web_BPawlik-404.jpg",
+            "alt": "SphereIT22_gotowe_web_BPawlik-404",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2023/09/TF6A9623.jpg",
+            "alt": "TF6A9623",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2023/09/TF6A9633.jpg",
+            "alt": "TF6A9633",
+            "width": null,
+            "height": null
+          },
+          {
+            "id": null,
+            "url": "/uploads/2023/09/TF6A9636.jpg",
+            "alt": "TF6A9636",
+            "width": null,
+            "height": null
+          }
+        ]
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-vived-promo",
+      "anchor": "acf-block-6514216f58a28",
+      "data": {
+        "block_title": [
+          {
+            "line": "SHORT ",
+            "image": null
+          },
+          {
+            "line": "ON ",
+            "image": null
+          },
+          {
+            "line": "TIME ",
+            "image": null
+          },
+          {
+            "line": "AND ",
+            "image": null
+          },
+          {
+            "line": "INSPIRATION?",
+            "image": null
+          }
+        ],
+        "block_description": "Immerse yourself in tech-centric content curated by seasoned experts and personalized just for you by cutting-edge algorithms.",
+        "vived_video_url": "https://vimeo.com/865894764",
+        "vived_screen_img": null,
+        "vived_googleplay_url": "https://play.google.com/store/apps/details?id=com.virtuslab.vived",
+        "vived_appstore_url": "https://apps.apple.com/gb/app/vived/id1460117345",
+        "vived_qr_code": {
+          "id": 5283,
+          "url": "/uploads/2024/09/adobe-express-qr-code.png",
+          "alt": "adobe-express-qr-code",
+          "width": 500,
+          "height": 500
+        }
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-green-line-separator",
+      "anchor": "acf-block-6514216f58a4f",
+      "data": {}
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-contact",
+      "anchor": "block-contact-home",
+      "data": {
+        "block_title": [
+          {
+            "line": "HELLO ",
+            "image": null
+          },
+          {
+            "line": "PARTNER",
+            "image": null
+          }
+        ],
+        "block_description": "Join <a href=\"/\">Sphere.it</a> in fostering collaboration and nurturing vibrant interactions, and stay tuned for our partnership offers coming your way.",
+        "block_image": {
+          "id": 5426,
+          "url": "/uploads/2025/01/1711118035730.jpeg",
+          "alt": "1711118035730",
+          "width": 2048,
+          "height": 1343
+        },
+        "image_caption": "TEAM SPHERE.IT",
+        "contact_email": "hello@sphere.it",
+        "contact_href": "https://virtuslab.com/contact",
+        "sliding_caption": "LET’S MAKE GREAT THINGS TOGETHER! LET’S MAKE GREAT THINGS TOGETHER! LET’S MAKE GREAT THINGS TOGETHER! LET’S MAKE GREAT THINGS TOGETHER!"
+      }
+    }
+  ],
+  "formReplaced": false
+}

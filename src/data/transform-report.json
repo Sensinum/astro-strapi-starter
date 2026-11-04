@@ -1,0 +1,106 @@
+{
+  "counts": {
+    "page": 9,
+    "blog": 1,
+    "event": 21,
+    "event_series": 3,
+    "speakers": 279,
+    "talks": 279,
+    "podcast": 25
+  },
+  "pages": [
+    {
+      "title": "Privacy Policy",
+      "path": "/privacy-policy/",
+      "template": null
+    },
+    {
+      "title": "Home",
+      "path": "/",
+      "template": "page-dark-theme"
+    },
+    {
+      "title": "Watch",
+      "path": "/watch/",
+      "template": "page-talks-filters"
+    },
+    {
+      "title": "Contributors",
+      "path": "/contributors/",
+      "template": "page-speakers-filters"
+    },
+    {
+      "title": "Become a speaker",
+      "path": "/become-a-speaker/",
+      "template": "page-form"
+    },
+    {
+      "title": "Code of Conduct",
+      "path": "/code-of-conduct/",
+      "template": null
+    },
+    {
+      "title": "FAQ",
+      "path": "/faq/",
+      "template": null
+    },
+    {
+      "title": "Events",
+      "path": "/events/",
+      "template": "page-events"
+    },
+    {
+      "title": "Podcasts",
+      "path": "/podcasts/",
+      "template": "page-podcasts"
+    }
+  ],
+  "mediaDownloaded": 630,
+  "mediaFailed": [],
+  "unresolvedAttachmentIds": [
+    3381,
+    3386,
+    3394,
+    3404,
+    3407,
+    3411,
+    3412,
+    3414,
+    3416,
+    3431,
+    3437,
+    3461,
+    3657,
+    3702,
+    3703,
+    3714,
+    3768,
+    3769,
+    3636
+  ],
+  "redirectsKept": 595,
+  "redirectsDropped": 4,
+  "redirectsDroppedSample": [
+    {
+      "url": "/talks/tbd/",
+      "to": "/talks/designed-to-fail-sphere-it-conf-2023-presentation/",
+      "reason": "duplicate"
+    },
+    {
+      "url": "/watch/talk-ii/",
+      "to": "/watch/beyond-encodetext-embeddings-at-scale/",
+      "reason": "shadows-content"
+    },
+    {
+      "url": "/watch/talk-i/",
+      "to": "/watch/from-delivery-outputs-to-inputs-dora-devex-and-beyond/",
+      "reason": "duplicate"
+    },
+    {
+      "url": "/watch/talk-iii/",
+      "to": "/watch/how-to-save-1-million-dollars-yearly-introducing-devex/",
+      "reason": "duplicate"
+    }
+  ],
+  "formReplacement": "https://virtuslab.com/contact"
+}

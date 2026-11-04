@@ -1,0 +1,26 @@
+{
+  "wpId": 5418,
+  "title": "Discussion Panel: AI in DevEx - how does the landscape change?",
+  "slug": "discussion-panel-ai-in-devex-how-does-the-landscape-change",
+  "path": "/watch/discussion-panel-ai-in-devex-how-does-the-landscape-change/",
+  "date": "2025-01-20 10:42:55",
+  "modified": "2025-01-28 11:16:52",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "February 4, 2025",
+    "talks_speakers": [
+      5329,
+      5388,
+      5380,
+      552
+    ]
+  },
+  "blocks": [],
+  "formReplaced": false
+}

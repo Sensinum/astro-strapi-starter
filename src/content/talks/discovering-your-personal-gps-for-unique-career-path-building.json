@@ -1,0 +1,49 @@
+{
+  "wpId": 4464,
+  "title": "Strengths-, values- and brain type-driven career. Discovering your personal GPS for unique career path building.",
+  "slug": "discovering-your-personal-gps-for-unique-career-path-building",
+  "path": "/watch/discovering-your-personal-gps-for-unique-career-path-building/",
+  "date": "2023-07-10 13:49:21",
+  "modified": "2024-01-12 10:29:14",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "description": "Sphere.it Conf 2023 talk by Monika Starzyk, founder at ReWorked. In her presentation you will find out about the unusual blockers behind not knowing what our next step should be as well as the best tools, practices and frameworks to discover your personal career GPS."
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 182,
+        "slug": "beyond-senior",
+        "name": "Beyond Senior"
+      },
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=4WICrfd5ytQ",
+    "video_thumbnail": {
+      "id": 4766,
+      "url": "/uploads/2023/07/maxresdefault-4.jpg",
+      "alt": "Monika Starzyk",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "September 27, 2023",
+    "talks_speakers": [
+      4462
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>For the last 4 years I’ve assisted over 500 IT professionals in their very personal, strictly confidential journeys of assessing own strengths, blind spots, values, brain types, passion and career needs. Some of the meetings were focused mostly on effectiveness, while some of them - especially since the pandemic started - mostly on personal satisfaction at work, vision clarity and personalizing the career path. From all that work, as well as from my personal research, I’ll share the most valuable and surprising lessons:<br>1. The unusual blockers behind not knowing what our next step should be.<br>2. The best tools, practices and frameworks I’ve found so far, to discover your personal career GPS; to avoid following catchy trends and to forge your unique career path forward.<br>Hope to see you there!</p>"
+    }
+  ],
+  "formReplaced": false
+}

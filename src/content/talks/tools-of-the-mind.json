@@ -1,0 +1,44 @@
+{
+  "wpId": 528,
+  "title": "Tools of the Mind",
+  "slug": "tools-of-the-mind",
+  "path": "/watch/tools-of-the-mind/",
+  "date": "2020-01-01 00:01:45",
+  "modified": "2023-03-20 12:07:22",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2020/01/tools_thumbnails_scala_rory_graves-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=ubhSJ6H35dw",
+    "video_thumbnail": {
+      "id": 3918,
+      "url": "/uploads/2020/01/tools_thumbnails_scala_rory_graves-min.jpg",
+      "alt": "Tools of the Mind",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "April 15, 2018",
+    "talks_speakers": [
+      204
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Tools are a force multiplier, without them, we would still be toggling code into machines with switches. Tooling is powerful and we use them every day to empower us. Rather than focusing on software tooling, we will explore mental tooling that will help to improve your productivity, happiness and career prospects.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,48 @@
+{
+  "wpId": 625,
+  "title": "Fast Data Architecture at XITE",
+  "slug": "fast-data-architecture-at-xite",
+  "path": "/watch/fast-data-architecture-at-xite/",
+  "date": "2020-01-01 00:01:10",
+  "modified": "2023-03-20 14:23:10",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 107,
+        "slug": "fast-data",
+        "name": "Fast Data"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      },
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=fY95d4rCBUs",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      567
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Fast Data is emerging as a new approach to data processing. While Big Data relied mostly on batch processing, Fast Data brings us the power of streaming, where information is processed as soon as it becomes available. <a href=\"https://xite.com\">XITE</a> has worked hard to embrace Fast Data and will share their experience with us.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,70 @@
+{
+  "wpId": 162,
+  "title": "Serverless 2.0 with Cloudstate.io",
+  "slug": "serverless-2-0-with-cloudstate-io",
+  "path": "/watch/serverless-2-0-with-cloudstate-io/",
+  "date": "2020-01-01 00:03:22",
+  "modified": "2023-03-21 10:51:17",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2020/01/sean_cloud.png",
+  "seo": {
+    "ogImage": "/uploads/2020/01/sean_cloud.png"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 32,
+        "slug": "akka",
+        "name": "Akka"
+      },
+      {
+        "id": 33,
+        "slug": "cloudstate",
+        "name": "Cloudstate"
+      },
+      {
+        "id": 34,
+        "slug": "faas",
+        "name": "FaaS"
+      },
+      {
+        "id": 36,
+        "slug": "knative",
+        "name": "Knative"
+      },
+      {
+        "id": 37,
+        "slug": "kubernetes",
+        "name": "Kubernetes"
+      },
+      {
+        "id": 38,
+        "slug": "serverless",
+        "name": "Serverless"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=4R9i3hkXoho&t=29s",
+    "video_thumbnail": false,
+    "talk_date": "June 16, 2020",
+    "talks_speakers": [
+      122
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The Serverless experience is revolutionary and will grow to dominate the future of Cloud. Function-as-a-Service (FaaS) however—with its ephemeral, stateless, and short-lived functions—is only the first step. FaaS is great for processing-intensive, parallelizable workloads, moving data from A to B providing enrichment and transformation along the way. But it is quite limited and constrained in what use-cases it addresses well, which makes it very hard/inefficient to implement general-purpose application development and distributed systems protocols.</p>\n\n\n\n<p>What’s needed is a next-generation Serverless platform and programming model for general-purpose application development in the new world of real-time data and event-driven systems. What is missing is ways to manage distributed state in a scalable and available fashion, support for long-lived virtual stateful services, ways to physically co-locate data and processing, and options for choosing the right data consistency model for the job.</p>\n\n\n\n<p>This talk will discuss the challenges, requirements, and introduce you to our proposed solution: Cloudstate—an Open Source project building the next generation Stateful Serverless and leveraging state models such as Event Sourcing, CQRS, and CRDTs, running on Akka, gRPC, Knative, Kubernetes, and GraalVM, in a polyglot fashion with support for Go, JavaScript, Java, Swift, Scala, Python, Kotlin, and more.</p>"
+    }
+  ],
+  "formReplaced": false
+}

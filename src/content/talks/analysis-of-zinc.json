@@ -1,0 +1,36 @@
+{
+  "wpId": 506,
+  "title": "Analysis of Zinc",
+  "slug": "analysis-of-zinc",
+  "path": "/watch/analysis-of-zinc/",
+  "date": "2020-01-01 00:02:02",
+  "modified": "2023-03-21 09:53:16",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=h8ACmUHQ2jg&t=293s",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      253
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In this talk, Eugene goes over the internal design of Zinc, the incremental compiler for Scala.</p>\n\n\n\n<p>Next, he discuss ideas to improve it given the current understanding and use cases.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,37 @@
+{
+  "wpId": 564,
+  "title": "Bartłomiej Małecki",
+  "slug": "bartlomiej-malecki",
+  "path": "/contributor/bartlomiej-malecki/",
+  "date": "2020-01-01 00:00:39",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at IBM / IBM Master Inventor",
+    "speaker_avatar": false,
+    "speaker_surname": "Małecki",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/bartlomiej-malecki-09978378/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Seasoned software engineer at IBM / IBM Master Inventor – recently (last two years) enjoying scala/akka/kafka/spark</p>"
+    }
+  ],
+  "formReplaced": false
+}

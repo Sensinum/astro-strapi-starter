@@ -1,0 +1,32 @@
+{
+  "wpId": 5311,
+  "title": "Adam Kaczmarek",
+  "slug": "adam-kaczmarek",
+  "path": "/contributor/adam-kaczmarek/",
+  "date": "2024-09-12 12:46:14",
+  "modified": "2024-10-16 14:14:20",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5312,
+      "url": "/uploads/2024/09/k5b7aeifv2hgy1q.png",
+      "alt": "k5b7aeifv2hgy1q",
+      "width": 700,
+      "height": 700
+    },
+    "speaker_position": "Senior Machine Learning Engineer at SoftwareMill",
+    "speaker_add_info": "SoftwareMill",
+    "speaker_surname": "Kaczmarek",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/adamjankaczmarek/",
+    "speaker_gh": "https://github.com/adamjankaczmarek",
+    "desc_episodes": ""
+  },
+  "blocks": [],
+  "formReplaced": false
+}

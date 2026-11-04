@@ -1,0 +1,43 @@
+{
+  "wpId": 286,
+  "title": "Aleksander Pentchev",
+  "slug": "aleksander-pentchev",
+  "path": "/contributor/aleksander-pentchev/",
+  "date": "2020-01-01 00:01:47",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "IT Professional (front-end) at Roche Poland",
+    "speaker_avatar": {
+      "id": 287,
+      "url": "/uploads/2021/03/Aleksander_Pentchev.jpeg",
+      "alt": "Aleksander Pentchev",
+      "width": 512,
+      "height": 512
+    },
+    "speaker_surname": "Pentchev",
+    "speaker_twitter": "https://twitter.com/alekpentchev",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/aleksander-pentchev-133b3198/",
+    "speaker_gh": "https://github.com/alekpentchev"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I focus on modern front-end frameworks (React, Angular and Vue) and on plain JavaScript. I develop and design web apps from small to enterprise-level ones. I love reactive programming with RxJS and making my and others' code better by applying best-case practices. Not only from functional programming.</p>"
+    }
+  ],
+  "formReplaced": false
+}

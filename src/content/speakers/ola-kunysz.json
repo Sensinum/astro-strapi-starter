@@ -1,0 +1,48 @@
+{
+  "wpId": 277,
+  "title": "Aleksandra Kunysz",
+  "slug": "ola-kunysz",
+  "path": "/contributor/ola-kunysz/",
+  "date": "2020-01-01 00:01:51",
+  "modified": "2023-03-17 13:16:32",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      },
+      {
+        "id": 140,
+        "slug": "software-quality",
+        "name": "Software Quality"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Development Engineer at Sarna Technologies ",
+    "speaker_avatar": {
+      "id": 4238,
+      "url": "/uploads/2023/03/Aleksandra_Kunysz.jpg",
+      "alt": "Aleksandra Kunysz",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Kunysz",
+    "speaker_twitter": "https://twitter.com/OlaQnysz",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/akunysz",
+    "speaker_gh": "https://github.com/PeggyBrown"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Ola Kunysz is a software engineer with 15 years of experience, going through all its stages, from business analysis to backend programming. Recently spreads knowledge about tests and quality among programmers, while working in the finch startup. She enjoys meeting people and working on interesting projects, so you can spot her on hackathons and conferences. When it’s time to relax, she’s offline [with dog(s), playing board games, in the mountains]*</p>"
+    }
+  ],
+  "formReplaced": false
+}

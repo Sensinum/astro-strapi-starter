@@ -1,0 +1,48 @@
+{
+  "wpId": 111,
+  "title": "Raul Raja",
+  "slug": "raul-raja",
+  "path": "/contributor/raul-raja/",
+  "date": "2020-01-01 00:02:37",
+  "modified": "2021-03-30 17:00:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      },
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "CTO & Co-Founder at 47 Degrees, Arrow Maintainer",
+    "speaker_avatar": {
+      "id": 116,
+      "url": "/uploads/2021/03/Raul_Raja-1.jpg",
+      "alt": "Raul Raja",
+      "width": 387,
+      "height": 386
+    },
+    "speaker_surname": "Raja",
+    "speaker_twitter": "https://twitter.com/raulraja",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/raulraja/",
+    "speaker_gh": "https://github.com/raulraja"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Functional programming enthusiast. Self driven software engineer with strong backend Scala experience. Creative problem solving. Design Patterns knowledge. Always looking to try the latest in every technology.</p>\n\n\n\n<p>Specialties: Software architecture, Scala, Kotlin, Cats, ScalaZ, Play! Framework and types.</p>"
+    }
+  ],
+  "formReplaced": false
+}

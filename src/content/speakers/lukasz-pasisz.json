@@ -1,0 +1,37 @@
+{
+  "wpId": 5451,
+  "title": "Łukasz Pasisz",
+  "slug": "lukasz-pasisz",
+  "path": "/contributor/lukasz-pasisz/",
+  "date": "2025-05-28 17:53:07",
+  "modified": "2025-05-29 08:12:46",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5453,
+      "url": "/uploads/2025/05/lukasz-pasisz.jpeg",
+      "alt": "lukasz-pasisz",
+      "width": 327,
+      "height": 327
+    },
+    "speaker_position": "COO at insightify.io",
+    "speaker_add_info": "",
+    "speaker_surname": "",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/luke-pasisz/",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Łukasz has spent close to fifteen years in tech across the EMEA and U.S. markets. He’s worked with a range of tech services and SaaS providers, including a DevOps platform that launched Poland’s first CI/CD tool, now used by over 2,000 companies worldwide. He has led operations, GTM strategies, and cross-functional teams for tech providers working with Fortune 500s and SMB startups through key growth phases. As part of <a href=\"http://insightify.io/\">insightify.io</a>, he focuses on strategy, client engagement &amp; bridging business needs with scalable data solutions.<br></p>"
+    }
+  ],
+  "formReplaced": false
+}

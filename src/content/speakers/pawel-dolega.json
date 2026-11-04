@@ -1,0 +1,43 @@
+{
+  "wpId": 552,
+  "title": "Paweł Dolega",
+  "slug": "pawel-dolega",
+  "path": "/contributor/pawel-dolega/",
+  "date": "2020-01-01 00:00:48",
+  "modified": "2023-03-17 12:53:10",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "CTO at VirtusLab",
+    "speaker_avatar": {
+      "id": 4234,
+      "url": "/uploads/2020/01/Pawel_Dolega.jpg",
+      "alt": "Paweł Dolega",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Dolega",
+    "speaker_twitter": "https://twitter.com/pdolega",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/pdolega/?originalSubdomain=pl",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>CTO @ VirtusLab</p>\n\n\n\n<p>Software engineer / manager / entrepreneur. Worked in international corporations and small local software houses (two of which I co-founded). These days my weapon of choice is mostly Lightbend stack (Scala / Akka / Play / Spark) though I am trying to remain flexible and not be too orthodox.<br>Far more important than actual technology — I am really passionate about technological challenges and problems that technology is trying to solve. I like to work on things that matter.<br>Last but not least, infrequent conference speaker.</p>"
+    }
+  ],
+  "formReplaced": false
+}

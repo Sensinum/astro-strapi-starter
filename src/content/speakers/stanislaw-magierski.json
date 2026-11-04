@@ -1,0 +1,50 @@
+{
+  "wpId": 4517,
+  "title": "Stanislaw Magierski",
+  "slug": "stanislaw-magierski",
+  "path": "/contributor/stanislaw-magierski/",
+  "date": "2023-08-02 09:05:01",
+  "modified": "2023-08-02 09:06:20",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/10/share_sphere_general_3-1024x538.jpg"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      },
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Customer Engineer at Google Cloud (Smart Analytics & ML)",
+    "speaker_avatar": {
+      "id": 4518,
+      "url": "/uploads/2023/08/unnamed-4-Stanislaw-Magierski.jpeg",
+      "alt": "unnamed (4) - Stanislaw Magierski",
+      "width": 600,
+      "height": 600
+    },
+    "speaker_surname": "Magierski",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/stanis%C5%82aw-magierski-1258507/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>10+ years experience in Data Analytics, from a developer in a startup in Asia, through SAP BI consultant for largest manufacturing and FMCG customers and CTO for global AdTech startup. In Google I've build from ground-up Google Analytics 360 business in CEE and now, for the last 3 years, working with biggest customers in Poland to transform their Data Analytics on Google Cloud as a Customer Engineer. </p>\n\n\n\n<p>My background is technical (MSc in Automatics and Robotics) with a dose of humanistic curiosity (BA in Sociology and fellow at Leadership Academy for Poland)</p>"
+    }
+  ],
+  "formReplaced": false
+}

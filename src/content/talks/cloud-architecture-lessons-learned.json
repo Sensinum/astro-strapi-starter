@@ -1,0 +1,31 @@
+{
+  "wpId": 483,
+  "title": "Cloud Architecture – Lessons learned",
+  "slug": "cloud-architecture-lessons-learned",
+  "path": "/watch/cloud-architecture-lessons-learned/",
+  "date": "2020-01-01 00:02:24",
+  "modified": "2021-03-31 15:29:51",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=BhAnZ_ognVo&t=17s",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      354
+    ]
+  },
+  "blocks": [],
+  "formReplaced": false
+}

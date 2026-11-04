@@ -1,0 +1,43 @@
+{
+  "wpId": 653,
+  "title": "PWA's and their place in order",
+  "slug": "pwas-and-their-place-in-order",
+  "path": "/watch/pwas-and-their-place-in-order/",
+  "date": "2020-01-01 00:00:44",
+  "modified": "2023-03-20 14:09:53",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 61,
+        "slug": "pwa",
+        "name": "PWA"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=af_3vgE9eI4",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      382
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Progressive Web Apps is another buzz term that has appeared across the community in recent last years . Everyone wants to have a PWA version of their application, but what about our beloved Hybrids? We'll demonstrate an end-to-end use case and a POC that was created especially for this topic.</p>\n\n\n\n<ul>\n<li>Short explanation of the technology stack used</li>\n\n\n\n<li>The proper balance between Hybrid and PWA</li>\n\n\n\n<li>What hybrids add to PWA, or what PWA’s add to Hybrids</li>\n\n\n\n<li>Case Study: Stock Flow</li>\n\n\n\n<li>More Buzz under the hood</li>\n\n\n\n<li>Conclusions &amp; discussion</li>\n</ul>"
+    }
+  ],
+  "formReplaced": false
+}

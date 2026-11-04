@@ -1,0 +1,37 @@
+{
+  "wpId": 5166,
+  "title": "Pedro London",
+  "slug": "pedro-london",
+  "path": "/contributor/pedro-london/",
+  "date": "2024-04-19 13:22:40",
+  "modified": "2024-04-19 13:22:40",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5167,
+      "url": "/uploads/2024/04/1707238522250.jpeg",
+      "alt": "1707238522250",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_position": "Diretor Executivo CQCS /Construtor de Ecossistema",
+    "speaker_add_info": "",
+    "speaker_surname": "London",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/pedro-london/",
+    "speaker_gh": "",
+    "desc_episodes": "Advertiser, postgraduate in Business Management and with more than 15 years' experience in the areas of Communication, Marketing and Sales with a long corporate career."
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Diretor Executivo CQCS</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 259,
+  "title": "Umit Mert Cakmak",
+  "slug": "umit-mert-cakmak",
+  "path": "/contributor/umit-mert-cakmak/",
+  "date": "2020-01-01 00:01:59",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Data Scientist & Machine Learning Engineer at IBM",
+    "speaker_avatar": {
+      "id": 260,
+      "url": "/uploads/2021/03/Umit_Mert_Cakmak-.png",
+      "alt": "Umit Mert Cakmak",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Cakmak",
+    "speaker_twitter": "https://twitter.com/umitmertcakmak",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/umit-mert-cakmak/?originalSubdomain=uk",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Umit Mert Cakmak is a Manager and Senior Data Scientist in IBM Data Science and AI Elite Team based in the UK. Umit excels at helping clients to solve complex data science problems, from inception to delivery of deployable machine learning and AI pipelines. His research spans across multiple disciplines and he enjoys sharing his insights at conferences, universities and meet-ups.</p>"
+    }
+  ],
+  "formReplaced": false
+}

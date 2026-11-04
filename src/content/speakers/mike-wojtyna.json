@@ -1,0 +1,35 @@
+{
+  "wpId": 3277,
+  "title": "Mike Wojtyna",
+  "slug": "mike-wojtyna",
+  "path": "/contributor/mike-wojtyna/",
+  "date": "2022-08-23 10:12:58",
+  "modified": "2022-10-13 14:05:44",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Quality-Oriented Java Developer, Consultant & Trainer",
+    "speaker_avatar": {
+      "id": 3299,
+      "url": "/uploads/2022/08/mike-min-1-scaled.jpg",
+      "alt": "Mike Wojtyna",
+      "width": 2560,
+      "height": 2487
+    },
+    "speaker_surname": "Wojtyna",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/michalwojtyna/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Mike is a Java software developer with a passion for creating great products. Domain-driven design &amp; Test-driven development are some of his favorite tools. His code is clean and easy to modify, thanks to the modular, loosely coupled design achieved by continuous TDD iterations backed by a deep understanding of business requirements. Mike is also a professional consultant and trainer. Recently he has created <a href=\"https://howtobe.pro\">an interactive training program</a> to help you become a professional software developer.</p>"
+    }
+  ],
+  "formReplaced": false
+}

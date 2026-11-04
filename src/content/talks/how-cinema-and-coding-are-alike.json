@@ -1,0 +1,48 @@
+{
+  "wpId": 438,
+  "title": "How cinema and coding are alike?",
+  "slug": "how-cinema-and-coding-are-alike",
+  "path": "/watch/how-cinema-and-coding-are-alike/",
+  "date": "2020-01-01 00:03:04",
+  "modified": "2023-03-20 15:02:51",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 18,
+        "slug": "javascript",
+        "name": "JavaScript"
+      },
+      {
+        "id": 58,
+        "slug": "react",
+        "name": "React"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=M01eVr7baJ0&t=20s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      198
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Have you noticed how big is the magic behind the scenes in the cinema? The fact that the same artist can have a totally different face and behaviour from one movie to another?<br>Now imagine all of that power in your hands. Being able to give a new face to your components and even a new behaviour, based only on which application is it placed at. Wow, That's crazy, isn't it?<br>Let's see how to make the dreams come true using React + StyledComponents, to create a component lib able to make your apps look more stylish and give you a fun development experience.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,936 @@
+{
+  "wpId": 2848,
+  "title": "Sphere.it conf 2022",
+  "slug": "sphere-conf",
+  "path": "/event/sphere-conf/",
+  "date": "2022-04-20 14:24:07",
+  "modified": "2023-03-09 14:46:05",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2022/07/1_1200x628_fb_lin_tt-min.png",
+  "seo": {
+    "ogImage": "/uploads/2022/07/1_1200x628_fb_lin_tt-min-1024x538.png"
+  },
+  "terms": {},
+  "acf": {
+    "event_agenda": false,
+    "event_series_label": "",
+    "event_date": "21.09.2022",
+    "type_of_event": "20-21 September",
+    "event_entry": "Krakow Manggha Museum",
+    "event_artwork": {
+      "id": 2874,
+      "url": "/uploads/2022/04/sphere-learn-share.gif",
+      "alt": "Sphere.it conf 2022",
+      "width": 1080,
+      "height": 1080
+    },
+    "header_background_image": {
+      "id": 2873,
+      "url": "/uploads/2022/04/bg4_fin-min.jpg",
+      "alt": "[cover] Sphere.it conf 2022",
+      "width": 2560,
+      "height": 1440
+    },
+    "event_background_color": "#e1a93c",
+    "event_font_color": true,
+    "event_font_color_value": "#0c1e19",
+    "reduce_font_size": "1",
+    "event_register": {
+      "title": "Registration page",
+      "url": "https://app.evenea.pl/event/sphereitconf2022/",
+      "target": "_blank"
+    },
+    "event_scroll_button": "about-conf",
+    "buttons_background_color": "#0c1e19",
+    "buttons_font_color": "#e9e4e0",
+    "event_date_hidden": true,
+    "event_artwork_listing": {
+      "id": 2899,
+      "url": "/uploads/2022/04/learn-share-connect.gif",
+      "alt": "Sphere.it conf 2022",
+      "width": 1080,
+      "height": 1080
+    },
+    "header_cta_2": "",
+    "alt_dynamic_menu": true,
+    "event_alt_title": "Sphere.it conference is back!"
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "about-conf",
+      "data": {
+        "block_title": null,
+        "block_description": "<p class=\"font-montserrat mb-0\" style=\"font-size: 120%; line-height: 170%; font-weight: 400; text-align: left;\"><span data-preserver-spaces=\"true\">The 2022 edition centers on connecting and inspiring. Let's dive into the latest challenges &amp; opportunities in building modern software systems. Reconnect with tech experts at the 100% offline event hosted in Krakow's Manggha Museum. </span></p>\r\n&nbsp;\r\n<p class=\"font-montserrat mb-0\" style=\"font-size: 120%; line-height: 170%; font-weight: 400; text-align: left;\"><span data-preserver-spaces=\"true\">Get ready for an interdisciplinary program delivered by professionals from cloud-native architectures, data engineering &amp; data science, developer tooling, frontend engineering, and UX area.</span></p>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": null,
+        "block_background_color": "#e9e4e0",
+        "block_font_color": "#0c1e19",
+        "menu_label": "About"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-conf-2022-agenda",
+      "anchor": "acf-block-634941266dc22",
+      "data": {
+        "block_title": "Conference schedule",
+        "block_agenda": [
+          {
+            "label": "Day 1 - Tuesday, 20.09",
+            "day_schedule": [
+              {
+                "item_type": "other",
+                "start_time": "17:00:00",
+                "end_time": "18:00:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Registration",
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "18:00:00",
+                "end_time": null,
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Event opening",
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "18:15:00",
+                "end_time": "18:35:00",
+                "selected_talk": 3239,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": "Recently I’ve made a little experiment trying to create a clone of the Space Invaders game not writing a single line of code. I employed Github Copilot AI to do it. It kind of worked but also filled my head with ideas. How did it work? Will AI take developers' jobs soon? Are we all doomed?\r\n",
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "18:45:00",
+                "end_time": "19:05:00",
+                "selected_talk": 3249,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "19:05:00",
+                "end_time": null,
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "<small>15-minute break</small>",
+                "icon": {
+                  "id": 3206,
+                  "url": "/uploads/2022/04/icon_coffee.png",
+                  "alt": "Coffee icon",
+                  "width": 55,
+                  "height": 54
+                }
+              },
+              {
+                "item_type": "talk",
+                "start_time": "19:20:00",
+                "end_time": "19:40:00",
+                "selected_talk": 3233,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": "Dumping all your code into a single shared monorepository is all the rage. But our tooling is only catching up with the new paradigm. \r\n\r\nWe'll go over how large repositories and common patterns in them are breaking long-standing assumptions in IntelliJ IDEA in terms of project model, performance, and user experience. Then we will take a look at our current ideas and approaches to solving these problems in a monorepo world.",
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "talk",
+                "start_time": "19:50:00",
+                "end_time": "20:30:00",
+                "selected_talk": 3287,
+                "is_keynote": true,
+                "link_talk": false,
+                "talk_summary": "<!-- wp:paragraph -->\r\n<p>The Economic Progression Model proposed by Joseph Pine and James Gilmore depicts the economic development in the Western world as it is happening in front of our eyes. From one stance, you can say that the final stage: transformational experience is the natural end of the proposed progression. </p>\r\n<!-- /wp:paragraph -->\r\n\r\n<!-- wp:paragraph -->\r\n<p>From another stance, though, we may consider it an end to a certain phase of economic progress and an opening to a new perspective - delivering value. Such value goes beyond the monetary gain and encapsulates the broad range of change we want to see in the world. Through my presentation, I would like to invite you to a discussion on how experience design could elevate transformative change through contributions that positively impact the world in the direction we hope for.</p>\r\n<!-- /wp:paragraph -->",
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "20:30:00",
+                "end_time": "02:00:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Afterparty",
+                "icon": {
+                  "id": 3207,
+                  "url": "/uploads/2022/04/icon_glasses.png",
+                  "alt": "Glasses icon",
+                  "width": 60,
+                  "height": 74
+                }
+              }
+            ],
+            "add_load_more_button": false,
+            "show_more_index": null
+          },
+          {
+            "label": "Day 2 - Wednesday, 21.09",
+            "day_schedule": [
+              {
+                "item_type": "other",
+                "start_time": "09:00:00",
+                "end_time": "10:00:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Registration",
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "10:00:00",
+                "end_time": "10:30:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Breakfast",
+                "icon": {
+                  "id": 3208,
+                  "url": "/uploads/2022/04/icon_breakfast.png",
+                  "alt": "Breakfast icon",
+                  "width": 72,
+                  "height": 48
+                }
+              },
+              {
+                "item_type": "talk",
+                "start_time": "10:40:00",
+                "end_time": "11:10:00",
+                "selected_talk": 3199,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "11:10:00",
+                "end_time": null,
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "<small>20-minute break</small>",
+                "icon": {
+                  "id": 3206,
+                  "url": "/uploads/2022/04/icon_coffee.png",
+                  "alt": "Coffee icon",
+                  "width": 55,
+                  "height": 54
+                }
+              },
+              {
+                "item_type": "talk",
+                "start_time": "11:30:00",
+                "end_time": "12:00:00",
+                "selected_talk": 3200,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "12:00:00",
+                "end_time": null,
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "<small>20-minute break</small>",
+                "icon": {
+                  "id": 3206,
+                  "url": "/uploads/2022/04/icon_coffee.png",
+                  "alt": "Coffee icon",
+                  "width": 55,
+                  "height": 54
+                }
+              },
+              {
+                "item_type": "talk",
+                "start_time": "12:20:00",
+                "end_time": "12:50:00",
+                "selected_talk": 3201,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "13:00:00",
+                "end_time": null,
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "<small>Lunch break</small>",
+                "icon": {
+                  "id": 3209,
+                  "url": "/uploads/2022/04/icon_lunch.png",
+                  "alt": "Lunch icon",
+                  "width": 60,
+                  "height": 60
+                }
+              },
+              {
+                "item_type": "talk",
+                "start_time": "14:00:00",
+                "end_time": "14:30:00",
+                "selected_talk": 3202,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "14:30:00",
+                "end_time": null,
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "<small>20-minute break</small>",
+                "icon": {
+                  "id": 3206,
+                  "url": "/uploads/2022/04/icon_coffee.png",
+                  "alt": "Coffee icon",
+                  "width": 55,
+                  "height": 54
+                }
+              },
+              {
+                "item_type": "talk",
+                "start_time": "14:50:00",
+                "end_time": "15:20:00",
+                "selected_talk": 3213,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": "Some time ago me and my colleague set out to create our own, typescript-focused react form library. It turned out to be one of the most fun experiences of my career, full of interesting engineering challenges. We ended up creating Atom-based state management, composable value decoders, an alternative Promise implementation, and more - just for the purpose of our project. \r\n\r\nThis talk will focus on our journey, what we have learned, and the technical details rather than the library itself.",
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "15:20:00",
+                "end_time": null,
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "<small>20-minute break</small>",
+                "icon": {
+                  "id": 3206,
+                  "url": "/uploads/2022/04/icon_coffee.png",
+                  "alt": "Coffee icon",
+                  "width": 55,
+                  "height": 54
+                }
+              },
+              {
+                "item_type": "talk",
+                "start_time": "15:40:00",
+                "end_time": "16:10:00",
+                "selected_talk": 3230,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": "Time series are everywhere in science and business, and the ability to forecast them accurately and efficiently can provide decisive advantages. Darts is an open-source Python library that provides a wide variety of forecasting models and tools under a single and user-friendly API. It emphasizes reducing the experiment cycle duration and improving the ease of using, comparing, and combining different models, from ARIMA to deep learning models.\r\nThis talk will give a tour of Darts and some of its main features, such as quick creation and comparison of forecasting models, backtesting, and ML-based models applied to time series forecasting. We will review a few toy examples and see how to address them in a few lines of code.",
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "16:10:00",
+                "end_time": null,
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "<small>20-minute break</small>",
+                "icon": {
+                  "id": 3206,
+                  "url": "/uploads/2022/04/icon_coffee.png",
+                  "alt": "Coffee icon",
+                  "width": 55,
+                  "height": 54
+                }
+              },
+              {
+                "item_type": "talk",
+                "start_time": "16:30:00",
+                "end_time": "17:00:00",
+                "selected_talk": 3282,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": "Our clients don't know what they need. This happens because no one can foresee the future.\r\nRequirements will evolve and change rapidly over the lifecycle of the project. That's why we need to constantly refine systems.\r\nWe can keep building and discarding prototypes, but it's extremely costly.\r\nOften we can't afford to rewrite everything from scratch only because some new domain insights were discovered.\r\n\r\nThis eventually leads to a mismatched model.\r\nIs there another way?\r\n\r\nWe can focus on domain only and refine our model through examples, until we find the right conceptual contours (http://ddd.fed.wiki.org/view/welcome-visitors/view/conceptual-contours).\r\nEach such iteration of the model is a kind of experiment challenging the upfront decisions.\r\n\r\nDuring this presentation I'm going to show how you can use example mapping combined with business-oriented TDD to be able to run rapid experiments directly on the domain model, without a need to rewrite the system again.",
+                "item_title": null,
+                "icon": null
+              },
+              {
+                "item_type": "other",
+                "start_time": "17:00:00",
+                "end_time": "17:15:00",
+                "selected_talk": null,
+                "is_keynote": false,
+                "link_talk": false,
+                "talk_summary": null,
+                "item_title": "Closing remarks",
+                "icon": null
+              }
+            ],
+            "add_load_more_button": false,
+            "show_more_index": null
+          }
+        ],
+        "block_background_image": {
+          "id": 4225,
+          "url": "/uploads/2022/04/sphere_it_conf_2022_agenda_bg.png",
+          "alt": "Sphere.it conf 2022 &#8211; Agenda bg",
+          "width": 2560,
+          "height": 1646
+        },
+        "block_background_color": null,
+        "block_font_color": null,
+        "menu_label": "Agenda"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-634941266dc97",
+      "data": {
+        "block_title": "Speakers",
+        "automatic_selection": false,
+        "speaker_groups": [
+          {
+            "group_label": null,
+            "speakers": [
+              983,
+              3121,
+              1788,
+              204,
+              3211,
+              372,
+              269,
+              3236,
+              2220,
+              3277,
+              3276
+            ]
+          }
+        ],
+        "block_background_color": "#e9e4e0",
+        "block_font_color": "#0c1e19",
+        "menu_label": "Speakers"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-634941266dcb3",
+      "data": {
+        "block_description": "<h2 class=\"heading-3\">This year's event will take place at the exceptional Manggha Museum space.</h2>\r\n<span style=\"font-weight: 400;\">The building’s architects designed the museum as a meeting place for two cultures. This makes it the perfect venue for tech pros from across the globe to </span><span style=\"font-weight: 400;\">network and share their expertise. </span>\r\n\r\n<span style=\"font-weight: 400;\">The surroundings and talks provide an ideal icebreaker to reunite with the Sphere.it community.</span>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 2881,
+          "url": "/uploads/2022/04/manggha-min_x.jpg",
+          "alt": "Sphere.it conf 2022 &#8211; Manggha",
+          "width": 1440,
+          "height": 960
+        },
+        "switch_text_side": false,
+        "block_background_color": "#d75a3b",
+        "block_font_color": "#0c1f16",
+        "menu_label": "Venue"
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-sponsors",
+      "anchor": "acf-block-634941266dd1d",
+      "data": {
+        "logotypes_alignment": true,
+        "sponsor_groups": [
+          {
+            "label": "Community Partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2706,
+                  "url": "/uploads/2022/02/tryit.png",
+                  "alt": "Fundacja Try IT logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.tryit.org.pl/en/"
+              },
+              {
+                "logotype": {
+                  "id": 2984,
+                  "url": "/uploads/2022/04/jdd.png",
+                  "alt": "JDD logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://jdd.org.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2985,
+                  "url": "/uploads/2022/04/hackyeah.png",
+                  "alt": "HackYeah logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://hackyeah.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2987,
+                  "url": "/uploads/2022/04/4dev.png",
+                  "alt": "4Developers logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://4developers.org.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 2991,
+                  "url": "/uploads/2022/04/ksug.png",
+                  "alt": "Kraków Scala User Group logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.meetup.com/pl-PL/Krakow-Scala-User-Group/"
+              },
+              {
+                "logotype": {
+                  "id": 2990,
+                  "url": "/uploads/2022/04/rjug.png",
+                  "alt": "Rzeszów Java User Group logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.meetup.com/pl-PL/Rzeszow-Java-User-Group/"
+              },
+              {
+                "logotype": {
+                  "id": 2989,
+                  "url": "/uploads/2022/04/kjug.png",
+                  "alt": "Kielce Java User Group logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.meetup.com/pl-PL/Kielce-Java-User-Group/"
+              },
+              {
+                "logotype": {
+                  "id": 2988,
+                  "url": "/uploads/2022/04/cngk.png",
+                  "alt": "Krakow Cloud Native Group logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.meetup.com/pl-PL/Krakow-Cloud-Native/"
+              },
+              {
+                "logotype": {
+                  "id": 2744,
+                  "url": "/uploads/2022/02/Kernel1.png",
+                  "alt": "KERNEL logotype",
+                  "width": 4000,
+                  "height": 1000
+                },
+                "url": "http://kernel.fis.agh.edu.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3019,
+                  "url": "/uploads/2022/04/codex-logo_1.png",
+                  "alt": "CodeX 2022 logotype",
+                  "width": 2501,
+                  "height": 1411
+                },
+                "url": "https://www.hackcodex.eu/"
+              },
+              {
+                "logotype": {
+                  "id": 3021,
+                  "url": "/uploads/2022/04/logo_black.png",
+                  "alt": "Studenckie Koło Naukowe Informatyków KOD logotype",
+                  "width": 1920,
+                  "height": 1032
+                },
+                "url": "https://kod.prz.edu.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3140,
+                  "url": "/uploads/2022/04/xor-logo-trans-huge-black.png",
+                  "alt": "Grupa XOR logotype",
+                  "width": 6000,
+                  "height": 3135
+                },
+                "url": "https://www.facebook.com/grupaxor"
+              },
+              {
+                "logotype": {
+                  "id": 3167,
+                  "url": "/uploads/2022/04/1_wsei_black.png",
+                  "alt": "Wyższa Szkoła Ekonomii i Informatyki w Krakowie logotype",
+                  "width": 4568,
+                  "height": 863
+                },
+                "url": "https://wsei.edu.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3172,
+                  "url": "/uploads/2022/04/Logo-4P.png",
+                  "alt": "4programmers.net logotype",
+                  "width": 1647,
+                  "height": 222
+                },
+                "url": "https://4programmers.net/"
+              },
+              {
+                "logotype": {
+                  "id": 3190,
+                  "url": "/uploads/2022/04/AGH_Krakow_black.png",
+                  "alt": "EESTEC AGH Kraków logotype",
+                  "width": 4167,
+                  "height": 2942
+                },
+                "url": "https://www.facebook.com/EESTEC.AGH.Krakow/"
+              },
+              {
+                "logotype": {
+                  "id": 3191,
+                  "url": "/uploads/2022/04/DataCommunity_black.png",
+                  "alt": "Data Community Poland logotype",
+                  "width": 2443,
+                  "height": 732
+                },
+                "url": "https://datacommunity.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3192,
+                  "url": "/uploads/2022/04/kraqa_black.png",
+                  "alt": "KraQA logotype",
+                  "width": 934,
+                  "height": 358
+                },
+                "url": "https://kraqa.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3195,
+                  "url": "/uploads/2022/04/kgd_logo.png",
+                  "alt": "Krakowska Grupa Deweloperów .NET logotype",
+                  "width": 500,
+                  "height": 512
+                },
+                "url": "https://www.facebook.com/kgdnet"
+              },
+              {
+                "logotype": {
+                  "id": 3255,
+                  "url": "/uploads/2022/04/SilesiaJUG-1.png",
+                  "alt": "Silesia Java Users Group logotype",
+                  "width": 512,
+                  "height": 530
+                },
+                "url": "https://silesia.jug.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3256,
+                  "url": "/uploads/2022/04/logo-KPT-kolor.png",
+                  "alt": "Krakowski Park Technologiczny logotype",
+                  "width": 1112,
+                  "height": 264
+                },
+                "url": "https://www.kpt.krakow.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3258,
+                  "url": "/uploads/2022/04/cropped-P_M_-_logo_2.1.1-removebg-preview.png",
+                  "alt": "Pani Managerka logotype",
+                  "width": 472,
+                  "height": 179
+                },
+                "url": "https://www.panimanagerka.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3263,
+                  "url": "/uploads/2022/04/Przechwytywanie.png",
+                  "alt": "ScalaWAW logotype",
+                  "width": 958,
+                  "height": 615
+                },
+                "url": "https://www.meetup.com/pl-PL/scalawaw/"
+              },
+              {
+                "logotype": {
+                  "id": 3259,
+                  "url": "/uploads/2022/04/Jet_Brains.png",
+                  "alt": "JetBrains logotype",
+                  "width": 512,
+                  "height": 530
+                },
+                "url": "https://www.jetbrains.com/"
+              },
+              {
+                "logotype": {
+                  "id": 2790,
+                  "url": "/uploads/2022/02/bit-logo-signed-transparent-black.png",
+                  "alt": "Koło naukowe BIT logotype",
+                  "width": 366,
+                  "height": 234
+                },
+                "url": "https://knbit.edu.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3267,
+                  "url": "/uploads/2022/04/1.png",
+                  "alt": "Wydziałowa Rada Samorządu Studentów WIEiT logotype",
+                  "width": 1983,
+                  "height": 1643
+                },
+                "url": "https://www.facebook.com/WRSSWIET/"
+              },
+              {
+                "logotype": {
+                  "id": 3272,
+                  "url": "/uploads/2022/04/mikrus_bialy.png",
+                  "alt": "Mikrus logotype",
+                  "width": 500,
+                  "height": 500
+                },
+                "url": "https://mikr.us/"
+              },
+              {
+                "logotype": {
+                  "id": 3301,
+                  "url": "/uploads/2022/04/avatar_2000-1.png",
+                  "alt": "Hackerspace Kraków logotype",
+                  "width": 2000,
+                  "height": 2000
+                },
+                "url": "https://hackerspace-krk.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3302,
+                  "url": "/uploads/2022/04/polish_jug.png",
+                  "alt": "Polish Java User Group logotype",
+                  "width": 3333,
+                  "height": 2335
+                },
+                "url": "https://www.java.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3317,
+                  "url": "/uploads/2022/04/Cezary-Walenciuk_logo.png",
+                  "alt": "Cezary Walenciuk Programowanie logotype",
+                  "width": 2624,
+                  "height": 2322
+                },
+                "url": "https://cezarywalenciuk.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3322,
+                  "url": "/uploads/2022/04/kolo_naukowe_ur-2.png",
+                  "alt": "Koło Naukowe Informatyków Uniwersytetu Rzeszowskiego logotype",
+                  "width": 1208,
+                  "height": 759
+                },
+                "url": "https://www.facebook.com/KoloNaukoweInformatykow"
+              },
+              {
+                "logotype": {
+                  "id": 3320,
+                  "url": "/uploads/2022/04/przeprog-haslo-1.png",
+                  "alt": "Przeprogramowani logotype",
+                  "width": 1633,
+                  "height": 395
+                },
+                "url": "https://przeprogramowani.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3339,
+                  "url": "/uploads/2022/04/akutalne-11_24_19-1.png",
+                  "alt": "Women in Technology logotype",
+                  "width": 1024,
+                  "height": 769
+                },
+                "url": "https://womenintechnology.pl/"
+              }
+            ]
+          },
+          {
+            "label": "Media Partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 3164,
+                  "url": "/uploads/2022/04/MTC-logo-czarne.jpg",
+                  "alt": "MobileTrends logotype",
+                  "width": 1024,
+                  "height": 1024
+                },
+                "url": "https://mobiletrends.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3223,
+                  "url": "/uploads/2022/04/review_logo_black_white_150dpi.png",
+                  "alt": "Re:view logotype",
+                  "width": 500,
+                  "height": 300
+                },
+                "url": "https://thereview.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3152,
+                  "url": "/uploads/2022/04/logo_mono.png",
+                  "alt": "Vived logotype",
+                  "width": 2560,
+                  "height": 1051
+                },
+                "url": "https://vived.io/"
+              },
+              {
+                "logotype": {
+                  "id": 2669,
+                  "url": "/uploads/2021/12/logo_cross.png",
+                  "alt": "Crossweb logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://crossweb.pl/"
+              },
+              {
+                "logotype": {
+                  "id": 3174,
+                  "url": "/uploads/2022/04/DareIT-Logo-1.png",
+                  "alt": "Dare IT logotype",
+                  "width": 460,
+                  "height": 240
+                },
+                "url": "https://www.dareit.io/"
+              },
+              {
+                "logotype": {
+                  "id": 3253,
+                  "url": "/uploads/2022/04/JustJoin_logotype4x-e1676017519933.png",
+                  "alt": "Just Join IT logotype",
+                  "width": 800,
+                  "height": 162
+                },
+                "url": "https://justjoin.it/"
+              },
+              {
+                "logotype": {
+                  "id": 3304,
+                  "url": "/uploads/2022/04/mr.png",
+                  "alt": "Mateusz Rus logotype",
+                  "width": 562,
+                  "height": 121
+                },
+                "url": "https://mateuszrus.pl/"
+              }
+            ]
+          },
+          {
+            "label": "Gold Sponsor",
+            "members": [
+              {
+                "logotype": {
+                  "id": 3266,
+                  "url": "/uploads/2022/04/Motorola_BW_Horizontal_RGB_1118-1.png",
+                  "alt": "Motorola Solutions logotype",
+                  "width": 2850,
+                  "height": 320
+                },
+                "url": "https://www.motorolasolutions.com/pl_pl.html"
+              },
+              {
+                "logotype": {
+                  "id": 3313,
+                  "url": "/uploads/2022/04/AVSystem_logo_podstawowe_Achromatyczne.png",
+                  "alt": "AVSystem logotype",
+                  "width": 1999,
+                  "height": 974
+                },
+                "url": "https://www.avsystem.com/careers/"
+              }
+            ]
+          },
+          {
+            "label": "Hosted by",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2672,
+                  "url": "/uploads/2022/02/vl.png",
+                  "alt": "VirtusLab logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://virtuslab.com/"
+              }
+            ]
+          }
+        ],
+        "block_background_color": null,
+        "menu_label": "Partners"
+      }
+    }
+  ],
+  "formReplaced": false
+}

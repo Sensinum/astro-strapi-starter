@@ -1,0 +1,36 @@
+{
+  "wpId": 4896,
+  "title": "Michalina Kotwica",
+  "slug": "michalina-kotwica",
+  "path": "/contributor/michalina-kotwica/",
+  "date": "2024-02-08 17:02:46",
+  "modified": "2024-02-29 22:44:52",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Advisory Software Engineer at IBM",
+    "speaker_avatar": {
+      "id": 4897,
+      "url": "/uploads/2024/02/a6fc4722-1b8c-48d3-825a-032e3f9789b9.jpg",
+      "alt": "a6fc4722-1b8c-48d3-825a-032e3f9789b9",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Kotwica",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/michalina-kotwica/",
+    "speaker_gh": "https://github.com/Udiknedormin",
+    "speaker_add_info": "IBM"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Open-source enthusiast and contributor, both at work and in her free time. I saw communities being born, rising and sometimes falling. I'm also a rare programming languages huntress, I've studied async Rust back when its design was but a blog note and used Fortran 66 in 21st century. Having said that, I'm hardly a loner - I teach, I mentor, I lead. And when the day is over, I grab some dice and play role-playing games. I have a cat and if the mood takes me, I'm known to try my hand at poetry. </p>"
+    }
+  ],
+  "formReplaced": false
+}

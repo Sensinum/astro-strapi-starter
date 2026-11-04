@@ -1,0 +1,37 @@
+{
+  "wpId": 549,
+  "title": "Steffen Gebert",
+  "slug": "steffen-gebert",
+  "path": "/contributor/steffen-gebert/",
+  "date": "2020-01-01 00:00:51",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "EMnify",
+    "speaker_avatar": false,
+    "speaker_surname": "Gebert",
+    "speaker_twitter": "https://twitter.com/StGebert",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Steffen codes at EMnify, a mobile virtual network operator (MVNO) running a custom-built mobile core network for the Internet of Things. He is eager about applying continuous delivery to this Akka-based environment and currently paving the road for it. Before joining EMnify in 2017, he was a researcher at the University of Würzburg and received his PhD for his thesis on software-based networks.</p>"
+    }
+  ],
+  "formReplaced": false
+}

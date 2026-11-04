@@ -1,0 +1,28 @@
+{
+  "wpId": 4923,
+  "title": "Fostering growth through knowledge sharing",
+  "slug": "fostering-growth-through-knowledge-sharing",
+  "path": "/watch/fostering-growth-through-knowledge-sharing/",
+  "date": "2024-02-13 09:45:29",
+  "modified": "2024-02-13 09:45:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2024",
+    "talks_speakers": [
+      3994
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The famous quote states that \"love is the only thing that grows when sharing.\" However, I believe that's not entirely true: there's another element - knowledge. As someone who fell in love with coding through a voluntary event (hello Rails Girls Kraków), I always knew that, once I became a programmer, I wanted to give back to the tech community. The longer I engage in these activities, the more I realize how much I still benefit from them.</p>\n\n\n\n<p>In my session, I'll share tips and insights based on years of experience in teaching, writing tech articles, mentoring, and organizing events. What do I love the most? Why do I believe in volunteering and sharing knowledge? What wouldn't I do if I knew then what I know today? And, of course, is it all worth it? I'll also provide practical advice on how to start, where to find an audience for your initiatives, and how not to neglect yourself amidst these responsibilities (lessons I had to learn the hard way).</p>\n\n\n\n<p>I hope that after this session, you'll become part of a community where individuals grow and advance in their careers while not only focusing on themselves but also assisting others. Together, we can create a more inclusive, supportive, and better IT world for all of us.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,35 @@
+{
+  "wpId": 321,
+  "title": "Hugh McKee",
+  "slug": "hugh-mckee",
+  "path": "/contributor/hugh-mckee/",
+  "date": "2020-01-01 00:01:41",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Developer Advocate at Lightbend",
+    "speaker_avatar": {
+      "id": 322,
+      "url": "/uploads/2021/03/Hugh_McKee.jpeg",
+      "alt": "Hugh McKee",
+      "width": 240,
+      "height": 240
+    },
+    "speaker_surname": "McKee",
+    "speaker_twitter": "https://twitter.com/mckeeh3",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/mckeehugh/",
+    "speaker_gh": "https://github.com/mckeeh3"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Hugh McKee is a developer advocate at Lightbend. He has had a long career building applications that evolved slowly, that inefficiently utilized their infrastructure, and were brittle and prone to failure. Hugh has learned from his past mistakes, battle scars, and a few wins. </p>\n\n\n\n<p>And the learning never stops. Now his focus is on helping other developers and architects build resilient, scalable, reactive, distributed systems. Hugh frequently speaks at conferences. He is the author of Designing Reactive Systems: The Role Of Actors In Distributed Architecture.</p>"
+    }
+  ],
+  "formReplaced": false
+}

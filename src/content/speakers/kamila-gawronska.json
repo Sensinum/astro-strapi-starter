@@ -1,0 +1,43 @@
+{
+  "wpId": 2667,
+  "title": "Kamila Gawrońska",
+  "slug": "kamila-gawronska",
+  "path": "/contributor/kamila-gawronska/",
+  "date": "2022-02-16 10:47:28",
+  "modified": "2022-02-24 15:03:10",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "IT Manager at Vattenfall",
+    "speaker_avatar": {
+      "id": 2718,
+      "url": "/uploads/2022/02/IMG_2941-Kamila-Gawrońska.jpg",
+      "alt": "Kamila Gawrońska",
+      "width": 960,
+      "height": 1300
+    },
+    "speaker_surname": "Gawrońska",
+    "speaker_twitter": "https://twitter.com/kamagawronska",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/kamila-gawronska/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Kamila is a biomedical engineer, electronics engineer, and project manager by education. She believes that everyone is able to learn anything if they really want it. During her almost 10 years of activity in the IT world, she was a software tester, business analyst, UX designer, and project manager.<br>She gained experience in research and development projects in the area of construction, automotive, medical and smart city industries. For many years, she has been sharing her knowledge during various industry events. She likes to question the status quo and conduct verbal fencing on arguments supported by hard data, for which the teams she works with either like or hate her. As befits a girl from a polytechnic university, she likes beer in the company of strict minds.</p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

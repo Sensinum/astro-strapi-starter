@@ -1,0 +1,43 @@
+{
+  "wpId": 273,
+  "title": "Marcin Szeliga",
+  "slug": "marcin-szeliga",
+  "path": "/contributor/marcin-szeliga/",
+  "date": "2020-01-01 00:01:53",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Data Scientist and Machine Learning practitioner  Independent consultant",
+    "speaker_avatar": {
+      "id": 274,
+      "url": "/uploads/2021/03/Marcin_Szeliga.jpeg",
+      "alt": "Marcin Szeliga",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_surname": "Szeliga",
+    "speaker_twitter": "https://twitter.com/sqlexpert_pl",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/marcinszeliga/ f",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Data Scientist and Machine Learning practitioner. Independent consultant solving customers data-related problems. Since 2006 invariably awarded Microsoft Most Valuable Professional title, previously in the Data Platform, now in AI category. A speaker at numerous conferences across Europe, as well as at user groups meetings. The author of many books and articles devoted to Microsoft Data Platform.</p>"
+    }
+  ],
+  "formReplaced": false
+}

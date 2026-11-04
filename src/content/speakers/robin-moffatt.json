@@ -1,0 +1,48 @@
+{
+  "wpId": 209,
+  "title": "Robin Moffatt",
+  "slug": "robin-moffatt",
+  "path": "/contributor/robin-moffatt/",
+  "date": "2020-01-01 00:02:17",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      },
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Developer Advocate at Confluent",
+    "speaker_avatar": {
+      "id": 210,
+      "url": "/uploads/2021/03/robin_moffatt.jpg",
+      "alt": "Robin Moffatt",
+      "width": 480,
+      "height": 480
+    },
+    "speaker_surname": "Moffatt",
+    "speaker_twitter": "https://twitter.com/rmoff",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/robinmoffatt/",
+    "speaker_gh": "https://github.com/rmoff"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Robin is a Developer Advocate at Confluent, the company founded by the creators of Apache Kafka, as well as an Oracle ACE Director and Developer Champion. His career has always involved data, from the old worlds of COBOL and DB2, through the worlds of Oracle and Hadoop, and into the current world with Kafka.</p>\n\n\n\n<p>His particular interests are analytics, systems architecture, performance testing and optimization.</p>\n\n\n\n<p>He blogs at http://cnfl.io/rmoff and http://rmoff.net/ (and previously http://ritt.md/rmoff). Outside of work he enjoys drinking good beer and eating fried breakfasts, although generally not at the same time.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,37 @@
+{
+  "wpId": 5156,
+  "title": "Brijesh Luthra",
+  "slug": "brijesh-luthra",
+  "path": "/contributor/brijesh-luthra/",
+  "date": "2024-04-19 13:08:35",
+  "modified": "2024-04-19 13:08:35",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5157,
+      "url": "/uploads/2024/04/1679652330940.jpeg",
+      "alt": "1679652330940",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_position": "Digital Transformation, Innovation & Value Creation Leader - CxO Advisor",
+    "speaker_add_info": "",
+    "speaker_surname": "Brijesh Luthra",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/brijeshluthra/",
+    "speaker_gh": "",
+    "desc_episodes": "• Business leader with >20 years of experience in driving Business & Digital transformation, innovation, Quality & Operational excellence, value creation, business turnaround, Strategic deals sourcing & advisory and Target Operating Model design for global firms across across Europe, US & Asia\r\n• Multi industry experience ranging from financial services, industrial, consulting & outsourced services\r\n• Led transformation project portfolios >100 M USD investment budget, project delivery teams, outsourced services engagements & external provider management \r\n• Realized >200 M USD value by harnessing the power of data, technology, people & process\r\n• Set-up & led new business units, project delivery organisations, managed private equity led value creation programs & integrations"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Digital Transformation, Innovation &amp; Value Creation Leader - CxO Advisor</p>"
+    }
+  ],
+  "formReplaced": false
+}

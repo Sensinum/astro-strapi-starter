@@ -1,0 +1,43 @@
+{
+  "wpId": 384,
+  "title": "Artur Skowroński",
+  "slug": "artur-skowronski",
+  "path": "/contributor/artur-skowronski/",
+  "date": "2020-01-01 00:01:15",
+  "modified": "2024-01-26 09:47:07",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Head of Java & Kotlin Engineering at VirtusLab",
+    "speaker_avatar": {
+      "id": 4823,
+      "url": "/uploads/2020/01/vl-376-scaled.jpg",
+      "alt": "vl-376",
+      "width": 2551,
+      "height": 2560
+    },
+    "speaker_surname": "Skowroński",
+    "speaker_twitter": "https://twitter.com/ArturSkowronski?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/arturskowronski/",
+    "speaker_gh": "https://github.com/ArturSkowronski"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Head of Java/Kotlin Engineering at VirtusLab, in the industry for more than ten years. During this time, he has had the opportunity to work in various roles, such as Software Engineer, Tech Lead, Architect, and even Technical Product Manager.</p>\n\n\n\n<p>He still loves to get his hands dirty - for more than two years, he has been publishing weekly reviews of events in the JVM world - https://vived.substack.com</p>"
+    }
+  ],
+  "formReplaced": false
+}

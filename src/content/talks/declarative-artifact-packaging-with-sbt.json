@@ -1,0 +1,43 @@
+{
+  "wpId": 467,
+  "title": "Declarative artifact packaging with SBT",
+  "slug": "declarative-artifact-packaging-with-sbt",
+  "path": "/watch/declarative-artifact-packaging-with-sbt/",
+  "date": "2020-01-01 00:02:38",
+  "modified": "2021-03-31 15:13:07",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 81,
+        "slug": "sbt",
+        "name": "SBT"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=h9OGdvdIJVA",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      319
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Scala plugin for IntelliJ has a fairly complicated build with tens of subprojects, hundreds of dependencies and an artifact which has to be built according to a specific structure. We developed an in-house SBT plugin to help us get rid of tedious task of imperative artifact assembly. The plugin automatically infers artifact structure based on inter-project dependencies, dramatically reducing build file complexity. This talk aims to share our experience and the plugin itself with the Scala community.</p>"
+    }
+  ],
+  "formReplaced": false
+}

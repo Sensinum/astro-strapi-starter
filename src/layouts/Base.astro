@@ -1,0 +1,97 @@
+---
+import { readdirSync, statSync } from 'node:fs';
+import nodePath from 'node:path';
+import Nav from '../components/Nav.astro';
+import Footer from '../components/Footer.astro';
+import { seoTitle } from '../lib/format';
+import type { MenuItem } from '../data/site';
+
+interface Props {
+  title: string;
+  description?: string;
+  image?: string;
+  path?: string;
+  bodyClass?: string;
+  podcastNav?: boolean;
+  scrollItems?: { label: string; href: string }[];
+  navColor?: string;
+  menu?: MenuItem[];
+}
+const { title, description = '', image, path = '/', bodyClass = '', podcastNav = false, scrollItems = [], navColor, menu } = Astro.props;
+const fullTitle = seoTitle(title, title);
+const canonical = new URL(path, Astro.site);
+const ogImage = image ? new URL(image, Astro.site).toString() : undefined;
+
+function walk(dir: string, acc: string[] = []) {
+  for (const name of readdirSync(dir)) {
+    const full = nodePath.join(dir, name);
+    if (statSync(full).isDirectory()) walk(full, acc);
+    else acc.push(full);
+  }
+  return acc;
+}
+const blockCss = walk(nodePath.join(process.cwd(), 'public/theme/src/template-parts/blocks'))
+  .filter((file) => file.endsWith('.css'))
+  .map((file) => `/${nodePath.relative(nodePath.join(process.cwd(), 'public'), file)}`);
+const blockScripts = [
+  'theme-v2/header-home-v2/assets/block-header-home-v2.js',
+  'theme-v2/slider-half-screen/assets/block-slider-half-screen.js',
+  'theme-v2/green-line-separator/assets/block-green-line-separator.js',
+  'theme-v2/podcast/assets/block-podcast.js',
+  'theme-v2/slideshow/assets/block-slideshow.js',
+  'theme-v2/vived-promo/assets/block-vived-promo.js',
+  'theme-v2/contact/assets/block-contact.js',
+  'theme-v2/header-podcast/assets/block-header-podcast.js',
+  'theme-v2/podcasts-slider/assets/block-podcasts-slider.js',
+  'theme-v2/logo-with-text/assets/block-logo-with-text.js',
+  'page-blocks/faq-accordion/assets/block-faq-accordion.js',
+  'event-page/conf-2022-agenda/assets/block-conf-2022-agenda.js',
+  'sections-home/speaker-cta/assets/block-speaker-cta.js',
+].map((file) => `/theme/src/template-parts/blocks/${file}`);
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>{fullTitle}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="canonical" href={canonical} />
+    <meta property="og:title" content={fullTitle} />
+    {description && <meta property="og:description" content={description} />}
+    <meta property="og:url" content={canonical} />
+    <meta property="og:type" content="website" />
+    {ogImage && <meta property="og:image" content={ogImage} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="icon" href="/favicon.png" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,400&display=swap" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
+    <link rel="stylesheet" href="/theme/style.css" />
+    <link rel="stylesheet" href="/theme/assets/fonts/inter/inter.css" />
+    <link rel="stylesheet" href="/theme/assets/css/libraries/splide-core.min.css" />
+    {blockCss.map((href) => <link rel="stylesheet" href={href} />)}
+    <link rel="stylesheet" href="/theme/fixes.css" />
+    <script is:inline>
+      document.documentElement.className += ' js';
+    </script>
+  </head>
+  <body class={bodyClass}>
+    <div class="container-panoramic-fhd">
+      <Nav path={path} podcast={podcastNav} scrollItems={scrollItems} fontColor={navColor} menu={menu} />
+      <slot />
+      <Footer />
+    </div>
+    <script is:inline src="/theme/assets/js/jquery.min.js"></script>
+    <script is:inline src="/theme/assets/js/jquery-visible.min.js"></script>
+    <script is:inline src="/theme/assets/js/libraries/bootstrap.bundle.min.js"></script>
+    <script is:inline src="/theme/assets/js/lazy-loaders.min.js"></script>
+    <script is:inline src="/theme/assets/js/navigation.js"></script>
+    <script is:inline src="/theme/assets/js/custom-cursor.js"></script>
+    <script is:inline src="/theme/assets/js/libraries/splide.min.js"></script>
+    <script is:inline src="/theme/assets/js/libraries/splide-extension-intersection.min.js"></script>
+    {blockScripts.map((src) => <script is:inline src={src} />)}
+    <script is:inline src="/theme/filters.js"></script>
+  </body>
+</html>

@@ -1,0 +1,283 @@
+{
+  "wpId": 1559,
+  "title": "BUGinnings in IT",
+  "slug": "buginnings-in-it",
+  "path": "/event/buginnings-in-it/",
+  "date": "2021-07-28 00:51:18",
+  "modified": "2023-03-08 15:07:05",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2021/07/szer-1.png",
+  "seo": {
+    "ogImage": "/uploads/2021/07/szer-1.png"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 137,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "event_date": "23.08.2021",
+    "type_of_event": "wydarzenie stacjonarne",
+    "event_entry": "Barka, Kraków",
+    "event_artwork": {
+      "id": 1573,
+      "url": "/uploads/2021/07/buginnings.png",
+      "alt": "BUGinnings in IT",
+      "width": 2160,
+      "height": 2160
+    },
+    "event_register": {
+      "title": "Rejestracja",
+      "url": "https://app.evenea.pl/event/itbugginings/",
+      "target": "_blank"
+    },
+    "event_background_color": "#09b366",
+    "event_font_color": true,
+    "event_font_color_value": "#ffffff",
+    "reduce_font_size": "1",
+    "event_scroll_button": "about",
+    "event_series_label": "",
+    "event_agenda": [
+      {
+        "item_type": "talk",
+        "item_time": "18:10 – 18:45",
+        "talk_id": 1881,
+        "custom_title": "Historia aplikacji Nearbox, czyli przekleństwo lokalności i 5 lekcji z porażki",
+        "item_content": "",
+        "background_color": "#0c1c27",
+        "font_color": "#f7fafc",
+        "accent_font_color": "#0acc75"
+      },
+      {
+        "item_type": "talk",
+        "item_time": "18:45 - 19:20",
+        "talk_id": 1932,
+        "custom_title": "When life gives you lemons, make lemon grenades – czyli każda porażka jest nawozem sukcesu",
+        "item_content": "",
+        "background_color": "#0e212f",
+        "font_color": "#f7fafc",
+        "accent_font_color": "#0acc75"
+      },
+      {
+        "item_type": "talk",
+        "item_time": "19:20 - 19:55",
+        "talk_id": 2076,
+        "custom_title": "Od marzeń do rzeczywistości - jak to jest znaleźć pracę która staje się nasza pasją",
+        "item_content": "",
+        "background_color": "#12293b",
+        "font_color": "#f7fafc",
+        "accent_font_color": "#0acc75"
+      },
+      {
+        "item_type": "custom",
+        "item_time": "20:00",
+        "talk_id": false,
+        "custom_title": "Networking",
+        "item_content": "",
+        "background_color": "#153247",
+        "font_color": "#f7fafc",
+        "accent_font_color": "#0acc75"
+      }
+    ],
+    "header_background_image": false,
+    "buttons_background_color": "",
+    "buttons_font_color": "",
+    "alt_dynamic_menu": false,
+    "event_alt_title": "",
+    "event_date_hidden": false,
+    "event_artwork_listing": false,
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-about-text",
+      "anchor": "about",
+      "data": {
+        "block_title": null,
+        "block_description": "<p class=\"heading-3\" style=\"line-height: 132%; text-align: center;\">Każda historia ma swój początek, a początki bywają trudne. O pierwszych krokach w IT, sknoconych zadaniach, czy nietrafionych pomysłach będziecie mogli posłuchać <strong>już w poniedziałek, 23 sierpnia</strong>.</p>",
+        "block_background_color": "#f7fafc",
+        "block_font_color": "#275459",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "anchor": "acf-block-64089687e187e",
+      "data": {
+        "block_title": "Prelegenci",
+        "automatic_selection": true,
+        "speaker_groups": [],
+        "block_background_color": "#ffffff",
+        "block_font_color": "#0a0a0a",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-about-text",
+      "anchor": "about",
+      "data": {
+        "block_title": null,
+        "block_description": "Zaproszeni przez nas eksperci cofną się o setki tysięcy linijek kodu i kilkanaście projektów wstecz. Zdradzą, w którym momencie powinęła im się noga i jak wybrnęli z sytuacji, które w pierwszym momencie wydawały się nie mieć wyjścia.\r\n\r\nPo wielu miesiącach przerwy mamy okazję spotkać się na żywo i wymienić doświadczeniami, bo jak wiadomo - lepiej uczyć się na cudzych błędach, niż własnych!",
+        "block_background_color": "#f7fafc",
+        "block_font_color": "#275459",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-64089687e18ba",
+      "data": {
+        "block_description": "<h4 style=\"color: #0acc75; margin-bottom: 10px;\">17:30</h4>\r\n<h3>Otwarcie drzwi</h3>\r\n<h4 style=\"color: #0acc75; margin-bottom: 10px;\">18:00</h4>\r\n<h3>Rozpoczęcie spotkania</h3>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 1576,
+          "url": "/uploads/2021/07/agenda_img.png",
+          "alt": "BUGinnings in IT &#8211; agenda (Bugs #1, #2)",
+          "width": 2400,
+          "height": 1600
+        },
+        "switch_text_side": false,
+        "block_background_color": "#09151e",
+        "block_font_color": "#f7fafc",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-event-agenda",
+      "anchor": "acf-block-64089687e18d5",
+      "data": {
+        "block_title": null,
+        "block_background_color": null,
+        "block_font_color": null,
+        "block_accent_font_color": null,
+        "smaller_paddings": false,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "anchor": "acf-block-64089687e18f5",
+      "data": {
+        "block_description": "<h3 style=\"color: #0acc75; margin-bottom: 10px;\">Wydarzenie odbędzie się stacjonarnie na krakowskiej Barce.</h3>\r\n<span style=\"opacity: 0.85;\">Jeśli tak jak my tęsknicie za rozmową przy butelce pysznego piwa i chętnie zrobicie sobie przerwę od ekranów monitorów zgarnijcie bilet i spędzicie z nami ten sierpniowy wieczór!</span>",
+        "block_button": {
+          "title": "Jak trafić?",
+          "url": "https://g.page/barkakrakow",
+          "target": "_blank"
+        },
+        "cta_background_color": "#f7fafc",
+        "cta_font_color": "#275459",
+        "cta_border_radius": 6,
+        "block_background_image": {
+          "id": 1593,
+          "url": "/uploads/2021/07/barka-1.png",
+          "alt": "BUGinnings in IT &#8211; barka (Bugs #1, #2)",
+          "width": 2400,
+          "height": 1600
+        },
+        "switch_text_side": true,
+        "block_background_color": "#193a52",
+        "block_font_color": "#f7fafc",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "anchor": "acf-block-64089687e191b",
+      "data": {
+        "block_title": null,
+        "block_description": "<h2 style=\"margin-bottom: 20px;\">Spotkajmy się na żywo!</h2>\r\n<h3 class=\"heading-4\" style=\"margin-bottom: 30px;\">23.08.2021 | 18:00 | BARKA KRAKÓW</h3>\r\nRównowartość biletu będzie do odbioru przy barze w dniu wydarzenia. Mamy tylko 50 miejsc, więc kto pierwszy ten lepszy!",
+        "block_button": {
+          "title": "Rejestracja",
+          "url": "https://app.evenea.pl/event/itbugginings/",
+          "target": "_blank"
+        },
+        "cta_background_color": "#26ff9d",
+        "cta_font_color": "#000000",
+        "cta_border_radius": 32,
+        "block_background_image": {
+          "id": 1592,
+          "url": "/uploads/2021/07/bg-1.png",
+          "alt": "BUGinnings in IT &#8211; bg (Bugs #1, #2)",
+          "width": 1920,
+          "height": 1080
+        },
+        "block_background_color": "#0a0101",
+        "block_font_color": "#fff",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-sponsors",
+      "anchor": "acf-block-64089687e1be9",
+      "data": {
+        "logotypes_alignment": true,
+        "sponsor_groups": [
+          {
+            "label": "Sponsors",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2672,
+                  "url": "/uploads/2022/02/vl.png",
+                  "alt": "VirtusLab logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://virtuslab.com/"
+              }
+            ]
+          },
+          {
+            "label": "Media Partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2669,
+                  "url": "/uploads/2021/12/logo_cross.png",
+                  "alt": "Crossweb logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://crossweb.pl/"
+              }
+            ]
+          },
+          {
+            "label": "Community Partners",
+            "members": [
+              {
+                "logotype": {
+                  "id": 2706,
+                  "url": "/uploads/2022/02/tryit.png",
+                  "alt": "Fundacja Try IT logotype",
+                  "width": 420,
+                  "height": 180
+                },
+                "url": "https://www.tryit.org.pl/pl/"
+              }
+            ]
+          }
+        ],
+        "block_background_color": null,
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

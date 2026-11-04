@@ -1,0 +1,53 @@
+{
+  "wpId": 462,
+  "title": "Tame Crypto Events With Streaming",
+  "slug": "tame-crypto-events-with-streaming",
+  "path": "/watch/tame-crypto-events-with-streaming/",
+  "date": "2020-01-01 00:02:43",
+  "modified": "2021-03-31 15:10:09",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 79,
+        "slug": "ddd",
+        "name": "DDD"
+      },
+      {
+        "id": 80,
+        "slug": "event-storming",
+        "name": "Event-storming"
+      },
+      {
+        "id": 37,
+        "slug": "kubernetes",
+        "name": "Kubernetes"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=P1W1CSnZdS4&t=1s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      282
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>How do you tame the chaotic world of cryptocurrencies, with all that data that doesn’t seem to make any sense?</p>\n\n\n\n<p>The only possible answer is Reactive Systems and controlled streaming. Our goal is to find reliable patterns between events relative to a cryptocurrency (like a conference or a fork) and its relative price fluctuations. We need an always-on system that gathers this data from different sources, and we can’t afford missing data because of downtimes.</p>\n\n\n\n<p>This talk covers all the steps of a reactive data project. We start with domain modelling with DDD and Event-storming, then touch on the implementation side with a backpressured toolkit like Akka Streams, deploy our services on a managed Kubernetes cluster and finally look at the data we gathered trying to find patterns. Lambos have never been so close.</p>"
+    }
+  ],
+  "formReplaced": false
+}

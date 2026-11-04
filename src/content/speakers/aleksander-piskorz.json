@@ -1,0 +1,36 @@
+{
+  "wpId": 4815,
+  "title": "Aleksander Piskorz",
+  "slug": "aleksander-piskorz",
+  "path": "/contributor/aleksander-piskorz/",
+  "date": "2024-01-24 14:38:05",
+  "modified": "2024-02-29 23:01:16",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "AI enthusiast & trainer ",
+    "speaker_avatar": {
+      "id": 4816,
+      "url": "/uploads/2024/01/762561A4-6A8F-47E4-A934-ED52751A9814.jpeg",
+      "alt": "Processed with VSCO with x1 preset",
+      "width": 2277,
+      "height": 2274
+    },
+    "speaker_surname": "Piskorz",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/aleksanderpiskorz/",
+    "speaker_gh": "",
+    "speaker_add_info": "Copynaut"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>With nearly a decade under my belt as a tech journalist jet-setting with the likes of Meta, Huawei and Google, I now leverage this global insider perspective to help startups and executives unlock the potential of AI. Blending hands-on creativity with automation, I lead personalized workshops and group trainings to solve complex business challenges. While I like efficient laziness, and I champion efficiency, I'm not afraid to get gritty and think outside the box. I find balance escaping the digital world on my road bike, though my love of chocolate remains - no matter what my diabetes has to say.</p>"
+    }
+  ],
+  "formReplaced": false
+}

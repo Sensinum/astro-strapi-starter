@@ -1,0 +1,43 @@
+{
+  "wpId": 635,
+  "title": "Next CERN Accelerator Logging Service Architecture",
+  "slug": "next-cern-accelerator-logging-service-architecture",
+  "path": "/watch/next-cern-accelerator-logging-service-architecture/",
+  "date": "2020-01-01 00:01:01",
+  "modified": "2023-03-20 14:17:13",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 66,
+        "slug": "big-data",
+        "name": "Big Data"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=--3WCjdKjRg",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      350
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The Next Accelerator Logging Service (NXCALS) is a new Big Data project at CERN aiming to replace the existing Oracle-based service. The main purpose of the system is to store technical accelerator data needed by machine operators and data scientists at CERN. Gathered from thousands of devices in the whole accelerators complex the data is used to operate the machines, improve their performance and conduct studies for new beam types or future experiments. </p>\n\n\n\n<p>This presentation is a dive into the Hadoop/Spark based NXCALS architecture. Nikolay will speak about the service requirements, the design choices and present the Ingestion API as one of the main components of the system. He will also reveal the core abstraction behind the Meta-data provider and the Spark-based Extraction API where simple changes to the result schema improved the overall usability and performance of the system. This talk can be of interest to any companies or institutes confronted with similar Big Data problems as the system itself is not CERN specific.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 499,
+  "title": "Blockchain applications: are they real?",
+  "slug": "blockchain-applications-are-they-real",
+  "path": "/watch/blockchain-applications-are-they-real/",
+  "date": "2020-01-01 00:02:08",
+  "modified": "2023-03-20 14:59:37",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 95,
+        "slug": "blockchain",
+        "name": "Blockchain"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=KUa6BI1qenE&t=73s",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      195
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Bitcoins world is pretty popular, while there is still a lot of skepticism on Blockchain applications in enterprise scenarios.<br>Let's walk through the key characteristics we expect from an enterprise solution based on Blockchain, which are the business scenarios that underpin the adoption of Blockchain and let's see some real use cases where this technology is applied like supply chains, digital identity and cross border payments.</p>"
+    }
+  ],
+  "formReplaced": false
+}

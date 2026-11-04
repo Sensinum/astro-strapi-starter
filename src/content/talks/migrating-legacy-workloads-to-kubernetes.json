@@ -1,0 +1,43 @@
+{
+  "wpId": 478,
+  "title": "Migrating legacy workloads to Kubernetes",
+  "slug": "migrating-legacy-workloads-to-kubernetes",
+  "path": "/watch/migrating-legacy-workloads-to-kubernetes/",
+  "date": "2020-01-01 00:02:28",
+  "modified": "2021-03-31 15:19:59",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 37,
+        "slug": "kubernetes",
+        "name": "Kubernetes"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=VtQH2mVtVTA",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      344
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>With increased adoption of Kubernetes we see it becoming primary platform for managing applications. Many of us still maintain legacy workloads. Crafting new applications designed to run in Kubernetes is easier than migrating/refactoring proven applications which handle load for many years already. In this talk I will share how one can migrate such application together with its data. There are number of ways to achieve it and I will cover pros and cons for each approach.</p>"
+    }
+  ],
+  "formReplaced": false
+}

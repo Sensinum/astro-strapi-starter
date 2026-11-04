@@ -1,0 +1,43 @@
+{
+  "wpId": 107,
+  "title": "Marcin Moskala",
+  "slug": "marcin-moskala",
+  "path": "/contributor/marcin-moskala/",
+  "date": "2020-01-01 00:02:38",
+  "modified": "2023-03-01 12:09:43",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Founder of Kt. Academy",
+    "speaker_avatar": {
+      "id": 109,
+      "url": "/uploads/2021/03/Marcin_Moskala-1.jpg",
+      "alt": "Marcin Moskala",
+      "width": 560,
+      "height": 552
+    },
+    "speaker_surname": "Moskala",
+    "speaker_twitter": "https://twitter.com/marcinmoskala",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/marcin-moskala-6869a864/?originalSubdomain=pl",
+    "speaker_gh": "https://github.com/MarcinMoskala"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Marcin Moskala is an experienced developer and Kotlin trainer. He is the founder of the Kt. Academy, an official JetBrains partner for teaching Kotlin, author of the book \"Effective Kotlin\" and \"Android Development with Kotlin\", speaker at many international conferences, and programming library creator and contributor.</p>"
+    }
+  ],
+  "formReplaced": false
+}

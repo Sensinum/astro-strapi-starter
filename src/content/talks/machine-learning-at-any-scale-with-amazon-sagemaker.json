@@ -1,0 +1,43 @@
+{
+  "wpId": 523,
+  "title": "Machine Learning at any scale with Amazon SageMaker",
+  "slug": "machine-learning-at-any-scale-with-amazon-sagemaker",
+  "path": "/watch/machine-learning-at-any-scale-with-amazon-sagemaker/",
+  "date": "2020-01-01 00:01:49",
+  "modified": "2023-03-20 14:54:32",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 44,
+        "slug": "machine-learning",
+        "name": "Machine Learning"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=djViZivieVQ&t=9s",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      211
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Amazon SageMaker is a fully-managed service that allows building, training and deploying Machine Learning models at any scale. In this session we will explore how to leverage on Amazon SageMaker managed notebook instances for experimentation, data exploration and analysis; then, we will go through the best practices to run production-grade distributed training and deployment at scale, with full flexibility on the choice of languages, frameworks and libraries by using Docker containers.</p>"
+    }
+  ],
+  "formReplaced": false
+}

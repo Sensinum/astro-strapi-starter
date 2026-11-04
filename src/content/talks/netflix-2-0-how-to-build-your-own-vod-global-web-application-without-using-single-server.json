@@ -1,0 +1,43 @@
+{
+  "wpId": 473,
+  "title": "Netflix 2.0 - How to build your own VOD global web application without using single server",
+  "slug": "netflix-2-0-how-to-build-your-own-vod-global-web-application-without-using-single-server",
+  "path": "/watch/netflix-2-0-how-to-build-your-own-vod-global-web-application-without-using-single-server/",
+  "date": "2020-01-01 00:02:33",
+  "modified": "2021-03-31 15:16:06",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 63,
+        "slug": "aws",
+        "name": "AWS"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=VNJPPbLfoNY&t=185s",
+    "video_thumbnail": false,
+    "talk_date": "October 9, 2019",
+    "talks_speakers": [
+      217
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In this presentation, we will see how to build a VOD global web application, which will span across two continents: Europe and America without using single server. This will be a heavy demo focused presentation, we will roll up ours’s sleeves and we will build it using serverless services such as AWS Lambda, Amazon S3, AWS Global Accelerator and many others. Application will automatically synchronize data between Europe and America and, similarly to Netflix, it will be able to automatically redirect users to the nearest region and if one is unavailable, they will be redirected to an active one. We will build everything from scratch in one hour and all without using any server!</p>"
+    }
+  ],
+  "formReplaced": false
+}

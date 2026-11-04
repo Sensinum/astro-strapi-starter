@@ -1,0 +1,45 @@
+{
+  "wpId": 997,
+  "title": "My Take on Scala 3 by Daniel Spiewak",
+  "slug": "my-take-on-scala-3-by-daniel-spiewak",
+  "path": "/watch/my-take-on-scala-3-by-daniel-spiewak/",
+  "date": "2021-04-28 15:05:18",
+  "modified": "2023-03-21 10:54:24",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2021/04/image.jpg",
+  "seo": {
+    "ogImage": "/uploads/2021/04/image-1024x576.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 28,
+        "slug": "dotty",
+        "name": "Dotty"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=uonhcMvfT1E",
+    "video_thumbnail": false,
+    "talk_date": "April 23, 2021",
+    "talks_speakers": [
+      983
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In this brief talk Daniel shares his perspective on the upcoming Scala 3 release and his contribution to the process. </p>"
+    }
+  ],
+  "formReplaced": false
+}

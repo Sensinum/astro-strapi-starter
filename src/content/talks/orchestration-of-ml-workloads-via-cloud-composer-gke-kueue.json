@@ -1,0 +1,29 @@
+{
+  "wpId": 5266,
+  "title": "Orchestration of ML workloads via Cloud Composer &amp; GKE Kueue",
+  "slug": "orchestration-of-ml-workloads-via-cloud-composer-gke-kueue",
+  "path": "/watch/orchestration-of-ml-workloads-via-cloud-composer-gke-kueue/",
+  "date": "2024-09-11 11:14:35",
+  "modified": "2024-09-30 09:55:09",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "October 24, 2024",
+    "talks_speakers": [
+      5263,
+      5261
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Our presentation demonstrates efficient ML workload orchestration using Cloud Composer (managed Airflow) and GKE Kueue. After brief introductions to GKE Kueue and Cloud Composer, it dives into a practical example: LoRA FineTuning of Gemma models. This ML workflow, implemented as an Airflow DAG, includes benchmarking and uploading results to VertexAI. A step-by-step guide and recorded demo complete the presentation, offering a comprehensive understanding of the process.</p>\n\n\n\n<p></p>"
+    }
+  ],
+  "formReplaced": false
+}

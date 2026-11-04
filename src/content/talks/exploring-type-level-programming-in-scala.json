@@ -1,0 +1,36 @@
+{
+  "wpId": 172,
+  "title": "Exploring Type-Level Programming in Scala",
+  "slug": "exploring-type-level-programming-in-scala",
+  "path": "/watch/exploring-type-level-programming-in-scala/",
+  "date": "2020-01-01 00:03:15",
+  "modified": "2021-03-31 14:42:43",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=0PEOK_G43MU&t=185s",
+    "video_thumbnail": false,
+    "talk_date": "September 15, 2020",
+    "talks_speakers": [
+      134
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In this introduction to type-level programming in Scala, we are going to discuss how we can leverage the full power of the type system to verify domain properties of an application at compile-time, instead of doing runtime verifications at the value-level.</p>"
+    }
+  ],
+  "formReplaced": false
+}

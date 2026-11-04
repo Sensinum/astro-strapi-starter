@@ -1,0 +1,37 @@
+{
+  "wpId": 5261,
+  "title": "Michał Wysokiński",
+  "slug": "michal-wysokinski",
+  "path": "/contributor/michal-wysokinski/",
+  "date": "2024-09-11 11:06:02",
+  "modified": "2024-10-16 14:13:47",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5262,
+      "url": "/uploads/2024/09/1719923996623.jpeg",
+      "alt": "1719923996623",
+      "width": 800,
+      "height": 800
+    },
+    "speaker_position": "Software Engineering Manager at Google",
+    "speaker_add_info": "Google",
+    "speaker_surname": "Wysokiński",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/michal-wysokinski/",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Michal Wysokinski is a Software Engineer and Engineering Leader currently leading the development of Kueue at Google, where his mission is to make Kubernetes the go-to platform for AI training.  He brings deep expertise in MLOps and distributed systems, leveraging his extensive background in concurrent programming to build scalable and reliable solutions.<br><br></p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,23 @@
+{
+  "wpId": 49,
+  "title": "Become a speaker",
+  "slug": "become-a-speaker",
+  "path": "/become-a-speaker/",
+  "date": "2021-03-03 15:15:32",
+  "modified": "2025-06-10 15:34:01",
+  "template": "page-form",
+  "excerpt": "Are you passionate about shaping the future of technology and IT? Join us in celebrating the diverse and impactful journey in the world of technology. At sphere.it, we're seeking insightful contributors like you to enrich the narrative and make a lasting impact.",
+  "featuredImage": null,
+  "seo": {
+    "description": "Join us in making sphere.it unforgettable by submitting your proposal. Together, let's inspire, empower, and shape the future of technology!",
+    "ogTitle": "Become a contributor",
+    "ogDescription": "Join us in making sphere.it exceptional by submitting your proposal. Together, let's inspire, empower, and shape the future of technology!"
+  },
+  "terms": {},
+  "acf": {
+    "label": "Become a speaker",
+    "contactUrl": "https://virtuslab.com/contact"
+  },
+  "blocks": [],
+  "formReplaced": true
+}

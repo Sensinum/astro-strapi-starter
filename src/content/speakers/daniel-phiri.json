@@ -1,0 +1,43 @@
+{
+  "wpId": 1254,
+  "title": "Daniel Madalitso Phiri",
+  "slug": "daniel-phiri",
+  "path": "/contributor/daniel-phiri/",
+  "date": "2021-06-11 13:28:14",
+  "modified": "2023-03-17 13:28:50",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Developer Advocate at Strapi",
+    "speaker_avatar": {
+      "id": 1267,
+      "url": "/uploads/2021/06/headshot-Daniel-Madalitso-Phiri.jpg",
+      "alt": "Daniel Madalitso Phiri",
+      "width": 1132,
+      "height": 1014
+    },
+    "speaker_surname": "Phiri ",
+    "speaker_twitter": "https://twitter.com/malgamves",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/malgamves/",
+    "speaker_gh": "https://github.com/malgamves"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Daniel is a Developer Advocate at Strapi, Writer, Builder of Wacky things, DJ, Lorde superfan, and Community Builder from Lusaka, Zambia.</p>"
+    }
+  ],
+  "formReplaced": false
+}

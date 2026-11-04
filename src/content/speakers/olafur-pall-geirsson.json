@@ -1,0 +1,43 @@
+{
+  "wpId": 422,
+  "title": "Ólafur Páll Geirsson",
+  "slug": "olafur-pall-geirsson",
+  "path": "/contributor/olafur-pall-geirsson/",
+  "date": "2020-01-01 00:00:58",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at Scala Center",
+    "speaker_avatar": {
+      "id": 423,
+      "url": "/uploads/2021/03/Ólafur_Páll_Geirsson.png",
+      "alt": "Ólafur Páll Geirsson",
+      "width": 250,
+      "height": 250
+    },
+    "speaker_surname": "Geirsson",
+    "speaker_twitter": "https://twitter.com/olafurpg",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/olafurpg/",
+    "speaker_gh": "https://github.com/olafurpg"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Ólafur Páll Geirsson is a Software Developer at the Scala Center where he works on developer tools. He is the author of scalafmt and scalafix.</p>"
+    }
+  ],
+  "formReplaced": false
+}

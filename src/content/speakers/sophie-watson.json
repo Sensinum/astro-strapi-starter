@@ -1,0 +1,43 @@
+{
+  "wpId": 600,
+  "title": "Sophie Watson",
+  "slug": "sophie-watson",
+  "path": "/contributor/sophie-watson/",
+  "date": "2020-01-01 00:00:25",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at Red Hat",
+    "speaker_avatar": {
+      "id": 601,
+      "url": "/uploads/2021/03/Sophie_Watson.jpg",
+      "alt": "Sophie Watson",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Watson",
+    "speaker_twitter": "https://twitter.com/sophwats",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": "https://github.com/sophwats"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Sophie is a Software Engineer at Red Hat, and has recently finished a PhD in Bayesian Statistics.</p>"
+    }
+  ],
+  "formReplaced": false
+}

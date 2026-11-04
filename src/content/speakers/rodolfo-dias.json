@@ -1,0 +1,43 @@
+{
+  "wpId": 198,
+  "title": "Rodolfo Dias",
+  "slug": "rodolfo-dias",
+  "path": "/contributor/rodolfo-dias/",
+  "date": "2020-01-01 00:02:21",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Frontend Engineer at ToolTime",
+    "speaker_avatar": {
+      "id": 199,
+      "url": "/uploads/2021/03/Rodolfo_Dias.jpeg",
+      "alt": "Rodolfo Dias",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_surname": "Dias",
+    "speaker_twitter": "https://twitter.com/r_mdias",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/rmdias29/",
+    "speaker_gh": "https://github.com/rmdias"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Rodolfo is graduated in Design and works with the development of high-performance web apps. He loves to make SPA’s using technologies like NodeJS, TypeScript and a lot of CSS3, besides it, he uses the free time to training Brazilian Jiu-Jitsu.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,36 @@
+{
+  "wpId": 4085,
+  "title": "My \"si szarp\" story",
+  "slug": "my-si-szarp-story",
+  "path": "/watch/my-si-szarp-story/",
+  "date": "2023-02-06 10:40:53",
+  "modified": "2023-11-14 08:38:32",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 174,
+        "slug": "inspiring-women-in-it",
+        "name": "Inspiring Women in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=pPpyyPxeXII",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2023",
+    "talks_speakers": [
+      4083
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>My change of the industry. At the age of 36, I started working in the IT services sector. I will talk about the facts and myths that I experienced, with particular emphasis on failures and successes.</p>"
+    }
+  ],
+  "formReplaced": false
+}

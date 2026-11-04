@@ -1,0 +1,43 @@
+{
+  "wpId": 137,
+  "title": "Leon Stigter",
+  "slug": "leon-stigter",
+  "path": "/contributor/leon-stigter/",
+  "date": "2020-01-01 00:02:29",
+  "modified": "2021-03-30 17:00:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Product Manager for Serverless at Lightbend",
+    "speaker_avatar": {
+      "id": 139,
+      "url": "/uploads/2021/03/Leon_Stigter-1.jpg",
+      "alt": "Leon Stigter",
+      "width": 1237,
+      "height": 1296
+    },
+    "speaker_surname": "Stigter",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/retgits/",
+    "speaker_gh": "https://github.com/retgits"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Leon Stigter is a Sr. Product Manager for Serverless at Lightbend, Leon's focus is to help developers accelerate their serverless journey, leveraging both open source and commercial tools. </p>\n\n\n\n<p>He is very passionate and outspoken when it comes to the needs of developers because he believes developers can (help) transform their business by getting the right pieces of information to the right people at the right time in the right context.</p>"
+    }
+  ],
+  "formReplaced": false
+}

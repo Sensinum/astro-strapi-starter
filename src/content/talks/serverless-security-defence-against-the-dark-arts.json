@@ -1,0 +1,48 @@
+{
+  "wpId": 498,
+  "title": "Serverless security: defence against the dark arts",
+  "slug": "serverless-security-defence-against-the-dark-arts",
+  "path": "/watch/serverless-security-defence-against-the-dark-arts/",
+  "date": "2020-01-01 00:02:09",
+  "modified": "2023-03-20 14:59:53",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 63,
+        "slug": "aws",
+        "name": "AWS"
+      },
+      {
+        "id": 38,
+        "slug": "serverless",
+        "name": "Serverless"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=zy0R1bfbCwU",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      105
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>AWS has taken over the responsibilities of patching the OS and securing the underlying physical infrastructure that runs your serverless application, so what's left for you to secure? Quite a bit it turns out.</p>\n\n\n\n<p>The OWASP top 10 is as relevant to you as ever; DOS attacks are still a threat even if you can probably brute force your way through it as AWS auto-scales Lambda functions automatically; and did you know attackers can easily steal your AWS credentials via your application dependencies?</p>\n\n\n\n<p>In addition to the traditional threats, serverless applications have more granular deployment units and therefore there are more things to configure and secure, and the tools and practices are still catching up with this fast-changing world.</p>\n\n\n\n<p>Join us in this talk to learn more about the security threats that will affect your serverless application and some leading practices that help you combat these threats.</p>"
+    }
+  ],
+  "formReplaced": false
+}

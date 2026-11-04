@@ -1,0 +1,29 @@
+{
+  "wpId": 5449,
+  "title": "Domain-Driven data architecture: the Data Mesh concept in practice",
+  "slug": "domain-driven-data-architecture-the-data-mesh-concept-in-practice",
+  "path": "/watch/domain-driven-data-architecture-the-data-mesh-concept-in-practice/",
+  "date": "2025-05-28 17:51:05",
+  "modified": "2025-06-12 10:36:20",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "talk_video": "",
+    "video_thumbnail": false,
+    "talk_date": "September 30, 2025",
+    "talks_speakers": [
+      5451,
+      5450
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>You’ve probably heard the buzz around Data Mesh - and maybe even the growing skepticism, with some calling it passé due to the implementation challenges. But don’t write it off just yet as there’s still plenty of ground to cover before the next wave of data architecture trends kick in.</p>\n\n\n\n<p>In this talk, we’ll take a pragmatic look at what domain-driven data architecture really looks like in practice. We’ll walk through the key concepts behind Data Mesh, the platform design choices that shape its implementation, and the realities of putting it all into action. From Terraform struggles to the argument for domain-specific languages, to the chaos of scaling self-serve data - this is part reflection, part roadmap, and rooted in real-world experience.</p>"
+    }
+  ],
+  "formReplaced": false
+}

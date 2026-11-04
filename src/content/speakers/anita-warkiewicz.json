@@ -1,0 +1,35 @@
+{
+  "wpId": 2762,
+  "title": "Anita Warkiewicz",
+  "slug": "anita-warkiewicz",
+  "path": "/contributor/anita-warkiewicz/",
+  "date": "2022-02-24 15:09:46",
+  "modified": "2024-01-30 08:47:36",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Head of Tech at Talenti",
+    "speaker_avatar": {
+      "id": 4834,
+      "url": "/uploads/2022/02/AnitaWarkiewicz.jpg",
+      "alt": "Fotografia Biznesowa Kraków",
+      "width": 900,
+      "height": 900
+    },
+    "speaker_surname": "Warkiewicz",
+    "speaker_twitter": "https://twitter.com/doanitki",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/anitawarkiewicz/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Talenti Team member responsible for products and technological innovation. Certified Scrum Master and Agile Coach, an expert in leadership, management, and Agile methodologies and processes. Co-founder of Agile conferences, podcaster, and blog author on best management practices. Mentor at such programs as “Mamo Pracuj w IT” or “Tech Leaders”. Since 2013 in IT, and for several years also in the tax industry. Passionate about new technologies, psychology, and business development, especially start-ups. Privately Cracovian by choice, loves cooking and eating yummy food, developing business competencies, and trying new sports.</p>"
+    }
+  ],
+  "formReplaced": false
+}

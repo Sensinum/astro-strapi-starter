@@ -1,0 +1,38 @@
+{
+  "wpId": 2359,
+  "title": "Culture shock - how to find yourself in IT when starting your first job",
+  "slug": "culture-shock-how-to-find-yourself-in-it-when-starting-your-first-job",
+  "path": "/watch/culture-shock-how-to-find-yourself-in-it-when-starting-your-first-job/",
+  "date": "2021-12-23 16:09:22",
+  "modified": "2023-03-21 10:14:41",
+  "template": null,
+  "excerpt": "<p>Pamiętasz jak pojawiłeś/łaś się na studiach po szkole średniej? Zamiast kartkówek i sprawdzianów – kolokwia i wejściówki, zamiast lekcji – seminaria, konwersatoria i wykłady, zamiast wręczenia świadectw – sesja letnia. Do tego okazuje się, że 1/2 nie zdaje, a zajęcia trwają 1,5h (minimum)! Pamiętasz tę zmianę? Tak samo jest gdy przychodzisz do IT z każdego innego środowiska – czy to prosto po studiach, czy z innej branży. Bo IT ma swoje normy kulturowe i procesy, których doświadczysz niezależnie czy pracujesz jako programistka, analityk, czy księgowy.</p>\n\n<p>Podczas tego spotkania dowiesz się co może Cię zadziwić, gdy przekroczysz progi biura (też wirtualnego) oraz to, czego nikt Ci nie powie o pracy w IT, bo dla obecnie pracujących osób jest to już oczywiste.</p>",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/12/adrianna_culture.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 129,
+        "slug": "buginnings-in-it",
+        "name": "BUGinnings in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=4yOkwnk-ti4&t=14s",
+    "video_thumbnail": false,
+    "talk_date": "October 14, 2021",
+    "talks_speakers": [
+      1867
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>(PL)</p>\n\n\n\n<p>Pamiętasz jak pojawiłeś/łaś się na studiach po szkole średniej? Zamiast kartkówek i sprawdzianów – kolokwia i wejściówki, zamiast lekcji – seminaria, konwersatoria i wykłady, zamiast wręczenia świadectw – sesja letnia. Do tego okazuje się, że 1/2 nie zdaje, a zajęcia trwają 1,5h (minimum)! Pamiętasz tę zmianę? Tak samo jest gdy przychodzisz do IT z każdego innego środowiska – czy to prosto po studiach, czy z innej branży. Bo IT ma swoje normy kulturowe i procesy, których doświadczysz niezależnie czy pracujesz jako programistka, analityk, czy księgowy.</p>\n\n\n\n<p>Podczas tego spotkania dowiesz się co może Cię zadziwić, gdy przekroczysz progi biura (też wirtualnego) oraz to, czego nikt Ci nie powie o pracy w IT, bo dla obecnie pracujących osób jest to już oczywiste.</p>"
+    }
+  ],
+  "formReplaced": false
+}

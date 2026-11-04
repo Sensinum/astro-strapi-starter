@@ -1,0 +1,49 @@
+{
+  "wpId": 4330,
+  "title": "How to fail successfully",
+  "slug": "how-to-fail-successfully-by-jen-bower",
+  "path": "/watch/how-to-fail-successfully-by-jen-bower/",
+  "date": "2023-05-25 17:14:18",
+  "modified": "2024-01-12 10:39:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "description": "Talk brought to you by Jen Bower - Jen is a delivery leader who embraces personal growth and professional development through failure."
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 182,
+        "slug": "beyond-senior",
+        "name": "Beyond Senior"
+      },
+      {
+        "id": 175,
+        "slug": "sphere-it-conf-2023",
+        "name": "Sphere.it Conf 2023"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=WJZT0b4KJN4",
+    "video_thumbnail": {
+      "id": 4775,
+      "url": "/uploads/2023/05/maxresdefault-11.jpg",
+      "alt": "Jen Bower",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "September 28, 2023",
+    "talks_speakers": [
+      4328
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Sometimes the most valuable learning experiences occur outside of work. In this conference speech titled “How to Fail Successfully,” we’ll explore how to leverage personal failures for professional growth. </p>\n\n\n\n<p></p>\n\n\n\n<p>We’ll discuss strategies for reframing failure as a learning opportunity, building resilience, and developing the courage to take risks. By sharing personal stories of failure and success, we’ll demonstrate how these experiences can be translated into valuable lessons for the workplace. </p>\n\n\n\n<p></p>\n\n\n\n<p>Whether you’re a manager looking to inspire your team or an individual contributor seeking to advance your career, this speech will provide actionable insights to help you turn setbacks into success. Attendees will leave with a new perspective on failure and the tools to use their personal experiences as a catalyst for growth and achievement in their professional lives.</p>"
+    }
+  ],
+  "formReplaced": false
+}

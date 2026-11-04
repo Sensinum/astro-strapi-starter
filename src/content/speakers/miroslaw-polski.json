@@ -1,0 +1,43 @@
+{
+  "wpId": 4541,
+  "title": "Mirosław Polski",
+  "slug": "miroslaw-polski",
+  "path": "/contributor/miroslaw-polski/",
+  "date": "2023-08-16 14:00:51",
+  "modified": "2023-11-14 09:18:03",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Partner Engineer at Google",
+    "speaker_avatar": {
+      "id": 4542,
+      "url": "/uploads/2023/08/picture_of-me-Miroslaw-Polski.jpg",
+      "alt": "picture_of-me - Miroslaw Polski",
+      "width": 600,
+      "height": 600
+    },
+    "speaker_surname": "Polski",
+    "speaker_twitter": "https://twitter.com/miroslawpolski",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/miroslaw-polski-4314613/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>10+ years of experience in Computer Science gained while working for service providers, investment banks, technology partners and top IT vendors in Poland and abroad. For the last 3 years at Google responsible for Google Cloud Partners enablement and growth My background is technical (BSc in Electrical Engineering) with a pile of top IT certificates</p>"
+    }
+  ],
+  "formReplaced": false
+}

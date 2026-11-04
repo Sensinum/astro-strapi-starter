@@ -1,0 +1,43 @@
+{
+  "wpId": 275,
+  "title": "Juan Tomás García",
+  "slug": "juan-tomas-garcia",
+  "path": "/contributor/juan-tomas-garcia/",
+  "date": "2020-01-01 00:01:52",
+  "modified": "2021-03-30 17:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Chief Envisioning Officer at Sngular",
+    "speaker_avatar": {
+      "id": 276,
+      "url": "/uploads/2021/03/Juan_Tomás_García.jpeg",
+      "alt": "Juan Tomás García",
+      "width": 500,
+      "height": 500
+    },
+    "speaker_surname": "Garcia",
+    "speaker_twitter": "https://twitter.com/juantomas",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/juantomasgarcia/",
+    "speaker_gh": "https://github.com/juantomasgarcia"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Juantomás leads Sngular’s Data Science team and is also Chief Envisioning Officer. Since joining Sngular in 2018, Juantomás has leveraged his extensive experience to harness the potential of new technologies and implement them across the company’s solutions and services.</p>\n\n\n\n<p>Juantomás is Google Developer Expert for Cloud and Machine Learning, co-author of the software book La Pastilla Roja and creator of “AbadIA”, the artificial intelligence platform built to solve the popular Spanish game La Abadía del Crimen. He’s an expert on free software technologies and has been a speaker at more than 200 international industry events. Among the various positions he has held during his 20-year career, he has been Data Solutions Manager at Open Sistemas, Chief Data Officer at ASPgems and President of Hispanilux for 7 years.</p>\n\n\n\n<p>He studied IT engineering at the Universidad Politécnica de Madrid and plays an active role as a tech contributor and mentor to various academic organizations and startups. He regularly organizes Machine Learning Spain and GDG cloud Madrid meetups, is a mentor at Google Launchpad for entrepreneurs and is also an advisor to Penn State University on their Deep Learning hyperspectral Image Classification for EE project.</p>"
+    }
+  ],
+  "formReplaced": false
+}

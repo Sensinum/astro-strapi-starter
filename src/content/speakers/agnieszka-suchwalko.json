@@ -1,0 +1,37 @@
+{
+  "wpId": 5481,
+  "title": "Agnieszka Suchwałko",
+  "slug": "agnieszka-suchwalko",
+  "path": "/contributor/agnieszka-suchwalko/",
+  "date": "2025-09-12 15:42:06",
+  "modified": "2025-09-12 15:42:07",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5484,
+      "url": "/uploads/2025/09/DSC_5775.jpg",
+      "alt": "DSC_5775",
+      "width": 1709,
+      "height": 1709
+    },
+    "speaker_position": " PhD, COO at QuantUp",
+    "speaker_add_info": "",
+    "speaker_surname": "",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "",
+    "speaker_gh": "",
+    "desc_episodes": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Agnieszka Suchwałko is the co-founder and COO of QuantUp, where she leads AI projects that work in messy, real-world conditions. She turns unstructured data, half-baked assumptions, and operational chaos into models that businesses actually use.</p>"
+    }
+  ],
+  "formReplaced": false
+}

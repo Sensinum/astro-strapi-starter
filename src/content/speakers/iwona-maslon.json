@@ -1,0 +1,35 @@
+{
+  "wpId": 4133,
+  "title": "Iwona Masłoń",
+  "slug": "iwona-maslon",
+  "path": "/contributor/iwona-maslon/",
+  "date": "2023-02-21 11:43:51",
+  "modified": "2023-03-17 15:01:57",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_position": "Business Risk Director for Technology Services at UBS",
+    "speaker_avatar": {
+      "id": 4135,
+      "url": "/uploads/2023/02/Iwona_Maslon-1.jpg",
+      "alt": "Iwona Masłoń",
+      "width": 982,
+      "height": 982
+    },
+    "speaker_surname": "Maslon",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/iwonamaslon/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Iwona is a seasoned IT professional with over 17 years of experience in the tech industry. She has a strong focus and expertise in the areas of programming, databases, IT infrastructure and services, cyber security, and risk management. Throughout her career, Iwona has progressed from administrative positions to management roles at major companies, where she has overseen delivery, customer service, and people and operation areas. Currently, she is holding the role of Business Risk Director at UBS, where she’s responsible for overseeing various strategic initiatives and projects.&nbsp;</p>\n\n\n\n<p>Iwona graduated from the Czestochowa University of Technology with a degree in Mechanical Engineering and Computer Science. She is a certified project manager and ITIL Expert. As a member of the Women in Technology and Women Together groups, she shares her expertise on career path development with her peers. She is a passionate advocate of modern tech and is constantly learning and expanding her business knowledge. Iwona has combined her professional development with social and private pursuits and hobbies. She is a volunteer leader in various activities, is an avid athlete, and loves to run, anything fitness, and go-karting.</p>"
+    }
+  ],
+  "formReplaced": false
+}

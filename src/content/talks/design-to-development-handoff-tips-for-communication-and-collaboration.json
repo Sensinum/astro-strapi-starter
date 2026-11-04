@@ -1,0 +1,60 @@
+{
+  "wpId": 3249,
+  "title": "Design-to-Development Handoff: tips for communication and collaboration.",
+  "slug": "design-to-development-handoff-tips-for-communication-and-collaboration",
+  "path": "/watch/design-to-development-handoff-tips-for-communication-and-collaboration/",
+  "date": "2022-08-10 15:03:08",
+  "modified": "2023-11-09 12:11:24",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2022/08/thumbnails_spherekonf_mira-min-1024x576.jpg"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 166,
+        "slug": "enterprise",
+        "name": "Enterprise"
+      },
+      {
+        "id": 165,
+        "slug": "management",
+        "name": "Management"
+      },
+      {
+        "id": 164,
+        "slug": "ux",
+        "name": "UX"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 144,
+        "slug": "sphere-it-conf-2022",
+        "name": "Sphere.it conf 2022"
+      },
+      {
+        "id": 136,
+        "slug": "ui-ux",
+        "name": "UI/UX"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=QO1DHFHNAqQ",
+    "video_thumbnail": false,
+    "talk_date": "September 20, 2022",
+    "talks_speakers": [
+      2220
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Tale as old as time: Designers against Developers or Designers with Developers? It depends on communication, product strategy, manager position, and ability of all parties to understand others’ points of view.</p>\n\n\n\n<p>This talk was prepared for Developers regardless of seniority position. We will go together through the milestones of the generic development process and will indicate the most prevalent conflict points for the Design-Development process.</p>"
+    }
+  ],
+  "formReplaced": false
+}

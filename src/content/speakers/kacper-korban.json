@@ -1,0 +1,48 @@
+{
+  "wpId": 146,
+  "title": "Kacper Korban",
+  "slug": "kacper-korban",
+  "path": "/contributor/kacper-korban/",
+  "date": "2020-01-01 00:02:26",
+  "modified": "2021-03-30 17:00:30",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      },
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Junior Scala Developer at VirtusLab",
+    "speaker_avatar": {
+      "id": 147,
+      "url": "/uploads/2021/03/Kacper_Korban.jpg",
+      "alt": "Kacper Korban",
+      "width": 960,
+      "height": 960
+    },
+    "speaker_surname": "Korban",
+    "speaker_twitter": "https://twitter.com/KacperKorban",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/kacper-korban-7a256b169/",
+    "speaker_gh": "https://github.com/KacperFKorban"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>A fourth-year Computer Science student at AGH UST and Junior Scala Developer at VirtusLab. Waiting for Haskell to become mainstream.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,36 @@
+{
+  "wpId": 4143,
+  "title": "Introduction - Women in IT 2023: data with no fluff",
+  "slug": "women-in-it-2023-data-with-no-fluff",
+  "path": "/watch/women-in-it-2023-data-with-no-fluff/",
+  "date": "2023-02-28 13:44:24",
+  "modified": "2023-11-14 08:37:54",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 174,
+        "slug": "inspiring-women-in-it",
+        "name": "Inspiring Women in IT"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=YzdZ6jq-j0M",
+    "video_thumbnail": false,
+    "talk_date": "March 15, 2023",
+    "talks_speakers": [
+      4144
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Each year at No Fluff Jobs we explore the secrets of women in tech. We dive into the aspects of inclusive work environment, gender pay gap, and stereotypes, as well as chosen career paths, opportunities for self-development, and earnings. Can women in IT break the glass ceiling? What are their needs in terms of benefits: a 4-day work week, menstrual leave or workation?<br>We’ve gathered trends, insights and charts based on the study conducted in 5 European countries (Poland, Hungary, Ukraine, Czech Republic and the Netherlands).</p>"
+    }
+  ],
+  "formReplaced": false
+}

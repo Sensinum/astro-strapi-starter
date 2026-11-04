@@ -1,0 +1,43 @@
+{
+  "wpId": 1550,
+  "title": "Adam Gajek",
+  "slug": "adam-gajek",
+  "path": "/contributor/adam-gajek/",
+  "date": "2021-07-27 12:05:16",
+  "modified": "2021-07-28 15:12:39",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 6,
+        "slug": "scala",
+        "name": "Scala"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Team Lead at VirtusLab",
+    "speaker_avatar": {
+      "id": 1623,
+      "url": "/uploads/2021/07/adam-gajek-min.jpg",
+      "alt": "Adam Gajek",
+      "width": 640,
+      "height": 640
+    },
+    "speaker_surname": "Gajek",
+    "speaker_twitter": "https://twitter.com/adam_gajek",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/adam-gajek/",
+    "speaker_gh": "https://github.com/agajek"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Adam is a Software Engineer with over seven years of experience, for four years he has been part of the VirtusLab company, where he currently fulfills himself as a Team Lead in the AdStream project. He is passionate about solving problems and improving things. In his spare time, he rides a road bike and reads - as he claims - useless books.</p>"
+    }
+  ],
+  "formReplaced": false
+}

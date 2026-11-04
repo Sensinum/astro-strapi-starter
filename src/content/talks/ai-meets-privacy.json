@@ -1,0 +1,56 @@
+{
+  "wpId": 487,
+  "title": "AI meets privacy",
+  "slug": "ai-meets-privacy",
+  "path": "/watch/ai-meets-privacy/",
+  "date": "2020-01-01 00:02:20",
+  "modified": "2021-11-29 12:00:29",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": "/uploads/2020/01/weronika-thumbnail-alt-min.png",
+  "seo": {
+    "ogImage": "/uploads/2020/01/weronika-thumbnail-alt-min.png"
+  },
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 44,
+        "slug": "machine-learning",
+        "name": "Machine Learning"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 16,
+        "slug": "ai",
+        "name": "AI"
+      },
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=VdgK4zYDmOY",
+    "video_thumbnail": {
+      "id": 2186,
+      "url": "/uploads/2020/01/weronika-thumbnail-alt-min.png",
+      "alt": "AI meets privacy",
+      "width": 1280,
+      "height": 720
+    },
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      372
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>What security means in the context of AI solution? What is explainable ML? Might neural net be stolen? How adversarial examples may fool neural net? Is it safe to expose API for online training?</p>\n\n\n\n<p>The presentation will cover current problems from the&nbsp;area where AI meets privacy. It will cover common concerns and available solutions.</p>"
+    }
+  ],
+  "formReplaced": false
+}

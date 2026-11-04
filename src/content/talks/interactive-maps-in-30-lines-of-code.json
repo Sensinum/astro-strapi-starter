@@ -1,0 +1,58 @@
+{
+  "wpId": 159,
+  "title": "Interactive maps in 30 lines of code",
+  "slug": "interactive-maps-in-30-lines-of-code",
+  "path": "/watch/interactive-maps-in-30-lines-of-code/",
+  "date": "2020-01-01 00:03:25",
+  "modified": "2021-03-31 14:38:26",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 24,
+        "slug": "css",
+        "name": "CSS"
+      },
+      {
+        "id": 21,
+        "slug": "html",
+        "name": "HTML"
+      },
+      {
+        "id": 18,
+        "slug": "javascript",
+        "name": "JavaScript"
+      },
+      {
+        "id": 25,
+        "slug": "svg",
+        "name": "SVG"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=3XmPIX1SjBg&t=28s",
+    "video_thumbnail": false,
+    "talk_date": "May 12, 2020",
+    "talks_speakers": [
+      97
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Interactive maps are a great way to represent your data, and today more than ever it’s important to properly and effectively visualize geographic information to your users. Although projects like Google maps or MapBox provide great out-of-the-box solutions, sometimes you might want to avoid the hassle that comes from using these tools, especially if you are concerned about pricing due to high volume of traffic on your websites.</p>\n\n\n\n<p>In this talk, I will explain how you can create your own SVG maps that are lightweight, easy to use, and very customizable. Using live examples you will see step by step how to create a simple world map, and how you can style different parts of the map based on certain criteria using just CSS. All of that in just 30 lines of code!</p>\n\n\n\n<p>Note: <em>Basic knowledge of JS, HTML, and CSS is good to have for better understanding</em></p>"
+    }
+  ],
+  "formReplaced": false
+}

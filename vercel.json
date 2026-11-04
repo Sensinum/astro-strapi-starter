@@ -1,0 +1,2987 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": "astro",
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/event_series/buginnings-in-it/",
+      "destination": "/event-series/buginnings-in-it/",
+      "permanent": true
+    },
+    {
+      "source": "/event_series/sphere-tech-talks/",
+      "destination": "/event-series/sphere-tech-talks/",
+      "permanent": true
+    },
+    {
+      "source": "/event-series/sphere-it-tech-talks/",
+      "destination": "/event-series/sphere-tech-talks/",
+      "permanent": true
+    },
+    {
+      "source": "/event_series/sphere-it-tech-talks/",
+      "destination": "/event-series/sphere-tech-talks/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-become-a-qa-lead-answers-from-the-qa-session-sphere-it-tech-talks-7-￼/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/mira-helena-melhor/",
+      "destination": "/speakers/mira-melhor/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/jak-rozwinac-skrzydla-w-it-praktyki-samorozwoju-ktore-mozesz-zaczac-stosowac-juz-dzis/",
+      "destination": "/talks/how-to-spread-your-wings-in-it/",
+      "permanent": true
+    },
+    {
+      "source": "/event/buginnings-in-it-5-2-2/",
+      "destination": "/event/buginnings-in-it-7/",
+      "permanent": true
+    },
+    {
+      "source": "/event-series/sphere-it-university/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/lectures/propose-your-topic/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/lectures/introduction-to-scala-language/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/lectures/kotlin-web-applications-a-practical-introduction-to-the-language-and-the-ecosystem/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/lectures/introduction-to-cloud-engineering-how-to-start-potential-development-paths-technologies-trends/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/lectures/scalable-micro-frontend-application-architectures/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/lectures/type-level-programming-for-everyone/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/lectures/scalable-programming-in-scala-3/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/lectures/first-steps-in-the-scala-language-workshop/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/lectures/cloud-engineering-career-ignition/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/holy-moly-it-did-work/",
+      "destination": "/talks/holy-moley-it-did-work/",
+      "permanent": true
+    },
+    {
+      "source": "/event/inspiring-women-in-it/",
+      "destination": "/event/inspiring-women-in-it-2022/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/tomasz-godzik-2/",
+      "destination": "/speakers/tomasz-godzik/",
+      "permanent": true
+    },
+    {
+      "source": "/event/reactive-systems-2/",
+      "destination": "/event/reactive-systems/",
+      "permanent": true
+    },
+    {
+      "source": "/event/buginnings-in-it-5-2/",
+      "destination": "/event/buginnings-in-it-5/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-to-spread-your-wings-in-it-self-development-practices-you-can-start-applying-today/",
+      "destination": "/talks/how-to-spread-your-wings-in-it/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/tam-i-z-powrotem-4-lekcje-z-kariery-od-produktu-do-software-houseu/",
+      "destination": "/talks/4-career-lessons-from-product-to-software-house/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/back-and-forth-4-career-lessons-from-product-to-software-house/",
+      "destination": "/talks/4-career-lessons-from-product-to-software-house/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/tbd/",
+      "destination": "/talks/become-a-shadow-and-shed-new-light-on-your-career/",
+      "permanent": true
+    },
+    {
+      "source": "/tickets-are-here/",
+      "destination": "/blog/going-beyond-senior-conf-tickets-are-here/",
+      "permanent": true
+    },
+    {
+      "source": "/sphere-conf-going-beyond-senior-tickets-are-here/",
+      "destination": "/blog/going-beyond-senior-conf-tickets-are-here/",
+      "permanent": true
+    },
+    {
+      "source": "/event/sphere-it-conf-2023-2/",
+      "destination": "/event/sphere-it-conf-2023/",
+      "permanent": true
+    },
+    {
+      "source": "/event-series/",
+      "destination": "/events/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/",
+      "destination": "/all-speakers/",
+      "permanent": true
+    },
+    {
+      "source": "/meet-the-new-sphere-it/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/how-to-become-a-qa-lead-answers-from-the-qa-session-sphere-it-tech-talks-7/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sphere-it-this-is-how-we-did-it/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sphereit-conf-2022-photo-gallery-from-the-event/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sphere-it-conf-2022-highlights-summary-more/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/join-the-scala-3-release-party-by-sphere-it/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/scala-3-release-party-find-out-how-it-went/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/next-weeks-panel-discussion-on-reactive-systems-all-you-need-to-know-about-the-event/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/sphere-it-tech-talks-1-check-what-weve-prepared-for-you/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/get-ready-for-sphere-it-tech-talks-2/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/summer-season-at-sphere-it/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/cloud-observability-all-about-the-next-tech-talks-event/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/tech-talks-session-4-vue-js-information-architecture/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/runtime-safety-of-akka-tdd-check-whats-waiting-for-you-at-sphere-it-tech-talks-5/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/what-a-year-2021-in-review/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/save-your-spot-for-sphere-it-tech-talks-6-data-science/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/buginnigs-in-it-3-talks-recordings-photos-and-more/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/inspiring-women-in-it-get-to-know-them/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/looking-back-at-2022/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/our-first-post-lockdown-event-buginnings-in-it/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/category/bez-kategorii/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/category/event-announcement/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/category/event-summary/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/category/sphere-it-news/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/going-beyond-senior-conf-tickets-are-here/",
+      "destination": "/blog/going-beyond-senior-conf-tickets-are-here/",
+      "permanent": true
+    },
+    {
+      "source": "/previous-editions/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/all-speakers/",
+      "destination": "/contributors/",
+      "permanent": true
+    },
+    {
+      "source": "/about",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/nominate-a-speaker",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/partnership",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/event/reactive-systems/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/event/scala-devtools-2016/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/event/scala-devtools-2017/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/event/scala-devtools-2018/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/event/scala-devtools-2019/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/konrad-pabianczyk/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/lukas-wegmann/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/nikolay-tropin/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/slava-schmidt/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/wieslaw-popielarski/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/simon-ochsenreither/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/dave-gurnell/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/gary-coady/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/lauri-apple/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/thomas-segismont/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/kamil-owczarek/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/marcin-baraniecki/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/carl-pulley/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/chip-senkbeil/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/alexandre-quemy/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/simon-schafer/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/mirco-dotta/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/sam-halliday/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/eugene-burmako/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/matthias-langer/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/nepomuk-seiler/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jerzy-glowacki/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/progressive-web-amp/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/perspective-change-huge-scala-project-from-tooling-perspective/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/play-swagger-swagger-support-for-the-play-framework/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/custom-deployments-with-sbt-plugins-and-sbt-native-packager/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-implementation-challenges-of-language-simplification/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/using-sbt-autoplugins-to-increase-productivity-and-scale-microservices-architectures/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/easy-dependency-management-with-coursier/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/hacking-on-dotty-a-live-demo/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/rapture-a-stack-for-scala-built-on-typesafety/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/an-attempt-for-a-tooling-platform-to-supersede-them-all/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/ensime-a-different-design/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/scala-tooling-in-the-wind-of-change/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/inside-the-intellij-scala-plugin/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/new-tools-in-scala-ide-box/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/scaps-type-directed-api-search-for-scala/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-ideless-ide/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-to-be-free-libre-and-open-source/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/scalanator-io-building-a-training-platform-on-compiler-tools/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/what-we-learned-in-scala-meta/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-scala-refactoring-library-problems-and-perspectives/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/evolving-an-ecosystem/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/introduction-to-observables-and-reactive-programming-in-javascript-explained-by-example/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/reactive-database-access-or-how-to-become-a-friend-with-slick-unicorns/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/reactive-machine-learning-with-akka-streams/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/circuit-breaker-monitoring-at-scale/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/modern-app-programming-with-rxjava-and-vert-x/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/building-multiplayer-game-using-streams/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/discussion-panel-the-biggest-holes-in-scala-tooling-and-how-we-can-plug-them-up/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-state-of-sbt-1-0-and-sbt-server/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/dry-compiling/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/using-chaos-engineering-to-build-resilient-distributed-applications/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/scala-meta-support-in-intellij-idea/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/debugging-in-scala-api-tooling-and-more/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/from-spark-ml-model-creation-to-production-application-in-15-minutes-with-ibm-watson-machine-learning/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/semantic-search-a-new-foundation-for-our-tools/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/refactoring-with-scalafix-and-scala-meta/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/lightweight-data-ops-and-seamless-app-distribution-with-coursier/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/graphpocalypse-indexing-scala-projects-in-ensime/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/triplequote-hydra-compiler-a-bigger-hammer/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/kentucky-mule-or-kamikaze-attacking-scala-compiler-performance/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/scala-meta-semantic-api/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-scala-refactoring-library-the-good-the-bad-and-the-ugly/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/choose-your-target-jvm-node-native/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/check-embedded-dsls-at-compile-time-with-contextual/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/tba-2/",
+      "destination": "/talks/from-coding-to-building-a-company-my-journey-in-starting-a-successful-product-company/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/generative-ai-on-google-cloud-hands-on-technical-workshop/",
+      "destination": "/talks/generative-ai-on-google-cloud/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/workshop-ii/",
+      "destination": "/talks/the-path-to-technical-leadership/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/designed-to-fail-sphere-it-conf-2023-presentation/",
+      "destination": "/talks/enterprise-final-frontier/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/keynote/",
+      "destination": "/talks/building-the-new-economy/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/tba/",
+      "destination": "/talks/design-to-development-handoff-tips-for-communication-and-collaboration/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/tbd-2/",
+      "destination": "/talks/how-to-make-the-internet-accessible-to-everyone/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/never-say-never-2/",
+      "destination": "/talks/are-you-destined-to-deal-with-the-ever-changing-tech-landscape/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/miroslaw-polski/",
+      "destination": "/contributor/miroslaw-polski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/stanislaw-magierski/",
+      "destination": "/contributor/stanislaw-magierski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/piotr-przygoda/",
+      "destination": "/contributor/piotr-przygoda/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/katarzyna-majer/",
+      "destination": "/contributor/katarzyna-majer/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/waldek-wozny/",
+      "destination": "/contributor/waldek-wozny/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/pawel-nabialkowski/",
+      "destination": "/contributor/pawel-nabialkowski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/bart-kiszala/",
+      "destination": "/contributor/bart-kiszala/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/wiktoria-gromowa-cieslik/",
+      "destination": "/contributor/wiktoria-gromowa-cieslik/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/monika-starzyk/",
+      "destination": "/contributor/monika-starzyk/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/bartlomiej-pisulak/",
+      "destination": "/contributor/bartlomiej-pisulak/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/anna-zakowska/",
+      "destination": "/contributor/anna-zakowska/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/michal-ostruszka/",
+      "destination": "/contributor/michal-ostruszka/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/dawid-ostrega/",
+      "destination": "/contributor/dawid-ostrega/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jennifer-bower/",
+      "destination": "/contributor/jennifer-bower/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/wojciech-pitula/",
+      "destination": "/contributor/wojciech-pitula/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/ewa-kuik/",
+      "destination": "/contributor/ewa-kuik/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/iwona-maslon/",
+      "destination": "/contributor/iwona-maslon/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/magdalena-kunat-ciunowicz/",
+      "destination": "/contributor/magdalena-kunat-ciunowicz/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/aga-mysliwczyk/",
+      "destination": "/contributor/aga-mysliwczyk/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/wojtek-gawronski/",
+      "destination": "/contributor/wojtek-gawronski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/dominika-zajac/",
+      "destination": "/contributor/dominika-zajac/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/adam-warski/",
+      "destination": "/contributor/adam-warski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/mike-wojtyna/",
+      "destination": "/contributor/mike-wojtyna/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/aga-szostek/",
+      "destination": "/contributor/aga-szostek/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/lukasz-wronski/",
+      "destination": "/contributor/lukasz-wronski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/mikolaj-klaman/",
+      "destination": "/contributor/mikolaj-klaman/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/sebastian-kister/",
+      "destination": "/contributor/sebastian-kister/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/mateusz-karykowski/",
+      "destination": "/contributor/mateusz-karykowski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/wojciech-mazur/",
+      "destination": "/contributor/wojciech-mazur/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/karolina-wasielewska/",
+      "destination": "/contributor/karolina-wasielewska/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/anita-warkiewicz/",
+      "destination": "/contributor/anita-warkiewicz/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/dominika-glazer/",
+      "destination": "/contributor/dominika-glazer/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/agnieszka-lasyk/",
+      "destination": "/contributor/agnieszka-lasyk/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/kamila-gawronska/",
+      "destination": "/contributor/kamila-gawronska/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/michal-niec/",
+      "destination": "/contributor/michal-niec/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/kamil-duda-￼/",
+      "destination": "/contributor/kamil-duda-%ef%bf%bc/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/michal-palka/",
+      "destination": "/contributor/michal-palka/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/szymon-fugas/",
+      "destination": "/contributor/szymon-fugas/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/maciek-golaszewski/",
+      "destination": "/contributor/maciek-golaszewski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/bartosz-siwinski/",
+      "destination": "/contributor/bartosz-siwinski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/szymon-barabasz/",
+      "destination": "/contributor/szymon-barabasz/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/szymon-sobczak/",
+      "destination": "/contributor/szymon-sobczak/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/mira-melhor/",
+      "destination": "/contributor/mira-melhor/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/aleksandrs-gehsbargs/",
+      "destination": "/contributor/aleksandrs-gehsbargs/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/joanna-sendorek/",
+      "destination": "/contributor/joanna-sendorek/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/zbyszek-krolikowski/",
+      "destination": "/contributor/zbyszek-krolikowski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/pawel-lipski/",
+      "destination": "/contributor/pawel-lipski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/marcin-zlakowski/",
+      "destination": "/contributor/marcin-zlakowski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/tomasz-manugiewicz/",
+      "destination": "/contributor/tomasz-manugiewicz/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/monika-soja/",
+      "destination": "/contributor/monika-soja/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/tomasz-piechaczek/",
+      "destination": "/contributor/tomasz-piechaczek/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/maya-shavin/",
+      "destination": "/contributor/maya-shavin/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/adrianna-woltmann/",
+      "destination": "/contributor/adrianna-woltmann/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jan-pluta/",
+      "destination": "/contributor/jan-pluta/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/harshitha-chowdary-thota/",
+      "destination": "/contributor/harshitha-chowdary-thota/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/bartek-plotka/",
+      "destination": "/contributor/bartek-plotka/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/menaka-basker/",
+      "destination": "/contributor/menaka-basker/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/kamil-stanuch/",
+      "destination": "/contributor/kamil-stanuch/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/adam-gajek/",
+      "destination": "/contributor/adam-gajek/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/iwona-celinska/",
+      "destination": "/contributor/iwona-celinska/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/sofiane-fessi/",
+      "destination": "/contributor/sofiane-fessi/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/maria-oleszkiewicz/",
+      "destination": "/contributor/maria-oleszkiewicz/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/dorota-laczak/",
+      "destination": "/contributor/dorota-laczak/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/vanessa-bohner/",
+      "destination": "/contributor/vanessa-bohner/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/mateusz-strag/",
+      "destination": "/contributor/mateusz-strag/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/daniel-phiri/",
+      "destination": "/contributor/daniel-phiri/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/samuel-weiss/",
+      "destination": "/contributor/samuel-weiss/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/alan-klikic/",
+      "destination": "/contributor/alan-klikic/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/trevor-burton-mccreadie/",
+      "destination": "/contributor/trevor-burton-mccreadie/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/roman-janusz/",
+      "destination": "/contributor/roman-janusz/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/darja-jovanovic/",
+      "destination": "/contributor/darja-jovanovic/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/sebastien-doeraene-2/",
+      "destination": "/contributor/sebastien-doeraene-2/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/nicolas-stucki/",
+      "destination": "/contributor/nicolas-stucki/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/wiem-zine-elabidine/",
+      "destination": "/contributor/wiem-zine-elabidine/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/daniel-spiewak/",
+      "destination": "/contributor/daniel-spiewak/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/daniela-sfregola/",
+      "destination": "/contributor/daniela-sfregola/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/vladimir-alekseichenko/",
+      "destination": "/contributor/vladimir-alekseichenko/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/maciek-prochniak/",
+      "destination": "/contributor/maciek-prochniak/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/sophie-watson/",
+      "destination": "/contributor/sophie-watson/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/rui-vieira/",
+      "destination": "/contributor/rui-vieira/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/piotr-moczurad/",
+      "destination": "/contributor/piotr-moczurad/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/tomasz-lichon/",
+      "destination": "/contributor/tomasz-lichon/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/grzegorz-wyszynski/",
+      "destination": "/contributor/grzegorz-wyszynski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/maciej-dabrowski/",
+      "destination": "/contributor/maciej-dabrowski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/olga-mierzwa-sulima/",
+      "destination": "/contributor/olga-mierzwa-sulima/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/marcin-kulka/",
+      "destination": "/contributor/marcin-kulka/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/tomasz-wesolowski/",
+      "destination": "/contributor/tomasz-wesolowski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/william-benton/",
+      "destination": "/contributor/william-benton/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/anthony-stevens/",
+      "destination": "/contributor/anthony-stevens/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/lukasz-cmielowski/",
+      "destination": "/contributor/lukasz-cmielowski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/roman-ivanov/",
+      "destination": "/contributor/roman-ivanov/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/yifan-xing/",
+      "destination": "/contributor/yifan-xing/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/bartlomiej-malecki/",
+      "destination": "/contributor/bartlomiej-malecki/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/rafal-bigaj/",
+      "destination": "/contributor/rafal-bigaj/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/maciej-ciolek/",
+      "destination": "/contributor/maciej-ciolek/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jacek-kunicki/",
+      "destination": "/contributor/jacek-kunicki/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/tudor-palanga/",
+      "destination": "/contributor/tudor-palanga/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/kenny-baas/",
+      "destination": "/contributor/kenny-baas/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/gideon-de-kok/",
+      "destination": "/contributor/gideon-de-kok/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/tomasz-nurkiewicz/",
+      "destination": "/contributor/tomasz-nurkiewicz/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/marcin-zagorski/",
+      "destination": "/contributor/marcin-zagorski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/pawel-dolega/",
+      "destination": "/contributor/pawel-dolega/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jaroslaw-ratajski/",
+      "destination": "/contributor/jaroslaw-ratajski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/stefano-bonetti/",
+      "destination": "/contributor/stefano-bonetti/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/steffen-gebert/",
+      "destination": "/contributor/steffen-gebert/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jochen-mader/",
+      "destination": "/contributor/jochen-mader/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/damien-bailly/",
+      "destination": "/contributor/damien-bailly/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jan-pustelnik/",
+      "destination": "/contributor/jan-pustelnik/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/vladimir-polushin/",
+      "destination": "/contributor/vladimir-polushin/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/martin-duhem/",
+      "destination": "/contributor/martin-duhem/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jan-christopher-vogt/",
+      "destination": "/contributor/jan-christopher-vogt/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/olafur-pall-geirsson/",
+      "destination": "/contributor/olafur-pall-geirsson/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/alexandre-archambault/",
+      "destination": "/contributor/alexandre-archambault/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/pavel-fatin/",
+      "destination": "/contributor/pavel-fatin/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/gabriele-petronella/",
+      "destination": "/contributor/gabriele-petronella/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jorge-vicente-cantero/",
+      "destination": "/contributor/jorge-vicente-cantero/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/dale-wijnand/",
+      "destination": "/contributor/dale-wijnand/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/stu-hood/",
+      "destination": "/contributor/stu-hood/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/aleksander-boruch-gruszecki/",
+      "destination": "/contributor/aleksander-boruch-gruszecki/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/wojciech-kocjan/",
+      "destination": "/contributor/wojciech-kocjan/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/daniel-liszka/",
+      "destination": "/contributor/daniel-liszka/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/luca-ponzanelli/",
+      "destination": "/contributor/luca-ponzanelli/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/chris-trzesniewski/",
+      "destination": "/contributor/chris-trzesniewski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/krzysztof-borowski/",
+      "destination": "/contributor/krzysztof-borowski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/lukasz-bialy/",
+      "destination": "/contributor/lukasz-bialy/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/zoe-weil/",
+      "destination": "/contributor/zoe-weil/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/maciej-lasyk/",
+      "destination": "/contributor/maciej-lasyk/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/oindrilla-chatterjee/",
+      "destination": "/contributor/oindrilla-chatterjee/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/artur-skowronski/",
+      "destination": "/contributor/artur-skowronski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/mateusz-ziarko/",
+      "destination": "/contributor/mateusz-ziarko/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/mateusz-bryla/",
+      "destination": "/contributor/mateusz-bryla/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/francois-farquet/",
+      "destination": "/contributor/francois-farquet/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/sebastien-doeraene/",
+      "destination": "/contributor/sebastien-doeraene/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/weronika-dranka/",
+      "destination": "/contributor/weronika-dranka/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jacek-spolnik/",
+      "destination": "/contributor/jacek-spolnik/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/tomasz-sek/",
+      "destination": "/contributor/tomasz-sek/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/iulian-dragos/",
+      "destination": "/contributor/iulian-dragos/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/gabriel-asman/",
+      "destination": "/contributor/gabriel-asman/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/david-wang/",
+      "destination": "/contributor/david-wang/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/greg-herlein/",
+      "destination": "/contributor/greg-herlein/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/scott-saltsgaver/",
+      "destination": "/contributor/scott-saltsgaver/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/adam-niedzialkowski/",
+      "destination": "/contributor/adam-niedzialkowski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/nikolay-tsvetkov/",
+      "destination": "/contributor/nikolay-tsvetkov/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/matthew-opala/",
+      "destination": "/contributor/matthew-opala/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/piotr-kliczewski/",
+      "destination": "/contributor/piotr-kliczewski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/krystian-rybarczyk/",
+      "destination": "/contributor/krystian-rybarczyk/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/grzegorz-gawron/",
+      "destination": "/contributor/grzegorz-gawron/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/miron-ficak/",
+      "destination": "/contributor/miron-ficak/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/mateusz-owczarek/",
+      "destination": "/contributor/mateusz-owczarek/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/michael-clifford/",
+      "destination": "/contributor/michael-clifford/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/maciej-olesinski/",
+      "destination": "/contributor/maciej-olesinski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/krzysztof-romanowski/",
+      "destination": "/contributor/krzysztof-romanowski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/pawel-marks/",
+      "destination": "/contributor/pawel-marks/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/zainab-ali/",
+      "destination": "/contributor/zainab-ali/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/hugh-mckee/",
+      "destination": "/contributor/hugh-mckee/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/mikhail-mutcianko/",
+      "destination": "/contributor/mikhail-mutcianko/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/daniel-jagielski/",
+      "destination": "/contributor/daniel-jagielski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/pawel-kaminski/",
+      "destination": "/contributor/pawel-kaminski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/michal-jakobczyk/",
+      "destination": "/contributor/michal-jakobczyk/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/alexander-podkhalyuzin/",
+      "destination": "/contributor/alexander-podkhalyuzin/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/aleksander-pentchev/",
+      "destination": "/contributor/aleksander-pentchev/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/tomasz-stopa/",
+      "destination": "/contributor/tomasz-stopa/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/fabio-tiriticco/",
+      "destination": "/contributor/fabio-tiriticco/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/pawel-tomasik/",
+      "destination": "/contributor/pawel-tomasik/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/ola-kunysz/",
+      "destination": "/contributor/ola-kunysz/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/juan-tomas-garcia/",
+      "destination": "/contributor/juan-tomas-garcia/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/marcin-szeliga/",
+      "destination": "/contributor/marcin-szeliga/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/philipp-krenn/",
+      "destination": "/contributor/philipp-krenn/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/justin-kaeser/",
+      "destination": "/contributor/justin-kaeser/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jacek-leskow/",
+      "destination": "/contributor/jacek-leskow/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/pawel-rzeszucinski/",
+      "destination": "/contributor/pawel-rzeszucinski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/tomasz-godzik/",
+      "destination": "/contributor/tomasz-godzik/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/umit-mert-cakmak/",
+      "destination": "/contributor/umit-mert-cakmak/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/guillaume-martres/",
+      "destination": "/contributor/guillaume-martres/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/eugene-yokota/",
+      "destination": "/contributor/eugene-yokota/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/konrad-jakubiec/",
+      "destination": "/contributor/konrad-jakubiec/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/oleh-dokuka/",
+      "destination": "/contributor/oleh-dokuka/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jakub-janczyk/",
+      "destination": "/contributor/jakub-janczyk/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/maria-livia-chiorean/",
+      "destination": "/contributor/maria-livia-chiorean/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/gautier-di-folco/",
+      "destination": "/contributor/gautier-di-folco/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/przemek-maciolek/",
+      "destination": "/contributor/przemek-maciolek/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/alex-lobera/",
+      "destination": "/contributor/alex-lobera/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/marjorie-figueroa/",
+      "destination": "/contributor/marjorie-figueroa/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jamie-maria-schouren/",
+      "destination": "/contributor/jamie-maria-schouren/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/mathieu-sinn/",
+      "destination": "/contributor/mathieu-sinn/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/rodrigo-fernandes/",
+      "destination": "/contributor/rodrigo-fernandes/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/maciej-treder/",
+      "destination": "/contributor/maciej-treder/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/tomasz-stachlewski/",
+      "destination": "/contributor/tomasz-stachlewski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/glenn-reyes/",
+      "destination": "/contributor/glenn-reyes/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/antonio-duma/",
+      "destination": "/contributor/antonio-duma/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/robin-moffatt/",
+      "destination": "/contributor/robin-moffatt/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/michal-michalczuk/",
+      "destination": "/contributor/michal-michalczuk/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/rory-graves/",
+      "destination": "/contributor/rory-graves/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/ivan-jovanovic/",
+      "destination": "/contributor/ivan-jovanovic/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/rodolfo-dias/",
+      "destination": "/contributor/rodolfo-dias/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/rossella-de-gaetano/",
+      "destination": "/contributor/rossella-de-gaetano/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/krzysztof-daniel/",
+      "destination": "/contributor/krzysztof-daniel/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/holly-cummins/",
+      "destination": "/contributor/holly-cummins/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/nicolas-frankel/",
+      "destination": "/contributor/nicolas-frankel/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/kacper-korban/",
+      "destination": "/contributor/kacper-korban/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/andrzej-ratajczak/",
+      "destination": "/contributor/andrzej-ratajczak/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/bartek-antoniak/",
+      "destination": "/contributor/bartek-antoniak/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/leon-stigter/",
+      "destination": "/contributor/leon-stigter/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jorge-vasquez/",
+      "destination": "/contributor/jorge-vasquez/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/pawel-prazak/",
+      "destination": "/contributor/pawel-prazak/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/martin-odersky/",
+      "destination": "/contributor/martin-odersky/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/dat-tran/",
+      "destination": "/contributor/dat-tran/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/sean-walsh/",
+      "destination": "/contributor/sean-walsh/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/zack-jackson/",
+      "destination": "/contributor/zack-jackson/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/hubert-pomorski/",
+      "destination": "/contributor/hubert-pomorski/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/raul-raja/",
+      "destination": "/contributor/raul-raja/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/marcin-moskala/",
+      "destination": "/contributor/marcin-moskala/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/yan-cui/",
+      "destination": "/contributor/yan-cui/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/jon-pretty/",
+      "destination": "/contributor/jon-pretty/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/marko-letic/",
+      "destination": "/contributor/marko-letic/",
+      "permanent": true
+    },
+    {
+      "source": "/speakers/juho-vepsalainen/",
+      "destination": "/contributor/juho-vepsalainen/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/generative-ai-on-google-cloud/",
+      "destination": "/watch/generative-ai-on-google-cloud/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/only-one-product-in-the-world-is-completely-yours-and-why-its-worth-losing-10/",
+      "destination": "/watch/only-one-product-in-the-world-is-completely-yours-and-why-its-worth-losing-10/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-power-of-virtual-teams/",
+      "destination": "/watch/the-power-of-virtual-teams/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/reach-the-senior-level-and-watch-your-career-skyrocket/",
+      "destination": "/watch/reach-the-senior-level-and-watch-your-career-skyrocket/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/from-coding-to-building-a-company-my-journey-in-starting-a-successful-product-company/",
+      "destination": "/watch/from-coding-to-building-a-company-my-journey-in-starting-a-successful-product-company/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/business-analysis-as-a-state-of-mind/",
+      "destination": "/watch/business-analysis-as-a-state-of-mind/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/discovering-your-personal-gps-for-unique-career-path-building/",
+      "destination": "/watch/discovering-your-personal-gps-for-unique-career-path-building/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-path-to-technical-leadership/",
+      "destination": "/watch/the-path-to-technical-leadership/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/designing-it-career-paths-beyond-senior/",
+      "destination": "/watch/designing-it-career-paths-beyond-senior/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/you-put-out-the-fire-on-production-whats-next/",
+      "destination": "/watch/you-put-out-the-fire-on-production-whats-next/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-most-important-5-minutes-of-a-new-leader/",
+      "destination": "/watch/the-most-important-5-minutes-of-a-new-leader/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-to-fail-successfully-by-jen-bower/",
+      "destination": "/watch/how-to-fail-successfully-by-jen-bower/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/enterprise-final-frontier/",
+      "destination": "/watch/enterprise-final-frontier/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/handling-uncertainty/",
+      "destination": "/watch/handling-uncertainty/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/communication-for-developers-estimates-code-reviews-and-other-hard-problems/",
+      "destination": "/watch/communication-for-developers-estimates-code-reviews-and-other-hard-problems/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/women-in-it-2023-data-with-no-fluff/",
+      "destination": "/watch/women-in-it-2023-data-with-no-fluff/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/only-you-know-what-you-are-capable-of/",
+      "destination": "/watch/only-you-know-what-you-are-capable-of/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/from-software-developer-to-servant-leader-my-journey-and-the-power-of-empathy-in-modern-leadership/",
+      "destination": "/watch/from-software-developer-to-servant-leader-my-journey-and-the-power-of-empathy-in-modern-leadership/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/my-vision-my-voice/",
+      "destination": "/watch/my-vision-my-voice/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/my-si-szarp-story/",
+      "destination": "/watch/my-si-szarp-story/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-to-make-the-internet-accessible-to-everyone/",
+      "destination": "/watch/how-to-make-the-internet-accessible-to-everyone/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/personal-brand-how-to-build-the-brand-called-you/",
+      "destination": "/watch/personal-brand-how-to-build-the-brand-called-you/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/are-you-destined-to-deal-with-the-ever-changing-tech-landscape/",
+      "destination": "/watch/are-you-destined-to-deal-with-the-ever-changing-tech-landscape/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/never-say-never/",
+      "destination": "/watch/never-say-never/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/open-source-the-gateway-to-it/",
+      "destination": "/watch/open-source-the-gateway-to-it/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/building-the-new-economy/",
+      "destination": "/watch/building-the-new-economy/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/domain-experiments/",
+      "destination": "/watch/domain-experiments/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/design-to-development-handoff-tips-for-communication-and-collaboration/",
+      "destination": "/watch/design-to-development-handoff-tips-for-communication-and-collaboration/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/will-ai-take-our-jobs/",
+      "destination": "/watch/will-ai-take-our-jobs/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-your-monorepo-breaks-the-ide-and-what-were-doing-about-it/",
+      "destination": "/watch/how-your-monorepo-breaks-the-ide-and-what-were-doing-about-it/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/darts-unifying-time-series-forecasting/",
+      "destination": "/watch/darts-unifying-time-series-forecasting/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-i-gained-from-gracing-the-world-with-yet-another-npm-package/",
+      "destination": "/watch/how-i-gained-from-gracing-the-world-with-yet-another-npm-package/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/a-software-engineer-in-the-land-of-data-scientists/",
+      "destination": "/watch/a-software-engineer-in-the-land-of-data-scientists/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/clouds-are-not-free-guide-to-observability-driven-efficiency-optimizations/",
+      "destination": "/watch/clouds-are-not-free-guide-to-observability-driven-efficiency-optimizations/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/threads-at-scale/",
+      "destination": "/watch/threads-at-scale/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/transformation-hands-on-a-culture-beyond-sla-and-tc/",
+      "destination": "/watch/transformation-hands-on-a-culture-beyond-sla-and-tc/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/lessons-to-my-younger-self/",
+      "destination": "/watch/lessons-to-my-younger-self/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/holy-moley-it-did-work/",
+      "destination": "/watch/holy-moley-it-did-work/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/mrs-manager-either-perfectly-or-not-at-all/",
+      "destination": "/watch/mrs-manager-either-perfectly-or-not-at-all/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/4-career-lessons-from-product-to-software-house/",
+      "destination": "/watch/4-career-lessons-from-product-to-software-house/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/become-a-shadow-and-shed-new-light-on-your-career/",
+      "destination": "/watch/become-a-shadow-and-shed-new-light-on-your-career/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-to-spread-your-wings-in-it/",
+      "destination": "/watch/how-to-spread-your-wings-in-it/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/software-quality-is-not-only-about-code-and-tests/",
+      "destination": "/watch/software-quality-is-not-only-about-code-and-tests/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/assuring-quality-as-a-test-lead-in-an-agile-team/",
+      "destination": "/watch/assuring-quality-as-a-test-lead-in-an-agile-team/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-importance-of-backend-in-the-ux-design/",
+      "destination": "/watch/the-importance-of-backend-in-the-ux-design/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/soft-skills-on-a-job-interview-how-to-get-prepared/",
+      "destination": "/watch/soft-skills-on-a-job-interview-how-to-get-prepared/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/all-you-need-to-know-to-land-and-manage-your-first-ux-job/",
+      "destination": "/watch/all-you-need-to-know-to-land-and-manage-your-first-ux-job/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/a-b-testing-madness/",
+      "destination": "/watch/a-b-testing-madness/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/pandas-stubs-how-we-enhanced-pandas-with-type-annotations/",
+      "destination": "/watch/pandas-stubs-how-we-enhanced-pandas-with-type-annotations/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/finding-yourself-in-it-in-the-next-10-years/",
+      "destination": "/watch/finding-yourself-in-it-in-the-next-10-years/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/culture-shock-how-to-find-yourself-in-it-when-starting-your-first-job/",
+      "destination": "/watch/culture-shock-how-to-find-yourself-in-it-when-starting-your-first-job/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/is-it-worth-opening-your-own-business-when-working-in-the-it-industry/",
+      "destination": "/watch/is-it-worth-opening-your-own-business-when-working-in-the-it-industry/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/automate-azure-devops-update-with-azure-functions/",
+      "destination": "/watch/automate-azure-devops-update-with-azure-functions/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/trust-driven-development-how-to-break-the-silos-between-dev-ops-and-change-management-teams-and-shorten-lead-time-for-your-changes/",
+      "destination": "/watch/trust-driven-development-how-to-break-the-silos-between-dev-ops-and-change-management-teams-and-shorten-lead-time-for-your-changes/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/serialization-toolbox-for-akka-messages-events-and-persistent-state-that-helps-achieve-compile-time-guarantee-on-serializability/",
+      "destination": "/watch/serialization-toolbox-for-akka-messages-events-and-persistent-state-that-helps-achieve-compile-time-guarantee-on-serializability/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/theming-vue-apps-can-it-be-dynamic/",
+      "destination": "/watch/theming-vue-apps-can-it-be-dynamic/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/ia-behind-the-scenes-when-ux-meets-dev-to-create-a-reliable-information-architecture/",
+      "destination": "/watch/ia-behind-the-scenes-when-ux-meets-dev-to-create-a-reliable-information-architecture/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/from-dreams-to-reality-what-its-like-to-find-a-job-that-becomes-your-passion/",
+      "destination": "/watch/from-dreams-to-reality-what-its-like-to-find-a-job-that-becomes-your-passion/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/observability-2-0-with-opentelemetry/",
+      "destination": "/watch/observability-2-0-with-opentelemetry/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/auto-instrumentation-of-prometheus-for-red-monitoring-with-ebpf/",
+      "destination": "/watch/auto-instrumentation-of-prometheus-for-red-monitoring-with-ebpf/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/when-life-gives-you-lemons-make-lemon-grenades/",
+      "destination": "/watch/when-life-gives-you-lemons-make-lemon-grenades/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/nearbox-app-the-curse-of-local-and-5-lessons-learned/",
+      "destination": "/watch/nearbox-app-the-curse-of-local-and-5-lessons-learned/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/collaborate-document-version-deploy-with-dss/",
+      "destination": "/watch/collaborate-document-version-deploy-with-dss/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/trained-scikit-learn-model-refinery-with-open-source-packages/",
+      "destination": "/watch/trained-scikit-learn-model-refinery-with-open-source-packages/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/code-reusage-and-shared-components-in-micro-frontends/",
+      "destination": "/watch/code-reusage-and-shared-components-in-micro-frontends/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/consuming-headless-in-the-omnichannel-networks/",
+      "destination": "/watch/consuming-headless-in-the-omnichannel-networks/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/why-you-should-go-headless/",
+      "destination": "/watch/why-you-should-go-headless/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/panel-discussion-on-reactive-systems/",
+      "destination": "/watch/panel-discussion-on-reactive-systems/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/qa-session-with-martin-odersky-and-scala-3-team/",
+      "destination": "/watch/qa-session-with-martin-odersky-and-scala-3-team/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/my-take-on-scala-3-by-wiem-zine-elabidine/",
+      "destination": "/watch/my-take-on-scala-3-by-wiem-zine-elabidine/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/my-take-on-scala-3-by-daniel-spiewak/",
+      "destination": "/watch/my-take-on-scala-3-by-daniel-spiewak/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/my-take-on-scala-3-by-daniela-sfregola/",
+      "destination": "/watch/my-take-on-scala-3-by-daniela-sfregola/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/my-take-on-scala-3-by-tomasz-godzik/",
+      "destination": "/watch/my-take-on-scala-3-by-tomasz-godzik/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/pwas-and-their-place-in-order/",
+      "destination": "/watch/pwas-and-their-place-in-order/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/calm-technologies-prototyping-microinteractions/",
+      "destination": "/watch/calm-technologies-prototyping-microinteractions/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/kubernetes-networking-deep-dive/",
+      "destination": "/watch/kubernetes-networking-deep-dive/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/kubernetes-cluster-bootstrap/",
+      "destination": "/watch/kubernetes-cluster-bootstrap/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/serverless-in-production-an-experience-report/",
+      "destination": "/watch/serverless-in-production-an-experience-report/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/discussion-panel-experiences-and-views-on-ai-adoption/",
+      "destination": "/watch/discussion-panel-experiences-and-views-on-ai-adoption/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/programmer-2-0/",
+      "destination": "/watch/programmer-2-0/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/from-spark-mllib-model-to-learning-system-with-watson-machine-learning/",
+      "destination": "/watch/from-spark-mllib-model-to-learning-system-with-watson-machine-learning/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/stream-processing-in-telco-case-study-based-on-apache-flink-touk-nussknacker/",
+      "destination": "/watch/stream-processing-in-telco-case-study-based-on-apache-flink-touk-nussknacker/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/collaborative-filtering-microservices-on-spark/",
+      "destination": "/watch/collaborative-filtering-microservices-on-spark/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/luna-presentation/",
+      "destination": "/watch/luna-presentation/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/explaining-neural-networks-predictions/",
+      "destination": "/watch/explaining-neural-networks-predictions/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/big-o-in-a-retailers-big-data/",
+      "destination": "/watch/big-o-in-a-retailers-big-data/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/big-and-smart-data-in-the-development-of-autonomous-vehicles/",
+      "destination": "/watch/big-and-smart-data-in-the-development-of-autonomous-vehicles/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/life-after-the-model/",
+      "destination": "/watch/life-after-the-model/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/big-data-and-data-analytics/",
+      "destination": "/watch/big-data-and-data-analytics/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/make-your-data-fabulous/",
+      "destination": "/watch/make-your-data-fabulous/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/next-cern-accelerator-logging-service-architecture/",
+      "destination": "/watch/next-cern-accelerator-logging-service-architecture/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/descriptive-statistics-the-mighty-dwarf-of-data-science/",
+      "destination": "/watch/descriptive-statistics-the-mighty-dwarf-of-data-science/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/building-successful-machine-learning-products/",
+      "destination": "/watch/building-successful-machine-learning-products/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/recent-advancements-in-nlp-and-deep-learning-a-quants-perspective/",
+      "destination": "/watch/recent-advancements-in-nlp-and-deep-learning-a-quants-perspective/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-we-built-a-shiny-app-for-700-users/",
+      "destination": "/watch/how-we-built-a-shiny-app-for-700-users/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/no-more-cumbersomeness-automatic-predictive-modeling-on-apache-spark/",
+      "destination": "/watch/no-more-cumbersomeness-automatic-predictive-modeling-on-apache-spark/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/what-weve-learned-from-creating-edward-ai/",
+      "destination": "/watch/what-weve-learned-from-creating-edward-ai/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/implementing-machine-learning-algorithms-for-scale-out-parallelism/",
+      "destination": "/watch/implementing-machine-learning-algorithms-for-scale-out-parallelism/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/present-future-vision-for-dataai/",
+      "destination": "/watch/present-future-vision-for-dataai/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/fast-data-architecture-at-xite/",
+      "destination": "/watch/fast-data-architecture-at-xite/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/asynchronous-programming-scala-concurrent-and-monix-what/",
+      "destination": "/watch/asynchronous-programming-scala-concurrent-and-monix-what/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/anomaly-detection-of-monitoring-data-in-scala-ecosystem/",
+      "destination": "/watch/anomaly-detection-of-monitoring-data-in-scala-ecosystem/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/alpakka-a-new-world-of-connectors-for-reactive-enterprise-integration/",
+      "destination": "/watch/alpakka-a-new-world-of-connectors-for-reactive-enterprise-integration/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/things-learned-from-using-event-sourcing-and-cqrs-patterns/",
+      "destination": "/watch/things-learned-from-using-event-sourcing-and-cqrs-patterns/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/practical-reactive-streams-with-monix/",
+      "destination": "/watch/practical-reactive-streams-with-monix/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/from-monolith-to-microservices-reification-and-reactification/",
+      "destination": "/watch/from-monolith-to-microservices-reification-and-reactification/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/events-first-microservices-with-lagom/",
+      "destination": "/watch/events-first-microservices-with-lagom/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/reactive-programming-lessons-learned/",
+      "destination": "/watch/reactive-programming-lessons-learned/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/beyond-the-hype-reactive-vs-traditional-microservices/",
+      "destination": "/watch/beyond-the-hype-reactive-vs-traditional-microservices/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/kotlin-spring-5-0-web-flux/",
+      "destination": "/watch/kotlin-spring-5-0-web-flux/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/stream-driven-development-with-akka-streams/",
+      "destination": "/watch/stream-driven-development-with-akka-streams/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/a-story-about-connecting-microservices/",
+      "destination": "/watch/a-story-about-connecting-microservices/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/applying-principles-of-chaos-engineering-to-serverless/",
+      "destination": "/watch/applying-principles-of-chaos-engineering-to-serverless/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/monitoring-akka-with-kamon-1-0/",
+      "destination": "/watch/monitoring-akka-with-kamon-1-0/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/a-reactive-architecture-based-on-vert-x-and-kubernetes/",
+      "destination": "/watch/a-reactive-architecture-based-on-vert-x-and-kubernetes/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/making-scalac-faster-how-hard-can-it-be/",
+      "destination": "/watch/making-scalac-faster-how-hard-can-it-be/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/enforce-best-coding-practices-with-scalafix-linting/",
+      "destination": "/watch/enforce-best-coding-practices-with-scalafix-linting/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/meet-bloop-and-get-more-productive-with-scala/",
+      "destination": "/watch/meet-bloop-and-get-more-productive-with-scala/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/designing-libraries-for-source-and-binary-compatibility/",
+      "destination": "/watch/designing-libraries-for-source-and-binary-compatibility/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/making-third-party-macro-support-in-intellij-easier/",
+      "destination": "/watch/making-third-party-macro-support-in-intellij-easier/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-perfect-build-tool/",
+      "destination": "/watch/the-perfect-build-tool/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/semanticdb-for-scala-developer-tools/",
+      "destination": "/watch/semanticdb-for-scala-developer-tools/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/blooming-tools/",
+      "destination": "/watch/blooming-tools/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/lessons-to-scala-native-from-kotlin-native/",
+      "destination": "/watch/lessons-to-scala-native-from-kotlin-native/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/spark-with-ammonite-and-coursier/",
+      "destination": "/watch/spark-with-ammonite-and-coursier/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/enabling-the-first-step/",
+      "destination": "/watch/enabling-the-first-step/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/bridging-the-tooling-gap-with-scala-js/",
+      "destination": "/watch/bridging-the-tooling-gap-with-scala-js/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/integrating-ides-with-dotty-the-experimental-scala-compiler/",
+      "destination": "/watch/integrating-ides-with-dotty-the-experimental-scala-compiler/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/build-server-protocol-and-new-ideas/",
+      "destination": "/watch/build-server-protocol-and-new-ideas/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/5-things-you-need-to-know-about-scala-compilation/",
+      "destination": "/watch/5-things-you-need-to-know-about-scala-compilation/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/sbt1/",
+      "destination": "/watch/sbt1/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-bytecode-we-all-runnin/",
+      "destination": "/watch/the-bytecode-we-all-runnin/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/tools-i-see-what-you-did-there-incrementalism-and-inference-in-build-tools/",
+      "destination": "/watch/tools-i-see-what-you-did-there-incrementalism-and-inference-in-build-tools/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/tools-of-the-mind/",
+      "destination": "/watch/tools-of-the-mind/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/where-ammonites-thrive/",
+      "destination": "/watch/where-ammonites-thrive/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/apps-in-the-world-of-hybrid-cloud/",
+      "destination": "/watch/apps-in-the-world-of-hybrid-cloud/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/releasing-the-fury/",
+      "destination": "/watch/releasing-the-fury/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/machine-learning-at-any-scale-with-amazon-sagemaker/",
+      "destination": "/watch/machine-learning-at-any-scale-with-amazon-sagemaker/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/building-a-stream-processing-pipeline-in-context-of-risk-management-platform/",
+      "destination": "/watch/building-a-stream-processing-pipeline-in-context-of-risk-management-platform/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/libra-a-holistic-recommender-system-for-software-engineering/",
+      "destination": "/watch/libra-a-holistic-recommender-system-for-software-engineering/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/tree-structured-rnns-a-tool-for-learning-from-human-code/",
+      "destination": "/watch/tree-structured-rnns-a-tool-for-learning-from-human-code/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/observables-hot-or-not/",
+      "destination": "/watch/observables-hot-or-not/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/superpowers-for-tailoring-asynchrony-or-how-to-customize-your-coroutines/",
+      "destination": "/watch/superpowers-for-tailoring-asynchrony-or-how-to-customize-your-coroutines/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/towards-cloud-native-scala/",
+      "destination": "/watch/towards-cloud-native-scala/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/is-the-serverless-the-future-of-cloud-native-and-why-your-boss-is-lost-without-a-map/",
+      "destination": "/watch/is-the-serverless-the-future-of-cloud-native-and-why-your-boss-is-lost-without-a-map/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/nine-ways-to-fail-at-cloud-native/",
+      "destination": "/watch/nine-ways-to-fail-at-cloud-native/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/integrating-developer-experiences-build-server-protocol/",
+      "destination": "/watch/integrating-developer-experiences-build-server-protocol/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-to-waste-less-time-with-sbt/",
+      "destination": "/watch/how-to-waste-less-time-with-sbt/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/ai-big-data-and-the-new-social-order-2/",
+      "destination": "/watch/ai-big-data-and-the-new-social-order-2/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/revisiting-implicits/",
+      "destination": "/watch/revisiting-implicits/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/analysis-of-zinc/",
+      "destination": "/watch/analysis-of-zinc/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/your-best-buddies/",
+      "destination": "/watch/your-best-buddies/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/8ms-99th-write-percentile-latency-is-it-fast/",
+      "destination": "/watch/8ms-99th-write-percentile-latency-is-it-fast/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-algo-magic-from-big-to-small-data/",
+      "destination": "/watch/the-algo-magic-from-big-to-small-data/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/on-track-with-apache-kafka/",
+      "destination": "/watch/on-track-with-apache-kafka/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/blockchain-applications-are-they-real/",
+      "destination": "/watch/blockchain-applications-are-they-real/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/serverless-security-defence-against-the-dark-arts/",
+      "destination": "/watch/serverless-security-defence-against-the-dark-arts/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/improving-sentiment-analysis-code-in-a-devops-environment/",
+      "destination": "/watch/improving-sentiment-analysis-code-in-a-devops-environment/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/understanding-types-through-typescript/",
+      "destination": "/watch/understanding-types-through-typescript/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/efficient-types-engineering/",
+      "destination": "/watch/efficient-types-engineering/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/a-promise-is-a-promise/",
+      "destination": "/watch/a-promise-is-a-promise/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/run-programs-faster-with-graalvm/",
+      "destination": "/watch/run-programs-faster-with-graalvm/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-will-tasty-affect-the-scala-ecosystem-exactly/",
+      "destination": "/watch/how-will-tasty-affect-the-scala-ecosystem-exactly/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/kotlin-multiplatform-a-trip-from-jvm-to-js/",
+      "destination": "/watch/kotlin-multiplatform-a-trip-from-jvm-to-js/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/kotlin-not-to-do-list-what-we-should-avoid-doing-in-kotlin/",
+      "destination": "/watch/kotlin-not-to-do-list-what-we-should-avoid-doing-in-kotlin/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/quantum-computer-but-how-do-i-program-it/",
+      "destination": "/watch/quantum-computer-but-how-do-i-program-it/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/lesson-learned-on-event-streaming-at-revolut/",
+      "destination": "/watch/lesson-learned-on-event-streaming-at-revolut/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/ai-meets-privacy/",
+      "destination": "/watch/ai-meets-privacy/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/jenkins-kubernetes-operator/",
+      "destination": "/watch/jenkins-kubernetes-operator/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/your-deployment-in-sbt/",
+      "destination": "/watch/your-deployment-in-sbt/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/impedance-matching-legacy-apps-to-prometheus-monitoring-techniques-and-challenges/",
+      "destination": "/watch/impedance-matching-legacy-apps-to-prometheus-monitoring-techniques-and-challenges/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/cloud-architecture-lessons-learned/",
+      "destination": "/watch/cloud-architecture-lessons-learned/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/is-your-phone-ready-to-do-machine-learning/",
+      "destination": "/watch/is-your-phone-ready-to-do-machine-learning/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/monitoring-with-no-limits/",
+      "destination": "/watch/monitoring-with-no-limits/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/reproducible-machine-learning/",
+      "destination": "/watch/reproducible-machine-learning/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/migrating-legacy-workloads-to-kubernetes/",
+      "destination": "/watch/migrating-legacy-workloads-to-kubernetes/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/flows-kotlins-shot-at-concurrency/",
+      "destination": "/watch/flows-kotlins-shot-at-concurrency/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/probabilistic-data-structures-for-kafka-streams/",
+      "destination": "/watch/probabilistic-data-structures-for-kafka-streams/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/data-science-with-openshift/",
+      "destination": "/watch/data-science-with-openshift/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/getting-to-production-grade-kubernetes-cluster-in-6-months/",
+      "destination": "/watch/getting-to-production-grade-kubernetes-cluster-in-6-months/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/netflix-2-0-how-to-build-your-own-vod-global-web-application-without-using-single-server/",
+      "destination": "/watch/netflix-2-0-how-to-build-your-own-vod-global-web-application-without-using-single-server/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/journey-to-the-holy-grail-scala-faster-and-smaller/",
+      "destination": "/watch/journey-to-the-holy-grail-scala-faster-and-smaller/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/metals-your-next-ide/",
+      "destination": "/watch/metals-your-next-ide/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/run-scalac-run/",
+      "destination": "/watch/run-scalac-run/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-evolution-from-monolith-to-microservices-to-serverless-and-beyond/",
+      "destination": "/watch/the-evolution-from-monolith-to-microservices-to-serverless-and-beyond/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/declarative-artifact-packaging-with-sbt/",
+      "destination": "/watch/declarative-artifact-packaging-with-sbt/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/right-way-to-test-your-application/",
+      "destination": "/watch/right-way-to-test-your-application/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-reasons-we-do-not-do-machine-learning-any-more/",
+      "destination": "/watch/the-reasons-we-do-not-do-machine-learning-any-more/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/functional-programming-in-javascript/",
+      "destination": "/watch/functional-programming-in-javascript/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/tame-crypto-events-with-streaming/",
+      "destination": "/watch/tame-crypto-events-with-streaming/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/quantum-computers-in-the-cloud-myths-and-facts/",
+      "destination": "/watch/quantum-computers-in-the-cloud-myths-and-facts/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/machine-learning-in-visual-search/",
+      "destination": "/watch/machine-learning-in-visual-search/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-to-build-an-ai-from-zero-to-learn-to-play-and-solve-a-tough-game/",
+      "destination": "/watch/how-to-build-an-ai-from-zero-to-learn-to-play-and-solve-a-tough-game/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/automl-at-scale/",
+      "destination": "/watch/automl-at-scale/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/rsocket-future-reactive-protocol/",
+      "destination": "/watch/rsocket-future-reactive-protocol/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/reaching-zen-in-your-cluster-coordination/",
+      "destination": "/watch/reaching-zen-in-your-cluster-coordination/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/ai-big-data-and-the-new-social-order/",
+      "destination": "/watch/ai-big-data-and-the-new-social-order/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-likes-influence-your-views/",
+      "destination": "/watch/how-likes-influence-your-views/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/ides-and-compilers-an-ever-closer-union/",
+      "destination": "/watch/ides-and-compilers-an-ever-closer-union/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/time-based-domain-events-how-to-deal-with-time-on-kafka/",
+      "destination": "/watch/time-based-domain-events-how-to-deal-with-time-on-kafka/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/visualizing-large-datasets-with-javascript-using-deck-gl/",
+      "destination": "/watch/visualizing-large-datasets-with-javascript-using-deck-gl/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/cross-your-testing-boundaries/",
+      "destination": "/watch/cross-your-testing-boundaries/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/tips-and-tricks-for-running-aws-dependencies-locally/",
+      "destination": "/watch/tips-and-tricks-for-running-aws-dependencies-locally/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/lessons-learnt-from-going-reactive-with-reactor/",
+      "destination": "/watch/lessons-learnt-from-going-reactive-with-reactor/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-to-monitor-your-cloud-in-2020/",
+      "destination": "/watch/how-to-monitor-your-cloud-in-2020/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-to-stay-tech-relevant/",
+      "destination": "/watch/how-to-stay-tech-relevant/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/i-got-99-problems-but-accessibility-aint-one/",
+      "destination": "/watch/i-got-99-problems-but-accessibility-aint-one/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/the-search-for-app-iness-building-the-future-with-progressive-web-apps/",
+      "destination": "/watch/the-search-for-app-iness-building-the-future-with-progressive-web-apps/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-to-model-your-crazy-data-in-typescript/",
+      "destination": "/watch/how-to-model-your-crazy-data-in-typescript/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/thinking-reactive-in-javascript/",
+      "destination": "/watch/thinking-reactive-in-javascript/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-cinema-and-coding-are-alike/",
+      "destination": "/watch/how-cinema-and-coding-are-alike/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/angular-universal-boost-your-app-with-server-side-rendering/",
+      "destination": "/watch/angular-universal-boost-your-app-with-server-side-rendering/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/art-360-defending-ai-models-against-adversarial-attacks/",
+      "destination": "/watch/art-360-defending-ai-models-against-adversarial-attacks/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/javascript-quo-vadis/",
+      "destination": "/watch/javascript-quo-vadis/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/drawing-the-line-between-3rd-party-and-handcrafted-code/",
+      "destination": "/watch/drawing-the-line-between-3rd-party-and-handcrafted-code/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/scalaclean-deep-code-analysis/",
+      "destination": "/watch/scalaclean-deep-code-analysis/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/inkuire-using-types-as-search-keys-in-kotlin-libraries/",
+      "destination": "/watch/inkuire-using-types-as-search-keys-in-kotlin-libraries/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/pragmatic-app-migration-to-the-cloud-quarkus-kotlin-hazelcast-and-graalvm-in-action/",
+      "destination": "/watch/pragmatic-app-migration-to-the-cloud-quarkus-kotlin-hazelcast-and-graalvm-in-action/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/a-journey-from-oss-project-to-fully-fledged-product-on-azure-marketplace/",
+      "destination": "/watch/a-journey-from-oss-project-to-fully-fledged-product-on-azure-marketplace/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/thinking-stateful-serverless-bringing-the-power-of-akka-to-serverless/",
+      "destination": "/watch/thinking-stateful-serverless-bringing-the-power-of-akka-to-serverless/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/countdown-to-scala-3/",
+      "destination": "/watch/countdown-to-scala-3/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/exploring-type-level-programming-in-scala/",
+      "destination": "/watch/exploring-type-level-programming-in-scala/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/infrastructure-as-types/",
+      "destination": "/watch/infrastructure-as-types/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/lean-ai-how-to-implement-a-production-ready-deep-learning-model-in-twelve-weeks/",
+      "destination": "/watch/lean-ai-how-to-implement-a-production-ready-deep-learning-model-in-twelve-weeks/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/how-to-recommend-a-personalised-product-to-thousands-of-clients-starting-with-raw-data-to-real-time-serving/",
+      "destination": "/watch/how-to-recommend-a-personalised-product-to-thousands-of-clients-starting-with-raw-data-to-real-time-serving/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/building-kotlin-dsl/",
+      "destination": "/watch/building-kotlin-dsl/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/type-proofs-and-functional-programming-for-the-kotlin-type-system/",
+      "destination": "/watch/type-proofs-and-functional-programming-for-the-kotlin-type-system/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/building-a-social-network-in-under-4-weeks-with-serverless-and-graphql/",
+      "destination": "/watch/building-a-social-network-in-under-4-weeks-with-serverless-and-graphql/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/serverless-2-0-with-cloudstate-io/",
+      "destination": "/watch/serverless-2-0-with-cloudstate-io/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/tooling-for-scala-3-dotty-support-in-metals/",
+      "destination": "/watch/tooling-for-scala-3-dotty-support-in-metals/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/mutatis-mutandis-typesafe-transactional-indexed-database-queries-in-the-cloud/",
+      "destination": "/watch/mutatis-mutandis-typesafe-transactional-indexed-database-queries-in-the-cloud/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/interactive-maps-in-30-lines-of-code/",
+      "destination": "/watch/interactive-maps-in-30-lines-of-code/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/sidewind-tailwind-but-for-state/",
+      "destination": "/watch/sidewind-tailwind-but-for-state/",
+      "permanent": true
+    },
+    {
+      "source": "/talks/webpack-5-module-federation/",
+      "destination": "/watch/webpack-5-module-federation/",
+      "permanent": true
+    },
+    {
+      "source": "/watch/talk-iii/",
+      "destination": "/watch/optimizing-llm-inference-challenges-and-best-practices/",
+      "permanent": true
+    },
+    {
+      "source": "/watch/talk-ii/",
+      "destination": "/watch/beyond-encodetext-embeddings-at-scale/",
+      "permanent": true
+    },
+    {
+      "source": "/watch/talk-i/",
+      "destination": "/watch/orchestration-of-ml-workloads-via-cloud-composer-gke-kueue/",
+      "permanent": true
+    },
+    {
+      "source": "/event/sphere-it-connect/",
+      "destination": "/event/sphere-it-connect-developer-experience/",
+      "permanent": true
+    },
+    {
+      "source": "/workshops",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 354,
+  "title": "Scott Saltsgaver",
+  "slug": "scott-saltsgaver",
+  "path": "/contributor/scott-saltsgaver/",
+  "date": "2020-01-01 00:01:27",
+  "modified": "2021-03-30 17:00:28",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Techincal Lead/Software Engineer/Architect at Cisco Systems Inc",
+    "speaker_avatar": {
+      "id": 355,
+      "url": "/uploads/2021/03/Scott_Saltsgaver.jpeg",
+      "alt": "Scott Saltsgaver",
+      "width": 315,
+      "height": 315
+    },
+    "speaker_surname": "Saltsgaver",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/scott-saltsgaver-6537511/",
+    "speaker_gh": "https://github.com/ScopiCisco"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Scott is a Technical Leader/Architect with Cisco’s Customer Experience organization. Scott has developed software over the last 24 years professionally ranging from 386 embedded systems, network management, presence servers and now Cloud-based applications. </p>\n\n\n\n<p>In managing a work-life balance, Scott likes to play soccer, run and travel with his family. Scott has been married to his wife for 24 years and they have three boys. Scott holds two Bachelor of Science degrees in Computer Engineering and Electrical Engineering from West Virginia University.</p>"
+    }
+  ],
+  "formReplaced": false
+}

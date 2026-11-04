@@ -1,0 +1,38 @@
+{
+  "wpId": 2805,
+  "title": "Mateusz Karykowski",
+  "slug": "mateusz-karykowski",
+  "path": "/contributor/mateusz-karykowski/",
+  "date": "2022-03-25 13:12:43",
+  "modified": "2022-03-25 13:13:03",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "DevOps Engineer at VirtusLab",
+    "speaker_avatar": {
+      "id": 2806,
+      "url": "/uploads/2022/03/mateusz-06-min.jpg",
+      "alt": "Mateusz Karykowski",
+      "width": 2266,
+      "height": 2431
+    },
+    "speaker_surname": "Karykowski",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/mateusz-karykowski-b42262166/",
+    "speaker_gh": ""
+  },
+  "blocks": [],
+  "formReplaced": false
+}

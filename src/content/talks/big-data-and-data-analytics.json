@@ -1,0 +1,48 @@
+{
+  "wpId": 637,
+  "title": "Big Data and Data Analytics",
+  "slug": "big-data-and-data-analytics",
+  "path": "/watch/big-data-and-data-analytics/",
+  "date": "2020-01-01 00:00:59",
+  "modified": "2023-03-20 14:16:33",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 66,
+        "slug": "big-data",
+        "name": "Big Data"
+      },
+      {
+        "id": 108,
+        "slug": "data-analytics",
+        "name": "Data Analytics"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=kswLX83-d4o",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      266
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The main goal of my presentation is to introduce the participants to the most novel concepts in computational statistics and their implications into broader range of decisions based on Big Data. These days a data scientist has to work simultaneously on at least three different fronts. First, the data gathering plan called the design. Invariably, designs become extremely useful as we are flooded with data. Designs help us to focus on the aim of the study and on reduction of complexity. Secondly, the software environment we choose to analyze our data. </p>\n\n\n\n<p>The competition here is quite strong but the future will belong to open source solutions. The Author of this presentation belongs to the club of R-ofiles, that is a world-wide community of data scientists willing to share their tools. Finally, the third front of the battle of the data scientist is selection of an appropriate statistical algorithm. Here the Big Data revolution has dramatically changed the perspective. We now move much more audaciously to extremely high dimensional data with new statistical tools. The concepts of the talk will be illustrated with examples from the Authors experience, that is from signal processing, medical and financial data.</p>"
+    }
+  ],
+  "formReplaced": false
+}

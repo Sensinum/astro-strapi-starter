@@ -1,0 +1,43 @@
+{
+  "wpId": 475,
+  "title": "Data Science with OpenShift",
+  "slug": "data-science-with-openshift",
+  "path": "/watch/data-science-with-openshift/",
+  "date": "2020-01-01 00:02:31",
+  "modified": "2021-03-31 15:17:06",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 85,
+        "slug": "openshift",
+        "name": "OpenShift"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=HVbw-V9zH2I",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      332
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>In this talk we will present how Data Scientists can leverage containers, Jupyterhub and the OpenShift platform to make their work faster, more reproducible, and easier to put into production. We will discuss the benefits of containers for the data scientists workflow, and demonstrate how to quickly connect to a hosted data source, develop a model, train it, test it, and serve it almost all from within a hosted jupyter notebook.</p>"
+    }
+  ],
+  "formReplaced": false
+}

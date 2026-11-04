@@ -1,0 +1,43 @@
+{
+  "wpId": 545,
+  "title": "Damien Bailly",
+  "slug": "damien-bailly",
+  "path": "/contributor/damien-bailly/",
+  "date": "2020-01-01 00:00:53",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Cake Solutions",
+    "speaker_avatar": {
+      "id": 546,
+      "url": "/uploads/2021/03/Damien_Bailly.png",
+      "alt": "Damien Bailly",
+      "width": 150,
+      "height": 150
+    },
+    "speaker_surname": "Bailly",
+    "speaker_twitter": "https://twitter.com/d4mienb",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/damienbailly/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>I am a senior software engineer who enjoys developing new products. I started as a consultant working with HP and Orange on telecommunication systems. I then joined a startup where I developed large-scale machine learning systems for telecom operators worldwide. Since I joined Cake Solutions I helped to build modern micro services and distributed systems.</p>"
+    }
+  ],
+  "formReplaced": false
+}

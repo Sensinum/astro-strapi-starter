@@ -1,0 +1,43 @@
+{
+  "wpId": 629,
+  "title": "No More Cumbersomeness: Automatic Predictive Modeling on Apache Spark",
+  "slug": "no-more-cumbersomeness-automatic-predictive-modeling-on-apache-spark",
+  "path": "/watch/no-more-cumbersomeness-automatic-predictive-modeling-on-apache-spark/",
+  "date": "2020-01-01 00:01:06",
+  "modified": "2023-03-20 14:20:32",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 86,
+        "slug": "spark",
+        "name": "Spark"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=Cp8aSRoMQFk",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      579
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Building accurate machine learning models has been an art of data scientists, i.e., algorithm selection, hyper parameter tuning, feature selection and so on. Recently, challenges to breakthrough this difficult art have got started. In cooperation with our partner, NEC Laboratories America, we have developed a Spark-based automatic predictive modeling system. The system automatically searches the best algorithm, parameters and features without any manual work. </p>\n\n\n\n<p>In this talk, we will share how the automation system is designed to exploit attractive advantages of Spark. The evaluation with real open data demonstrates that our system can explore hundreds of predictive models and discovers the most accurate ones in minutes on a Ultra High Density Server, which employs 272 CPU cores, 2TB memory and 17TB SSD in 3U chassis. We will also share open challenges to learn such a massive number of models on Spark, particularly from reliability and stability standpoints.</p>"
+    }
+  ],
+  "formReplaced": false
+}

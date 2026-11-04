@@ -1,0 +1,37 @@
+{
+  "wpId": 579,
+  "title": "Marcin Kulka",
+  "slug": "marcin-kulka",
+  "path": "/contributor/marcin-kulka/",
+  "date": "2020-01-01 00:00:32",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Senior Software Engineer in 9LivesData",
+    "speaker_avatar": false,
+    "speaker_surname": "Kulka",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/marcin-kulka-11a99b5/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Marcin Kulka is a Senior Software Engineer in 9LivesData. In cooperation with NEC Labs America machine learning researchers, he works on Spark-based fully automated predictive modelling system. He holds master’s degree in both Computer Science and Mathematics from Warsaw University. His biggest areas of interests are big data, machine learning, distributed systems and algorithms. Marcin has almost 10 years of professional experience in software engineering, most of which spent working on HYDRAstor – cutting edge, distributed and highly scalable backup system. Privately he is happy husband and father of two daughters.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,37 @@
+{
+  "wpId": 5151,
+  "title": "Matjaž Petrovič",
+  "slug": "matjaz-petrovic",
+  "path": "/contributor/matjaz-petrovic/",
+  "date": "2024-04-19 13:01:47",
+  "modified": "2024-04-19 13:01:47",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {},
+  "acf": {
+    "speaker_avatar": {
+      "id": 5152,
+      "url": "/uploads/2024/04/1544666800882.jpeg",
+      "alt": "1544666800882",
+      "width": 400,
+      "height": 400
+    },
+    "speaker_position": "VP of Sales at GenePlanet",
+    "speaker_add_info": "",
+    "speaker_surname": "Matjaž Petrovič",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/matjaž-petrovič-9488343b/",
+    "speaker_gh": "",
+    "desc_episodes": "Experienced Director of Sales & Marketing with a demonstrated history of working in the biotechnology industry. Skilled in International Sales, Business Development and Sales Management ."
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>VP of Sales at GenePlanet</p>"
+    }
+  ],
+  "formReplaced": false
+}

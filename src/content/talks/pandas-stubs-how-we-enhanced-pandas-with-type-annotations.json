@@ -1,0 +1,39 @@
+{
+  "wpId": 2378,
+  "title": "pandas-stubs — How we enhanced pandas with type annotations",
+  "slug": "pandas-stubs-how-we-enhanced-pandas-with-type-annotations",
+  "path": "/watch/pandas-stubs-how-we-enhanced-pandas-with-type-annotations/",
+  "date": "2021-12-27 14:36:42",
+  "modified": "2023-03-21 11:24:22",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/12/joanna-zbigniew_thumb-1024x576.png"
+  },
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=8ICJHwSa6tw",
+    "video_thumbnail": false,
+    "talk_date": "January 27, 2022",
+    "talks_speakers": [
+      2216,
+      2214
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>The \"type stubs\" mechanism allows you to perform static type analysis for non-annotated Python code. We will present the \"pandas_stubs\" library, which enriches the pandas code with the missing type information. We will describe its genesis and development process as well as the current state of the project. </p>\n\n\n\n<p>We will show examples where its use allows us to avoid hidden errors in the code. We will talk about the collection of the library, current use, and development plans.</p>"
+    }
+  ],
+  "formReplaced": false
+}

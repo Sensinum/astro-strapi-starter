@@ -1,0 +1,148 @@
+.block-faq-accordion {
+  font-family: "Montserrat", sans-serif;
+  color: #21212C;
+}
+.block-faq-accordion:not(.wrapped-content) {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+@media (max-width: 1439.98px) {
+  .block-faq-accordion:not(.wrapped-content) {
+    margin-top: 60px;
+    margin-bottom: 60px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-faq-accordion:not(.wrapped-content) {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+}
+.block-faq-accordion:not(.wrapped-content) h2 {
+  margin-bottom: 30px;
+}
+@media (max-width: 575.98px) {
+  .block-faq-accordion:not(.wrapped-content) h2 {
+    margin-bottom: 20px;
+  }
+}
+.block-faq-accordion.wrapped-content {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+@media (max-width: 1439.98px) {
+  .block-faq-accordion.wrapped-content {
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-faq-accordion.wrapped-content {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+}
+.block-faq-accordion.wrapped-content h2 {
+  text-align: center;
+  margin-bottom: 40px;
+}
+@media (max-width: 575.98px) {
+  .block-faq-accordion.wrapped-content h2 {
+    margin-bottom: 30px;
+  }
+}
+.block-faq-accordion .faq-row:not(:first-child) {
+  margin-top: 20px;
+}
+@media (max-width: 575.98px) {
+  .block-faq-accordion .faq-row:not(:first-child) {
+    margin-top: 10px;
+  }
+}
+.block-faq-accordion .faq-row.dropdown-button {
+  border: 1px solid #21212C;
+  border-radius: 12px;
+  font-size: 1.25rem;
+  line-height: 32px;
+  transition: 0.3s box-shadow ease-out, 0.3s border-color ease-out;
+}
+@media (max-width: 1439.98px) {
+  .block-faq-accordion .faq-row.dropdown-button {
+    font-size: 1.125rem;
+    line-height: 30px;
+  }
+}
+@media (max-width: 575.98px) {
+  .block-faq-accordion .faq-row.dropdown-button {
+    font-size: 1rem;
+    line-height: 24px;
+  }
+}
+.block-faq-accordion .faq-row.dropdown-button.show {
+  box-shadow: 0px 7px 15px -2px rgba(26, 29, 68, 0.03), 0px 5px 10px -2px rgba(6, 10, 65, 0.03);
+}
+.block-faq-accordion .faq-row.dropdown-button .dd-controller {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px;
+  cursor: pointer;
+}
+@media (max-width: 575.98px) {
+  .block-faq-accordion .faq-row.dropdown-button .dd-controller {
+    padding: 15px;
+  }
+}
+.block-faq-accordion .faq-row.dropdown-button .dd-controller strong {
+  font-weight: 600;
+}
+.block-faq-accordion .faq-row.dropdown-button .dd-controller .round-icon {
+  align-self: flex-start;
+  margin-left: 20px;
+  width: 36px;
+  min-width: 36px;
+  height: 36px;
+  border: 1px solid #21212C;
+  color: #21212C;
+  user-select: none;
+  pointer-events: none;
+}
+.block-faq-accordion .faq-row.dropdown-button .dd-controller .round-icon i, .block-faq-accordion .faq-row.dropdown-button .dd-controller .round-icon svg {
+  font-size: 14px;
+  transition: 0.2s transform ease-out;
+}
+@media (prefers-reduced-motion: reduce) {
+  .block-faq-accordion .faq-row.dropdown-button .dd-controller .round-icon i, .block-faq-accordion .faq-row.dropdown-button .dd-controller .round-icon svg {
+    transition: none;
+  }
+}
+.block-faq-accordion .faq-row.dropdown-button .dd-controller[aria-expanded=true] i, .block-faq-accordion .faq-row.dropdown-button .dd-controller[aria-expanded=true] svg {
+  transform: translate(-50%, -50%) rotate(180deg);
+}
+.block-faq-accordion .faq-row.dropdown-button .dd-controller[aria-expanded=true] .round-icon {
+  background-color: #21212C;
+  border-color: #21212C;
+  color: #fff;
+  opacity: 0.9;
+}
+.block-faq-accordion .faq-row.dropdown-button .dd-controller[aria-expanded=true]:hover .round-icon {
+  opacity: 1;
+}
+.block-faq-accordion .faq-row.dropdown-button .dd-controller:hover .round-icon {
+  background-color: #21212C;
+  border-color: #21212C;
+  color: #fff;
+}
+.block-faq-accordion .faq-row.dropdown-button .dd-content {
+  padding: 25px;
+  padding-top: 0;
+}
+@media (max-width: 575.98px) {
+  .block-faq-accordion .faq-row.dropdown-button .dd-content {
+    padding: 15px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+}
+
+/*# sourceMappingURL=block-faq-accordion.css.map */

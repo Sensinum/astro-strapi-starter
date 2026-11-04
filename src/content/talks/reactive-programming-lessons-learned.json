@@ -1,0 +1,36 @@
+{
+  "wpId": 604,
+  "title": "Reactive programming: lessons learned",
+  "slug": "reactive-programming-lessons-learned",
+  "path": "/watch/reactive-programming-lessons-learned/",
+  "date": "2020-01-01 00:01:18",
+  "modified": "2023-03-20 14:28:11",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 52,
+        "slug": "reactive-systems",
+        "name": "Reactive systems"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=g_JyHJ20Iog",
+    "video_thumbnail": false,
+    "talk_date": "April 16, 2018",
+    "talks_speakers": [
+      554
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Reactive programming enables amazing things. Highly scalable systems consuming just a fraction of CPU compared to ordinary applications? Sure. Responsive, low latency and high throughput? No problem. Small memory and OS footprint? Out-of-the-box. Any reason not to love reactive? I will share some of my experiences with reactive programming and systems. Where it shines and where it was an over-engineering. What are the hidden costs and common mistakes? How to convince your teammates to start the reactive journey. And more importantly: how to convince your teammates, that going reactive is a dead end. On a case-by-case basis.</p>"
+    }
+  ],
+  "formReplaced": false
+}

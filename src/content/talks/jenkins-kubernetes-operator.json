@@ -1,0 +1,43 @@
+{
+  "wpId": 486,
+  "title": "Jenkins Kubernetes Operator",
+  "slug": "jenkins-kubernetes-operator",
+  "path": "/watch/jenkins-kubernetes-operator/",
+  "date": "2020-01-01 00:02:21",
+  "modified": "2021-03-31 15:33:13",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 37,
+        "slug": "kubernetes",
+        "name": "Kubernetes"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 15,
+        "slug": "cloud",
+        "name": "Cloud"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=6W3WRQgbUq0",
+    "video_thumbnail": false,
+    "talk_date": "October 7, 2019",
+    "talks_speakers": [
+      364
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Running Jenkins on Kubernetes cluster is not a trivial task.<br>Kubernetes platform was released ten years after the first version of Hudson project.<br>It means Jenkins couldn’t be designed to run on top of it.<br>Jenkins Operator tries to bridge that gap. It is an open source project that we contributed to jenkinsci organization a while ago &nbsp;<a href=\"https://github.com/jenkinsci/kubernetes-operator\">https://github.com/jenkinsci/kubernetes-operator ‑&nbsp;&nbsp;</a><br>This presentation will explain how operator pattern helps to manage Jenkins in Kubernetes.</p>\n\n\n\n<p>We will take a look at the operator pattern and its use cases.<br>A closer look at the Jenkins Operator will show the operator pattern in practice.</p>\n\n\n\n<p>We will go through day-to-day operations automation that the operator provides<br>like deployment, configuration and repair of a Jenkins instance.</p>\n\n\n\n<p>After this presentation you will know how a non-cloud native application can be run in an immutable, scalable and secure way.</p>"
+    }
+  ],
+  "formReplaced": false
+}

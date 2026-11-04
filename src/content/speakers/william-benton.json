@@ -1,0 +1,43 @@
+{
+  "wpId": 572,
+  "title": "William Benton",
+  "slug": "william-benton",
+  "path": "/contributor/william-benton/",
+  "date": "2020-01-01 00:00:34",
+  "modified": "2021-03-30 17:00:27",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Data Science Lead at Red Hat",
+    "speaker_avatar": {
+      "id": 573,
+      "url": "/uploads/2021/03/William_Benton.jpeg",
+      "alt": "William Benton",
+      "width": 240,
+      "height": 240
+    },
+    "speaker_surname": "Benton",
+    "speaker_twitter": "https://twitter.com/willb",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/willbenton/",
+    "speaker_gh": "https://github.com/willb"
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>William Benton leads a team of data scientists and engineers at Red Hat, where he has applied analytic techniques to problems ranging from forecasting cloud infrastructure costs to designing better cycling workouts. His current focus is investigating the best ways to build and deploy intelligent applications in cloud-native environments, but he has also conducted research and development in the areas of static program analysis, managed language runtimes, logic databases, cluster configuration management, and music technology.</p>"
+    }
+  ],
+  "formReplaced": false
+}

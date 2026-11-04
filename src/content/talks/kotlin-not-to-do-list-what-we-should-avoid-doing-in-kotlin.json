@@ -1,0 +1,36 @@
+{
+  "wpId": 490,
+  "title": "Kotlin Not-to-Do List - What we should avoid doing in Kotlin",
+  "slug": "kotlin-not-to-do-list-what-we-should-avoid-doing-in-kotlin",
+  "path": "/watch/kotlin-not-to-do-list-what-we-should-avoid-doing-in-kotlin/",
+  "date": "2020-01-01 00:02:17",
+  "modified": "2023-03-21 09:43:37",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 5,
+        "slug": "kotlin-ecosystem",
+        "name": "Kotlin ecosystem"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=nWonGko-39o",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      107
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Kotlin gives us a lot of possibilities, but with every power comes responsibility. What should we avoid doing in Kotlin? What are Kotlin internal contracts in terms of different features and functions? What is dangerous and should be avoided? How to code responsively?</p>"
+    }
+  ],
+  "formReplaced": false
+}

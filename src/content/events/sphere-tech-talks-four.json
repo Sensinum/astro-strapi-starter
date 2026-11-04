@@ -1,0 +1,183 @@
+{
+  "wpId": 1969,
+  "title": "Vue.js & Information Architecture",
+  "slug": "sphere-tech-talks-four",
+  "path": "/event/sphere-tech-talks-four/",
+  "date": "2021-10-12 08:26:17",
+  "modified": "2022-07-06 13:23:35",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {
+    "ogImage": "/uploads/2021/10/front_share_fix.png"
+  },
+  "terms": {
+    "event_series_taxonomy": [
+      {
+        "id": 138,
+        "slug": "sphere-it-tech-talks",
+        "name": "Sphere.it Tech Talks"
+      }
+    ]
+  },
+  "acf": {
+    "event_date": "28.10.2021",
+    "type_of_event": "Start 6:00 PM CET",
+    "event_entry": "",
+    "event_artwork": {
+      "id": 1947,
+      "url": "/uploads/2021/10/front_vue2-min.png",
+      "alt": "Vue.js & Information Architecture",
+      "width": 1080,
+      "height": 1080
+    },
+    "event_register": {
+      "title": "Register now",
+      "url": "https://www.airmeet.com/e/bf6e2eb0-2a67-11ec-8a3f-1f59c00dafbc",
+      "target": "_blank"
+    },
+    "event_background_color": "#fcad3f",
+    "event_font_color": true,
+    "event_font_color_value": "#323232",
+    "reduce_font_size": "1",
+    "event_scroll_button": "about",
+    "event_series_label": "Sphere.it Tech Talks #4",
+    "event_agenda": [
+      {
+        "item_type": "talk",
+        "item_time": "6:00 PM",
+        "talk_id": 2127,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "#fdc26f",
+        "font_color": "#000000",
+        "accent_font_color": "#75352d"
+      },
+      {
+        "item_type": "talk",
+        "item_time": "6:30 PM",
+        "talk_id": 2129,
+        "custom_title": "",
+        "item_content": "",
+        "background_color": "#fdce8c",
+        "font_color": "#323232",
+        "accent_font_color": "#75352d"
+      }
+    ],
+    "header_background_image": false,
+    "buttons_background_color": "",
+    "buttons_font_color": "",
+    "alt_dynamic_menu": false,
+    "event_alt_title": "",
+    "event_date_hidden": false,
+    "event_artwork_listing": false,
+    "header_cta_2": ""
+  },
+  "blocks": [
+    {
+      "kind": "acf",
+      "name": "acf/block-about-text",
+      "anchor": "about",
+      "data": {
+        "block_title": null,
+        "block_description": "&nbsp;\r\n<h3 style=\"text-align: center; line-height: 125%;\"><img class=\"aligncenter\" style=\"height: 50%; width: 50%; margin: 0 auto; text-align: center;\" src=\"/uploads/2021/10/tt4.png\" alt=\"sphereit tech talks\" /></h3>\r\n&nbsp;\r\n\r\n<span style=\"font-size: 110%;\"><span style=\"font-weight: 400;\">Spend another evening with Sphere.it community, this time listening to two tech talks circling around #frontend and #UX topics. One showcasing the world of <b>Information Architecture, </b>and the other - Theming in <b>Vue.js</b> </span></span>",
+        "block_background_color": null,
+        "block_font_color": "#323232",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "data": {
+        "block_description": "<h3 style=\"margin-bottom: 10px;\">The event will take place on the 28th of October, 2021, starting at 6:00 PM.</h3>\r\n<p class=\"heading-4\">Don’t miss your chance and save a spot!</p>",
+        "block_button": {
+          "title": "Register for free",
+          "url": "https://www.airmeet.com/e/bf6e2eb0-2a67-11ec-8a3f-1f59c00dafbc",
+          "target": "_blank"
+        },
+        "cta_background_color": null,
+        "cta_font_color": "#000000",
+        "cta_border_radius": 6,
+        "block_background_image": {
+          "id": 1986,
+          "url": "/uploads/2021/10/PLAN-2.png",
+          "alt": "Vue.js &#038; Information Architecture &#8211; event plan",
+          "width": 2400,
+          "height": 1600
+        },
+        "switch_text_side": true,
+        "block_background_color": "#fcad3f",
+        "block_font_color": "#323232",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-event-agenda",
+      "data": {
+        "block_title": null,
+        "block_background_color": null,
+        "block_font_color": null,
+        "block_accent_font_color": null,
+        "smaller_paddings": false,
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-half-bg-image",
+      "data": {
+        "block_description": "<h4 style=\"color: #ffffff; margin-bottom: 15px;\">7:00 pm</h4>\r\n<h3 style=\"margin-bottom: 15px;\">Q&amp;A</h3>\r\n<h4 style=\"color: #ffffff; margin-bottom: 15px;\">7:30 pm</h4>\r\n<h3 style=\"margin-bottom: 15px;\">Networking on Airmeet</h3>",
+        "block_button": null,
+        "cta_background_color": null,
+        "cta_font_color": null,
+        "cta_border_radius": null,
+        "block_background_image": {
+          "id": 1985,
+          "url": "/uploads/2021/10/more.png",
+          "alt": "Vue.js &#038; Information Architecture &#8211; and more",
+          "width": 2400,
+          "height": 1600
+        },
+        "switch_text_side": false,
+        "block_background_color": "#fcad3f",
+        "block_font_color": "#323232",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-speaker-groups-listing",
+      "data": {
+        "block_title": "Speakers",
+        "automatic_selection": true,
+        "speaker_groups": [],
+        "block_background_color": "#ffffff",
+        "block_font_color": "#323232",
+        "menu_label": null
+      }
+    },
+    {
+      "kind": "acf",
+      "name": "acf/block-full-bg-image",
+      "data": {
+        "block_title": null,
+        "block_description": "<h2 style=\"margin-bottom: 20px;\">Join us at Sphere.it Tech Talks</h2>\r\n<h3 class=\"heading-4\" style=\"margin-bottom: 30px;\">28.10.2021 | START 6:00 PM CEST | VIRTUAL EVENT</h3>",
+        "block_button": {
+          "title": "Register for free",
+          "url": "https://www.airmeet.com/e/bf6e2eb0-2a67-11ec-8a3f-1f59c00dafbc",
+          "target": "_blank"
+        },
+        "cta_background_color": "#ffffff",
+        "cta_font_color": "#323232",
+        "cta_border_radius": 32,
+        "block_background_image": null,
+        "block_background_color": "#fcad3f",
+        "block_font_color": "#323232",
+        "menu_label": null
+      }
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,48 @@
+{
+  "wpId": 460,
+  "title": "Machine Learning in Visual Search",
+  "slug": "machine-learning-in-visual-search",
+  "path": "/watch/machine-learning-in-visual-search/",
+  "date": "2020-01-01 00:02:45",
+  "modified": "2021-03-31 15:09:19",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_tags": [
+      {
+        "id": 77,
+        "slug": "deep-learning",
+        "name": "Deep Learning"
+      },
+      {
+        "id": 44,
+        "slug": "machine-learning",
+        "name": "Machine Learning"
+      }
+    ],
+    "talks_cat": [
+      {
+        "id": 13,
+        "slug": "data",
+        "name": "Data"
+      }
+    ]
+  },
+  "acf": {
+    "talk_video": "https://www.youtube.com/watch?v=f-PPJ2D4dXg&t=14s",
+    "video_thumbnail": false,
+    "talk_date": "October 8, 2019",
+    "talks_speakers": [
+      277
+    ]
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Unlike computers, humans process images easier and faster, than text. As users, we become less patient and expect technology to read our minds, and serve the right content. As developers, we have more and more opportunities to work with Machine Learning and Deep Learning. E-commerce companies recognised these trends quickly, introducing image recognition tools, because it brings higher conversion rate. Let’s take a deeper look at visual search: how and where it works, who is using it and how you can do it yourself.</p>"
+    }
+  ],
+  "formReplaced": false
+}

@@ -1,0 +1,43 @@
+{
+  "wpId": 1916,
+  "title": "Tomasz Piechaczek",
+  "slug": "tomasz-piechaczek",
+  "path": "/contributor/tomasz-piechaczek/",
+  "date": "2021-10-01 16:31:01",
+  "modified": "2021-10-06 10:47:16",
+  "template": null,
+  "excerpt": "",
+  "featuredImage": null,
+  "seo": {},
+  "terms": {
+    "talks_cat": [
+      {
+        "id": 14,
+        "slug": "frontend-js",
+        "name": "Frontend/JS"
+      }
+    ]
+  },
+  "acf": {
+    "speaker_position": "Software Engineer at VirtusLab",
+    "speaker_avatar": {
+      "id": 1925,
+      "url": "/uploads/2021/10/tomasz-piechaczek_01-1.jpg",
+      "alt": "Tomasz Piechaczek",
+      "width": 1726,
+      "height": 1825
+    },
+    "speaker_surname": "Piechaczek",
+    "speaker_twitter": "",
+    "speaker_fb": "",
+    "speaker_linkedin": "https://www.linkedin.com/in/tomasz-piechaczek-4a026648/",
+    "speaker_gh": ""
+  },
+  "blocks": [
+    {
+      "kind": "html",
+      "html": "<p>Experienced Software Engineer with a demonstrated history of working with front-end technologies. In his free time enjoys contributing to community projects and playing retro video games.</p>"
+    }
+  ],
+  "formReplaced": false
+}
